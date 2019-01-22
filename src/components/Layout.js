@@ -41,12 +41,14 @@ class Layout extends React.Component {
 
 
     return (
-      <div className="layout-container">
+      <div className="body-container">
         {header}
-        {children}
-        <footer>
-          © {new Date().getFullYear()} fullstackkitchen.com
-        </footer>
+        <div className="layout-container">
+          {children}
+          <footer>
+            © {new Date().getFullYear()} fullstackkitchen.com
+          </footer>
+        </div>
       </div>
     )
   }

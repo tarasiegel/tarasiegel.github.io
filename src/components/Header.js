@@ -21,22 +21,24 @@ class Header extends React.Component {
 
   render() {
     return (
-      <div className={`header-image`} style={{
-            display: `flex`,
-            marginBottom: rhythm(2.5),
-          }}>
-          <ReactVivus id="header-logo" 
-            option={{
-              file: titleLogo,
-              animTimingFunction: 'EASE',
-              type: 'delayed',
-              delay: 200,
-              duration: 500,
-              onReady: console.log
-            }}
-            style={{ height: 'auto', width: '600px' }}
-            callback={console.log}
-            />
+      <div className="header">
+        <div className={`header-image`} style={{
+              display: `flex`,
+              marginBottom: rhythm(2.5),
+            }}>
+            <ReactVivus id="header-logo" 
+              option={{
+                file: titleLogo,
+                animTimingFunction: 'EASE',
+                type: 'delayed',
+                delay: 200,
+                duration: 500,
+                onReady: console.log
+              }}
+              style={{ height: 'auto', width: '600px' }}
+              callback={console.log}
+              />
+        </div>
       </div>
     );
   }

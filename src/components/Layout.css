@@ -1,8 +1,7 @@
 .layout-container {
     margin: 0 auto;
-    width: 70%;
+    width: 75%;
     max-width: 1280px;
-    padding: 5% 0;
 }
 
 .blog-html ul {
@@ -14,13 +13,36 @@
     margin-bottom: 2px;
 }
 
-
+.blog-html h1,
+.blog-html h2,
+.blog-html h3,
+.blog-html h4,
 .blog-html h5 {
     text-transform: uppercase;
 }
 
-
-.blog-html h4 {
-    text-transform: uppercase;
+.blog-html h5 {
+    text-decoration: underline;
 }
 
+.blog-html img {
+    padding: 10px;
+}
+
+.image-halfsize-container {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.image-halfsize {
+    flex: 2;
+}
+
+.header {
+    background-color: #a09097;
+    width: 100%;
+}
+
+#header-logo {
+    padding: 5%;
+}

@@ -7,9 +7,15 @@ doelger.baseLineHeight = '24px';
 
 doelger.overrideThemeStyles = () => {
   return {
-    'a.gatsby-resp-image-link': {
+    'a': {
       boxShadow: `none`,
+      color: '#a09097',
+      backgroundImage: 'none'
     },
+    'a:hover' : {
+      backgroundColor: '#a09097',
+      color: '#d0d1e2'
+    }
   }
 }
 

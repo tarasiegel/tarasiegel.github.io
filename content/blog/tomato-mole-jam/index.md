@@ -1,11 +1,11 @@
 ---
 title: Mexican Ricotta Cheesecake with Tomato Mole Jam
-description : This post is related to the gatsbyjs
+description: Mexican Ricotta Cheesecake with Tomato Mole Jam
 date: '2019-01-24'
 image: ./mole_cheesecake-13.jpg
 ------
 
-![Top View](./mole_cheesecake-12.jpg)
+![Social View](./mole_cheesecake-13.jpg)
 
 ![Slice View](./mole_cheesecake-34.jpg)
 
@@ -13,9 +13,15 @@ The first month of the New Year has already flown by and it’s bitter cold here
 
 When i was approached by Muir Glen and The Feedfeed to develop a recipe for them using their organic canned tomatoes, I wanted to think outside the box. Wanting to stay true to my *mostly* dessert feed, a tomato jam immediately came to mind. Tomato jams are usually made with onions, cumin and other savory spices. They show up on cheese plates, as condiments for sandwiches, on top of eggs and in vinaigrettes.  I wanted to make a more complex, sweeter jam that could do double duty as a perfect addition to a cheese plate but not feel weird on top of a dessert. Mole is a traditional sauce used in Mexican cuisines. According to Wikipedia - the source of all knowledge - a mole sauce contains a fruit, chili pepper, nut, and such spices as black pepper, cinnamon, cumin, and chocolate.  I could work with that. As you can see in the final recipe below, my mole jam has a lot of that - cinnamon, dried fruit, almonds and cocoa. The results? A sweet, (but not too sweet!) dynamic, interesting jam with a slightly spicy aftertaste.  It tastes like a tomato jam, but it also doesn’t really taste a whole lot like what you would think tomatoes taste like.  But what do I put it on? 
 
-![Cake Stand View](./mole_cheesecake-27.jpg)
+<div class="image-halfsize-container">
+    <div class="image-halfsize">
+        <img src="./mole_cheesecake-27.jpg" />
+    </div>
+    <div class="image-halfsize">
+        <img src="./mole_cheesecake-16.jpg" />
+    </div>
+</div>
 
-![Close up View](./mole_cheesecake-16.jpg)
 
 Enter the ricotta cheesecake. Using ricotta in place of some of the cream cheese makes the cake a lot lighter (in a calorie and fluffier way). This creates a good balance with the graham cracker crust and thick dense mole jam.  By using the tried and true water bath method (outlined in the instructions), my cheesecake came out perfect with no cracks, no overcooked edges and a flat top!  I also left it in the oven after I turned off the heat for a few hours, which I’ve read helps prevent cracking.
 
@@ -25,12 +31,12 @@ This cake is perfect when you want to try making something different.  The jam i
 
 ![Top View with can](./mole_cheesecake-18.jpg)
 
-## Mexican Ricotta Cheesecake with Tomato Mole Jam
+### Mexican Ricotta Cheesecake with Tomato Mole Jam
 
-### Tomato Mole Jam
-#### _Makes 1 4oz jar_
+#### Tomato Mole Jam
+_Makes 1 4oz jar_
 
-#### **Ingredients**
+##### __**Ingredients**__
 - 1 14.5oz can [Muir Glen Petite Diced Tomatoes](https://www.muirglen.com/products/petite-diced-tomatoes/)
 - 1 cup sugar _(7 oz / 200g)_
 - 2 dates, finely chopped
@@ -45,31 +51,30 @@ This cake is perfect when you want to try making something different.  The jam i
 - ¼ tsp nutmeg
 - ¼ tsp cloves
 
-#### **Directions**
+##### __**Directions**__
 Drain the tomatoes in a mesh strainer to remove any extra juice. Place tomatoes and rest of the ingredients in a medium-sized saucepan.
 
 Heat on low and stir frequently until the sugar has dissolved.  Increase the heat to medium and bring the jam to a boil, stirring frequently with a wooden spoon.  Let it cook at a medium boil for 15-20 minutes, stirring every minute or so to prevent the sides and bottom from burning.  At 15 minutes, test the jam.  It should have a thick gelatinous consistency.  
 
 Once the jam is done, remove cinnamon sticks and whole star anise.  The jam will be kind of chunky with the dried fruit and nuts.  If you prefer a smoother jam, use an immersion blender stick to puree it a bit.  You can also put it in a food processor or blender.  Afterwards, quickly pour jam into a glass ball jar and seal it.  Let it completely cool at room temperature.  It should last up to 4 months refrigerated. 
 
-If you are making this jam on its on and wish to preserve it unrefrigerated, follow steps here for prepping the jar.
-
+If you are making this jam on its on and wish to preserve it unrefrigerated, follow steps [here](https://www.nytimes.com/2012/09/19/dining/canning-jam-from-preparing-the-jars-to-testing-the-seal.html) for prepping the jar.
 
 
 ______________________________________________
 
-### Ricotta Cheesecake
-#### _Makes 1 8-inch cake, about 10-12 servings_
+#### Ricotta Cheesecake
+_Makes 1 8-inch cake, about 10-12 servings_
 
-#### **Ingredients**
-##### Crust
+##### __**Ingredients**__
+###### Crust
 - 1 cup Graham Cracker crumbs _(100g, or from ~7 crackers)_
 - 3 Tbsp butter, melted
 - 1 Tbsp cinnamon
 - ⅛ tsp cayenne
 - ¼ tsp ginger
 
-##### Cake
+###### Cake
 - 32 oz ricotta, drained _-- then will be more like 27 oz_
 - 8 oz cream cheese
 - 1 cup sugar
@@ -85,7 +90,7 @@ ______________________________________________
 - Tomato Mole Jam, _recipe above_
 - Slivered Almonds _for garnish, optional_
 
-#### **Directions**
+##### __**Directions**__
 Preheat the oven to 350˚F / 180˚C. Butter a 8-inch springform pan.
 
 Place the ricotta cheese in either a cheesecloth on top of a mesh strainer or in a fine mesh strainer, and put the strainer over a bowl.  Let it sit for at least 30 minutes, or up to 2 hours to drain the cheese, since it’s usually pretty watery.
@@ -102,9 +107,7 @@ Place the pan on a roasting pan and put in the oven.  Boil some water.  Once in 
 
 Bake for approximately 1.25-1.5 hours. It is done when you can shake the pan and the sides of the cake are set but the center is slightly wiggly, about the size of an inch in diameter. . That’s fine.  Turn off the oven and leave it in the oven for 3 hours with the door closed the entire time.  Take it out and leave it on the counter for another 1-2 hours. Refrigerate (tightly wrapped in plastic wrap) until ready to use, preferably overnight.
 
-#### **Assembly**
+##### __**Assembly**__
 When ready to serve, spread the Tomato Mole Jam on top of the cake.  I like to do this while it is still in the springform pan to get nice sharp edges around the side.  Decorate with slivered almonds if desired.  Run a butter knife around the edges of the cake and release it from the pan. Cake can be kept in the refrigerator for up to 5 days. 
 
 ![Slice with bite View](./mole_cheesecake-36.jpg)
-
-![Social View](./mole_cheesecake-13.jpg)

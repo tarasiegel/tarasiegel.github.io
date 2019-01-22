@@ -10,7 +10,8 @@ doelger.overrideThemeStyles = () => {
     'a': {
       boxShadow: `none`,
       color: '#a09097',
-      backgroundImage: 'none'
+      backgroundImage: 'none',
+      textShadow: 'none'
     },
     'a:hover' : {
       backgroundColor: '#a09097',

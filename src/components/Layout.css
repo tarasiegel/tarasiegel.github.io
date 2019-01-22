@@ -39,10 +39,34 @@
 }
 
 .header {
-    background-color: #a09097;
-    width: 100%;
+    border-bottom: 2px solid #a09097;
+    margin-bottom: 50px;
 }
 
 #header-logo {
-    padding: 5%;
+    padding: 3% 5%;
+    display: inline-block;
+}
+
+.header__link-container {
+    display: inline-block;
+    float: right;
+    height: auto;
+    min-height: 12vh;
+    position: relative;
+    padding-right: 30px;
+    cursor: pointer;
+}
+
+.header__link {
+    padding: 10px;
+    height: 100%;
+    display: inline-block;
+    line-height: 100px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+.header__link a {
+    cursor: pointer;
 }

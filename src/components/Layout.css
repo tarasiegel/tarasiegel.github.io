@@ -4,3 +4,23 @@
     max-width: 1280px;
     padding: 5% 0;
 }
+
+.blog-html ul {
+    margin-left: 0;
+}
+
+.blog-html li {
+    list-style-type: none;
+    margin-bottom: 2px;
+}
+
+
+.blog-html h5 {
+    text-transform: uppercase;
+}
+
+
+.blog-html h4 {
+    text-transform: uppercase;
+}
+

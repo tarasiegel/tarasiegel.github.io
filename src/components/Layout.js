@@ -3,22 +3,16 @@ import { Link } from 'gatsby';
 
 import { rhythm, scale } from '../utils/typography';
 import './Layout.css';
+import Header from './Header';
 
 class Layout extends React.Component {
   render() {
-    const { location, title, children } = this.props
-    const rootPath = `${__PATH_PREFIX__}/`
-    let header
+    const { location, title, children } = this.props;
+    const rootPath = `${__PATH_PREFIX__}/`;
+    let header = '';
 
     if (location.pathname === rootPath) {
       header = (
-        <h1
-          style={{
-            ...scale(1.5),
-            marginBottom: rhythm(1.5),
-            marginTop: 0,
-          }}
-        >
           <Link
             style={{
               boxShadow: `none`,
@@ -27,19 +21,12 @@ class Layout extends React.Component {
             }}
             to={`/`}
           >
-            {title}
+            <Header />
           </Link>
-        </h1>
       )
     } else {
       header = (
-        <h3
-          style={{
-            fontFamily: `Montserrat, sans-serif`,
-            marginTop: 0,
-          }}
-        >
-          <Link
+        <Link
             style={{
               boxShadow: `none`,
               textDecoration: `none`,
@@ -47,11 +34,12 @@ class Layout extends React.Component {
             }}
             to={`/`}
           >
-            {title}
-          </Link>
-        </h3>
+             <Header />
+        </Link>
       )
     }
+
+
     return (
       <div className="layout-container">
         {header}
@@ -64,4 +52,4 @@ class Layout extends React.Component {
   }
 }
 
-export default Layout
+export default Layout;

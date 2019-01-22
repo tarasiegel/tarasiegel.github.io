@@ -9,13 +9,13 @@ image: ./mole_cheesecake-13.jpg
 
 ![Slice View](./mole_cheesecake-34.jpg)
 
-![Cake Stand View](./mole_cheesecake-27.jpg)
-
-![Close up View](./mole_cheesecake-16.jpg)
-
 The first month of the New Year has already flown by and it’s bitter cold here in Brooklyn.  Even though winter is always fun (ie. skiing), I get that yearning to be on a beach in Mexico or basking in the Mediterranean sun whenever I am trudging to work through the snowy dirty streets of New York.  Making and eating this Mexican Ricotta Cheesecake with a Tomato Mole Jam is possibly the next best thing to hopping on a flight to warmer weather.  It has loads of spicy, complex flavors that will keep you warm and preoccupied until the sun comes out in a few months. 
 
 When i was approached by Muir Glen and The Feedfeed to develop a recipe for them using their organic canned tomatoes, I wanted to think outside the box. Wanting to stay true to my *mostly* dessert feed, a tomato jam immediately came to mind. Tomato jams are usually made with onions, cumin and other savory spices. They show up on cheese plates, as condiments for sandwiches, on top of eggs and in vinaigrettes.  I wanted to make a more complex, sweeter jam that could do double duty as a perfect addition to a cheese plate but not feel weird on top of a dessert. Mole is a traditional sauce used in Mexican cuisines. According to Wikipedia - the source of all knowledge - a mole sauce contains a fruit, chili pepper, nut, and such spices as black pepper, cinnamon, cumin, and chocolate.  I could work with that. As you can see in the final recipe below, my mole jam has a lot of that - cinnamon, dried fruit, almonds and cocoa. The results? A sweet, (but not too sweet!) dynamic, interesting jam with a slightly spicy aftertaste.  It tastes like a tomato jam, but it also doesn’t really taste a whole lot like what you would think tomatoes taste like.  But what do I put it on? 
+
+![Cake Stand View](./mole_cheesecake-27.jpg)
+
+![Close up View](./mole_cheesecake-16.jpg)
 
 Enter the ricotta cheesecake. Using ricotta in place of some of the cream cheese makes the cake a lot lighter (in a calorie and fluffier way). This creates a good balance with the graham cracker crust and thick dense mole jam.  By using the tried and true water bath method (outlined in the instructions), my cheesecake came out perfect with no cracks, no overcooked edges and a flat top!  I also left it in the oven after I turned off the heat for a few hours, which I’ve read helps prevent cracking.
 
@@ -24,7 +24,6 @@ I ventured to my local co-op to buy the tomatoes, spices and other ingredients f
 This cake is perfect when you want to try making something different.  The jam itself is a showstopper and I can imagine it works very well with all sorts of cheese, on top of your morning bagel and cream cheese, inside a pastry or mixed into yogurt.   The jam makes a little more than you actually need to cover the cake, so let me know if you make this recipe and what you did with the extra!
 
 ![Top View with can](./mole_cheesecake-18.jpg)
-![Slice with bite View](./mole_cheesecake-36.jpg)
 
 ## Mexican Ricotta Cheesecake with Tomato Mole Jam
 
@@ -32,16 +31,16 @@ This cake is perfect when you want to try making something different.  The jam i
 #### _Makes 1 4oz jar_
 
 #### **Ingredients**
-- 1 can Muir Glen Petite Diced Tomatoes
-- 1 cup sugar (7 oz / 200g)
+- 1 14.5oz can [Muir Glen Petite Diced Tomatoes](https://www.muirglen.com/products/petite-diced-tomatoes/)
+- 1 cup sugar _(7 oz / 200g)_
 - 2 dates, finely chopped
 - ¼ cup raisins, finely chopped
 - 2 Tbsp almonds, finely chopped
 - 1-2 cinnamon sticks
-- 1 whole or ¼ tsp ground star anise (optional)
+- 1 whole or ¼ tsp ground star anise _(optional)_
 - Juice and zest from 1 lime
 - 1 Tbsp cocoa powder
-- ¼ -½ tsp chili powder (depending on how spicy you want it)
+- ¼ - ½ tsp chili powder _(depending on how spicy you want it)_
 - ⅛ tsp cayenne pepper
 - ¼ tsp nutmeg
 - ¼ tsp cloves
@@ -64,27 +63,27 @@ ______________________________________________
 
 #### **Ingredients**
 ##### Crust
-- 1 cup Graham Cracker crumbs (100g, or from ~7 crackers)
+- 1 cup Graham Cracker crumbs _(100g, or from ~7 crackers)_
 - 3 Tbsp butter, melted
 - 1 Tbsp cinnamon
 - ⅛ tsp cayenne
 - ¼ tsp ginger
 
 ##### Cake
-- 32 oz ricotta, drained -- then will be more like 27 oz
+- 32 oz ricotta, drained _-- then will be more like 27 oz_
 - 8 oz cream cheese
 - 1 cup sugar
 - 4 eggs
 - 2 Tbsp all-purpose flour
 - 2 Tbsp cornstarch
-- 1 Tbsp lime juice (juice from 1 lime)
+- 1 Tbsp lime juice _(juice from 1 lime)_
 - Zest of 1 lime
 - 1 tsp vanilla extract
-- ½ tsp almond extract (optional)
+- ½ tsp almond extract _(optional)_
 - ¼ tsp salt
 
-- Tomato Mole Jam, recipe above
-- Slivered Almonds for garnish, optional
+- Tomato Mole Jam, _recipe above_
+- Slivered Almonds _for garnish, optional_
 
 #### **Directions**
 Preheat the oven to 350˚F / 180˚C. Butter a 8-inch springform pan.
@@ -105,5 +104,7 @@ Bake for approximately 1.25-1.5 hours. It is done when you can shake the pan and
 
 #### **Assembly**
 When ready to serve, spread the Tomato Mole Jam on top of the cake.  I like to do this while it is still in the springform pan to get nice sharp edges around the side.  Decorate with slivered almonds if desired.  Run a butter knife around the edges of the cake and release it from the pan. Cake can be kept in the refrigerator for up to 5 days. 
+
+![Slice with bite View](./mole_cheesecake-36.jpg)
 
 ![Social View](./mole_cheesecake-13.jpg)

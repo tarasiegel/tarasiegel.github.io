@@ -18,7 +18,6 @@ class BlogIndex extends React.Component {
           title="All posts"
           keywords={[`baking`]}
         />
-        <Bio />
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (

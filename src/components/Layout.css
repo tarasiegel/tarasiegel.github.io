@@ -39,34 +39,51 @@
 }
 
 .header {
-    border-bottom: 2px solid #a09097;
+    display: inline-flex;
+    border-bottom: 2px solid rgb(160, 144, 151, 0.4);
     margin-bottom: 50px;
+    width: 100%;
+    height: 70px;
 }
 
 #header-logo {
     padding: 3% 5%;
+}
+
+.header-logo-container {
+    margin: 0 auto;
     display: inline-block;
 }
 
 .header__link-container {
+    position: absolute;
     display: inline-block;
-    float: right;
-    height: auto;
-    min-height: 12vh;
-    position: relative;
-    padding-right: 30px;
+    right: 30px;
+    height: inherit;
     cursor: pointer;
 }
 
 .header__link {
-    padding: 10px;
-    height: 100%;
+    padding: 0 10px;
     display: inline-block;
-    line-height: 100px;
-    text-transform: uppercase;
-    font-weight: 900;
+    font-weight: 300;
+    font-size: 25px;
+    color: #d0d1e2;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000;
+    cursor: pointer;
+    line-height: 70px;
+}
+
+.header__link svg {
+    vertical-align: sub;
 }
 
 .header__link a {
     cursor: pointer;
+}
+
+.body-text {
+    max-width: 760px;
+    margin: 0 auto;
 }

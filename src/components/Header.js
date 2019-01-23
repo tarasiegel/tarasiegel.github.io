@@ -6,6 +6,8 @@ import ReactVivus from 'react-vivus';
 import { rhythm } from '../utils/typography';
 import Vivus from 'vivus';
 import { Link } from 'gatsby';
+import { Icon } from 'react-icons-kit';
+import {instagram} from 'react-icons-kit/fa/instagram';
 
 class Header extends React.Component {
 
@@ -23,21 +25,32 @@ class Header extends React.Component {
   render() {
     return (
       <div className="header">
-        <ReactVivus id="header-logo" 
-          option={{
-            file: titleLogo,
-            animTimingFunction: 'EASE',
-            type: 'delayed',
-            delay: 200,
-            duration: 500,
-            onReady: console.log
+        <Link
+          style={{
+            boxShadow: `none`,
+            textDecoration: `none`,
+            color: `inherit`,
           }}
-          style={{ height: 'auto', width: '600px' }}
-          callback={console.log}
-        />
+          className="header-logo-container"
+          to={`/`}
+        >
+            <ReactVivus id="header-logo" 
+                option={{
+                file: titleLogo,
+                animTimingFunction: 'EASE',
+                type: 'delayed',
+                delay: 200,
+                duration: 500,
+                onReady: console.log
+                }}
+                style={{ height: 'auto', width: '450px' }}
+                callback={console.log}
+            />
+        </Link>
         <div className="header__link-container">
           <div className="header__link"><Link to={'/about'}>about</Link></div>
-          <div className="header__link"><Link to={'https://www.instagram.com/taras.kitchen'}>instagram</Link></div>
+          <div className="header__link"><Link to={'/recipes'}>recipes</Link></div>
+          <div className="header__link"><a href="https://www.instagram.com/taras.kitchen" target="_blank"><Icon size={30} icon={instagram}/></a></div>
 
         </div>
       </div>

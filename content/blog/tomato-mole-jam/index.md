@@ -3,6 +3,7 @@ title: Mexican Ricotta Cheesecake with Tomato Mole Jam
 description: Mexican Ricotta Cheesecake with Tomato Mole Jam
 date: '2019-01-24'
 image: ./mole_cheesecake-13.jpg
+tags: [cheesecake, cake]
 ------
 
 ![Social View](./mole_cheesecake-13.jpg)

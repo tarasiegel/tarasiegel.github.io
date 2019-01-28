@@ -64,7 +64,7 @@
 }
 
 .header__link {
-    padding: 0 10px;
+    padding: 0 5px;
     display: inline-block;
     font-weight: 300;
     font-size: 25px;
@@ -81,9 +81,46 @@
 
 .header__link a {
     cursor: pointer;
+    padding: 0 5px;
 }
 
 .body-text {
     max-width: 760px;
     margin: 0 auto;
+}
+
+
+.home-item__container {
+    width: 100%;
+    display: inline-flex;
+    margin-top: 50px;
+    position: relative;
+}
+
+.home-item {
+    flex: 3;
+    padding: 10px;
+}
+
+.home-item__image {
+    max-height: 500px;
+    height: 30vw;
+    overflow: hidden;
+}
+
+.home-item__title {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-align: center;
+    font-size: 22px;
+    line-height: 30px;
+}
+
+.home-item__date {
+    text-transform: uppercase;
+    margin-top: 10px;
+    color: #969696;
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-align: center;
 }

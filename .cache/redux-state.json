@@ -1,22 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "jsonName": "dev-404-page-5f9",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "componentPath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "dd95de2822b3ad6a9e896152e038a024",
-        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -1939,7 +1930,7 @@
       "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "270a2f88f0d6436eca3f64acdb522091",
+      "version": "3f8ca090a74c82fe076c81c8143299ae",
       "pluginOptions": {
         "plugins": []
       },
@@ -1963,7 +1954,7 @@
         "dependencies": [
           {
             "name": "gatsby",
-            "version": "^2.0.100"
+            "version": "^2.0.91"
           },
           {
             "name": "gatsby-image",
@@ -2100,6 +2091,10 @@
             "version": "^7.12.4"
           },
           {
+            "name": "gh-pages",
+            "version": "^2.0.1"
+          },
+          {
             "name": "prettier",
             "version": "^1.16.1"
           }
@@ -2111,7 +2106,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "209957f72e85c653bafac7c16c336250",
+        "contentDigest": "0a41a0c35250e5a70f7a358a9d1f620c",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -2229,16 +2224,14 @@
           "instagram": "taras.kitchen"
         }
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-01-28T17:52:44.292Z",
+      "buildTime": "2019-01-28T18:49:24.486Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "e7d748730220faf09ba3f03a79373df1",
+        "contentDigest": "e237874fb52e079000c48a2408b640ce",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2248,7 +2241,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "2a26359a03b426d95a5f497dcf01adf3",
+        "contentDigest": "f39e1940f3239c3cf32f63ca3c8550f2",
         "type": "Directory",
         "description": "Directory \"content/blog\"",
         "owner": "gatsby-source-filesystem"
@@ -2260,7 +2253,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2019-01-28T15:27:15.685Z",
-      "accessTime": "2019-01-28T17:52:48.857Z",
+      "accessTime": "2019-01-28T18:49:28.773Z",
       "changeTime": "2019-01-28T15:27:15.685Z",
       "birthTime": "2019-01-28T15:27:15.501Z",
       "root": "/",
@@ -2278,11 +2271,11 @@
       "blksize": 4096,
       "ino": 11995938,
       "blocks": 0,
-      "atimeMs": 1548697968857.006,
+      "atimeMs": 1548701368773.0986,
       "mtimeMs": 1548689235684.7588,
       "ctimeMs": 1548689235684.7588,
       "birthtimeMs": 1548689235501.0908,
-      "atime": "2019-01-28T17:52:48.857Z",
+      "atime": "2019-01-28T18:49:28.773Z",
       "mtime": "2019-01-28T15:27:15.685Z",
       "ctime": "2019-01-28T15:27:15.685Z",
       "birthtime": "2019-01-28T15:27:15.501Z"
@@ -2292,7 +2285,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "37e06b0c16d2cdeef25bcb1521cc7a92",
+        "contentDigest": "9084bd072631af105019d179fcad0716",
         "type": "Directory",
         "description": "Directory \"content/blog/hot-cocoa-macarons\"",
         "owner": "gatsby-source-filesystem"
@@ -2304,7 +2297,7 @@
       "size": 256,
       "prettySize": "256 B",
       "modifiedTime": "2019-01-28T15:27:15.566Z",
-      "accessTime": "2019-01-28T17:52:48.859Z",
+      "accessTime": "2019-01-28T18:49:28.775Z",
       "changeTime": "2019-01-28T15:27:15.566Z",
       "birthTime": "2019-01-28T15:27:15.501Z",
       "root": "/",
@@ -2322,11 +2315,11 @@
       "blksize": 4096,
       "ino": 11995939,
       "blocks": 0,
-      "atimeMs": 1548697968858.8464,
+      "atimeMs": 1548701368775.1614,
       "mtimeMs": 1548689235566.2173,
       "ctimeMs": 1548689235566.2173,
       "birthtimeMs": 1548689235501.137,
-      "atime": "2019-01-28T17:52:48.859Z",
+      "atime": "2019-01-28T18:49:28.775Z",
       "mtime": "2019-01-28T15:27:15.566Z",
       "ctime": "2019-01-28T15:27:15.566Z",
       "birthtime": "2019-01-28T15:27:15.501Z"
@@ -2336,7 +2329,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "130d4fef8f0767e937c3c1690bc03348",
+        "contentDigest": "c5f823ce6bab20b73971174a55617e45",
         "type": "Directory",
         "description": "Directory \"content/blog/tomato-mole-jam\"",
         "owner": "gatsby-source-filesystem"
@@ -2348,7 +2341,7 @@
       "size": 320,
       "prettySize": "320 B",
       "modifiedTime": "2019-01-28T15:27:15.673Z",
-      "accessTime": "2019-01-28T17:52:48.859Z",
+      "accessTime": "2019-01-28T18:49:28.775Z",
       "changeTime": "2019-01-28T15:27:15.673Z",
       "birthTime": "2019-01-28T15:27:15.566Z",
       "root": "/",
@@ -2366,11 +2359,11 @@
       "blksize": 4096,
       "ino": 11995946,
       "blocks": 0,
-      "atimeMs": 1548697968858.868,
+      "atimeMs": 1548701368775.17,
       "mtimeMs": 1548689235672.5676,
       "ctimeMs": 1548689235672.5676,
       "birthtimeMs": 1548689235566.3535,
-      "atime": "2019-01-28T17:52:48.859Z",
+      "atime": "2019-01-28T18:49:28.775Z",
       "mtime": "2019-01-28T15:27:15.673Z",
       "ctime": "2019-01-28T15:27:15.673Z",
       "birthtime": "2019-01-28T15:27:15.566Z"
@@ -2380,7 +2373,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "a7a237cfc468a6b80de9e852de735109",
+        "contentDigest": "b5d7d4d6634b58b0cc3d04ea51542b82",
         "type": "Directory",
         "description": "Directory \"content/blog/welcome\"",
         "owner": "gatsby-source-filesystem"
@@ -2392,7 +2385,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2019-01-28T15:27:15.694Z",
-      "accessTime": "2019-01-28T17:52:48.859Z",
+      "accessTime": "2019-01-28T18:49:28.775Z",
       "changeTime": "2019-01-28T15:27:15.694Z",
       "birthTime": "2019-01-28T15:27:15.685Z",
       "root": "/",
@@ -2410,11 +2403,11 @@
       "blksize": 4096,
       "ino": 11995955,
       "blocks": 0,
-      "atimeMs": 1548697968858.924,
+      "atimeMs": 1548701368775.1658,
       "mtimeMs": 1548689235694.3145,
       "ctimeMs": 1548689235694.3145,
       "birthtimeMs": 1548689235684.7524,
-      "atime": "2019-01-28T17:52:48.859Z",
+      "atime": "2019-01-28T18:49:28.775Z",
       "mtime": "2019-01-28T15:27:15.694Z",
       "ctime": "2019-01-28T15:27:15.694Z",
       "birthtime": "2019-01-28T15:27:15.685Z"
@@ -2439,7 +2432,7 @@
       "size": 1370,
       "prettySize": "1.37 kB",
       "modifiedTime": "2019-01-28T15:27:15.566Z",
-      "accessTime": "2019-01-28T17:31:06.388Z",
+      "accessTime": "2019-01-28T18:39:56.974Z",
       "changeTime": "2019-01-28T15:27:15.566Z",
       "birthTime": "2019-01-28T15:27:15.566Z",
       "root": "/",
@@ -2457,11 +2450,11 @@
       "blksize": 4096,
       "ino": 11995945,
       "blocks": 8,
-      "atimeMs": 1548696666388.0225,
+      "atimeMs": 1548700796973.8403,
       "mtimeMs": 1548689235566.283,
       "ctimeMs": 1548689235566.283,
       "birthtimeMs": 1548689235566.201,
-      "atime": "2019-01-28T17:31:06.388Z",
+      "atime": "2019-01-28T18:39:56.974Z",
       "mtime": "2019-01-28T15:27:15.566Z",
       "ctime": "2019-01-28T15:27:15.566Z",
       "birthtime": "2019-01-28T15:27:15.566Z"
@@ -2486,7 +2479,7 @@
       "size": 8855,
       "prettySize": "8.86 kB",
       "modifiedTime": "2019-01-28T15:27:15.567Z",
-      "accessTime": "2019-01-28T17:31:04.019Z",
+      "accessTime": "2019-01-28T18:39:53.699Z",
       "changeTime": "2019-01-28T15:27:15.567Z",
       "birthTime": "2019-01-28T15:27:15.566Z",
       "root": "/",
@@ -2504,11 +2497,11 @@
       "blksize": 4096,
       "ino": 11995947,
       "blocks": 24,
-      "atimeMs": 1548696664019.3547,
+      "atimeMs": 1548700793699.2854,
       "mtimeMs": 1548689235566.563,
       "ctimeMs": 1548689235566.563,
       "birthtimeMs": 1548689235566.4253,
-      "atime": "2019-01-28T17:31:04.019Z",
+      "atime": "2019-01-28T18:39:53.699Z",
       "mtime": "2019-01-28T15:27:15.567Z",
       "ctime": "2019-01-28T15:27:15.567Z",
       "birthtime": "2019-01-28T15:27:15.566Z"
@@ -2533,7 +2526,7 @@
       "size": 278,
       "prettySize": "278 B",
       "modifiedTime": "2019-01-28T15:27:15.694Z",
-      "accessTime": "2019-01-28T17:31:06.388Z",
+      "accessTime": "2019-01-28T18:39:56.974Z",
       "changeTime": "2019-01-28T15:27:15.694Z",
       "birthTime": "2019-01-28T15:27:15.694Z",
       "root": "/",
@@ -2551,11 +2544,11 @@
       "blksize": 4096,
       "ino": 11995957,
       "blocks": 8,
-      "atimeMs": 1548696666388.3765,
+      "atimeMs": 1548700796974.4265,
       "mtimeMs": 1548689235694.365,
       "ctimeMs": 1548689235694.365,
       "birthtimeMs": 1548689235694.3083,
-      "atime": "2019-01-28T17:31:06.388Z",
+      "atime": "2019-01-28T18:39:56.974Z",
       "mtime": "2019-01-28T15:27:15.694Z",
       "ctime": "2019-01-28T15:27:15.694Z",
       "birthtime": "2019-01-28T15:27:15.694Z"
@@ -2673,7 +2666,7 @@
       "size": 3716480,
       "prettySize": "3.72 MB",
       "modifiedTime": "2019-01-28T15:27:15.652Z",
-      "accessTime": "2019-01-28T17:31:04.019Z",
+      "accessTime": "2019-01-28T18:39:56.267Z",
       "changeTime": "2019-01-28T15:27:15.652Z",
       "birthTime": "2019-01-28T15:27:15.632Z",
       "root": "/",
@@ -2691,11 +2684,11 @@
       "blksize": 4096,
       "ino": 11995952,
       "blocks": 7264,
-      "atimeMs": 1548696664019.4624,
+      "atimeMs": 1548700796267.1753,
       "mtimeMs": 1548689235651.5703,
       "ctimeMs": 1548689235651.5703,
       "birthtimeMs": 1548689235632.0537,
-      "atime": "2019-01-28T17:31:04.019Z",
+      "atime": "2019-01-28T18:39:56.267Z",
       "mtime": "2019-01-28T15:27:15.652Z",
       "ctime": "2019-01-28T15:27:15.652Z",
       "birthtime": "2019-01-28T15:27:15.632Z"
@@ -2730,7 +2723,7 @@
       "size": 3916876,
       "prettySize": "3.92 MB",
       "modifiedTime": "2019-01-28T15:27:15.685Z",
-      "accessTime": "2019-01-28T17:31:04.019Z",
+      "accessTime": "2019-01-28T18:39:56.267Z",
       "changeTime": "2019-01-28T15:27:15.685Z",
       "birthTime": "2019-01-28T15:27:15.673Z",
       "root": "/",
@@ -2748,11 +2741,11 @@
       "blksize": 4096,
       "ino": 11995954,
       "blocks": 7656,
-      "atimeMs": 1548696664019.4863,
+      "atimeMs": 1548700796267.1807,
       "mtimeMs": 1548689235684.5063,
       "ctimeMs": 1548689235684.5063,
       "birthtimeMs": 1548689235672.5552,
-      "atime": "2019-01-28T17:31:04.019Z",
+      "atime": "2019-01-28T18:39:56.267Z",
       "mtime": "2019-01-28T15:27:15.685Z",
       "ctime": "2019-01-28T15:27:15.685Z",
       "birthtime": "2019-01-28T15:27:15.673Z"
@@ -2787,7 +2780,7 @@
       "size": 4224720,
       "prettySize": "4.22 MB",
       "modifiedTime": "2019-01-28T15:27:15.672Z",
-      "accessTime": "2019-01-28T17:31:04.019Z",
+      "accessTime": "2019-01-28T18:39:56.267Z",
       "changeTime": "2019-01-28T15:27:15.672Z",
       "birthTime": "2019-01-28T15:27:15.652Z",
       "root": "/",
@@ -2805,11 +2798,11 @@
       "blksize": 4096,
       "ino": 11995953,
       "blocks": 8256,
-      "atimeMs": 1548696664019.4795,
+      "atimeMs": 1548700796267.1726,
       "mtimeMs": 1548689235672.232,
       "ctimeMs": 1548689235672.232,
       "birthtimeMs": 1548689235651.8567,
-      "atime": "2019-01-28T17:31:04.019Z",
+      "atime": "2019-01-28T18:39:56.267Z",
       "mtime": "2019-01-28T15:27:15.672Z",
       "ctime": "2019-01-28T15:27:15.672Z",
       "birthtime": "2019-01-28T15:27:15.652Z"
@@ -2844,7 +2837,7 @@
       "size": 5092580,
       "prettySize": "5.09 MB",
       "modifiedTime": "2019-01-28T15:27:15.536Z",
-      "accessTime": "2019-01-28T17:31:06.388Z",
+      "accessTime": "2019-01-28T18:39:56.974Z",
       "changeTime": "2019-01-28T15:27:15.536Z",
       "birthTime": "2019-01-28T15:27:15.527Z",
       "root": "/",
@@ -2862,11 +2855,11 @@
       "blksize": 4096,
       "ino": 11995942,
       "blocks": 9952,
-      "atimeMs": 1548696666387.9585,
+      "atimeMs": 1548700796973.7551,
       "mtimeMs": 1548689235535.91,
       "ctimeMs": 1548689235535.91,
       "birthtimeMs": 1548689235527.49,
-      "atime": "2019-01-28T17:31:06.388Z",
+      "atime": "2019-01-28T18:39:56.974Z",
       "mtime": "2019-01-28T15:27:15.536Z",
       "ctime": "2019-01-28T15:27:15.536Z",
       "birthtime": "2019-01-28T15:27:15.527Z"
@@ -2901,7 +2894,7 @@
       "size": 5306601,
       "prettySize": "5.31 MB",
       "modifiedTime": "2019-01-28T15:27:15.513Z",
-      "accessTime": "2019-01-28T17:31:06.388Z",
+      "accessTime": "2019-01-28T18:39:56.974Z",
       "changeTime": "2019-01-28T15:27:15.513Z",
       "birthTime": "2019-01-28T15:27:15.501Z",
       "root": "/",
@@ -2919,11 +2912,11 @@
       "blksize": 4096,
       "ino": 11995940,
       "blocks": 10368,
-      "atimeMs": 1548696666387.9133,
+      "atimeMs": 1548700796973.6946,
       "mtimeMs": 1548689235512.877,
       "ctimeMs": 1548689235512.877,
       "birthtimeMs": 1548689235501.1924,
-      "atime": "2019-01-28T17:31:06.388Z",
+      "atime": "2019-01-28T18:39:56.974Z",
       "mtime": "2019-01-28T15:27:15.513Z",
       "ctime": "2019-01-28T15:27:15.513Z",
       "birthtime": "2019-01-28T15:27:15.501Z"
@@ -2934,6 +2927,63 @@
       "parent": "22324dbd-634d-5b68-abf2-aead7e8d361e",
       "internal": {
         "contentDigest": "27a74dba9cdf11a410f79c158f61e548",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "699c7c99-20e1-5a91-9db9-41a647f715de": {
+      "id": "699c7c99-20e1-5a91-9db9-41a647f715de",
+      "children": [
+        "5a8798a2-58df-5fc3-8d19-5d467dfebb28"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "8e1e1d09787d815291dc7fd6a82ecbef",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content/blog/welcome/chia_pet_cake.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "blog",
+      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/welcome/chia_pet_cake.jpg",
+      "relativePath": "welcome/chia_pet_cake.jpg",
+      "extension": "jpg",
+      "size": 5406536,
+      "prettySize": "5.41 MB",
+      "modifiedTime": "2019-01-28T15:27:15.694Z",
+      "accessTime": "2019-01-28T18:39:56.974Z",
+      "changeTime": "2019-01-28T15:27:15.694Z",
+      "birthTime": "2019-01-28T15:27:15.685Z",
+      "root": "/",
+      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/welcome",
+      "base": "chia_pet_cake.jpg",
+      "ext": ".jpg",
+      "name": "chia_pet_cake",
+      "relativeDirectory": "welcome",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 11995956,
+      "blocks": 10560,
+      "atimeMs": 1548700796974.3774,
+      "mtimeMs": 1548689235694.013,
+      "ctimeMs": 1548689235694.013,
+      "birthtimeMs": 1548689235684.814,
+      "atime": "2019-01-28T18:39:56.974Z",
+      "mtime": "2019-01-28T15:27:15.694Z",
+      "ctime": "2019-01-28T15:27:15.694Z",
+      "birthtime": "2019-01-28T15:27:15.685Z"
+    },
+    "5a8798a2-58df-5fc3-8d19-5d467dfebb28": {
+      "id": "5a8798a2-58df-5fc3-8d19-5d467dfebb28",
+      "children": [],
+      "parent": "699c7c99-20e1-5a91-9db9-41a647f715de",
+      "internal": {
+        "contentDigest": "8e1e1d09787d815291dc7fd6a82ecbef",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -2958,7 +3008,7 @@
       "size": 5477611,
       "prettySize": "5.48 MB",
       "modifiedTime": "2019-01-28T15:27:15.580Z",
-      "accessTime": "2019-01-28T17:31:04.019Z",
+      "accessTime": "2019-01-28T18:39:53.699Z",
       "changeTime": "2019-01-28T15:27:15.580Z",
       "birthTime": "2019-01-28T15:27:15.567Z",
       "root": "/",
@@ -2976,61 +3026,24 @@
       "blksize": 4096,
       "ino": 11995948,
       "blocks": 10704,
-      "atimeMs": 1548696664019.3818,
+      "atimeMs": 1548700793699.2937,
       "mtimeMs": 1548689235579.8704,
       "ctimeMs": 1548689235579.8704,
       "birthtimeMs": 1548689235566.6328,
-      "atime": "2019-01-28T17:31:04.019Z",
+      "atime": "2019-01-28T18:39:53.699Z",
       "mtime": "2019-01-28T15:27:15.580Z",
       "ctime": "2019-01-28T15:27:15.580Z",
       "birthtime": "2019-01-28T15:27:15.567Z"
     },
-    "699c7c99-20e1-5a91-9db9-41a647f715de": {
-      "id": "699c7c99-20e1-5a91-9db9-41a647f715de",
-      "children": [
-        "5a8798a2-58df-5fc3-8d19-5d467dfebb28"
-      ],
-      "parent": null,
+    "471cc28a-9d8d-5554-bbb5-2e9ca2b8c1c8": {
+      "id": "471cc28a-9d8d-5554-bbb5-2e9ca2b8c1c8",
+      "children": [],
+      "parent": "8ec74444-b542-5dae-89f3-4b4f433191bf",
       "internal": {
-        "contentDigest": "8e1e1d09787d815291dc7fd6a82ecbef",
-        "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"content/blog/welcome/chia_pet_cake.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/welcome/chia_pet_cake.jpg",
-      "relativePath": "welcome/chia_pet_cake.jpg",
-      "extension": "jpg",
-      "size": 5406536,
-      "prettySize": "5.41 MB",
-      "modifiedTime": "2019-01-28T15:27:15.694Z",
-      "accessTime": "2019-01-28T17:31:06.388Z",
-      "changeTime": "2019-01-28T15:27:15.694Z",
-      "birthTime": "2019-01-28T15:27:15.685Z",
-      "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/welcome",
-      "base": "chia_pet_cake.jpg",
-      "ext": ".jpg",
-      "name": "chia_pet_cake",
-      "relativeDirectory": "welcome",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 503,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 11995956,
-      "blocks": 10560,
-      "atimeMs": 1548696666388.3542,
-      "mtimeMs": 1548689235694.013,
-      "ctimeMs": 1548689235694.013,
-      "birthtimeMs": 1548689235684.814,
-      "atime": "2019-01-28T17:31:06.388Z",
-      "mtime": "2019-01-28T15:27:15.694Z",
-      "ctime": "2019-01-28T15:27:15.694Z",
-      "birthtime": "2019-01-28T15:27:15.685Z"
+        "contentDigest": "b067fd08f384f32cd2be505593512544",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "b0ff737d-7a9a-5c26-9acc-d624eabb84ca": {
       "id": "b0ff737d-7a9a-5c26-9acc-d624eabb84ca",
@@ -3052,7 +3065,7 @@
       "size": 5592536,
       "prettySize": "5.59 MB",
       "modifiedTime": "2019-01-28T15:27:15.526Z",
-      "accessTime": "2019-01-28T17:31:06.388Z",
+      "accessTime": "2019-01-28T18:39:56.974Z",
       "changeTime": "2019-01-28T15:27:15.526Z",
       "birthTime": "2019-01-28T15:27:15.514Z",
       "root": "/",
@@ -3070,34 +3083,14 @@
       "blksize": 4096,
       "ino": 11995941,
       "blocks": 10928,
-      "atimeMs": 1548696666387.9368,
+      "atimeMs": 1548700796973.7256,
       "mtimeMs": 1548689235526.3745,
       "ctimeMs": 1548689235526.3745,
       "birthtimeMs": 1548689235514.3508,
-      "atime": "2019-01-28T17:31:06.388Z",
+      "atime": "2019-01-28T18:39:56.974Z",
       "mtime": "2019-01-28T15:27:15.526Z",
       "ctime": "2019-01-28T15:27:15.526Z",
       "birthtime": "2019-01-28T15:27:15.514Z"
-    },
-    "471cc28a-9d8d-5554-bbb5-2e9ca2b8c1c8": {
-      "id": "471cc28a-9d8d-5554-bbb5-2e9ca2b8c1c8",
-      "children": [],
-      "parent": "8ec74444-b542-5dae-89f3-4b4f433191bf",
-      "internal": {
-        "contentDigest": "b067fd08f384f32cd2be505593512544",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "5a8798a2-58df-5fc3-8d19-5d467dfebb28": {
-      "id": "5a8798a2-58df-5fc3-8d19-5d467dfebb28",
-      "children": [],
-      "parent": "699c7c99-20e1-5a91-9db9-41a647f715de",
-      "internal": {
-        "contentDigest": "8e1e1d09787d815291dc7fd6a82ecbef",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
     },
     "fd617db0-4ea1-536f-8032-d587493fc347": {
       "id": "fd617db0-4ea1-536f-8032-d587493fc347",
@@ -3105,6 +3098,63 @@
       "parent": "b0ff737d-7a9a-5c26-9acc-d624eabb84ca",
       "internal": {
         "contentDigest": "5b919f40fe34b9d6a87d8d1f28efc6a6",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "8042ea05-3ed8-5439-94f6-5551d96c7d25": {
+      "id": "8042ea05-3ed8-5439-94f6-5551d96c7d25",
+      "children": [
+        "59dd3bea-cb16-5cab-885d-2ac212828675"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "41d4fa50af27c50b49919ce356f35527",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content/blog/hot-cocoa-macarons/hot_cocoa_macarons-7.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "blog",
+      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/hot-cocoa-macarons/hot_cocoa_macarons-7.jpg",
+      "relativePath": "hot-cocoa-macarons/hot_cocoa_macarons-7.jpg",
+      "extension": "jpg",
+      "size": 5919769,
+      "prettySize": "5.92 MB",
+      "modifiedTime": "2019-01-28T15:27:15.551Z",
+      "accessTime": "2019-01-28T18:39:56.974Z",
+      "changeTime": "2019-01-28T15:27:15.551Z",
+      "birthTime": "2019-01-28T15:27:15.537Z",
+      "root": "/",
+      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/hot-cocoa-macarons",
+      "base": "hot_cocoa_macarons-7.jpg",
+      "ext": ".jpg",
+      "name": "hot_cocoa_macarons-7",
+      "relativeDirectory": "hot-cocoa-macarons",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 11995943,
+      "blocks": 11568,
+      "atimeMs": 1548700796973.783,
+      "mtimeMs": 1548689235550.7068,
+      "ctimeMs": 1548689235550.7068,
+      "birthtimeMs": 1548689235537.4333,
+      "atime": "2019-01-28T18:39:56.974Z",
+      "mtime": "2019-01-28T15:27:15.551Z",
+      "ctime": "2019-01-28T15:27:15.551Z",
+      "birthtime": "2019-01-28T15:27:15.537Z"
+    },
+    "59dd3bea-cb16-5cab-885d-2ac212828675": {
+      "id": "59dd3bea-cb16-5cab-885d-2ac212828675",
+      "children": [],
+      "parent": "8042ea05-3ed8-5439-94f6-5551d96c7d25",
+      "internal": {
+        "contentDigest": "41d4fa50af27c50b49919ce356f35527",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -3129,7 +3179,7 @@
       "size": 5942268,
       "prettySize": "5.94 MB",
       "modifiedTime": "2019-01-28T15:27:15.618Z",
-      "accessTime": "2019-01-28T17:31:04.019Z",
+      "accessTime": "2019-01-28T18:39:56.267Z",
       "changeTime": "2019-01-28T15:27:15.618Z",
       "birthTime": "2019-01-28T15:27:15.602Z",
       "root": "/",
@@ -3147,61 +3197,14 @@
       "blksize": 4096,
       "ino": 11995950,
       "blocks": 11608,
-      "atimeMs": 1548696664019.4285,
+      "atimeMs": 1548700796267.1697,
       "mtimeMs": 1548689235617.8992,
       "ctimeMs": 1548689235617.8992,
       "birthtimeMs": 1548689235602.168,
-      "atime": "2019-01-28T17:31:04.019Z",
+      "atime": "2019-01-28T18:39:56.267Z",
       "mtime": "2019-01-28T15:27:15.618Z",
       "ctime": "2019-01-28T15:27:15.618Z",
       "birthtime": "2019-01-28T15:27:15.602Z"
-    },
-    "8042ea05-3ed8-5439-94f6-5551d96c7d25": {
-      "id": "8042ea05-3ed8-5439-94f6-5551d96c7d25",
-      "children": [
-        "59dd3bea-cb16-5cab-885d-2ac212828675"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "41d4fa50af27c50b49919ce356f35527",
-        "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"content/blog/hot-cocoa-macarons/hot_cocoa_macarons-7.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/hot-cocoa-macarons/hot_cocoa_macarons-7.jpg",
-      "relativePath": "hot-cocoa-macarons/hot_cocoa_macarons-7.jpg",
-      "extension": "jpg",
-      "size": 5919769,
-      "prettySize": "5.92 MB",
-      "modifiedTime": "2019-01-28T15:27:15.551Z",
-      "accessTime": "2019-01-28T17:31:06.388Z",
-      "changeTime": "2019-01-28T15:27:15.551Z",
-      "birthTime": "2019-01-28T15:27:15.537Z",
-      "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/hot-cocoa-macarons",
-      "base": "hot_cocoa_macarons-7.jpg",
-      "ext": ".jpg",
-      "name": "hot_cocoa_macarons-7",
-      "relativeDirectory": "hot-cocoa-macarons",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 503,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 11995943,
-      "blocks": 11568,
-      "atimeMs": 1548696666387.9797,
-      "mtimeMs": 1548689235550.7068,
-      "ctimeMs": 1548689235550.7068,
-      "birthtimeMs": 1548689235537.4333,
-      "atime": "2019-01-28T17:31:06.388Z",
-      "mtime": "2019-01-28T15:27:15.551Z",
-      "ctime": "2019-01-28T15:27:15.551Z",
-      "birthtime": "2019-01-28T15:27:15.537Z"
     },
     "53c24e4c-c20f-550c-b88d-e00fe6cb48d0": {
       "id": "53c24e4c-c20f-550c-b88d-e00fe6cb48d0",
@@ -3233,7 +3236,7 @@
       "size": 6103971,
       "prettySize": "6.1 MB",
       "modifiedTime": "2019-01-28T15:27:15.565Z",
-      "accessTime": "2019-01-28T17:31:06.388Z",
+      "accessTime": "2019-01-28T18:39:56.974Z",
       "changeTime": "2019-01-28T15:27:15.565Z",
       "birthTime": "2019-01-28T15:27:15.551Z",
       "root": "/",
@@ -3251,24 +3254,14 @@
       "blksize": 4096,
       "ino": 11995944,
       "blocks": 11928,
-      "atimeMs": 1548696666388.0007,
+      "atimeMs": 1548700796973.811,
       "mtimeMs": 1548689235564.5537,
       "ctimeMs": 1548689235564.5537,
       "birthtimeMs": 1548689235551.4626,
-      "atime": "2019-01-28T17:31:06.388Z",
+      "atime": "2019-01-28T18:39:56.974Z",
       "mtime": "2019-01-28T15:27:15.565Z",
       "ctime": "2019-01-28T15:27:15.565Z",
       "birthtime": "2019-01-28T15:27:15.551Z"
-    },
-    "59dd3bea-cb16-5cab-885d-2ac212828675": {
-      "id": "59dd3bea-cb16-5cab-885d-2ac212828675",
-      "children": [],
-      "parent": "8042ea05-3ed8-5439-94f6-5551d96c7d25",
-      "internal": {
-        "contentDigest": "41d4fa50af27c50b49919ce356f35527",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
     },
     "d07f2d46-1814-5ade-8f05-24ce9ec9d5c0": {
       "id": "d07f2d46-1814-5ade-8f05-24ce9ec9d5c0",
@@ -3276,6 +3269,63 @@
       "parent": "b0a936df-d3ac-51c5-b4cf-efe8277d679a",
       "internal": {
         "contentDigest": "e1a87f4d503adc6873fcb868f934e5eb",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "eb6ec5f9-136e-5fa9-92da-0fcfefeaf969": {
+      "id": "eb6ec5f9-136e-5fa9-92da-0fcfefeaf969",
+      "children": [
+        "c4428541-a0b6-5359-84bd-2805b1041801"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "5a84f5b522a205b32d57bee65508f38e",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content/blog/tomato-mole-jam/mole_cheesecake-13.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "blog",
+      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/tomato-mole-jam/mole_cheesecake-13.jpg",
+      "relativePath": "tomato-mole-jam/mole_cheesecake-13.jpg",
+      "extension": "jpg",
+      "size": 7406670,
+      "prettySize": "7.41 MB",
+      "modifiedTime": "2019-01-28T15:27:15.601Z",
+      "accessTime": "2019-01-28T18:39:56.267Z",
+      "changeTime": "2019-01-28T15:27:15.601Z",
+      "birthTime": "2019-01-28T15:27:15.580Z",
+      "root": "/",
+      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/tomato-mole-jam",
+      "base": "mole_cheesecake-13.jpg",
+      "ext": ".jpg",
+      "name": "mole_cheesecake-13",
+      "relativeDirectory": "tomato-mole-jam",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 11995949,
+      "blocks": 14472,
+      "atimeMs": 1548700796267.1643,
+      "mtimeMs": 1548689235600.5435,
+      "ctimeMs": 1548689235600.5435,
+      "birthtimeMs": 1548689235580.3977,
+      "atime": "2019-01-28T18:39:56.267Z",
+      "mtime": "2019-01-28T15:27:15.601Z",
+      "ctime": "2019-01-28T15:27:15.601Z",
+      "birthtime": "2019-01-28T15:27:15.580Z"
+    },
+    "c4428541-a0b6-5359-84bd-2805b1041801": {
+      "id": "c4428541-a0b6-5359-84bd-2805b1041801",
+      "children": [],
+      "parent": "eb6ec5f9-136e-5fa9-92da-0fcfefeaf969",
+      "internal": {
+        "contentDigest": "5a84f5b522a205b32d57bee65508f38e",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -3300,7 +3350,7 @@
       "size": 7376269,
       "prettySize": "7.38 MB",
       "modifiedTime": "2019-01-28T15:27:15.631Z",
-      "accessTime": "2019-01-28T17:31:04.019Z",
+      "accessTime": "2019-01-28T18:39:56.267Z",
       "changeTime": "2019-01-28T15:27:15.631Z",
       "birthTime": "2019-01-28T15:27:15.619Z",
       "root": "/",
@@ -3318,61 +3368,14 @@
       "blksize": 4096,
       "ino": 11995951,
       "blocks": 14408,
-      "atimeMs": 1548696664019.4539,
+      "atimeMs": 1548700796267.1685,
       "mtimeMs": 1548689235631.2622,
       "ctimeMs": 1548689235631.2622,
       "birthtimeMs": 1548689235619.1045,
-      "atime": "2019-01-28T17:31:04.019Z",
+      "atime": "2019-01-28T18:39:56.267Z",
       "mtime": "2019-01-28T15:27:15.631Z",
       "ctime": "2019-01-28T15:27:15.631Z",
       "birthtime": "2019-01-28T15:27:15.619Z"
-    },
-    "eb6ec5f9-136e-5fa9-92da-0fcfefeaf969": {
-      "id": "eb6ec5f9-136e-5fa9-92da-0fcfefeaf969",
-      "children": [
-        "c4428541-a0b6-5359-84bd-2805b1041801"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "5a84f5b522a205b32d57bee65508f38e",
-        "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"content/blog/tomato-mole-jam/mole_cheesecake-13.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/tomato-mole-jam/mole_cheesecake-13.jpg",
-      "relativePath": "tomato-mole-jam/mole_cheesecake-13.jpg",
-      "extension": "jpg",
-      "size": 7406670,
-      "prettySize": "7.41 MB",
-      "modifiedTime": "2019-01-28T15:27:15.601Z",
-      "accessTime": "2019-01-28T17:31:04.019Z",
-      "changeTime": "2019-01-28T15:27:15.601Z",
-      "birthTime": "2019-01-28T15:27:15.580Z",
-      "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/tomato-mole-jam",
-      "base": "mole_cheesecake-13.jpg",
-      "ext": ".jpg",
-      "name": "mole_cheesecake-13",
-      "relativeDirectory": "tomato-mole-jam",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 503,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 11995949,
-      "blocks": 14472,
-      "atimeMs": 1548696664019.4055,
-      "mtimeMs": 1548689235600.5435,
-      "ctimeMs": 1548689235600.5435,
-      "birthtimeMs": 1548689235580.3977,
-      "atime": "2019-01-28T17:31:04.019Z",
-      "mtime": "2019-01-28T15:27:15.601Z",
-      "ctime": "2019-01-28T15:27:15.601Z",
-      "birthtime": "2019-01-28T15:27:15.580Z"
     },
     "ae1df1fc-5b56-5d45-a5b0-1822827ac370": {
       "id": "ae1df1fc-5b56-5d45-a5b0-1822827ac370",
@@ -3384,22 +3387,12 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "c4428541-a0b6-5359-84bd-2805b1041801": {
-      "id": "c4428541-a0b6-5359-84bd-2805b1041801",
-      "children": [],
-      "parent": "eb6ec5f9-136e-5fa9-92da-0fcfefeaf969",
-      "internal": {
-        "contentDigest": "5a84f5b522a205b32d57bee65508f38e",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
     "02e10076-4dd1-5b3b-b6db-e695537ca6f7": {
       "id": "02e10076-4dd1-5b3b-b6db-e695537ca6f7",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "911e83fbe52abcbf97edf0629b77cea8",
+        "contentDigest": "abb13497a6c36c0108be7ab6be0d38bd",
         "type": "Directory",
         "description": "Directory \"content/assets\"",
         "owner": "gatsby-source-filesystem"
@@ -3411,7 +3404,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2019-01-28T15:27:15.496Z",
-      "accessTime": "2019-01-28T17:52:49.109Z",
+      "accessTime": "2019-01-28T18:49:29.030Z",
       "changeTime": "2019-01-28T15:27:15.496Z",
       "birthTime": "2019-01-28T15:27:15.495Z",
       "root": "/",
@@ -3429,11 +3422,11 @@
       "blksize": 4096,
       "ino": 11995933,
       "blocks": 0,
-      "atimeMs": 1548697969108.8354,
+      "atimeMs": 1548701369030.4324,
       "mtimeMs": 1548689235495.761,
       "ctimeMs": 1548689235495.761,
       "birthtimeMs": 1548689235495.1309,
-      "atime": "2019-01-28T17:52:49.109Z",
+      "atime": "2019-01-28T18:49:29.030Z",
       "mtime": "2019-01-28T15:27:15.496Z",
       "ctime": "2019-01-28T15:27:15.496Z",
       "birthtime": "2019-01-28T15:27:15.495Z"
@@ -3456,7 +3449,7 @@
       "size": 15444,
       "prettySize": "15.4 kB",
       "modifiedTime": "2019-01-28T15:27:15.495Z",
-      "accessTime": "2019-01-28T17:31:06.388Z",
+      "accessTime": "2019-01-28T18:39:56.973Z",
       "changeTime": "2019-01-28T15:27:15.495Z",
       "birthTime": "2019-01-28T15:27:15.495Z",
       "root": "/",
@@ -3474,11 +3467,56 @@
       "blksize": 4096,
       "ino": 11995934,
       "blocks": 32,
-      "atimeMs": 1548696666387.681,
+      "atimeMs": 1548700796973.3955,
       "mtimeMs": 1548689235495.3047,
       "ctimeMs": 1548689235495.3047,
       "birthtimeMs": 1548689235495.1936,
-      "atime": "2019-01-28T17:31:06.388Z",
+      "atime": "2019-01-28T18:39:56.973Z",
+      "mtime": "2019-01-28T15:27:15.495Z",
+      "ctime": "2019-01-28T15:27:15.495Z",
+      "birthtime": "2019-01-28T15:27:15.495Z"
+    },
+    "538223cc-a6e9-5d28-a34e-73528ff24530": {
+      "id": "538223cc-a6e9-5d28-a34e-73528ff24530",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "f595365e2769f0358f9268df6e7e692d",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"content/assets/fullstackkitchen_logo.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "assets",
+      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/assets/fullstackkitchen_logo.svg",
+      "relativePath": "fullstackkitchen_logo.svg",
+      "extension": "svg",
+      "size": 16001,
+      "prettySize": "16 kB",
+      "modifiedTime": "2019-01-28T15:27:15.495Z",
+      "accessTime": "2019-01-28T18:39:56.973Z",
+      "changeTime": "2019-01-28T15:27:15.495Z",
+      "birthTime": "2019-01-28T15:27:15.495Z",
+      "root": "/",
+      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/assets",
+      "base": "fullstackkitchen_logo.svg",
+      "ext": ".svg",
+      "name": "fullstackkitchen_logo",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 503,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 11995935,
+      "blocks": 32,
+      "atimeMs": 1548700796973.428,
+      "mtimeMs": 1548689235495.4229,
+      "ctimeMs": 1548689235495.4229,
+      "birthtimeMs": 1548689235495.3662,
+      "atime": "2019-01-28T18:39:56.973Z",
       "mtime": "2019-01-28T15:27:15.495Z",
       "ctime": "2019-01-28T15:27:15.495Z",
       "birthtime": "2019-01-28T15:27:15.495Z"
@@ -3503,7 +3541,7 @@
       "size": 21212,
       "prettySize": "21.2 kB",
       "modifiedTime": "2019-01-28T15:27:15.496Z",
-      "accessTime": "2019-01-28T17:31:06.388Z",
+      "accessTime": "2019-01-28T18:39:56.973Z",
       "changeTime": "2019-01-28T15:27:15.496Z",
       "birthTime": "2019-01-28T15:27:15.495Z",
       "root": "/",
@@ -3521,58 +3559,13 @@
       "blksize": 4096,
       "ino": 11995936,
       "blocks": 48,
-      "atimeMs": 1548696666387.7283,
+      "atimeMs": 1548700796973.4563,
       "mtimeMs": 1548689235495.6287,
       "ctimeMs": 1548689235495.6287,
       "birthtimeMs": 1548689235495.4785,
-      "atime": "2019-01-28T17:31:06.388Z",
+      "atime": "2019-01-28T18:39:56.973Z",
       "mtime": "2019-01-28T15:27:15.496Z",
       "ctime": "2019-01-28T15:27:15.496Z",
-      "birthtime": "2019-01-28T15:27:15.495Z"
-    },
-    "538223cc-a6e9-5d28-a34e-73528ff24530": {
-      "id": "538223cc-a6e9-5d28-a34e-73528ff24530",
-      "children": [],
-      "parent": null,
-      "internal": {
-        "contentDigest": "f595365e2769f0358f9268df6e7e692d",
-        "type": "File",
-        "mediaType": "image/svg+xml",
-        "description": "File \"content/assets/fullstackkitchen_logo.svg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "assets",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/assets/fullstackkitchen_logo.svg",
-      "relativePath": "fullstackkitchen_logo.svg",
-      "extension": "svg",
-      "size": 16001,
-      "prettySize": "16 kB",
-      "modifiedTime": "2019-01-28T15:27:15.495Z",
-      "accessTime": "2019-01-28T17:31:06.388Z",
-      "changeTime": "2019-01-28T15:27:15.495Z",
-      "birthTime": "2019-01-28T15:27:15.495Z",
-      "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/assets",
-      "base": "fullstackkitchen_logo.svg",
-      "ext": ".svg",
-      "name": "fullstackkitchen_logo",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 503,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 11995935,
-      "blocks": 32,
-      "atimeMs": 1548696666387.705,
-      "mtimeMs": 1548689235495.4229,
-      "ctimeMs": 1548689235495.4229,
-      "birthtimeMs": 1548689235495.3662,
-      "atime": "2019-01-28T17:31:06.388Z",
-      "mtime": "2019-01-28T15:27:15.495Z",
-      "ctime": "2019-01-28T15:27:15.495Z",
       "birthtime": "2019-01-28T15:27:15.495Z"
     },
     "6ca19b9a-c555-5e9a-8704-3858da7bde6a": {
@@ -3605,7 +3598,7 @@
       "size": 1732638,
       "prettySize": "1.73 MB",
       "modifiedTime": "2019-01-28T15:27:15.501Z",
-      "accessTime": "2019-01-28T17:31:06.388Z",
+      "accessTime": "2019-01-28T18:39:56.973Z",
       "changeTime": "2019-01-28T15:27:15.501Z",
       "birthTime": "2019-01-28T15:27:15.496Z",
       "root": "/",
@@ -3623,11 +3616,11 @@
       "blksize": 4096,
       "ino": 11995937,
       "blocks": 3392,
-      "atimeMs": 1548696666387.7505,
+      "atimeMs": 1548700796973.4854,
       "mtimeMs": 1548689235500.9414,
       "ctimeMs": 1548689235500.9414,
       "birthtimeMs": 1548689235495.755,
-      "atime": "2019-01-28T17:31:06.388Z",
+      "atime": "2019-01-28T18:39:56.973Z",
       "mtime": "2019-01-28T15:27:15.501Z",
       "ctime": "2019-01-28T15:27:15.501Z",
       "birthtime": "2019-01-28T15:27:15.496Z"
@@ -3640,6 +3633,26 @@
         "contentDigest": "ca2cdcba6cc7692c4f0d3f5db5632f2f",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "SitePage /offline-plugin-app-shell-fallback/": {
+      "jsonName": "offline-plugin-app-shell-fallback-a30",
+      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
+      "path": "/offline-plugin-app-shell-fallback/",
+      "component": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js",
+      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
+      "context": {},
+      "pluginCreator___NODE": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+      "pluginCreatorId": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+      "componentPath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js",
+      "id": "SitePage /offline-plugin-app-shell-fallback/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "78966bd0c915a8ea756c3b4189bd840b",
+        "description": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+        "owner": "internal-data-bridge"
       }
     },
     "SitePage /tomato-mole-jam/": {
@@ -3825,13 +3838,13 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "47837d58feddef03cabeea6f119cf8fe"
+    "PLUGINS_HASH": "2739b9dca51e58e5ca186c70f5ddf14a"
   },
   "componentDataDependencies": {
     "nodes": {
       "Site": [
-        "sq--src-components-bio-js",
         "sq--src-components-seo-js",
+        "sq--src-components-bio-js",
         "/404/",
         "/404.html",
         "/about/",
@@ -3846,9 +3859,6 @@
       "2761e776-7cc3-5b2b-b16a-66e804bb58a0": [
         "sq--src-components-bio-js"
       ],
-      "a30e88bf-2a6f-5c21-a9d2-01ecd6c7f6bd": [
-        "/tomato-mole-jam/"
-      ],
       "eb6ec5f9-136e-5fa9-92da-0fcfefeaf969": [
         "/"
       ],
@@ -3857,6 +3867,9 @@
       ],
       "699c7c99-20e1-5a91-9db9-41a647f715de": [
         "/"
+      ],
+      "a30e88bf-2a6f-5c21-a9d2-01ecd6c7f6bd": [
+        "/tomato-mole-jam/"
       ],
       "c4428541-a0b6-5359-84bd-2805b1041801": [
         "/"
@@ -3882,27 +3895,26 @@
     }
   },
   "jsonDataPaths": {
-    "sq--src-components-seo-js": 1025518380,
-    "about-f34": "225/path---about-f-34-4c2-ngiQNVYXUJcUSoCzbpBruBEQtB4",
-    "welcome-e45": "328/path---welcome-e-45-1b7-G227AjDHgzORU2xCuKkg6u4yY",
-    "sq--src-components-bio-js": 20992707,
-    "404-22d": "625/path---404-22-d-bce-ngiQNVYXUJcUSoCzbpBruBEQtB4",
-    "404-html-516": "903/path---404-html-516-62a-ngiQNVYXUJcUSoCzbpBruBEQtB4",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
-    "hot-cocoa-macarons-7d6": "492/path---hot-cocoa-macarons-7-d-6-80f-06M6vlov4s6Qv4WmfKoFjSfuInE",
+    "404-22d": "625/path---404-22-d-bce-ngiQNVYXUJcUSoCzbpBruBEQtB4",
     "index": "142/path---index-6a9-SOjHs2J6WdfLJXYf0CbBdfua36o",
+    "about-f34": "225/path---about-f-34-4c2-ngiQNVYXUJcUSoCzbpBruBEQtB4",
+    "404-html-516": "903/path---404-html-516-62a-ngiQNVYXUJcUSoCzbpBruBEQtB4",
+    "sq--src-components-seo-js": 1025518380,
+    "sq--src-components-bio-js": 20992707,
+    "welcome-e45": "328/path---welcome-e-45-1b7-G227AjDHgzORU2xCuKkg6u4yY",
+    "hot-cocoa-macarons-7d6": "492/path---hot-cocoa-macarons-7-d-6-80f-06M6vlov4s6Qv4WmfKoFjSfuInE",
     "tomato-mole-jam-527": "779/path---tomato-mole-jam-527-668-n9YpxOBiS2tbBYAV6l8q0OPdjUA",
-    "sq--src-components-layout-js": 755544856,
-    "page-2-fbc": "53/path---page-2-fbc-5a8-NZuapzHg3X9TaN1iIixfv1W23E"
+    "offline-plugin-app-shell-fallback-a30": "520/path---offline-plugin-app-shell-fallback-a-30-c5a-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
+    "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js": {
+      "query": "",
+      "componentPath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js"
+    },
     "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/templates/blog-post.js": {
       "query": "query BlogPostBySlug(\n  $slug: String!\n) {\n  site {\n    siteMetadata {\n      title\n      author\n    }\n  }\n  markdownRemark(fields: {slug: {eq: $slug}}) {\n    id\n    excerpt(pruneLength: 160)\n    html\n    frontmatter {\n      title\n      date(formatString: \"MMMM DD, YYYY\")\n    }\n  }\n}\n",
       "componentPath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/templates/blog-post.js"
-    },
-    "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/.cache/dev-404-page.js": {
-      "query": "",
-      "componentPath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/.cache/dev-404-page.js"
     },
     "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/pages/404.js": {
       "query": "query usersTarasiegelDocumentsPersonalCodeFullstackkitchenSrcPages404Js1097489062 {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
@@ -3918,14 +3930,6 @@
     }
   },
   "staticQueryComponents": {
-    "sq--src-components-bio-js": {
-      "name": "BioQuery",
-      "componentPath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/components/Bio.js",
-      "id": "sq--src-components-bio-js",
-      "jsonName": "sq--src-components-bio-js",
-      "query": "query BioQuery {\n  avatar: file(absolutePath: {regex: \"/profile-pic.jpg/\"}) {\n    childImageSharp {\n      fixed(width: 50, height: 50) {\n        ...GatsbyImageSharpFixed\n      }\n    }\n  }\n  site {\n    siteMetadata {\n      author\n      social {\n        instagram\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFixed on ImageSharpFixed {\n  base64\n  width\n  height\n  src\n  srcSet\n}\n",
-      "hash": 20992707
-    },
     "sq--src-components-seo-js": {
       "name": "DefaultSEOQuery",
       "componentPath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/components/seo.js",
@@ -3933,6 +3937,14 @@
       "jsonName": "sq--src-components-seo-js",
       "query": "query DefaultSEOQuery {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
       "hash": 1025518380
+    },
+    "sq--src-components-bio-js": {
+      "name": "BioQuery",
+      "componentPath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/components/Bio.js",
+      "id": "sq--src-components-bio-js",
+      "jsonName": "sq--src-components-bio-js",
+      "query": "query BioQuery {\n  avatar: file(absolutePath: {regex: \"/profile-pic.jpg/\"}) {\n    childImageSharp {\n      fixed(width: 50, height: 50) {\n        ...GatsbyImageSharpFixed\n      }\n    }\n  }\n  site {\n    siteMetadata {\n      author\n      social {\n        instagram\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFixed on ImageSharpFixed {\n  base64\n  width\n  height\n  src\n  srcSet\n}\n",
+      "hash": 20992707
     }
   }
 }

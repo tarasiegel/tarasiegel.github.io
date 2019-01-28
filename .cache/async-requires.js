@@ -9,5 +9,5 @@ exports.components = {
   "component---src-pages-page-2-js": () => import("/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/page-2.js" /* webpackChunkName: "component---src-pages-page-2-js" */)
 }
 
-exports.data = () => import("/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/.cache/data.json")
+exports.data = () => import(/* webpackChunkName: "pages-manifest" */ "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/.cache/data.json")
 

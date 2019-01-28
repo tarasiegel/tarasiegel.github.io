@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot read property 'internal' of undefined","locations":[{"line":3,"column":5}],"path":["avatar","childImageSharp"]}],"data":{"avatar":{"childImageSharp":null},"site":{"siteMetadata":{"author":null,"social":null}}}}

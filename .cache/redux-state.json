@@ -12,7 +12,7 @@
       }
     },
     "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
-      "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -24,7 +24,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -41,13 +41,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "b4d23258505212072b9c3c400a44aa56",
+        "contentDigest": "aebb1d8bda767f1b6feee5b14e6c2614",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "1fc32581-893a-55e8-8927-bcd667e2b700": {
-      "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
       "name": "load-babel-config",
       "version": "1.0.0",
@@ -59,7 +59,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "packageJson": {
         "name": "load-babel-config",
         "description": "Internal plugin that handles loading Babel configs",
@@ -76,13 +76,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "7a7095954808f96cac5fbfc3cb72bdd0",
+        "contentDigest": "9f6534a7799cdf1c73760f0100211f44",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
-      "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -95,7 +95,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -112,13 +112,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "ac051af7c22f283e01f07cace9186cc8",
+        "contentDigest": "96846187147d54c92ad324ae0089f5fd",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
-      "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
       "name": "prod-404",
       "version": "1.0.0",
@@ -130,7 +130,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -147,13 +147,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "dc2e0143725dfc94154ac0cad3739ea9",
+        "contentDigest": "d420fe8c77981abdc9e14ad1440650bc",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "84dad27f-1d44-51fc-ac56-4db2e5222995": {
-      "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
       "name": "query-runner",
       "version": "1.0.0",
@@ -165,7 +165,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -182,13 +182,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "e43fcfe8160f3690e3230ca3b5e37b12",
+        "contentDigest": "12410e39935f5948885c09942dcea650",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
-      "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
       "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
       "name": "webpack-theme-component-shadowing",
       "version": "1.0.0",
@@ -200,7 +200,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
       "packageJson": {
         "name": "webpack-theme-component-shadowing",
         "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
@@ -217,19 +217,19 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "a07c77984659f202ef18084e3bf8f270",
+        "contentDigest": "8acd83641c108fd9062d53c0848f73ba",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
-    "dcacfa85-b38c-5602-9bb0-d1081ee218a2": {
-      "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-source-filesystem",
-      "id": "dcacfa85-b38c-5602-9bb0-d1081ee218a2",
+    "0a8e2217-6fee-5a7a-bc73-e7971acdefa8": {
+      "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-source-filesystem",
+      "id": "0a8e2217-6fee-5a7a-bc73-e7971acdefa8",
       "name": "gatsby-source-filesystem",
       "version": "2.0.18",
       "pluginOptions": {
         "plugins": [],
-        "path": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog",
+        "path": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog",
         "name": "blog"
       },
       "nodeAPIs": [
@@ -238,7 +238,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-source-filesystem",
+      "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-source-filesystem",
       "packageJson": {
         "name": "gatsby-source-filesystem",
         "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
@@ -247,10 +247,7 @@
           "gatsby",
           "gatsby-plugin"
         ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -344,19 +341,19 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "5016e0bbeccff413f4cda80a16ff15dd",
+        "contentDigest": "5bba07a789e546ce26e0c05ef139ed12",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
-    "c32bdb4d-5590-586e-b99c-1aaa536a14e5": {
-      "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-source-filesystem",
-      "id": "c32bdb4d-5590-586e-b99c-1aaa536a14e5",
+    "6812a4b6-5754-5d1d-b035-0e0ebceed70d": {
+      "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-source-filesystem",
+      "id": "6812a4b6-5754-5d1d-b035-0e0ebceed70d",
       "name": "gatsby-source-filesystem",
       "version": "2.0.18",
       "pluginOptions": {
         "plugins": [],
-        "path": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/assets",
+        "path": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/assets",
         "name": "assets"
       },
       "nodeAPIs": [
@@ -365,7 +362,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-source-filesystem",
+      "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-source-filesystem",
       "packageJson": {
         "name": "gatsby-source-filesystem",
         "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
@@ -374,10 +371,7 @@
           "gatsby",
           "gatsby-plugin"
         ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -471,20 +465,20 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "807c38ae714d2156e01948e94dc6578f",
+        "contentDigest": "505d67c1fe21e81fe3c0b14bde81094a",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
-    "7a1dea8d-ca07-52d3-81af-28d7cc858a08": {
-      "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-transformer-remark",
-      "id": "7a1dea8d-ca07-52d3-81af-28d7cc858a08",
+    "452ff850-e950-5eab-b801-7ea86bcad4cd": {
+      "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-transformer-remark",
+      "id": "452ff850-e950-5eab-b801-7ea86bcad4cd",
       "name": "gatsby-transformer-remark",
       "version": "2.2.1",
       "pluginOptions": {
         "plugins": [
           {
-            "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-remark-images",
+            "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-remark-images",
             "id": "2e364750-fffd-5fdd-83a6-9aa8142f9581",
             "name": "gatsby-remark-images",
             "version": "2.0.6",
@@ -501,10 +495,10 @@
             "nodeAPIs": [],
             "browserAPIs": [],
             "ssrAPIs": [],
-            "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-remark-images"
+            "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-remark-images"
           },
           {
-            "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-remark-responsive-iframe",
+            "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-remark-responsive-iframe",
             "id": "1a3d9dbf-c3c7-50dc-9f59-97f0cf8bb163",
             "name": "gatsby-remark-responsive-iframe",
             "version": "2.0.8",
@@ -515,10 +509,10 @@
             "nodeAPIs": [],
             "browserAPIs": [],
             "ssrAPIs": [],
-            "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-remark-responsive-iframe"
+            "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-remark-responsive-iframe"
           },
           {
-            "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-remark-prismjs",
+            "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-remark-prismjs",
             "id": "b8d3a2f5-5540-5699-b862-153e57b2c618",
             "name": "gatsby-remark-prismjs",
             "version": "3.2.2",
@@ -528,10 +522,10 @@
             "nodeAPIs": [],
             "browserAPIs": [],
             "ssrAPIs": [],
-            "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-remark-prismjs"
+            "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-remark-prismjs"
           },
           {
-            "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-remark-copy-linked-files",
+            "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-remark-copy-linked-files",
             "id": "80533a5b-ad2d-50ff-af51-726674869458",
             "name": "gatsby-remark-copy-linked-files",
             "version": "2.0.8",
@@ -548,10 +542,10 @@
             "nodeAPIs": [],
             "browserAPIs": [],
             "ssrAPIs": [],
-            "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-remark-copy-linked-files"
+            "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-remark-copy-linked-files"
           },
           {
-            "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-remark-smartypants",
+            "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-remark-smartypants",
             "id": "90305615-131b-5991-a708-2c2d1c43d946",
             "name": "gatsby-remark-smartypants",
             "version": "2.0.7",
@@ -561,7 +555,7 @@
             "nodeAPIs": [],
             "browserAPIs": [],
             "ssrAPIs": [],
-            "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-remark-smartypants"
+            "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-remark-smartypants"
           }
         ]
       },
@@ -571,7 +565,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-transformer-remark",
+      "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-transformer-remark",
       "packageJson": {
         "name": "gatsby-transformer-remark",
         "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
@@ -582,10 +576,7 @@
           "markdown",
           "remark"
         ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -695,13 +686,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "dd05fac0597fc4f4e5e36869417023f6",
+        "contentDigest": "e1ebed489c653f81fe8b455bbe91bb51",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "2e364750-fffd-5fdd-83a6-9aa8142f9581": {
-      "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-remark-images",
+      "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-remark-images",
       "id": "2e364750-fffd-5fdd-83a6-9aa8142f9581",
       "name": "gatsby-remark-images",
       "version": "2.0.6",
@@ -718,7 +709,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-remark-images",
+      "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-remark-images",
       "packageJson": {
         "name": "gatsby-remark-images",
         "description": "Processes images in markdown so they can be used in the production build.",
@@ -732,10 +723,7 @@
           "remark",
           "responsive images"
         ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -801,13 +789,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "5c673f0703880fb670d2578254ec35ff",
+        "contentDigest": "328a31979182b27614a2840b2acb89c2",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "1a3d9dbf-c3c7-50dc-9f59-97f0cf8bb163": {
-      "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-remark-responsive-iframe",
+      "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-remark-responsive-iframe",
       "id": "1a3d9dbf-c3c7-50dc-9f59-97f0cf8bb163",
       "name": "gatsby-remark-responsive-iframe",
       "version": "2.0.8",
@@ -818,7 +806,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-remark-responsive-iframe",
+      "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-remark-responsive-iframe",
       "packageJson": {
         "name": "gatsby-remark-responsive-iframe",
         "description": "Make iframes in Markdown processed by Remark responsive",
@@ -829,10 +817,7 @@
           "gatsby-plugin",
           "remark"
         ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -894,13 +879,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "c5435b6d3185134e16c60b46d9c01bc8",
+        "contentDigest": "8a0c4736acaf870b067026222b038c82",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "b8d3a2f5-5540-5699-b862-153e57b2c618": {
-      "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-remark-prismjs",
+      "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-remark-prismjs",
       "id": "b8d3a2f5-5540-5699-b862-153e57b2c618",
       "name": "gatsby-remark-prismjs",
       "version": "3.2.2",
@@ -910,7 +895,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-remark-prismjs",
+      "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-remark-prismjs",
       "packageJson": {
         "name": "gatsby-remark-prismjs",
         "description": "Adds syntax highlighting to code blocks at build time using PrismJS",
@@ -922,10 +907,7 @@
           "prismjs",
           "remark"
         ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -983,13 +965,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "ae5f18d3be23811b2fbf759972e6612d",
+        "contentDigest": "bf0f385df98b617e86f2683d1336a311",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "80533a5b-ad2d-50ff-af51-726674869458": {
-      "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-remark-copy-linked-files",
+      "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-remark-copy-linked-files",
       "id": "80533a5b-ad2d-50ff-af51-726674869458",
       "name": "gatsby-remark-copy-linked-files",
       "version": "2.0.8",
@@ -1006,7 +988,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-remark-copy-linked-files",
+      "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-remark-copy-linked-files",
       "packageJson": {
         "name": "gatsby-remark-copy-linked-files",
         "description": "Find files which are linked to from markdown and copy them to the public directory",
@@ -1018,10 +1000,7 @@
           "prismjs",
           "remark"
         ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -1087,13 +1066,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "537b0d24e1790462226900ed17f22dbd",
+        "contentDigest": "b7380ae344ace469d54246cddfbb2926",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "90305615-131b-5991-a708-2c2d1c43d946": {
-      "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-remark-smartypants",
+      "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-remark-smartypants",
       "id": "90305615-131b-5991-a708-2c2d1c43d946",
       "name": "gatsby-remark-smartypants",
       "version": "2.0.7",
@@ -1103,7 +1082,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-remark-smartypants",
+      "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-remark-smartypants",
       "packageJson": {
         "name": "gatsby-remark-smartypants",
         "description": "Use retext-smartypants to auto-enhance typography of markdown",
@@ -1114,10 +1093,7 @@
           "gatsby-plugin",
           "smartypants"
         ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -1167,13 +1143,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "3a11b8665093d2c75f50fc886d664b00",
+        "contentDigest": "fff334b9831e9f4c5e908709a0577931",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9": {
-      "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-transformer-sharp",
+      "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-transformer-sharp",
       "id": "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9",
       "name": "gatsby-transformer-sharp",
       "version": "2.1.12",
@@ -1187,7 +1163,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-transformer-sharp",
+      "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-transformer-sharp",
       "packageJson": {
         "name": "gatsby-transformer-sharp",
         "description": "Gatsby transformer plugin for images using Sharp",
@@ -1198,10 +1174,7 @@
           "image",
           "sharp"
         ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -1263,13 +1236,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "83c1ec8fe3e25fe84d786da78cf041e5",
+        "contentDigest": "e39dbe7579e18bdd11c46a3734ae6833",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "84d6154d-4241-556c-a679-cc8339cac100": {
-      "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-plugin-sharp",
+      "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-sharp",
       "id": "84d6154d-4241-556c-a679-cc8339cac100",
       "name": "gatsby-plugin-sharp",
       "version": "2.0.18",
@@ -1281,7 +1254,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-plugin-sharp",
+      "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-sharp",
       "packageJson": {
         "name": "gatsby-plugin-sharp",
         "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
@@ -1293,10 +1266,7 @@
           "image",
           "sharp"
         ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -1394,13 +1364,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "7ca79bf69d0a47c97998961938d8b3eb",
+        "contentDigest": "9f69d1487d0a5413dbdbed28b60789d5",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "624c196c-30dd-59e4-bcdd-a6f980c0396f": {
-      "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-plugin-google-analytics",
+      "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-google-analytics",
       "id": "624c196c-30dd-59e4-bcdd-a6f980c0396f",
       "name": "gatsby-plugin-google-analytics",
       "version": "2.0.12",
@@ -1414,7 +1384,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-plugin-google-analytics",
+      "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-google-analytics",
       "packageJson": {
         "name": "gatsby-plugin-google-analytics",
         "description": "Gatsby plugin to add google analytics onto a site",
@@ -1425,10 +1395,7 @@
           "gatsby-plugin",
           "google analytics"
         ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -1466,13 +1433,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "fcf3396606565244c5dd7eefe19432a7",
+        "contentDigest": "fd2c8fdfe9ec674b6f3af807d4dda9b1",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "e1a9b6ff-843f-5a8b-b9fa-7ab223df58a2": {
-      "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-plugin-feed",
+      "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-feed",
       "id": "e1a9b6ff-843f-5a8b-b9fa-7ab223df58a2",
       "name": "gatsby-plugin-feed",
       "version": "2.0.12",
@@ -1486,7 +1453,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-plugin-feed",
+      "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-feed",
       "packageJson": {
         "name": "gatsby-plugin-feed",
         "description": "Creates an RSS feed for your Gatsby site.",
@@ -1499,10 +1466,7 @@
           "gatsby-plugin",
           "rss"
         ],
-        "author": {
-          "name": "Nicholas Young",
-          "email": "nicholas@nicholaswyoung.com"
-        },
+        "author": "Nicholas Young <nicholas@nicholaswyoung.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -1556,13 +1520,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "1c1c706da241d697c21ff830f4d6bd14",
+        "contentDigest": "1929e6dd098934bd39fe3088f36cb6c8",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "dee44986-459d-5a9c-bea6-1de7842285fd": {
-      "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-plugin-manifest",
+      "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-manifest",
       "id": "dee44986-459d-5a9c-bea6-1de7842285fd",
       "name": "gatsby-plugin-manifest",
       "version": "2.0.14",
@@ -1583,7 +1547,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-plugin-manifest",
+      "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-manifest",
       "packageJson": {
         "name": "gatsby-plugin-manifest",
         "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
@@ -1598,10 +1562,7 @@
           "progressive-web-app",
           "pwa"
         ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -1647,13 +1608,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "e05fa20d56d523f08d4a57137068cfc0",
+        "contentDigest": "64490b60ebb11dd24a1d8ca635f51fc7",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "63e5f7ff-e5f1-58f7-8e2c-55872ac42281": {
-      "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-plugin-offline",
+      "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-offline",
       "id": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
       "name": "gatsby-plugin-offline",
       "version": "2.0.22",
@@ -1670,7 +1631,7 @@
         "onPostPrefetchPathname"
       ],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-plugin-offline",
+      "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-offline",
       "packageJson": {
         "name": "gatsby-plugin-offline",
         "description": "Gatsby plugin which sets up a site to be able to run offline",
@@ -1683,10 +1644,7 @@
           "precache",
           "service-worker"
         ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -1744,13 +1702,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "8952fb22cb2d139ee37a4b722686eddb",
+        "contentDigest": "0c73e722464d790ce606fdfda7df4444",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
-      "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-react-helmet",
       "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
       "name": "gatsby-plugin-react-helmet",
       "version": "3.0.5",
@@ -1762,7 +1720,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
@@ -1784,10 +1742,7 @@
           "noscript",
           "style"
         ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "matthews.kyle@gmail.com"
-        },
+        "author": "Kyle Mathews <matthews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -1829,13 +1784,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "a6bbb5d457fcbee12a7d0315de052580",
+        "contentDigest": "22cb4ccb9f9e1ee9dad0704667dc646b",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "64059fc2-eafe-53ab-a542-ad6d70a5c7ff": {
-      "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-plugin-typography",
+      "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-typography",
       "id": "64059fc2-eafe-53ab-a542-ad6d70a5c7ff",
       "name": "gatsby-plugin-typography",
       "version": "2.2.6",
@@ -1852,7 +1807,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-plugin-typography",
+      "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-typography",
       "packageJson": {
         "name": "gatsby-plugin-typography",
         "description": "Gatsby plugin to setup server rendering of Typography.js' CSS",
@@ -1864,10 +1819,7 @@
           "typography",
           "typography.js"
         ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -1921,13 +1873,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "47b28393d5ce63482db35c4a9321a3e3",
+        "contentDigest": "50f7bbdd380e76fb50857bbc9eb24438",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
-      "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen",
+      "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
       "version": "3f8ca090a74c82fe076c81c8143299ae",
@@ -1940,7 +1892,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen",
+      "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen",
       "packageJson": {
         "name": "gatsby-starter-blog",
         "description": "A starter for a blog powered by Gatsby and Markdown",
@@ -1954,7 +1906,7 @@
         "dependencies": [
           {
             "name": "gatsby",
-            "version": "^2.0.91"
+            "version": "^2.0.83"
           },
           {
             "name": "gatsby-image",
@@ -2106,19 +2058,19 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "0a41a0c35250e5a70f7a358a9d1f620c",
+        "contentDigest": "7566e59d211173f15d1ca64008fa778f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
-    "ba85ad9f-99a6-5e59-9d80-07e41a3d4cdb": {
-      "resolve": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-plugin-page-creator",
-      "id": "ba85ad9f-99a6-5e59-9d80-07e41a3d4cdb",
+    "086142d7-4c5b-5202-afd4-d6ebd7b2af36": {
+      "resolve": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-page-creator",
+      "id": "086142d7-4c5b-5202-afd4-d6ebd7b2af36",
       "name": "gatsby-plugin-page-creator",
       "version": "2.0.5",
       "pluginOptions": {
         "plugins": [],
-        "path": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/pages",
+        "path": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages",
         "pathCheck": false
       },
       "nodeAPIs": [
@@ -2126,7 +2078,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-plugin-page-creator",
+      "pluginFilepath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-page-creator",
       "packageJson": {
         "name": "gatsby-plugin-page-creator",
         "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
@@ -2136,10 +2088,7 @@
           "gatsby",
           "gatsby-plugin"
         ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
         "license": "MIT",
         "dependencies": [
           {
@@ -2209,7 +2158,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "2b183148b36905f02282e28201b99b06",
+        "contentDigest": "72ad152c50033999fe5405b66adc1b84",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -2226,82 +2175,82 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-01-28T18:49:24.486Z",
+      "buildTime": "2019-01-29T02:02:07.154Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "e237874fb52e079000c48a2408b640ce",
+        "contentDigest": "72cb33ef0e801469da90d3a1b04836fb",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
     },
-    "317c81bb-bf14-5cb8-8227-056eaefdab17": {
-      "id": "317c81bb-bf14-5cb8-8227-056eaefdab17",
+    "16aa460e-9aea-5274-9707-aa9e84ec6fa1": {
+      "id": "16aa460e-9aea-5274-9707-aa9e84ec6fa1",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "f39e1940f3239c3cf32f63ca3c8550f2",
+        "contentDigest": "01f73246011204d6c6fb8c0bb5ee9434",
         "type": "Directory",
         "description": "Directory \"content/blog\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog",
       "relativePath": "",
       "extension": "",
-      "size": 160,
-      "prettySize": "160 B",
-      "modifiedTime": "2019-01-28T15:27:15.685Z",
-      "accessTime": "2019-01-28T18:49:28.773Z",
-      "changeTime": "2019-01-28T15:27:15.685Z",
-      "birthTime": "2019-01-28T15:27:15.501Z",
+      "size": 192,
+      "prettySize": "192 B",
+      "modifiedTime": "2019-01-28T04:52:41.717Z",
+      "accessTime": "2019-01-29T02:02:09.488Z",
+      "changeTime": "2019-01-28T04:52:41.717Z",
+      "birthTime": "2019-01-19T04:51:26.577Z",
       "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content",
       "base": "blog",
       "ext": "",
       "name": "blog",
       "relativeDirectory": "..",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 5,
-      "uid": 503,
+      "nlink": 6,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 11995938,
+      "ino": 8604269393,
       "blocks": 0,
-      "atimeMs": 1548701368773.0986,
-      "mtimeMs": 1548689235684.7588,
-      "ctimeMs": 1548689235684.7588,
-      "birthtimeMs": 1548689235501.0908,
-      "atime": "2019-01-28T18:49:28.773Z",
-      "mtime": "2019-01-28T15:27:15.685Z",
-      "ctime": "2019-01-28T15:27:15.685Z",
-      "birthtime": "2019-01-28T15:27:15.501Z"
+      "atimeMs": 1548727329487.54,
+      "mtimeMs": 1548651161717.497,
+      "ctimeMs": 1548651161717.497,
+      "birthtimeMs": 1547873486577.1038,
+      "atime": "2019-01-29T02:02:09.488Z",
+      "mtime": "2019-01-28T04:52:41.717Z",
+      "ctime": "2019-01-28T04:52:41.717Z",
+      "birthtime": "2019-01-19T04:51:26.577Z"
     },
-    "f25e2491-290a-56ee-a636-1bacaddbdd24": {
-      "id": "f25e2491-290a-56ee-a636-1bacaddbdd24",
+    "eda9f4fa-c86e-5cef-842a-abba077c93bc": {
+      "id": "eda9f4fa-c86e-5cef-842a-abba077c93bc",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "9084bd072631af105019d179fcad0716",
+        "contentDigest": "b239735a6b4d7a0b38efa5b17ca8be02",
         "type": "Directory",
         "description": "Directory \"content/blog/hot-cocoa-macarons\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/hot-cocoa-macarons",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/hot-cocoa-macarons",
       "relativePath": "hot-cocoa-macarons",
       "extension": "",
       "size": 256,
       "prettySize": "256 B",
-      "modifiedTime": "2019-01-28T15:27:15.566Z",
-      "accessTime": "2019-01-28T18:49:28.775Z",
-      "changeTime": "2019-01-28T15:27:15.566Z",
-      "birthTime": "2019-01-28T15:27:15.501Z",
+      "modifiedTime": "2019-01-28T04:52:41.375Z",
+      "accessTime": "2019-01-29T02:02:09.490Z",
+      "changeTime": "2019-01-28T04:52:41.375Z",
+      "birthTime": "2019-01-28T04:52:41.232Z",
       "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog",
       "base": "hot-cocoa-macarons",
       "ext": "",
       "name": "hot-cocoa-macarons",
@@ -2309,43 +2258,43 @@
       "dev": 16777220,
       "mode": 16877,
       "nlink": 8,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 11995939,
+      "ino": 8604322489,
       "blocks": 0,
-      "atimeMs": 1548701368775.1614,
-      "mtimeMs": 1548689235566.2173,
-      "ctimeMs": 1548689235566.2173,
-      "birthtimeMs": 1548689235501.137,
-      "atime": "2019-01-28T18:49:28.775Z",
-      "mtime": "2019-01-28T15:27:15.566Z",
-      "ctime": "2019-01-28T15:27:15.566Z",
-      "birthtime": "2019-01-28T15:27:15.501Z"
+      "atimeMs": 1548727329489.9067,
+      "mtimeMs": 1548651161374.6711,
+      "ctimeMs": 1548651161374.6711,
+      "birthtimeMs": 1548651161231.7734,
+      "atime": "2019-01-29T02:02:09.490Z",
+      "mtime": "2019-01-28T04:52:41.375Z",
+      "ctime": "2019-01-28T04:52:41.375Z",
+      "birthtime": "2019-01-28T04:52:41.232Z"
     },
-    "f082ee21-8c0e-5410-a929-934b8b7eea53": {
-      "id": "f082ee21-8c0e-5410-a929-934b8b7eea53",
+    "a1197d98-476e-5d5a-8ec8-3ee5ee0104da": {
+      "id": "a1197d98-476e-5d5a-8ec8-3ee5ee0104da",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "c5f823ce6bab20b73971174a55617e45",
+        "contentDigest": "b2f1ed8b14f517dd44c0a300cca13626",
         "type": "Directory",
         "description": "Directory \"content/blog/tomato-mole-jam\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/tomato-mole-jam",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam",
       "relativePath": "tomato-mole-jam",
       "extension": "",
       "size": 320,
       "prettySize": "320 B",
-      "modifiedTime": "2019-01-28T15:27:15.673Z",
-      "accessTime": "2019-01-28T18:49:28.775Z",
-      "changeTime": "2019-01-28T15:27:15.673Z",
-      "birthTime": "2019-01-28T15:27:15.566Z",
+      "modifiedTime": "2019-01-28T04:52:41.682Z",
+      "accessTime": "2019-01-29T02:02:09.490Z",
+      "changeTime": "2019-01-28T04:52:41.682Z",
+      "birthTime": "2019-01-28T04:52:41.376Z",
       "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog",
       "base": "tomato-mole-jam",
       "ext": "",
       "name": "tomato-mole-jam",
@@ -2353,43 +2302,43 @@
       "dev": 16777220,
       "mode": 16877,
       "nlink": 10,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 11995946,
+      "ino": 8604322500,
       "blocks": 0,
-      "atimeMs": 1548701368775.17,
-      "mtimeMs": 1548689235672.5676,
-      "ctimeMs": 1548689235672.5676,
-      "birthtimeMs": 1548689235566.3535,
-      "atime": "2019-01-28T18:49:28.775Z",
-      "mtime": "2019-01-28T15:27:15.673Z",
-      "ctime": "2019-01-28T15:27:15.673Z",
-      "birthtime": "2019-01-28T15:27:15.566Z"
+      "atimeMs": 1548727329490.0688,
+      "mtimeMs": 1548651161681.9966,
+      "ctimeMs": 1548651161681.9966,
+      "birthtimeMs": 1548651161375.8928,
+      "atime": "2019-01-29T02:02:09.490Z",
+      "mtime": "2019-01-28T04:52:41.682Z",
+      "ctime": "2019-01-28T04:52:41.682Z",
+      "birthtime": "2019-01-28T04:52:41.376Z"
     },
-    "7d68346f-ed4f-5f6d-82ce-b9ecaf1a5b6a": {
-      "id": "7d68346f-ed4f-5f6d-82ce-b9ecaf1a5b6a",
+    "640d2c70-c1db-51b3-a26c-72c83b0e07be": {
+      "id": "640d2c70-c1db-51b3-a26c-72c83b0e07be",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "b5d7d4d6634b58b0cc3d04ea51542b82",
+        "contentDigest": "bc244ea5dd733ba16e046cfe1d64779c",
         "type": "Directory",
         "description": "Directory \"content/blog/welcome\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/welcome",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/welcome",
       "relativePath": "welcome",
       "extension": "",
       "size": 128,
       "prettySize": "128 B",
-      "modifiedTime": "2019-01-28T15:27:15.694Z",
-      "accessTime": "2019-01-28T18:49:28.775Z",
-      "changeTime": "2019-01-28T15:27:15.694Z",
-      "birthTime": "2019-01-28T15:27:15.685Z",
+      "modifiedTime": "2019-01-28T04:52:41.757Z",
+      "accessTime": "2019-01-29T02:02:09.490Z",
+      "changeTime": "2019-01-28T04:52:41.757Z",
+      "birthTime": "2019-01-28T04:52:41.717Z",
       "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog",
       "base": "welcome",
       "ext": "",
       "name": "welcome",
@@ -2397,119 +2346,25 @@
       "dev": 16777220,
       "mode": 16877,
       "nlink": 4,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 11995955,
+      "ino": 8604322509,
       "blocks": 0,
-      "atimeMs": 1548701368775.1658,
-      "mtimeMs": 1548689235694.3145,
-      "ctimeMs": 1548689235694.3145,
-      "birthtimeMs": 1548689235684.7524,
-      "atime": "2019-01-28T18:49:28.775Z",
-      "mtime": "2019-01-28T15:27:15.694Z",
-      "ctime": "2019-01-28T15:27:15.694Z",
-      "birthtime": "2019-01-28T15:27:15.685Z"
+      "atimeMs": 1548727329489.8977,
+      "mtimeMs": 1548651161757.0488,
+      "ctimeMs": 1548651161757.0488,
+      "birthtimeMs": 1548651161717.4866,
+      "atime": "2019-01-29T02:02:09.490Z",
+      "mtime": "2019-01-28T04:52:41.757Z",
+      "ctime": "2019-01-28T04:52:41.757Z",
+      "birthtime": "2019-01-28T04:52:41.717Z"
     },
-    "dffff98c-405b-5c75-8fc8-83233b4b3d5e": {
-      "id": "dffff98c-405b-5c75-8fc8-83233b4b3d5e",
+    "8927e0cb-77c7-5087-a6e8-1c495d6e802d": {
+      "id": "8927e0cb-77c7-5087-a6e8-1c495d6e802d",
       "children": [
-        "1ad86611-5441-5618-a313-e7451dba2b02"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "5cd29f373425c3bf2c6c5c2346c82eac",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"content/blog/hot-cocoa-macarons/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/hot-cocoa-macarons/index.md",
-      "relativePath": "hot-cocoa-macarons/index.md",
-      "extension": "md",
-      "size": 1370,
-      "prettySize": "1.37 kB",
-      "modifiedTime": "2019-01-28T15:27:15.566Z",
-      "accessTime": "2019-01-28T18:39:56.974Z",
-      "changeTime": "2019-01-28T15:27:15.566Z",
-      "birthTime": "2019-01-28T15:27:15.566Z",
-      "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/hot-cocoa-macarons",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "hot-cocoa-macarons",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 503,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 11995945,
-      "blocks": 8,
-      "atimeMs": 1548700796973.8403,
-      "mtimeMs": 1548689235566.283,
-      "ctimeMs": 1548689235566.283,
-      "birthtimeMs": 1548689235566.201,
-      "atime": "2019-01-28T18:39:56.974Z",
-      "mtime": "2019-01-28T15:27:15.566Z",
-      "ctime": "2019-01-28T15:27:15.566Z",
-      "birthtime": "2019-01-28T15:27:15.566Z"
-    },
-    "58b7150f-fdf7-5ce1-84bb-b01649806f88": {
-      "id": "58b7150f-fdf7-5ce1-84bb-b01649806f88",
-      "children": [
-        "a30e88bf-2a6f-5c21-a9d2-01ecd6c7f6bd"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "19b0e6f7d2425f163b20d28009029d30",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"content/blog/tomato-mole-jam/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/tomato-mole-jam/index.md",
-      "relativePath": "tomato-mole-jam/index.md",
-      "extension": "md",
-      "size": 8855,
-      "prettySize": "8.86 kB",
-      "modifiedTime": "2019-01-28T15:27:15.567Z",
-      "accessTime": "2019-01-28T18:39:53.699Z",
-      "changeTime": "2019-01-28T15:27:15.567Z",
-      "birthTime": "2019-01-28T15:27:15.566Z",
-      "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/tomato-mole-jam",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "tomato-mole-jam",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 503,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 11995947,
-      "blocks": 24,
-      "atimeMs": 1548700793699.2854,
-      "mtimeMs": 1548689235566.563,
-      "ctimeMs": 1548689235566.563,
-      "birthtimeMs": 1548689235566.4253,
-      "atime": "2019-01-28T18:39:53.699Z",
-      "mtime": "2019-01-28T15:27:15.567Z",
-      "ctime": "2019-01-28T15:27:15.567Z",
-      "birthtime": "2019-01-28T15:27:15.566Z"
-    },
-    "f2ca8a57-408b-5982-8b68-6e8136c570fb": {
-      "id": "f2ca8a57-408b-5982-8b68-6e8136c570fb",
-      "children": [
-        "2cff4dea-5230-5de8-a7e8-c406fa3f9594"
+        "61859686-f971-51c1-aeb5-1ec4020ed339"
       ],
       "parent": null,
       "internal": {
@@ -2520,17 +2375,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/welcome/index.md",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/welcome/index.md",
       "relativePath": "welcome/index.md",
       "extension": "md",
       "size": 278,
       "prettySize": "278 B",
-      "modifiedTime": "2019-01-28T15:27:15.694Z",
-      "accessTime": "2019-01-28T18:39:56.974Z",
-      "changeTime": "2019-01-28T15:27:15.694Z",
-      "birthTime": "2019-01-28T15:27:15.694Z",
+      "modifiedTime": "2019-01-28T04:52:41.759Z",
+      "accessTime": "2019-01-29T01:42:27.859Z",
+      "changeTime": "2019-01-28T04:52:41.759Z",
+      "birthTime": "2019-01-28T04:52:41.757Z",
       "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/welcome",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/welcome",
       "base": "index.md",
       "ext": ".md",
       "name": "index",
@@ -2538,29 +2393,153 @@
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 11995957,
+      "ino": 8604322511,
       "blocks": 8,
-      "atimeMs": 1548700796974.4265,
-      "mtimeMs": 1548689235694.365,
-      "ctimeMs": 1548689235694.365,
-      "birthtimeMs": 1548689235694.3083,
-      "atime": "2019-01-28T18:39:56.974Z",
-      "mtime": "2019-01-28T15:27:15.694Z",
-      "ctime": "2019-01-28T15:27:15.694Z",
-      "birthtime": "2019-01-28T15:27:15.694Z"
+      "atimeMs": 1548726147858.7627,
+      "mtimeMs": 1548651161759.1235,
+      "ctimeMs": 1548651161759.1235,
+      "birthtimeMs": 1548651161757.0132,
+      "atime": "2019-01-29T01:42:27.859Z",
+      "mtime": "2019-01-28T04:52:41.759Z",
+      "ctime": "2019-01-28T04:52:41.759Z",
+      "birthtime": "2019-01-28T04:52:41.757Z"
     },
-    "1ad86611-5441-5618-a313-e7451dba2b02": {
-      "id": "1ad86611-5441-5618-a313-e7451dba2b02",
+    "dd2de463-d5af-55fb-be09-c2c1abca9aa2": {
+      "id": "dd2de463-d5af-55fb-be09-c2c1abca9aa2",
+      "children": [
+        "5fac45af-9dda-5faa-a929-243d1c5db1ab"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "5cd29f373425c3bf2c6c5c2346c82eac",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content/blog/hot-cocoa-macarons/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "blog",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/hot-cocoa-macarons/index.md",
+      "relativePath": "hot-cocoa-macarons/index.md",
+      "extension": "md",
+      "size": 1370,
+      "prettySize": "1.37 kB",
+      "modifiedTime": "2019-01-28T04:52:41.376Z",
+      "accessTime": "2019-01-29T01:42:27.859Z",
+      "changeTime": "2019-01-28T04:52:41.376Z",
+      "birthTime": "2019-01-28T04:52:41.375Z",
+      "root": "/",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/hot-cocoa-macarons",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "hot-cocoa-macarons",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8604322499,
+      "blocks": 8,
+      "atimeMs": 1548726147858.6938,
+      "mtimeMs": 1548651161375.6692,
+      "ctimeMs": 1548651161375.6692,
+      "birthtimeMs": 1548651161374.6565,
+      "atime": "2019-01-29T01:42:27.859Z",
+      "mtime": "2019-01-28T04:52:41.376Z",
+      "ctime": "2019-01-28T04:52:41.376Z",
+      "birthtime": "2019-01-28T04:52:41.375Z"
+    },
+    "6612e892-42b8-5cfc-8985-16cf22049c7e": {
+      "id": "6612e892-42b8-5cfc-8985-16cf22049c7e",
+      "children": [
+        "e938c780-ae3e-5016-8fd4-9b48f53caa32"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "19b0e6f7d2425f163b20d28009029d30",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content/blog/tomato-mole-jam/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "blog",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam/index.md",
+      "relativePath": "tomato-mole-jam/index.md",
+      "extension": "md",
+      "size": 8855,
+      "prettySize": "8.86 kB",
+      "modifiedTime": "2019-01-28T04:52:41.376Z",
+      "accessTime": "2019-01-29T01:42:27.859Z",
+      "changeTime": "2019-01-28T04:52:41.376Z",
+      "birthTime": "2019-01-28T04:52:41.376Z",
+      "root": "/",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "tomato-mole-jam",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8604322501,
+      "blocks": 24,
+      "atimeMs": 1548726147858.7063,
+      "mtimeMs": 1548651161376.4897,
+      "ctimeMs": 1548651161376.4897,
+      "birthtimeMs": 1548651161375.967,
+      "atime": "2019-01-29T01:42:27.859Z",
+      "mtime": "2019-01-28T04:52:41.376Z",
+      "ctime": "2019-01-28T04:52:41.376Z",
+      "birthtime": "2019-01-28T04:52:41.376Z"
+    },
+    "61859686-f971-51c1-aeb5-1ec4020ed339": {
+      "id": "61859686-f971-51c1-aeb5-1ec4020ed339",
       "children": [],
-      "parent": "dffff98c-405b-5c75-8fc8-83233b4b3d5e",
+      "parent": "8927e0cb-77c7-5087-a6e8-1c495d6e802d",
+      "internal": {
+        "content": "\nWelcome to Full Stack Kitchen! My name is Tara Siegel and I am a full time full stack engineer and lover of all things sweet. ",
+        "type": "MarkdownRemark",
+        "contentDigest": "6dc3f50cf22a9565c6143ce34015508e",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Welcome to Full Stack Kitchen!",
+        "date": "2019-01-01T22:40:32.169Z",
+        "description": "Welcome!",
+        "image": "./chia_pet_cake.jpg",
+        "tags": [
+          "first",
+          "welcome"
+        ]
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nWelcome to Full Stack Kitchen! My name is Tara Siegel and I am a full time full stack engineer and lover of all things sweet. ",
+      "fileAbsolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/welcome/index.md",
+      "fields": {
+        "slug": "/welcome/"
+      }
+    },
+    "5fac45af-9dda-5faa-a929-243d1c5db1ab": {
+      "id": "5fac45af-9dda-5faa-a929-243d1c5db1ab",
+      "children": [],
+      "parent": "dd2de463-d5af-55fb-be09-c2c1abca9aa2",
       "internal": {
         "content": "\n![Social View](./hot_cocoa_macarons-7.jpg)\n\n![Slice View](./hot_cocoa_macarons-14.jpg)\n\n![Slice View](./hot_cocoa_macarons-11.jpg)\n\n![Slice View](./hot_cocoa_macarons-2.jpg)\n\n<div class=\"body-text\">\n\nThe first month of the New Year has already flown by and it’s bitter cold here in Brooklyn.  Even though winter is always fun (ie. skiing), I get that yearning to be on a beach in Mexico or basking in the Mediterranean sun whenever I am trudging to work through the snowy dirty streets of New York.  Making and eating this Mexican Ricotta Cheesecake with a Tomato Mole Jam is possibly the next best thing to hopping on a flight to warmer weather.  It has loads of spicy, complex flavors that will keep you warm and preoccupied until the sun comes out in a few months. \n \n</div>\n\n![Top View with can](./hot_cocoa_macarons-9.jpg)\n\n### Hot Cocoa Macarons\n\n##### __**Ingredients**__\n\n###### __**Macarons Shells**__\n- 170g ground almonds\n- 260g powdered sugar\n- 30g cocoa powder\n- 1/2 teaspoon of cayenne pepper\n- 1 teaspoon of cinnamon\n- 1/2 teaspoon of vanilla powder\n- 180g egg whites, at room temperature\n- 160g white sugar\n\n\n##### __**Directions**__\n\nChocolate Macaron Shells\n",
         "type": "MarkdownRemark",
-        "contentDigest": "b8f7518a32013eff971d54963111142c",
+        "contentDigest": "bd3e50927153838a99e36e63c25be154",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "slug": "default-site-plugin"
@@ -2581,49 +2560,19 @@
       },
       "excerpt": "",
       "rawMarkdownBody": "\n![Social View](./hot_cocoa_macarons-7.jpg)\n\n![Slice View](./hot_cocoa_macarons-14.jpg)\n\n![Slice View](./hot_cocoa_macarons-11.jpg)\n\n![Slice View](./hot_cocoa_macarons-2.jpg)\n\n<div class=\"body-text\">\n\nThe first month of the New Year has already flown by and it’s bitter cold here in Brooklyn.  Even though winter is always fun (ie. skiing), I get that yearning to be on a beach in Mexico or basking in the Mediterranean sun whenever I am trudging to work through the snowy dirty streets of New York.  Making and eating this Mexican Ricotta Cheesecake with a Tomato Mole Jam is possibly the next best thing to hopping on a flight to warmer weather.  It has loads of spicy, complex flavors that will keep you warm and preoccupied until the sun comes out in a few months. \n \n</div>\n\n![Top View with can](./hot_cocoa_macarons-9.jpg)\n\n### Hot Cocoa Macarons\n\n##### __**Ingredients**__\n\n###### __**Macarons Shells**__\n- 170g ground almonds\n- 260g powdered sugar\n- 30g cocoa powder\n- 1/2 teaspoon of cayenne pepper\n- 1 teaspoon of cinnamon\n- 1/2 teaspoon of vanilla powder\n- 180g egg whites, at room temperature\n- 160g white sugar\n\n\n##### __**Directions**__\n\nChocolate Macaron Shells\n",
-      "fileAbsolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/hot-cocoa-macarons/index.md",
+      "fileAbsolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/hot-cocoa-macarons/index.md",
       "fields": {
         "slug": "/hot-cocoa-macarons/"
       }
     },
-    "2cff4dea-5230-5de8-a7e8-c406fa3f9594": {
-      "id": "2cff4dea-5230-5de8-a7e8-c406fa3f9594",
+    "e938c780-ae3e-5016-8fd4-9b48f53caa32": {
+      "id": "e938c780-ae3e-5016-8fd4-9b48f53caa32",
       "children": [],
-      "parent": "f2ca8a57-408b-5982-8b68-6e8136c570fb",
-      "internal": {
-        "content": "\nWelcome to Full Stack Kitchen! My name is Tara Siegel and I am a full time full stack engineer and lover of all things sweet. ",
-        "type": "MarkdownRemark",
-        "contentDigest": "b7a60570f11924fdba7cd0809f5f83ac",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Welcome to Full Stack Kitchen!",
-        "date": "2019-01-01T22:40:32.169Z",
-        "description": "Welcome!",
-        "image": "./chia_pet_cake.jpg",
-        "tags": [
-          "first",
-          "welcome"
-        ]
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nWelcome to Full Stack Kitchen! My name is Tara Siegel and I am a full time full stack engineer and lover of all things sweet. ",
-      "fileAbsolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/welcome/index.md",
-      "fields": {
-        "slug": "/welcome/"
-      }
-    },
-    "a30e88bf-2a6f-5c21-a9d2-01ecd6c7f6bd": {
-      "id": "a30e88bf-2a6f-5c21-a9d2-01ecd6c7f6bd",
-      "children": [],
-      "parent": "58b7150f-fdf7-5ce1-84bb-b01649806f88",
+      "parent": "6612e892-42b8-5cfc-8985-16cf22049c7e",
       "internal": {
         "content": "---\n\n![Social View](./mole_cheesecake-13.jpg)\n\n![Slice View](./mole_cheesecake-34.jpg)\n\n<div class=\"body-text\">\n\nThe first month of the New Year has already flown by and it’s bitter cold here in Brooklyn.  Even though winter is always fun (ie. skiing), I get that yearning to be on a beach in Mexico or basking in the Mediterranean sun whenever I am trudging to work through the snowy dirty streets of New York.  Making and eating this Mexican Ricotta Cheesecake with a Tomato Mole Jam is possibly the next best thing to hopping on a flight to warmer weather.  It has loads of spicy, complex flavors that will keep you warm and preoccupied until the sun comes out in a few months. \n\n\nWhen i was approached by Muir Glen and The Feedfeed to develop a recipe for them using their organic canned tomatoes, I wanted to think outside the box. Wanting to stay true to my *mostly* dessert feed, a tomato jam immediately came to mind. Tomato jams are usually made with onions, cumin and other savory spices. They show up on cheese plates, as condiments for sandwiches, on top of eggs and in vinaigrettes.  I wanted to make a more complex, sweeter jam that could do double duty as a perfect addition to a cheese plate but not feel weird on top of a dessert. Mole is a traditional sauce used in Mexican cuisines. According to Wikipedia - the source of all knowledge - a mole sauce contains a fruit, chili pepper, nut, and such spices as black pepper, cinnamon, cumin, and chocolate.  I could work with that. As you can see in the final recipe below, my mole jam has a lot of that - cinnamon, dried fruit, almonds and cocoa. The results? A sweet, (but not too sweet!) dynamic, interesting jam with a slightly spicy aftertaste.  It tastes like a tomato jam, but it also doesn’t really taste a whole lot like what you would think tomatoes taste like.  But what do I put it on? \n</div>\n\n<div class=\"image-halfsize-container\">\n    <div class=\"image-halfsize\">\n        <img src=\"./mole_cheesecake-27.jpg\" />\n    </div>\n    <div class=\"image-halfsize\">\n        <img src=\"./mole_cheesecake-16.jpg\" />\n    </div>\n</div>\n\n<div class=\"body-text\">\n\nEnter the ricotta cheesecake. Using ricotta in place of some of the cream cheese makes the cake a lot lighter (in a calorie and fluffier way). This creates a good balance with the graham cracker crust and thick dense mole jam.  By using the tried and true water bath method (outlined in the instructions), my cheesecake came out perfect with no cracks, no overcooked edges and a flat top!  I also left it in the oven after I turned off the heat for a few hours, which I’ve read helps prevent cracking.\n\nI ventured to my local co-op to buy the tomatoes, spices and other ingredients for this recipe.  Flatbush Food Coop is the closest one to me, but you can find your closest one here! The tomatoes are currently on sale for 10/$10 - which is very exciting because that’s almost half their regular price. Speaking of deals (which I’m a huge fan of), the entire co-op was extremely reasonably priced and they had an extensive bulk food and spice section where you can get just what you need (like for this recipe!). \n\nThis cake is perfect when you want to try making something different.  The jam itself is a showstopper and I can imagine it works very well with all sorts of cheese, on top of your morning bagel and cream cheese, inside a pastry or mixed into yogurt.   The jam makes a little more than you actually need to cover the cake, so let me know if you make this recipe and what you did with the extra!\n\n</div>\n\n![Top View with can](./mole_cheesecake-18.jpg)\n\n### Mexican Ricotta Cheesecake with Tomato Mole Jam\n\n#### Tomato Mole Jam\n_Makes 1 4oz jar_\n\n##### __**Ingredients**__\n- 1 14.5oz can [Muir Glen Petite Diced Tomatoes](https://www.muirglen.com/products/petite-diced-tomatoes/)\n- 1 cup sugar _(7 oz / 200g)_\n- 2 dates, finely chopped\n- ¼ cup raisins, finely chopped\n- 2 Tbsp almonds, finely chopped\n- 1-2 cinnamon sticks\n- 1 whole or ¼ tsp ground star anise _(optional)_\n- Juice and zest from 1 lime\n- 1 Tbsp cocoa powder\n- ¼ - ½ tsp chili powder _(depending on how spicy you want it)_\n- ⅛ tsp cayenne pepper\n- ¼ tsp nutmeg\n- ¼ tsp cloves\n\n##### __**Directions**__\nDrain the tomatoes in a mesh strainer to remove any extra juice. Place tomatoes and rest of the ingredients in a medium-sized saucepan.\n\nHeat on low and stir frequently until the sugar has dissolved.  Increase the heat to medium and bring the jam to a boil, stirring frequently with a wooden spoon.  Let it cook at a medium boil for 15-20 minutes, stirring every minute or so to prevent the sides and bottom from burning.  At 15 minutes, test the jam.  It should have a thick gelatinous consistency.  \n\nOnce the jam is done, remove cinnamon sticks and whole star anise.  The jam will be kind of chunky with the dried fruit and nuts.  If you prefer a smoother jam, use an immersion blender stick to puree it a bit.  You can also put it in a food processor or blender.  Afterwards, quickly pour jam into a glass ball jar and seal it.  Let it completely cool at room temperature.  It should last up to 4 months refrigerated. \n\nIf you are making this jam on its on and wish to preserve it unrefrigerated, follow steps [here](https://www.nytimes.com/2012/09/19/dining/canning-jam-from-preparing-the-jars-to-testing-the-seal.html) for prepping the jar.\n\n\n______________________________________________\n\n#### Ricotta Cheesecake\n_Makes 1 8-inch cake, about 10-12 servings_\n\n##### __**Ingredients**__\n###### Crust\n- 1 cup Graham Cracker crumbs _(100g, or from ~7 crackers)_\n- 3 Tbsp butter, melted\n- 1 Tbsp cinnamon\n- ⅛ tsp cayenne\n- ¼ tsp ginger\n\n###### Cake\n- 32 oz ricotta, drained _-- then will be more like 27 oz_\n- 8 oz cream cheese\n- 1 cup sugar\n- 4 eggs\n- 2 Tbsp all-purpose flour\n- 2 Tbsp cornstarch\n- 1 Tbsp lime juice _(juice from 1 lime)_\n- Zest of 1 lime\n- 1 tsp vanilla extract\n- ½ tsp almond extract _(optional)_\n- ¼ tsp salt\n\n- Tomato Mole Jam, _recipe above_\n- Slivered Almonds _for garnish, optional_\n\n##### __**Directions**__\nPreheat the oven to 350˚F / 180˚C. Butter a 8-inch springform pan.\n\nPlace the ricotta cheese in either a cheesecloth on top of a mesh strainer or in a fine mesh strainer, and put the strainer over a bowl.  Let it sit for at least 30 minutes, or up to 2 hours to drain the cheese, since it’s usually pretty watery.\n\nIf not using packaged graham cracker crumbs, put the graham crackers in a food processor and pulse until fine.  You can also put the crackers in a ziploc bag and smash them.  Add the melted butter and spices in the food processor and pulse a few times to just mix. Pour the crumbs into the pan and press into an even layer.  Using the bottom of a glass helps!\n\nBake the crust for 8-10 minutes, or until golden brown. Once completely cooled, wrap the base of the springform pan in 1-3 layers of tinfoil.  This is so the water from the water-bath doesn’t seep into the cake. \n\nLower the oven to 325˚F / 160˚C.\n\nUsing a electric mixer with a paddle attachment (or by hand if you don’t have a mixer), beat the cream cheese on medium-low until smooth, 1-2 minutes.  Add ricotta and sugar, and beat until smooth. One at a time, add in the eggs until fully incorporated. Add the flour, cornstarch, extracts, salt, lime juice and zest and mix until just combined and a smooth consistency.  Pour batter over the crust and spread evenly.\n\nPlace the pan on a roasting pan and put in the oven.  Boil some water.  Once in the oven, pour boiling water into the pan so that it covers about 1/2 up the side of the pan, 1-1.5 inches high.  Trust me, it’s a lot easier and safer to pour the water in after it’s in the oven than trying to carefully put it on the rack with splashing hot water going everywhere.\n\nBake for approximately 1.25-1.5 hours. It is done when you can shake the pan and the sides of the cake are set but the center is slightly wiggly, about the size of an inch in diameter. . That’s fine.  Turn off the oven and leave it in the oven for 3 hours with the door closed the entire time.  Take it out and leave it on the counter for another 1-2 hours. Refrigerate (tightly wrapped in plastic wrap) until ready to use, preferably overnight.\n\n##### __**Assembly**__\nWhen ready to serve, spread the Tomato Mole Jam on top of the cake.  I like to do this while it is still in the springform pan to get nice sharp edges around the side.  Decorate with slivered almonds if desired.  Run a butter knife around the edges of the cake and release it from the pan. Cake can be kept in the refrigerator for up to 5 days. \n\n![Slice with bite View](./mole_cheesecake-36.jpg)",
         "type": "MarkdownRemark",
-        "contentDigest": "a9aa9d1fc50c25776b641999c49e37a8",
+        "contentDigest": "d85014b81302acc94f731e6827b8c9a5",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "slug": "default-site-plugin"
@@ -2641,15 +2590,15 @@
       },
       "excerpt": "",
       "rawMarkdownBody": "---\n\n![Social View](./mole_cheesecake-13.jpg)\n\n![Slice View](./mole_cheesecake-34.jpg)\n\n<div class=\"body-text\">\n\nThe first month of the New Year has already flown by and it’s bitter cold here in Brooklyn.  Even though winter is always fun (ie. skiing), I get that yearning to be on a beach in Mexico or basking in the Mediterranean sun whenever I am trudging to work through the snowy dirty streets of New York.  Making and eating this Mexican Ricotta Cheesecake with a Tomato Mole Jam is possibly the next best thing to hopping on a flight to warmer weather.  It has loads of spicy, complex flavors that will keep you warm and preoccupied until the sun comes out in a few months. \n\n\nWhen i was approached by Muir Glen and The Feedfeed to develop a recipe for them using their organic canned tomatoes, I wanted to think outside the box. Wanting to stay true to my *mostly* dessert feed, a tomato jam immediately came to mind. Tomato jams are usually made with onions, cumin and other savory spices. They show up on cheese plates, as condiments for sandwiches, on top of eggs and in vinaigrettes.  I wanted to make a more complex, sweeter jam that could do double duty as a perfect addition to a cheese plate but not feel weird on top of a dessert. Mole is a traditional sauce used in Mexican cuisines. According to Wikipedia - the source of all knowledge - a mole sauce contains a fruit, chili pepper, nut, and such spices as black pepper, cinnamon, cumin, and chocolate.  I could work with that. As you can see in the final recipe below, my mole jam has a lot of that - cinnamon, dried fruit, almonds and cocoa. The results? A sweet, (but not too sweet!) dynamic, interesting jam with a slightly spicy aftertaste.  It tastes like a tomato jam, but it also doesn’t really taste a whole lot like what you would think tomatoes taste like.  But what do I put it on? \n</div>\n\n<div class=\"image-halfsize-container\">\n    <div class=\"image-halfsize\">\n        <img src=\"./mole_cheesecake-27.jpg\" />\n    </div>\n    <div class=\"image-halfsize\">\n        <img src=\"./mole_cheesecake-16.jpg\" />\n    </div>\n</div>\n\n<div class=\"body-text\">\n\nEnter the ricotta cheesecake. Using ricotta in place of some of the cream cheese makes the cake a lot lighter (in a calorie and fluffier way). This creates a good balance with the graham cracker crust and thick dense mole jam.  By using the tried and true water bath method (outlined in the instructions), my cheesecake came out perfect with no cracks, no overcooked edges and a flat top!  I also left it in the oven after I turned off the heat for a few hours, which I’ve read helps prevent cracking.\n\nI ventured to my local co-op to buy the tomatoes, spices and other ingredients for this recipe.  Flatbush Food Coop is the closest one to me, but you can find your closest one here! The tomatoes are currently on sale for 10/$10 - which is very exciting because that’s almost half their regular price. Speaking of deals (which I’m a huge fan of), the entire co-op was extremely reasonably priced and they had an extensive bulk food and spice section where you can get just what you need (like for this recipe!). \n\nThis cake is perfect when you want to try making something different.  The jam itself is a showstopper and I can imagine it works very well with all sorts of cheese, on top of your morning bagel and cream cheese, inside a pastry or mixed into yogurt.   The jam makes a little more than you actually need to cover the cake, so let me know if you make this recipe and what you did with the extra!\n\n</div>\n\n![Top View with can](./mole_cheesecake-18.jpg)\n\n### Mexican Ricotta Cheesecake with Tomato Mole Jam\n\n#### Tomato Mole Jam\n_Makes 1 4oz jar_\n\n##### __**Ingredients**__\n- 1 14.5oz can [Muir Glen Petite Diced Tomatoes](https://www.muirglen.com/products/petite-diced-tomatoes/)\n- 1 cup sugar _(7 oz / 200g)_\n- 2 dates, finely chopped\n- ¼ cup raisins, finely chopped\n- 2 Tbsp almonds, finely chopped\n- 1-2 cinnamon sticks\n- 1 whole or ¼ tsp ground star anise _(optional)_\n- Juice and zest from 1 lime\n- 1 Tbsp cocoa powder\n- ¼ - ½ tsp chili powder _(depending on how spicy you want it)_\n- ⅛ tsp cayenne pepper\n- ¼ tsp nutmeg\n- ¼ tsp cloves\n\n##### __**Directions**__\nDrain the tomatoes in a mesh strainer to remove any extra juice. Place tomatoes and rest of the ingredients in a medium-sized saucepan.\n\nHeat on low and stir frequently until the sugar has dissolved.  Increase the heat to medium and bring the jam to a boil, stirring frequently with a wooden spoon.  Let it cook at a medium boil for 15-20 minutes, stirring every minute or so to prevent the sides and bottom from burning.  At 15 minutes, test the jam.  It should have a thick gelatinous consistency.  \n\nOnce the jam is done, remove cinnamon sticks and whole star anise.  The jam will be kind of chunky with the dried fruit and nuts.  If you prefer a smoother jam, use an immersion blender stick to puree it a bit.  You can also put it in a food processor or blender.  Afterwards, quickly pour jam into a glass ball jar and seal it.  Let it completely cool at room temperature.  It should last up to 4 months refrigerated. \n\nIf you are making this jam on its on and wish to preserve it unrefrigerated, follow steps [here](https://www.nytimes.com/2012/09/19/dining/canning-jam-from-preparing-the-jars-to-testing-the-seal.html) for prepping the jar.\n\n\n______________________________________________\n\n#### Ricotta Cheesecake\n_Makes 1 8-inch cake, about 10-12 servings_\n\n##### __**Ingredients**__\n###### Crust\n- 1 cup Graham Cracker crumbs _(100g, or from ~7 crackers)_\n- 3 Tbsp butter, melted\n- 1 Tbsp cinnamon\n- ⅛ tsp cayenne\n- ¼ tsp ginger\n\n###### Cake\n- 32 oz ricotta, drained _-- then will be more like 27 oz_\n- 8 oz cream cheese\n- 1 cup sugar\n- 4 eggs\n- 2 Tbsp all-purpose flour\n- 2 Tbsp cornstarch\n- 1 Tbsp lime juice _(juice from 1 lime)_\n- Zest of 1 lime\n- 1 tsp vanilla extract\n- ½ tsp almond extract _(optional)_\n- ¼ tsp salt\n\n- Tomato Mole Jam, _recipe above_\n- Slivered Almonds _for garnish, optional_\n\n##### __**Directions**__\nPreheat the oven to 350˚F / 180˚C. Butter a 8-inch springform pan.\n\nPlace the ricotta cheese in either a cheesecloth on top of a mesh strainer or in a fine mesh strainer, and put the strainer over a bowl.  Let it sit for at least 30 minutes, or up to 2 hours to drain the cheese, since it’s usually pretty watery.\n\nIf not using packaged graham cracker crumbs, put the graham crackers in a food processor and pulse until fine.  You can also put the crackers in a ziploc bag and smash them.  Add the melted butter and spices in the food processor and pulse a few times to just mix. Pour the crumbs into the pan and press into an even layer.  Using the bottom of a glass helps!\n\nBake the crust for 8-10 minutes, or until golden brown. Once completely cooled, wrap the base of the springform pan in 1-3 layers of tinfoil.  This is so the water from the water-bath doesn’t seep into the cake. \n\nLower the oven to 325˚F / 160˚C.\n\nUsing a electric mixer with a paddle attachment (or by hand if you don’t have a mixer), beat the cream cheese on medium-low until smooth, 1-2 minutes.  Add ricotta and sugar, and beat until smooth. One at a time, add in the eggs until fully incorporated. Add the flour, cornstarch, extracts, salt, lime juice and zest and mix until just combined and a smooth consistency.  Pour batter over the crust and spread evenly.\n\nPlace the pan on a roasting pan and put in the oven.  Boil some water.  Once in the oven, pour boiling water into the pan so that it covers about 1/2 up the side of the pan, 1-1.5 inches high.  Trust me, it’s a lot easier and safer to pour the water in after it’s in the oven than trying to carefully put it on the rack with splashing hot water going everywhere.\n\nBake for approximately 1.25-1.5 hours. It is done when you can shake the pan and the sides of the cake are set but the center is slightly wiggly, about the size of an inch in diameter. . That’s fine.  Turn off the oven and leave it in the oven for 3 hours with the door closed the entire time.  Take it out and leave it on the counter for another 1-2 hours. Refrigerate (tightly wrapped in plastic wrap) until ready to use, preferably overnight.\n\n##### __**Assembly**__\nWhen ready to serve, spread the Tomato Mole Jam on top of the cake.  I like to do this while it is still in the springform pan to get nice sharp edges around the side.  Decorate with slivered almonds if desired.  Run a butter knife around the edges of the cake and release it from the pan. Cake can be kept in the refrigerator for up to 5 days. \n\n![Slice with bite View](./mole_cheesecake-36.jpg)",
-      "fileAbsolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/tomato-mole-jam/index.md",
+      "fileAbsolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam/index.md",
       "fields": {
         "slug": "/tomato-mole-jam/"
       }
     },
-    "008aec02-3306-5ea0-a166-fa5c6fc1e49d": {
-      "id": "008aec02-3306-5ea0-a166-fa5c6fc1e49d",
+    "1b85c435-e0df-5a48-b793-c6c1c7b06fc7": {
+      "id": "1b85c435-e0df-5a48-b793-c6c1c7b06fc7",
       "children": [
-        "4e05d6e1-5493-59d5-8508-8f88707a6011"
+        "44f815b8-7083-5458-9b2d-e827eacb07a0"
       ],
       "parent": null,
       "internal": {
@@ -2660,17 +2609,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/tomato-mole-jam/mole_cheesecake-27.jpg",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam/mole_cheesecake-27.jpg",
       "relativePath": "tomato-mole-jam/mole_cheesecake-27.jpg",
       "extension": "jpg",
       "size": 3716480,
       "prettySize": "3.72 MB",
-      "modifiedTime": "2019-01-28T15:27:15.652Z",
-      "accessTime": "2019-01-28T18:39:56.267Z",
-      "changeTime": "2019-01-28T15:27:15.652Z",
-      "birthTime": "2019-01-28T15:27:15.632Z",
+      "modifiedTime": "2019-01-28T04:52:41.636Z",
+      "accessTime": "2019-01-29T01:42:27.859Z",
+      "changeTime": "2019-01-28T04:52:41.636Z",
+      "birthTime": "2019-01-28T04:52:41.597Z",
       "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/tomato-mole-jam",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam",
       "base": "mole_cheesecake-27.jpg",
       "ext": ".jpg",
       "name": "mole_cheesecake-27",
@@ -2678,35 +2627,35 @@
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 11995952,
+      "ino": 8604322506,
       "blocks": 7264,
-      "atimeMs": 1548700796267.1753,
-      "mtimeMs": 1548689235651.5703,
-      "ctimeMs": 1548689235651.5703,
-      "birthtimeMs": 1548689235632.0537,
-      "atime": "2019-01-28T18:39:56.267Z",
-      "mtime": "2019-01-28T15:27:15.652Z",
-      "ctime": "2019-01-28T15:27:15.652Z",
-      "birthtime": "2019-01-28T15:27:15.632Z"
+      "atimeMs": 1548726147858.7415,
+      "mtimeMs": 1548651161635.9106,
+      "ctimeMs": 1548651161635.9106,
+      "birthtimeMs": 1548651161597.0933,
+      "atime": "2019-01-29T01:42:27.859Z",
+      "mtime": "2019-01-28T04:52:41.636Z",
+      "ctime": "2019-01-28T04:52:41.636Z",
+      "birthtime": "2019-01-28T04:52:41.597Z"
     },
-    "4e05d6e1-5493-59d5-8508-8f88707a6011": {
-      "id": "4e05d6e1-5493-59d5-8508-8f88707a6011",
+    "44f815b8-7083-5458-9b2d-e827eacb07a0": {
+      "id": "44f815b8-7083-5458-9b2d-e827eacb07a0",
       "children": [],
-      "parent": "008aec02-3306-5ea0-a166-fa5c6fc1e49d",
+      "parent": "1b85c435-e0df-5a48-b793-c6c1c7b06fc7",
       "internal": {
         "contentDigest": "bd314c98b5b42609f694cb8e91e0dfa2",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "3b5650bf-5dd2-50c5-8098-caeee77cce73": {
-      "id": "3b5650bf-5dd2-50c5-8098-caeee77cce73",
+    "a9e858e9-676f-562b-8a78-a1eb17c3eadc": {
+      "id": "a9e858e9-676f-562b-8a78-a1eb17c3eadc",
       "children": [
-        "f209f2c5-28f9-5e17-a5ee-c1fc6cded490"
+        "c40cdac8-8406-5441-b049-116fb80cbbfc"
       ],
       "parent": null,
       "internal": {
@@ -2717,17 +2666,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/tomato-mole-jam/mole_cheesecake-36.jpg",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam/mole_cheesecake-36.jpg",
       "relativePath": "tomato-mole-jam/mole_cheesecake-36.jpg",
       "extension": "jpg",
       "size": 3916876,
       "prettySize": "3.92 MB",
-      "modifiedTime": "2019-01-28T15:27:15.685Z",
-      "accessTime": "2019-01-28T18:39:56.267Z",
-      "changeTime": "2019-01-28T15:27:15.685Z",
-      "birthTime": "2019-01-28T15:27:15.673Z",
+      "modifiedTime": "2019-01-28T04:52:41.717Z",
+      "accessTime": "2019-01-29T01:42:27.859Z",
+      "changeTime": "2019-01-28T04:52:41.717Z",
+      "birthTime": "2019-01-28T04:52:41.682Z",
       "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/tomato-mole-jam",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam",
       "base": "mole_cheesecake-36.jpg",
       "ext": ".jpg",
       "name": "mole_cheesecake-36",
@@ -2735,35 +2684,35 @@
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 11995954,
+      "ino": 8604322508,
       "blocks": 7656,
-      "atimeMs": 1548700796267.1807,
-      "mtimeMs": 1548689235684.5063,
-      "ctimeMs": 1548689235684.5063,
-      "birthtimeMs": 1548689235672.5552,
-      "atime": "2019-01-28T18:39:56.267Z",
-      "mtime": "2019-01-28T15:27:15.685Z",
-      "ctime": "2019-01-28T15:27:15.685Z",
-      "birthtime": "2019-01-28T15:27:15.673Z"
+      "atimeMs": 1548726147858.7498,
+      "mtimeMs": 1548651161716.8665,
+      "ctimeMs": 1548651161716.8665,
+      "birthtimeMs": 1548651161681.9827,
+      "atime": "2019-01-29T01:42:27.859Z",
+      "mtime": "2019-01-28T04:52:41.717Z",
+      "ctime": "2019-01-28T04:52:41.717Z",
+      "birthtime": "2019-01-28T04:52:41.682Z"
     },
-    "f209f2c5-28f9-5e17-a5ee-c1fc6cded490": {
-      "id": "f209f2c5-28f9-5e17-a5ee-c1fc6cded490",
+    "c40cdac8-8406-5441-b049-116fb80cbbfc": {
+      "id": "c40cdac8-8406-5441-b049-116fb80cbbfc",
       "children": [],
-      "parent": "3b5650bf-5dd2-50c5-8098-caeee77cce73",
+      "parent": "a9e858e9-676f-562b-8a78-a1eb17c3eadc",
       "internal": {
         "contentDigest": "cdf05965e46b79c210d3ce72eb97b907",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "e0f1c963-9050-5958-a360-e8b224310cdf": {
-      "id": "e0f1c963-9050-5958-a360-e8b224310cdf",
+    "e098929a-9d0d-57f9-b99a-4ac087261327": {
+      "id": "e098929a-9d0d-57f9-b99a-4ac087261327",
       "children": [
-        "435320b4-2ecf-539f-b0c5-5b205c2f9818"
+        "0aef2493-2154-5d46-8f2a-f3f96951f34a"
       ],
       "parent": null,
       "internal": {
@@ -2774,17 +2723,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/tomato-mole-jam/mole_cheesecake-34.jpg",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam/mole_cheesecake-34.jpg",
       "relativePath": "tomato-mole-jam/mole_cheesecake-34.jpg",
       "extension": "jpg",
       "size": 4224720,
       "prettySize": "4.22 MB",
-      "modifiedTime": "2019-01-28T15:27:15.672Z",
-      "accessTime": "2019-01-28T18:39:56.267Z",
-      "changeTime": "2019-01-28T15:27:15.672Z",
-      "birthTime": "2019-01-28T15:27:15.652Z",
+      "modifiedTime": "2019-01-28T04:52:41.681Z",
+      "accessTime": "2019-01-29T01:42:27.859Z",
+      "changeTime": "2019-01-28T04:52:41.681Z",
+      "birthTime": "2019-01-28T04:52:41.637Z",
       "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/tomato-mole-jam",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam",
       "base": "mole_cheesecake-34.jpg",
       "ext": ".jpg",
       "name": "mole_cheesecake-34",
@@ -2792,35 +2741,35 @@
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 11995953,
+      "ino": 8604322507,
       "blocks": 8256,
-      "atimeMs": 1548700796267.1726,
-      "mtimeMs": 1548689235672.232,
-      "ctimeMs": 1548689235672.232,
-      "birthtimeMs": 1548689235651.8567,
-      "atime": "2019-01-28T18:39:56.267Z",
-      "mtime": "2019-01-28T15:27:15.672Z",
-      "ctime": "2019-01-28T15:27:15.672Z",
-      "birthtime": "2019-01-28T15:27:15.652Z"
+      "atimeMs": 1548726147858.7456,
+      "mtimeMs": 1548651161681.3113,
+      "ctimeMs": 1548651161681.3113,
+      "birthtimeMs": 1548651161636.8325,
+      "atime": "2019-01-29T01:42:27.859Z",
+      "mtime": "2019-01-28T04:52:41.681Z",
+      "ctime": "2019-01-28T04:52:41.681Z",
+      "birthtime": "2019-01-28T04:52:41.637Z"
     },
-    "435320b4-2ecf-539f-b0c5-5b205c2f9818": {
-      "id": "435320b4-2ecf-539f-b0c5-5b205c2f9818",
+    "0aef2493-2154-5d46-8f2a-f3f96951f34a": {
+      "id": "0aef2493-2154-5d46-8f2a-f3f96951f34a",
       "children": [],
-      "parent": "e0f1c963-9050-5958-a360-e8b224310cdf",
+      "parent": "e098929a-9d0d-57f9-b99a-4ac087261327",
       "internal": {
         "contentDigest": "c6eb2abfac9121b6c6fefb10fe07cab5",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "cbacd92b-7758-5b9a-9b2b-2b5ed703435b": {
-      "id": "cbacd92b-7758-5b9a-9b2b-2b5ed703435b",
+    "eabd9e7a-ab6d-5551-a431-edd347e708bd": {
+      "id": "eabd9e7a-ab6d-5551-a431-edd347e708bd",
       "children": [
-        "1dc81f37-d55e-5be7-b95c-4110a844e152"
+        "f3c0e180-f3c4-577b-91c3-11d09e0085d1"
       ],
       "parent": null,
       "internal": {
@@ -2831,17 +2780,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/hot-cocoa-macarons/hot_cocoa_macarons-2.jpg",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/hot-cocoa-macarons/hot_cocoa_macarons-2.jpg",
       "relativePath": "hot-cocoa-macarons/hot_cocoa_macarons-2.jpg",
       "extension": "jpg",
       "size": 5092580,
       "prettySize": "5.09 MB",
-      "modifiedTime": "2019-01-28T15:27:15.536Z",
-      "accessTime": "2019-01-28T18:39:56.974Z",
-      "changeTime": "2019-01-28T15:27:15.536Z",
-      "birthTime": "2019-01-28T15:27:15.527Z",
+      "modifiedTime": "2019-01-28T04:52:41.312Z",
+      "accessTime": "2019-01-29T01:42:27.859Z",
+      "changeTime": "2019-01-28T04:52:41.312Z",
+      "birthTime": "2019-01-28T04:52:41.288Z",
       "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/hot-cocoa-macarons",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/hot-cocoa-macarons",
       "base": "hot_cocoa_macarons-2.jpg",
       "ext": ".jpg",
       "name": "hot_cocoa_macarons-2",
@@ -2849,35 +2798,35 @@
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 11995942,
+      "ino": 8604322492,
       "blocks": 9952,
-      "atimeMs": 1548700796973.7551,
-      "mtimeMs": 1548689235535.91,
-      "ctimeMs": 1548689235535.91,
-      "birthtimeMs": 1548689235527.49,
-      "atime": "2019-01-28T18:39:56.974Z",
-      "mtime": "2019-01-28T15:27:15.536Z",
-      "ctime": "2019-01-28T15:27:15.536Z",
-      "birthtime": "2019-01-28T15:27:15.527Z"
+      "atimeMs": 1548726147858.6765,
+      "mtimeMs": 1548651161311.9832,
+      "ctimeMs": 1548651161311.9832,
+      "birthtimeMs": 1548651161287.9363,
+      "atime": "2019-01-29T01:42:27.859Z",
+      "mtime": "2019-01-28T04:52:41.312Z",
+      "ctime": "2019-01-28T04:52:41.312Z",
+      "birthtime": "2019-01-28T04:52:41.288Z"
     },
-    "1dc81f37-d55e-5be7-b95c-4110a844e152": {
-      "id": "1dc81f37-d55e-5be7-b95c-4110a844e152",
+    "f3c0e180-f3c4-577b-91c3-11d09e0085d1": {
+      "id": "f3c0e180-f3c4-577b-91c3-11d09e0085d1",
       "children": [],
-      "parent": "cbacd92b-7758-5b9a-9b2b-2b5ed703435b",
+      "parent": "eabd9e7a-ab6d-5551-a431-edd347e708bd",
       "internal": {
         "contentDigest": "f19b0686ed0c7caae7c39a9b04023914",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "22324dbd-634d-5b68-abf2-aead7e8d361e": {
-      "id": "22324dbd-634d-5b68-abf2-aead7e8d361e",
+    "08953386-24de-5234-b81e-dbc923cb57d4": {
+      "id": "08953386-24de-5234-b81e-dbc923cb57d4",
       "children": [
-        "7480a8b4-871b-565b-9854-4b6478df9015"
+        "3be7d548-19a6-52cb-873f-c2dd751289a9"
       ],
       "parent": null,
       "internal": {
@@ -2888,17 +2837,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/hot-cocoa-macarons/hot_cocoa_macarons-11.jpg",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/hot-cocoa-macarons/hot_cocoa_macarons-11.jpg",
       "relativePath": "hot-cocoa-macarons/hot_cocoa_macarons-11.jpg",
       "extension": "jpg",
       "size": 5306601,
       "prettySize": "5.31 MB",
-      "modifiedTime": "2019-01-28T15:27:15.513Z",
-      "accessTime": "2019-01-28T18:39:56.974Z",
-      "changeTime": "2019-01-28T15:27:15.513Z",
-      "birthTime": "2019-01-28T15:27:15.501Z",
+      "modifiedTime": "2019-01-28T04:52:41.254Z",
+      "accessTime": "2019-01-29T01:42:27.859Z",
+      "changeTime": "2019-01-28T04:52:41.254Z",
+      "birthTime": "2019-01-28T04:52:41.232Z",
       "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/hot-cocoa-macarons",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/hot-cocoa-macarons",
       "base": "hot_cocoa_macarons-11.jpg",
       "ext": ".jpg",
       "name": "hot_cocoa_macarons-11",
@@ -2906,35 +2855,25 @@
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 11995940,
+      "ino": 8604322490,
       "blocks": 10368,
-      "atimeMs": 1548700796973.6946,
-      "mtimeMs": 1548689235512.877,
-      "ctimeMs": 1548689235512.877,
-      "birthtimeMs": 1548689235501.1924,
-      "atime": "2019-01-28T18:39:56.974Z",
-      "mtime": "2019-01-28T15:27:15.513Z",
-      "ctime": "2019-01-28T15:27:15.513Z",
-      "birthtime": "2019-01-28T15:27:15.501Z"
+      "atimeMs": 1548726147858.665,
+      "mtimeMs": 1548651161253.5024,
+      "ctimeMs": 1548651161253.5024,
+      "birthtimeMs": 1548651161231.9075,
+      "atime": "2019-01-29T01:42:27.859Z",
+      "mtime": "2019-01-28T04:52:41.254Z",
+      "ctime": "2019-01-28T04:52:41.254Z",
+      "birthtime": "2019-01-28T04:52:41.232Z"
     },
-    "7480a8b4-871b-565b-9854-4b6478df9015": {
-      "id": "7480a8b4-871b-565b-9854-4b6478df9015",
-      "children": [],
-      "parent": "22324dbd-634d-5b68-abf2-aead7e8d361e",
-      "internal": {
-        "contentDigest": "27a74dba9cdf11a410f79c158f61e548",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "699c7c99-20e1-5a91-9db9-41a647f715de": {
-      "id": "699c7c99-20e1-5a91-9db9-41a647f715de",
+    "52d62133-825a-5ba3-9997-5ed831877268": {
+      "id": "52d62133-825a-5ba3-9997-5ed831877268",
       "children": [
-        "5a8798a2-58df-5fc3-8d19-5d467dfebb28"
+        "4d5b971c-17c7-5b00-975d-3778041c2ddc"
       ],
       "parent": null,
       "internal": {
@@ -2945,17 +2884,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/welcome/chia_pet_cake.jpg",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/welcome/chia_pet_cake.jpg",
       "relativePath": "welcome/chia_pet_cake.jpg",
       "extension": "jpg",
       "size": 5406536,
       "prettySize": "5.41 MB",
-      "modifiedTime": "2019-01-28T15:27:15.694Z",
-      "accessTime": "2019-01-28T18:39:56.974Z",
-      "changeTime": "2019-01-28T15:27:15.694Z",
-      "birthTime": "2019-01-28T15:27:15.685Z",
+      "modifiedTime": "2019-01-28T04:52:41.756Z",
+      "accessTime": "2019-01-29T01:42:27.859Z",
+      "changeTime": "2019-01-28T04:52:41.756Z",
+      "birthTime": "2019-01-28T04:52:41.718Z",
       "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/welcome",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/welcome",
       "base": "chia_pet_cake.jpg",
       "ext": ".jpg",
       "name": "chia_pet_cake",
@@ -2963,35 +2902,35 @@
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 11995956,
+      "ino": 8604322510,
       "blocks": 10560,
-      "atimeMs": 1548700796974.3774,
-      "mtimeMs": 1548689235694.013,
-      "ctimeMs": 1548689235694.013,
-      "birthtimeMs": 1548689235684.814,
-      "atime": "2019-01-28T18:39:56.974Z",
-      "mtime": "2019-01-28T15:27:15.694Z",
-      "ctime": "2019-01-28T15:27:15.694Z",
-      "birthtime": "2019-01-28T15:27:15.685Z"
+      "atimeMs": 1548726147858.7585,
+      "mtimeMs": 1548651161756.1685,
+      "ctimeMs": 1548651161756.1685,
+      "birthtimeMs": 1548651161717.6074,
+      "atime": "2019-01-29T01:42:27.859Z",
+      "mtime": "2019-01-28T04:52:41.756Z",
+      "ctime": "2019-01-28T04:52:41.756Z",
+      "birthtime": "2019-01-28T04:52:41.718Z"
     },
-    "5a8798a2-58df-5fc3-8d19-5d467dfebb28": {
-      "id": "5a8798a2-58df-5fc3-8d19-5d467dfebb28",
+    "3be7d548-19a6-52cb-873f-c2dd751289a9": {
+      "id": "3be7d548-19a6-52cb-873f-c2dd751289a9",
       "children": [],
-      "parent": "699c7c99-20e1-5a91-9db9-41a647f715de",
+      "parent": "08953386-24de-5234-b81e-dbc923cb57d4",
       "internal": {
-        "contentDigest": "8e1e1d09787d815291dc7fd6a82ecbef",
+        "contentDigest": "27a74dba9cdf11a410f79c158f61e548",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "8ec74444-b542-5dae-89f3-4b4f433191bf": {
-      "id": "8ec74444-b542-5dae-89f3-4b4f433191bf",
+    "ec1933e3-577c-5b68-856b-991f49510144": {
+      "id": "ec1933e3-577c-5b68-856b-991f49510144",
       "children": [
-        "471cc28a-9d8d-5554-bbb5-2e9ca2b8c1c8"
+        "ea20878a-5756-5943-8f13-8e2f4551fd2d"
       ],
       "parent": null,
       "internal": {
@@ -3002,17 +2941,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/tomato-mole-jam/mole_cheesecake-12.jpg",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam/mole_cheesecake-12.jpg",
       "relativePath": "tomato-mole-jam/mole_cheesecake-12.jpg",
       "extension": "jpg",
       "size": 5477611,
       "prettySize": "5.48 MB",
-      "modifiedTime": "2019-01-28T15:27:15.580Z",
-      "accessTime": "2019-01-28T18:39:53.699Z",
-      "changeTime": "2019-01-28T15:27:15.580Z",
-      "birthTime": "2019-01-28T15:27:15.567Z",
+      "modifiedTime": "2019-01-28T04:52:41.417Z",
+      "accessTime": "2019-01-29T01:42:27.859Z",
+      "changeTime": "2019-01-28T04:52:41.417Z",
+      "birthTime": "2019-01-28T04:52:41.377Z",
       "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/tomato-mole-jam",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam",
       "base": "mole_cheesecake-12.jpg",
       "ext": ".jpg",
       "name": "mole_cheesecake-12",
@@ -3020,35 +2959,35 @@
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 11995948,
+      "ino": 8604322502,
       "blocks": 10704,
-      "atimeMs": 1548700793699.2937,
-      "mtimeMs": 1548689235579.8704,
-      "ctimeMs": 1548689235579.8704,
-      "birthtimeMs": 1548689235566.6328,
-      "atime": "2019-01-28T18:39:53.699Z",
-      "mtime": "2019-01-28T15:27:15.580Z",
-      "ctime": "2019-01-28T15:27:15.580Z",
-      "birthtime": "2019-01-28T15:27:15.567Z"
+      "atimeMs": 1548726147858.713,
+      "mtimeMs": 1548651161417.2158,
+      "ctimeMs": 1548651161417.2158,
+      "birthtimeMs": 1548651161376.5793,
+      "atime": "2019-01-29T01:42:27.859Z",
+      "mtime": "2019-01-28T04:52:41.417Z",
+      "ctime": "2019-01-28T04:52:41.417Z",
+      "birthtime": "2019-01-28T04:52:41.377Z"
     },
-    "471cc28a-9d8d-5554-bbb5-2e9ca2b8c1c8": {
-      "id": "471cc28a-9d8d-5554-bbb5-2e9ca2b8c1c8",
+    "4d5b971c-17c7-5b00-975d-3778041c2ddc": {
+      "id": "4d5b971c-17c7-5b00-975d-3778041c2ddc",
       "children": [],
-      "parent": "8ec74444-b542-5dae-89f3-4b4f433191bf",
+      "parent": "52d62133-825a-5ba3-9997-5ed831877268",
       "internal": {
-        "contentDigest": "b067fd08f384f32cd2be505593512544",
+        "contentDigest": "8e1e1d09787d815291dc7fd6a82ecbef",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "b0ff737d-7a9a-5c26-9acc-d624eabb84ca": {
-      "id": "b0ff737d-7a9a-5c26-9acc-d624eabb84ca",
+    "1e861b24-13f0-5be6-a533-1e545a998ea4": {
+      "id": "1e861b24-13f0-5be6-a533-1e545a998ea4",
       "children": [
-        "fd617db0-4ea1-536f-8032-d587493fc347"
+        "1257180d-6fbb-51b3-9041-0b32b30c25dc"
       ],
       "parent": null,
       "internal": {
@@ -3059,17 +2998,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/hot-cocoa-macarons/hot_cocoa_macarons-14.jpg",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/hot-cocoa-macarons/hot_cocoa_macarons-14.jpg",
       "relativePath": "hot-cocoa-macarons/hot_cocoa_macarons-14.jpg",
       "extension": "jpg",
       "size": 5592536,
       "prettySize": "5.59 MB",
-      "modifiedTime": "2019-01-28T15:27:15.526Z",
-      "accessTime": "2019-01-28T18:39:56.974Z",
-      "changeTime": "2019-01-28T15:27:15.526Z",
-      "birthTime": "2019-01-28T15:27:15.514Z",
+      "modifiedTime": "2019-01-28T04:52:41.287Z",
+      "accessTime": "2019-01-28T05:33:03.441Z",
+      "changeTime": "2019-01-28T04:52:41.287Z",
+      "birthTime": "2019-01-28T04:52:41.254Z",
       "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/hot-cocoa-macarons",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/hot-cocoa-macarons",
       "base": "hot_cocoa_macarons-14.jpg",
       "ext": ".jpg",
       "name": "hot_cocoa_macarons-14",
@@ -3077,35 +3016,45 @@
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 11995941,
+      "ino": 8604322491,
       "blocks": 10928,
-      "atimeMs": 1548700796973.7256,
-      "mtimeMs": 1548689235526.3745,
-      "ctimeMs": 1548689235526.3745,
-      "birthtimeMs": 1548689235514.3508,
-      "atime": "2019-01-28T18:39:56.974Z",
-      "mtime": "2019-01-28T15:27:15.526Z",
-      "ctime": "2019-01-28T15:27:15.526Z",
-      "birthtime": "2019-01-28T15:27:15.514Z"
+      "atimeMs": 1548653583441.2734,
+      "mtimeMs": 1548651161286.7734,
+      "ctimeMs": 1548651161286.7734,
+      "birthtimeMs": 1548651161254.4949,
+      "atime": "2019-01-28T05:33:03.441Z",
+      "mtime": "2019-01-28T04:52:41.287Z",
+      "ctime": "2019-01-28T04:52:41.287Z",
+      "birthtime": "2019-01-28T04:52:41.254Z"
     },
-    "fd617db0-4ea1-536f-8032-d587493fc347": {
-      "id": "fd617db0-4ea1-536f-8032-d587493fc347",
+    "ea20878a-5756-5943-8f13-8e2f4551fd2d": {
+      "id": "ea20878a-5756-5943-8f13-8e2f4551fd2d",
       "children": [],
-      "parent": "b0ff737d-7a9a-5c26-9acc-d624eabb84ca",
+      "parent": "ec1933e3-577c-5b68-856b-991f49510144",
+      "internal": {
+        "contentDigest": "b067fd08f384f32cd2be505593512544",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "1257180d-6fbb-51b3-9041-0b32b30c25dc": {
+      "id": "1257180d-6fbb-51b3-9041-0b32b30c25dc",
+      "children": [],
+      "parent": "1e861b24-13f0-5be6-a533-1e545a998ea4",
       "internal": {
         "contentDigest": "5b919f40fe34b9d6a87d8d1f28efc6a6",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "8042ea05-3ed8-5439-94f6-5551d96c7d25": {
-      "id": "8042ea05-3ed8-5439-94f6-5551d96c7d25",
+    "76d2b583-d148-565b-9864-ba92712eda90": {
+      "id": "76d2b583-d148-565b-9864-ba92712eda90",
       "children": [
-        "59dd3bea-cb16-5cab-885d-2ac212828675"
+        "da1ff49a-fe64-5a3e-931c-3ce6a28794b8"
       ],
       "parent": null,
       "internal": {
@@ -3116,17 +3065,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/hot-cocoa-macarons/hot_cocoa_macarons-7.jpg",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/hot-cocoa-macarons/hot_cocoa_macarons-7.jpg",
       "relativePath": "hot-cocoa-macarons/hot_cocoa_macarons-7.jpg",
       "extension": "jpg",
       "size": 5919769,
       "prettySize": "5.92 MB",
-      "modifiedTime": "2019-01-28T15:27:15.551Z",
-      "accessTime": "2019-01-28T18:39:56.974Z",
-      "changeTime": "2019-01-28T15:27:15.551Z",
-      "birthTime": "2019-01-28T15:27:15.537Z",
+      "modifiedTime": "2019-01-28T04:52:41.341Z",
+      "accessTime": "2019-01-29T01:42:27.859Z",
+      "changeTime": "2019-01-28T04:52:41.341Z",
+      "birthTime": "2019-01-28T04:52:41.313Z",
       "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/hot-cocoa-macarons",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/hot-cocoa-macarons",
       "base": "hot_cocoa_macarons-7.jpg",
       "ext": ".jpg",
       "name": "hot_cocoa_macarons-7",
@@ -3134,35 +3083,25 @@
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 11995943,
+      "ino": 8604322493,
       "blocks": 11568,
-      "atimeMs": 1548700796973.783,
-      "mtimeMs": 1548689235550.7068,
-      "ctimeMs": 1548689235550.7068,
-      "birthtimeMs": 1548689235537.4333,
-      "atime": "2019-01-28T18:39:56.974Z",
-      "mtime": "2019-01-28T15:27:15.551Z",
-      "ctime": "2019-01-28T15:27:15.551Z",
-      "birthtime": "2019-01-28T15:27:15.537Z"
+      "atimeMs": 1548726147858.6829,
+      "mtimeMs": 1548651161341.2976,
+      "ctimeMs": 1548651161341.2976,
+      "birthtimeMs": 1548651161312.7551,
+      "atime": "2019-01-29T01:42:27.859Z",
+      "mtime": "2019-01-28T04:52:41.341Z",
+      "ctime": "2019-01-28T04:52:41.341Z",
+      "birthtime": "2019-01-28T04:52:41.313Z"
     },
-    "59dd3bea-cb16-5cab-885d-2ac212828675": {
-      "id": "59dd3bea-cb16-5cab-885d-2ac212828675",
-      "children": [],
-      "parent": "8042ea05-3ed8-5439-94f6-5551d96c7d25",
-      "internal": {
-        "contentDigest": "41d4fa50af27c50b49919ce356f35527",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "e0802c04-0c1b-52d1-8efe-04ffa365bad5": {
-      "id": "e0802c04-0c1b-52d1-8efe-04ffa365bad5",
+    "3bea8df3-1c86-584c-926e-42d2f9083ef6": {
+      "id": "3bea8df3-1c86-584c-926e-42d2f9083ef6",
       "children": [
-        "53c24e4c-c20f-550c-b88d-e00fe6cb48d0"
+        "5fda5ca3-8db0-5862-bc30-891033c9488d"
       ],
       "parent": null,
       "internal": {
@@ -3173,17 +3112,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/tomato-mole-jam/mole_cheesecake-16.jpg",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam/mole_cheesecake-16.jpg",
       "relativePath": "tomato-mole-jam/mole_cheesecake-16.jpg",
       "extension": "jpg",
       "size": 5942268,
       "prettySize": "5.94 MB",
-      "modifiedTime": "2019-01-28T15:27:15.618Z",
-      "accessTime": "2019-01-28T18:39:56.267Z",
-      "changeTime": "2019-01-28T15:27:15.618Z",
-      "birthTime": "2019-01-28T15:27:15.602Z",
+      "modifiedTime": "2019-01-28T04:52:41.547Z",
+      "accessTime": "2019-01-29T01:42:27.859Z",
+      "changeTime": "2019-01-28T04:52:41.547Z",
+      "birthTime": "2019-01-28T04:52:41.490Z",
       "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/tomato-mole-jam",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam",
       "base": "mole_cheesecake-16.jpg",
       "ext": ".jpg",
       "name": "mole_cheesecake-16",
@@ -3191,35 +3130,35 @@
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 11995950,
+      "ino": 8604322504,
       "blocks": 11608,
-      "atimeMs": 1548700796267.1697,
-      "mtimeMs": 1548689235617.8992,
-      "ctimeMs": 1548689235617.8992,
-      "birthtimeMs": 1548689235602.168,
-      "atime": "2019-01-28T18:39:56.267Z",
-      "mtime": "2019-01-28T15:27:15.618Z",
-      "ctime": "2019-01-28T15:27:15.618Z",
-      "birthtime": "2019-01-28T15:27:15.602Z"
+      "atimeMs": 1548726147858.7292,
+      "mtimeMs": 1548651161546.8975,
+      "ctimeMs": 1548651161546.8975,
+      "birthtimeMs": 1548651161489.573,
+      "atime": "2019-01-29T01:42:27.859Z",
+      "mtime": "2019-01-28T04:52:41.547Z",
+      "ctime": "2019-01-28T04:52:41.547Z",
+      "birthtime": "2019-01-28T04:52:41.490Z"
     },
-    "53c24e4c-c20f-550c-b88d-e00fe6cb48d0": {
-      "id": "53c24e4c-c20f-550c-b88d-e00fe6cb48d0",
+    "da1ff49a-fe64-5a3e-931c-3ce6a28794b8": {
+      "id": "da1ff49a-fe64-5a3e-931c-3ce6a28794b8",
       "children": [],
-      "parent": "e0802c04-0c1b-52d1-8efe-04ffa365bad5",
+      "parent": "76d2b583-d148-565b-9864-ba92712eda90",
       "internal": {
-        "contentDigest": "fdab715a5f325047e076df5df6e7a87c",
+        "contentDigest": "41d4fa50af27c50b49919ce356f35527",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "b0a936df-d3ac-51c5-b4cf-efe8277d679a": {
-      "id": "b0a936df-d3ac-51c5-b4cf-efe8277d679a",
+    "0826e746-8a9a-5e74-b05c-8e7399923d36": {
+      "id": "0826e746-8a9a-5e74-b05c-8e7399923d36",
       "children": [
-        "d07f2d46-1814-5ade-8f05-24ce9ec9d5c0"
+        "82a80351-838d-5379-aa00-a689fe496faf"
       ],
       "parent": null,
       "internal": {
@@ -3230,17 +3169,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/hot-cocoa-macarons/hot_cocoa_macarons-9.jpg",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/hot-cocoa-macarons/hot_cocoa_macarons-9.jpg",
       "relativePath": "hot-cocoa-macarons/hot_cocoa_macarons-9.jpg",
       "extension": "jpg",
       "size": 6103971,
       "prettySize": "6.1 MB",
-      "modifiedTime": "2019-01-28T15:27:15.565Z",
-      "accessTime": "2019-01-28T18:39:56.974Z",
-      "changeTime": "2019-01-28T15:27:15.565Z",
-      "birthTime": "2019-01-28T15:27:15.551Z",
+      "modifiedTime": "2019-01-28T04:52:41.374Z",
+      "accessTime": "2019-01-29T01:42:27.859Z",
+      "changeTime": "2019-01-28T04:52:41.374Z",
+      "birthTime": "2019-01-28T04:52:41.343Z",
       "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/hot-cocoa-macarons",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/hot-cocoa-macarons",
       "base": "hot_cocoa_macarons-9.jpg",
       "ext": ".jpg",
       "name": "hot_cocoa_macarons-9",
@@ -3248,35 +3187,45 @@
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 11995944,
+      "ino": 8604322494,
       "blocks": 11928,
-      "atimeMs": 1548700796973.811,
-      "mtimeMs": 1548689235564.5537,
-      "ctimeMs": 1548689235564.5537,
-      "birthtimeMs": 1548689235551.4626,
-      "atime": "2019-01-28T18:39:56.974Z",
-      "mtime": "2019-01-28T15:27:15.565Z",
-      "ctime": "2019-01-28T15:27:15.565Z",
-      "birthtime": "2019-01-28T15:27:15.551Z"
+      "atimeMs": 1548726147858.688,
+      "mtimeMs": 1548651161373.928,
+      "ctimeMs": 1548651161373.928,
+      "birthtimeMs": 1548651161342.8938,
+      "atime": "2019-01-29T01:42:27.859Z",
+      "mtime": "2019-01-28T04:52:41.374Z",
+      "ctime": "2019-01-28T04:52:41.374Z",
+      "birthtime": "2019-01-28T04:52:41.343Z"
     },
-    "d07f2d46-1814-5ade-8f05-24ce9ec9d5c0": {
-      "id": "d07f2d46-1814-5ade-8f05-24ce9ec9d5c0",
+    "5fda5ca3-8db0-5862-bc30-891033c9488d": {
+      "id": "5fda5ca3-8db0-5862-bc30-891033c9488d",
       "children": [],
-      "parent": "b0a936df-d3ac-51c5-b4cf-efe8277d679a",
+      "parent": "3bea8df3-1c86-584c-926e-42d2f9083ef6",
+      "internal": {
+        "contentDigest": "fdab715a5f325047e076df5df6e7a87c",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "82a80351-838d-5379-aa00-a689fe496faf": {
+      "id": "82a80351-838d-5379-aa00-a689fe496faf",
+      "children": [],
+      "parent": "0826e746-8a9a-5e74-b05c-8e7399923d36",
       "internal": {
         "contentDigest": "e1a87f4d503adc6873fcb868f934e5eb",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "eb6ec5f9-136e-5fa9-92da-0fcfefeaf969": {
-      "id": "eb6ec5f9-136e-5fa9-92da-0fcfefeaf969",
+    "bea38287-942b-5376-8162-446c17361442": {
+      "id": "bea38287-942b-5376-8162-446c17361442",
       "children": [
-        "c4428541-a0b6-5359-84bd-2805b1041801"
+        "338c0182-88bf-580b-a7e2-40f9790160ba"
       ],
       "parent": null,
       "internal": {
@@ -3287,17 +3236,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/tomato-mole-jam/mole_cheesecake-13.jpg",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam/mole_cheesecake-13.jpg",
       "relativePath": "tomato-mole-jam/mole_cheesecake-13.jpg",
       "extension": "jpg",
       "size": 7406670,
       "prettySize": "7.41 MB",
-      "modifiedTime": "2019-01-28T15:27:15.601Z",
-      "accessTime": "2019-01-28T18:39:56.267Z",
-      "changeTime": "2019-01-28T15:27:15.601Z",
-      "birthTime": "2019-01-28T15:27:15.580Z",
+      "modifiedTime": "2019-01-28T04:52:41.489Z",
+      "accessTime": "2019-01-29T01:42:27.859Z",
+      "changeTime": "2019-01-28T04:52:41.489Z",
+      "birthTime": "2019-01-28T04:52:41.418Z",
       "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/tomato-mole-jam",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam",
       "base": "mole_cheesecake-13.jpg",
       "ext": ".jpg",
       "name": "mole_cheesecake-13",
@@ -3305,35 +3254,25 @@
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 11995949,
+      "ino": 8604322503,
       "blocks": 14472,
-      "atimeMs": 1548700796267.1643,
-      "mtimeMs": 1548689235600.5435,
-      "ctimeMs": 1548689235600.5435,
-      "birthtimeMs": 1548689235580.3977,
-      "atime": "2019-01-28T18:39:56.267Z",
-      "mtime": "2019-01-28T15:27:15.601Z",
-      "ctime": "2019-01-28T15:27:15.601Z",
-      "birthtime": "2019-01-28T15:27:15.580Z"
+      "atimeMs": 1548726147858.72,
+      "mtimeMs": 1548651161488.7834,
+      "ctimeMs": 1548651161488.7834,
+      "birthtimeMs": 1548651161417.9915,
+      "atime": "2019-01-29T01:42:27.859Z",
+      "mtime": "2019-01-28T04:52:41.489Z",
+      "ctime": "2019-01-28T04:52:41.489Z",
+      "birthtime": "2019-01-28T04:52:41.418Z"
     },
-    "c4428541-a0b6-5359-84bd-2805b1041801": {
-      "id": "c4428541-a0b6-5359-84bd-2805b1041801",
-      "children": [],
-      "parent": "eb6ec5f9-136e-5fa9-92da-0fcfefeaf969",
-      "internal": {
-        "contentDigest": "5a84f5b522a205b32d57bee65508f38e",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "160a2606-30b2-5d72-91ec-40ece00a4589": {
-      "id": "160a2606-30b2-5d72-91ec-40ece00a4589",
+    "52158376-b256-5f4a-b41f-bce8de16f643": {
+      "id": "52158376-b256-5f4a-b41f-bce8de16f643",
       "children": [
-        "ae1df1fc-5b56-5d45-a5b0-1822827ac370"
+        "776c2891-2068-5d72-a465-47165748a768"
       ],
       "parent": null,
       "internal": {
@@ -3344,17 +3283,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/tomato-mole-jam/mole_cheesecake-18.jpg",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam/mole_cheesecake-18.jpg",
       "relativePath": "tomato-mole-jam/mole_cheesecake-18.jpg",
       "extension": "jpg",
       "size": 7376269,
       "prettySize": "7.38 MB",
-      "modifiedTime": "2019-01-28T15:27:15.631Z",
-      "accessTime": "2019-01-28T18:39:56.267Z",
-      "changeTime": "2019-01-28T15:27:15.631Z",
-      "birthTime": "2019-01-28T15:27:15.619Z",
+      "modifiedTime": "2019-01-28T04:52:41.596Z",
+      "accessTime": "2019-01-28T05:33:03.497Z",
+      "changeTime": "2019-01-28T04:52:41.596Z",
+      "birthTime": "2019-01-28T04:52:41.548Z",
       "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/blog/tomato-mole-jam",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam",
       "base": "mole_cheesecake-18.jpg",
       "ext": ".jpg",
       "name": "mole_cheesecake-18",
@@ -3362,53 +3301,63 @@
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 11995951,
+      "ino": 8604322505,
       "blocks": 14408,
-      "atimeMs": 1548700796267.1685,
-      "mtimeMs": 1548689235631.2622,
-      "ctimeMs": 1548689235631.2622,
-      "birthtimeMs": 1548689235619.1045,
-      "atime": "2019-01-28T18:39:56.267Z",
-      "mtime": "2019-01-28T15:27:15.631Z",
-      "ctime": "2019-01-28T15:27:15.631Z",
-      "birthtime": "2019-01-28T15:27:15.619Z"
+      "atimeMs": 1548653583497.1333,
+      "mtimeMs": 1548651161596.0867,
+      "ctimeMs": 1548651161596.0867,
+      "birthtimeMs": 1548651161547.8535,
+      "atime": "2019-01-28T05:33:03.497Z",
+      "mtime": "2019-01-28T04:52:41.596Z",
+      "ctime": "2019-01-28T04:52:41.596Z",
+      "birthtime": "2019-01-28T04:52:41.548Z"
     },
-    "ae1df1fc-5b56-5d45-a5b0-1822827ac370": {
-      "id": "ae1df1fc-5b56-5d45-a5b0-1822827ac370",
+    "338c0182-88bf-580b-a7e2-40f9790160ba": {
+      "id": "338c0182-88bf-580b-a7e2-40f9790160ba",
       "children": [],
-      "parent": "160a2606-30b2-5d72-91ec-40ece00a4589",
+      "parent": "bea38287-942b-5376-8162-446c17361442",
+      "internal": {
+        "contentDigest": "5a84f5b522a205b32d57bee65508f38e",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "776c2891-2068-5d72-a465-47165748a768": {
+      "id": "776c2891-2068-5d72-a465-47165748a768",
+      "children": [],
+      "parent": "52158376-b256-5f4a-b41f-bce8de16f643",
       "internal": {
         "contentDigest": "ed9251c527cc06faa39f3ce1cb540f0a",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "02e10076-4dd1-5b3b-b6db-e695537ca6f7": {
-      "id": "02e10076-4dd1-5b3b-b6db-e695537ca6f7",
+    "f1ec1d61-5c90-5a30-80c6-5880f2e971f1": {
+      "id": "f1ec1d61-5c90-5a30-80c6-5880f2e971f1",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "abb13497a6c36c0108be7ab6be0d38bd",
+        "contentDigest": "8a835c28d8f16ee30ea497c2e8f971f9",
         "type": "Directory",
         "description": "Directory \"content/assets\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "assets",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/assets",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/assets",
       "relativePath": "",
       "extension": "",
       "size": 192,
       "prettySize": "192 B",
-      "modifiedTime": "2019-01-28T15:27:15.496Z",
-      "accessTime": "2019-01-28T18:49:29.030Z",
-      "changeTime": "2019-01-28T15:27:15.496Z",
-      "birthTime": "2019-01-28T15:27:15.495Z",
+      "modifiedTime": "2019-01-28T04:52:41.221Z",
+      "accessTime": "2019-01-29T02:02:09.714Z",
+      "changeTime": "2019-01-28T04:52:41.221Z",
+      "birthTime": "2019-01-28T04:52:41.220Z",
       "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content",
       "base": "assets",
       "ext": "",
       "name": "assets",
@@ -3416,23 +3365,23 @@
       "dev": 16777220,
       "mode": 16877,
       "nlink": 6,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 11995933,
+      "ino": 8604322484,
       "blocks": 0,
-      "atimeMs": 1548701369030.4324,
-      "mtimeMs": 1548689235495.761,
-      "ctimeMs": 1548689235495.761,
-      "birthtimeMs": 1548689235495.1309,
-      "atime": "2019-01-28T18:49:29.030Z",
-      "mtime": "2019-01-28T15:27:15.496Z",
-      "ctime": "2019-01-28T15:27:15.496Z",
-      "birthtime": "2019-01-28T15:27:15.495Z"
+      "atimeMs": 1548727329714.337,
+      "mtimeMs": 1548651161221.394,
+      "ctimeMs": 1548651161221.394,
+      "birthtimeMs": 1548651161219.81,
+      "atime": "2019-01-29T02:02:09.714Z",
+      "mtime": "2019-01-28T04:52:41.221Z",
+      "ctime": "2019-01-28T04:52:41.221Z",
+      "birthtime": "2019-01-28T04:52:41.220Z"
     },
-    "5c99a8ac-a11a-593e-abf9-6b91e42e1409": {
-      "id": "5c99a8ac-a11a-593e-abf9-6b91e42e1409",
+    "cd85af5f-f9be-5c22-bda4-0b54b2436c28": {
+      "id": "cd85af5f-f9be-5c22-bda4-0b54b2436c28",
       "children": [],
       "parent": null,
       "internal": {
@@ -3443,17 +3392,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "assets",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/assets/fullstackkitchen.svg",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/assets/fullstackkitchen.svg",
       "relativePath": "fullstackkitchen.svg",
       "extension": "svg",
       "size": 15444,
       "prettySize": "15.4 kB",
-      "modifiedTime": "2019-01-28T15:27:15.495Z",
-      "accessTime": "2019-01-28T18:39:56.973Z",
-      "changeTime": "2019-01-28T15:27:15.495Z",
-      "birthTime": "2019-01-28T15:27:15.495Z",
+      "modifiedTime": "2019-01-28T04:52:41.220Z",
+      "accessTime": "2019-01-29T01:42:27.859Z",
+      "changeTime": "2019-01-28T04:52:41.220Z",
+      "birthTime": "2019-01-28T04:52:41.220Z",
       "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/assets",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/assets",
       "base": "fullstackkitchen.svg",
       "ext": ".svg",
       "name": "fullstackkitchen",
@@ -3461,70 +3410,25 @@
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 11995934,
+      "ino": 8604322485,
       "blocks": 32,
-      "atimeMs": 1548700796973.3955,
-      "mtimeMs": 1548689235495.3047,
-      "ctimeMs": 1548689235495.3047,
-      "birthtimeMs": 1548689235495.1936,
-      "atime": "2019-01-28T18:39:56.973Z",
-      "mtime": "2019-01-28T15:27:15.495Z",
-      "ctime": "2019-01-28T15:27:15.495Z",
-      "birthtime": "2019-01-28T15:27:15.495Z"
+      "atimeMs": 1548726147858.6294,
+      "mtimeMs": 1548651161220.2808,
+      "ctimeMs": 1548651161220.2808,
+      "birthtimeMs": 1548651161219.8684,
+      "atime": "2019-01-29T01:42:27.859Z",
+      "mtime": "2019-01-28T04:52:41.220Z",
+      "ctime": "2019-01-28T04:52:41.220Z",
+      "birthtime": "2019-01-28T04:52:41.220Z"
     },
-    "538223cc-a6e9-5d28-a34e-73528ff24530": {
-      "id": "538223cc-a6e9-5d28-a34e-73528ff24530",
-      "children": [],
-      "parent": null,
-      "internal": {
-        "contentDigest": "f595365e2769f0358f9268df6e7e692d",
-        "type": "File",
-        "mediaType": "image/svg+xml",
-        "description": "File \"content/assets/fullstackkitchen_logo.svg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "assets",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/assets/fullstackkitchen_logo.svg",
-      "relativePath": "fullstackkitchen_logo.svg",
-      "extension": "svg",
-      "size": 16001,
-      "prettySize": "16 kB",
-      "modifiedTime": "2019-01-28T15:27:15.495Z",
-      "accessTime": "2019-01-28T18:39:56.973Z",
-      "changeTime": "2019-01-28T15:27:15.495Z",
-      "birthTime": "2019-01-28T15:27:15.495Z",
-      "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/assets",
-      "base": "fullstackkitchen_logo.svg",
-      "ext": ".svg",
-      "name": "fullstackkitchen_logo",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 503,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 11995935,
-      "blocks": 32,
-      "atimeMs": 1548700796973.428,
-      "mtimeMs": 1548689235495.4229,
-      "ctimeMs": 1548689235495.4229,
-      "birthtimeMs": 1548689235495.3662,
-      "atime": "2019-01-28T18:39:56.973Z",
-      "mtime": "2019-01-28T15:27:15.495Z",
-      "ctime": "2019-01-28T15:27:15.495Z",
-      "birthtime": "2019-01-28T15:27:15.495Z"
-    },
-    "aaa8a24f-a5b9-5d2e-8dce-cc7f4a3a3544": {
-      "id": "aaa8a24f-a5b9-5d2e-8dce-cc7f4a3a3544",
+    "4d3f5db4-7f72-5f29-adef-1872f1921db3": {
+      "id": "4d3f5db4-7f72-5f29-adef-1872f1921db3",
       "children": [
-        "6ca19b9a-c555-5e9a-8704-3858da7bde6a"
+        "5128fcb1-0949-5daf-bb18-68c75cffc0b4"
       ],
       "parent": null,
       "internal": {
@@ -3535,17 +3439,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "assets",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/assets/gatsby-icon.png",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/assets/gatsby-icon.png",
       "relativePath": "gatsby-icon.png",
       "extension": "png",
       "size": 21212,
       "prettySize": "21.2 kB",
-      "modifiedTime": "2019-01-28T15:27:15.496Z",
-      "accessTime": "2019-01-28T18:39:56.973Z",
-      "changeTime": "2019-01-28T15:27:15.496Z",
-      "birthTime": "2019-01-28T15:27:15.495Z",
+      "modifiedTime": "2019-01-28T04:52:41.221Z",
+      "accessTime": "2019-01-29T01:42:27.859Z",
+      "changeTime": "2019-01-28T04:52:41.221Z",
+      "birthTime": "2019-01-28T04:52:41.221Z",
       "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/assets",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/assets",
       "base": "gatsby-icon.png",
       "ext": ".png",
       "name": "gatsby-icon",
@@ -3553,35 +3457,80 @@
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 11995936,
+      "ino": 8604322487,
       "blocks": 48,
-      "atimeMs": 1548700796973.4563,
-      "mtimeMs": 1548689235495.6287,
-      "ctimeMs": 1548689235495.6287,
-      "birthtimeMs": 1548689235495.4785,
-      "atime": "2019-01-28T18:39:56.973Z",
-      "mtime": "2019-01-28T15:27:15.496Z",
-      "ctime": "2019-01-28T15:27:15.496Z",
-      "birthtime": "2019-01-28T15:27:15.495Z"
+      "atimeMs": 1548726147858.6406,
+      "mtimeMs": 1548651161221.2874,
+      "ctimeMs": 1548651161221.2874,
+      "birthtimeMs": 1548651161220.7676,
+      "atime": "2019-01-29T01:42:27.859Z",
+      "mtime": "2019-01-28T04:52:41.221Z",
+      "ctime": "2019-01-28T04:52:41.221Z",
+      "birthtime": "2019-01-28T04:52:41.221Z"
     },
-    "6ca19b9a-c555-5e9a-8704-3858da7bde6a": {
-      "id": "6ca19b9a-c555-5e9a-8704-3858da7bde6a",
+    "291b1d65-61e5-5d58-b694-8532a1512c07": {
+      "id": "291b1d65-61e5-5d58-b694-8532a1512c07",
       "children": [],
-      "parent": "aaa8a24f-a5b9-5d2e-8dce-cc7f4a3a3544",
+      "parent": null,
+      "internal": {
+        "contentDigest": "f595365e2769f0358f9268df6e7e692d",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"content/assets/fullstackkitchen_logo.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "assets",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/assets/fullstackkitchen_logo.svg",
+      "relativePath": "fullstackkitchen_logo.svg",
+      "extension": "svg",
+      "size": 16001,
+      "prettySize": "16 kB",
+      "modifiedTime": "2019-01-28T04:52:41.221Z",
+      "accessTime": "2019-01-29T01:42:27.859Z",
+      "changeTime": "2019-01-28T04:52:41.221Z",
+      "birthTime": "2019-01-28T04:52:41.220Z",
+      "root": "/",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/assets",
+      "base": "fullstackkitchen_logo.svg",
+      "ext": ".svg",
+      "name": "fullstackkitchen_logo",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8604322486,
+      "blocks": 32,
+      "atimeMs": 1548726147858.635,
+      "mtimeMs": 1548651161220.6628,
+      "ctimeMs": 1548651161220.6628,
+      "birthtimeMs": 1548651161220.3618,
+      "atime": "2019-01-29T01:42:27.859Z",
+      "mtime": "2019-01-28T04:52:41.221Z",
+      "ctime": "2019-01-28T04:52:41.221Z",
+      "birthtime": "2019-01-28T04:52:41.220Z"
+    },
+    "5128fcb1-0949-5daf-bb18-68c75cffc0b4": {
+      "id": "5128fcb1-0949-5daf-bb18-68c75cffc0b4",
+      "children": [],
+      "parent": "4d3f5db4-7f72-5f29-adef-1872f1921db3",
       "internal": {
         "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "cc4ff3d4-0c2b-5bc5-9e7b-452e19fab49a": {
-      "id": "cc4ff3d4-0c2b-5bc5-9e7b-452e19fab49a",
+    "2a7c202d-14d1-5f52-97fe-cf2dee369d5b": {
+      "id": "2a7c202d-14d1-5f52-97fe-cf2dee369d5b",
       "children": [
-        "2761e776-7cc3-5b2b-b16a-66e804bb58a0"
+        "6c39ccb2-af96-5144-a096-49735e2261b9"
       ],
       "parent": null,
       "internal": {
@@ -3592,17 +3541,17 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "assets",
-      "absolutePath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/assets/profile-pic.jpg",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/assets/profile-pic.jpg",
       "relativePath": "profile-pic.jpg",
       "extension": "jpg",
       "size": 1732638,
       "prettySize": "1.73 MB",
-      "modifiedTime": "2019-01-28T15:27:15.501Z",
-      "accessTime": "2019-01-28T18:39:56.973Z",
-      "changeTime": "2019-01-28T15:27:15.501Z",
-      "birthTime": "2019-01-28T15:27:15.496Z",
+      "modifiedTime": "2019-01-28T04:52:41.231Z",
+      "accessTime": "2019-01-29T01:42:27.859Z",
+      "changeTime": "2019-01-28T04:52:41.231Z",
+      "birthTime": "2019-01-28T04:52:41.221Z",
       "root": "/",
-      "dir": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/content/assets",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/assets",
       "base": "profile-pic.jpg",
       "ext": ".jpg",
       "name": "profile-pic",
@@ -3610,25 +3559,25 @@
       "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
-      "uid": 503,
+      "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 11995937,
+      "ino": 8604322488,
       "blocks": 3392,
-      "atimeMs": 1548700796973.4854,
-      "mtimeMs": 1548689235500.9414,
-      "ctimeMs": 1548689235500.9414,
-      "birthtimeMs": 1548689235495.755,
-      "atime": "2019-01-28T18:39:56.973Z",
-      "mtime": "2019-01-28T15:27:15.501Z",
-      "ctime": "2019-01-28T15:27:15.501Z",
-      "birthtime": "2019-01-28T15:27:15.496Z"
+      "atimeMs": 1548726147858.6462,
+      "mtimeMs": 1548651161231.2827,
+      "ctimeMs": 1548651161231.2827,
+      "birthtimeMs": 1548651161221.3884,
+      "atime": "2019-01-29T01:42:27.859Z",
+      "mtime": "2019-01-28T04:52:41.231Z",
+      "ctime": "2019-01-28T04:52:41.231Z",
+      "birthtime": "2019-01-28T04:52:41.221Z"
     },
-    "2761e776-7cc3-5b2b-b16a-66e804bb58a0": {
-      "id": "2761e776-7cc3-5b2b-b16a-66e804bb58a0",
+    "6c39ccb2-af96-5144-a096-49735e2261b9": {
+      "id": "6c39ccb2-af96-5144-a096-49735e2261b9",
       "children": [],
-      "parent": "cc4ff3d4-0c2b-5bc5-9e7b-452e19fab49a",
+      "parent": "2a7c202d-14d1-5f52-97fe-cf2dee369d5b",
       "internal": {
         "contentDigest": "ca2cdcba6cc7692c4f0d3f5db5632f2f",
         "type": "ImageSharp",
@@ -3639,18 +3588,18 @@
       "jsonName": "offline-plugin-app-shell-fallback-a30",
       "internalComponentName": "ComponentOfflinePluginAppShellFallback",
       "path": "/offline-plugin-app-shell-fallback/",
-      "component": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js",
+      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js",
       "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
       "context": {},
       "pluginCreator___NODE": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
       "pluginCreatorId": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
-      "componentPath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js",
       "id": "SitePage /offline-plugin-app-shell-fallback/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "78966bd0c915a8ea756c3b4189bd840b",
+        "contentDigest": "c2137cd574232121fb44522c094051bb",
         "description": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
         "owner": "internal-data-bridge"
       }
@@ -3659,7 +3608,7 @@
       "jsonName": "tomato-mole-jam-527",
       "internalComponentName": "ComponentTomatoMoleJam",
       "path": "/tomato-mole-jam/",
-      "component": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/templates/blog-post.js",
+      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js",
       "componentChunkName": "component---src-templates-blog-post-js",
       "context": {
         "slug": "/tomato-mole-jam/",
@@ -3675,13 +3624,13 @@
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/templates/blog-post.js",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js",
       "id": "SitePage /tomato-mole-jam/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "17e48d90a3a955bf20c5fca514f21418",
+        "contentDigest": "d0ed9c7e1a68ab1e051929b4377a41f8",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3690,7 +3639,7 @@
       "jsonName": "hot-cocoa-macarons-7d6",
       "internalComponentName": "ComponentHotCocoaMacarons",
       "path": "/hot-cocoa-macarons/",
-      "component": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/templates/blog-post.js",
+      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js",
       "componentChunkName": "component---src-templates-blog-post-js",
       "context": {
         "slug": "/hot-cocoa-macarons/",
@@ -3713,13 +3662,13 @@
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/templates/blog-post.js",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js",
       "id": "SitePage /hot-cocoa-macarons/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f572c7b3c9c8daf693b78b14b21b16b6",
+        "contentDigest": "1f3bedb2b9e97b8f9b14abab2264eee9",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3728,7 +3677,7 @@
       "jsonName": "welcome-e45",
       "internalComponentName": "ComponentWelcome",
       "path": "/welcome/",
-      "component": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/templates/blog-post.js",
+      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js",
       "componentChunkName": "component---src-templates-blog-post-js",
       "context": {
         "slug": "/welcome/",
@@ -3744,13 +3693,13 @@
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/templates/blog-post.js",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js",
       "id": "SitePage /welcome/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "74b19b08552279190cfdbd9ac4aa9884",
+        "contentDigest": "6fb8ffa0c6337a3507ae6f69f42efe5b",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3759,19 +3708,19 @@
       "jsonName": "404-22d",
       "internalComponentName": "Component404",
       "path": "/404/",
-      "component": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/pages/404.js",
+      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "pluginCreator___NODE": "ba85ad9f-99a6-5e59-9d80-07e41a3d4cdb",
-      "pluginCreatorId": "ba85ad9f-99a6-5e59-9d80-07e41a3d4cdb",
-      "componentPath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/pages/404.js",
+      "pluginCreator___NODE": "086142d7-4c5b-5202-afd4-d6ebd7b2af36",
+      "pluginCreatorId": "086142d7-4c5b-5202-afd4-d6ebd7b2af36",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0e9808070d0a80b25c1665d90fde9f72",
-        "description": "ba85ad9f-99a6-5e59-9d80-07e41a3d4cdb",
+        "contentDigest": "b1efc4c81a926d90216774ef012fc9c4",
+        "description": "086142d7-4c5b-5202-afd4-d6ebd7b2af36",
         "owner": "internal-data-bridge"
       }
     },
@@ -3779,19 +3728,19 @@
       "jsonName": "about-f34",
       "internalComponentName": "ComponentAbout",
       "path": "/about/",
-      "component": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/pages/about.js",
+      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/about.js",
       "componentChunkName": "component---src-pages-about-js",
       "context": {},
-      "pluginCreator___NODE": "ba85ad9f-99a6-5e59-9d80-07e41a3d4cdb",
-      "pluginCreatorId": "ba85ad9f-99a6-5e59-9d80-07e41a3d4cdb",
-      "componentPath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/pages/about.js",
+      "pluginCreator___NODE": "086142d7-4c5b-5202-afd4-d6ebd7b2af36",
+      "pluginCreatorId": "086142d7-4c5b-5202-afd4-d6ebd7b2af36",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/about.js",
       "id": "SitePage /about/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "57c0c3885c60a8838a0d4d8c6051ef62",
-        "description": "ba85ad9f-99a6-5e59-9d80-07e41a3d4cdb",
+        "contentDigest": "7e149fc1772e891204c33f20271ee415",
+        "description": "086142d7-4c5b-5202-afd4-d6ebd7b2af36",
         "owner": "internal-data-bridge"
       }
     },
@@ -3799,19 +3748,19 @@
       "jsonName": "index",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/pages/index.js",
+      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "pluginCreator___NODE": "ba85ad9f-99a6-5e59-9d80-07e41a3d4cdb",
-      "pluginCreatorId": "ba85ad9f-99a6-5e59-9d80-07e41a3d4cdb",
-      "componentPath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/pages/index.js",
+      "pluginCreator___NODE": "086142d7-4c5b-5202-afd4-d6ebd7b2af36",
+      "pluginCreatorId": "086142d7-4c5b-5202-afd4-d6ebd7b2af36",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/index.js",
       "id": "SitePage /",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "9b856deaea0d24c3f65688d55f56b046",
-        "description": "ba85ad9f-99a6-5e59-9d80-07e41a3d4cdb",
+        "contentDigest": "fe35fdce4c76df35cf7bb4d191bdda53",
+        "description": "086142d7-4c5b-5202-afd4-d6ebd7b2af36",
         "owner": "internal-data-bridge"
       }
     },
@@ -3819,18 +3768,18 @@
       "jsonName": "404-html-516",
       "internalComponentName": "Component404Html",
       "path": "/404.html",
-      "component": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/pages/404.js",
+      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
       "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
       "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-      "componentPath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/pages/404.js",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/404.js",
       "id": "SitePage /404.html",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f42362e2b07dd79d1d881d19f5512958",
+        "contentDigest": "66af1545e00be500bb8610ff962bffe7",
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
@@ -3838,101 +3787,104 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "2739b9dca51e58e5ca186c70f5ddf14a"
+    "PLUGINS_HASH": "413ef78cf28eee9eb96393b33c19550f"
   },
   "componentDataDependencies": {
     "nodes": {
       "Site": [
-        "sq--src-components-seo-js",
-        "sq--src-components-bio-js",
         "/404/",
         "/404.html",
         "/about/",
-        "/",
         "/tomato-mole-jam/",
         "/hot-cocoa-macarons/",
-        "/welcome/"
+        "/welcome/",
+        "/",
+        "sq--src-components-bio-js",
+        "sq--src-components-seo-js"
       ],
-      "cc4ff3d4-0c2b-5bc5-9e7b-452e19fab49a": [
+      "2a7c202d-14d1-5f52-97fe-cf2dee369d5b": [
         "sq--src-components-bio-js"
       ],
-      "2761e776-7cc3-5b2b-b16a-66e804bb58a0": [
+      "6c39ccb2-af96-5144-a096-49735e2261b9": [
         "sq--src-components-bio-js"
       ],
-      "eb6ec5f9-136e-5fa9-92da-0fcfefeaf969": [
-        "/"
-      ],
-      "8042ea05-3ed8-5439-94f6-5551d96c7d25": [
-        "/"
-      ],
-      "699c7c99-20e1-5a91-9db9-41a647f715de": [
-        "/"
-      ],
-      "a30e88bf-2a6f-5c21-a9d2-01ecd6c7f6bd": [
+      "e938c780-ae3e-5016-8fd4-9b48f53caa32": [
         "/tomato-mole-jam/"
       ],
-      "c4428541-a0b6-5359-84bd-2805b1041801": [
-        "/"
-      ],
-      "59dd3bea-cb16-5cab-885d-2ac212828675": [
-        "/"
-      ],
-      "5a8798a2-58df-5fc3-8d19-5d467dfebb28": [
-        "/"
-      ],
-      "1ad86611-5441-5618-a313-e7451dba2b02": [
+      "5fac45af-9dda-5faa-a929-243d1c5db1ab": [
         "/hot-cocoa-macarons/"
       ],
-      "2cff4dea-5230-5de8-a7e8-c406fa3f9594": [
+      "61859686-f971-51c1-aeb5-1ec4020ed339": [
         "/welcome/"
+      ],
+      "bea38287-942b-5376-8162-446c17361442": [
+        "/"
+      ],
+      "76d2b583-d148-565b-9864-ba92712eda90": [
+        "/"
+      ],
+      "52d62133-825a-5ba3-9997-5ed831877268": [
+        "/"
+      ],
+      "338c0182-88bf-580b-a7e2-40f9790160ba": [
+        "/"
+      ],
+      "da1ff49a-fe64-5a3e-931c-3ce6a28794b8": [
+        "/"
+      ],
+      "4d5b971c-17c7-5b00-975d-3778041c2ddc": [
+        "/"
       ]
     },
     "connections": {
       "MarkdownRemark": [
         null,
-        "/"
+        "/",
+        null
       ]
     }
   },
   "jsonDataPaths": {
-    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
-    "404-22d": "625/path---404-22-d-bce-ngiQNVYXUJcUSoCzbpBruBEQtB4",
-    "index": "142/path---index-6a9-SOjHs2J6WdfLJXYf0CbBdfua36o",
-    "about-f34": "225/path---about-f-34-4c2-ngiQNVYXUJcUSoCzbpBruBEQtB4",
-    "404-html-516": "903/path---404-html-516-62a-ngiQNVYXUJcUSoCzbpBruBEQtB4",
     "sq--src-components-seo-js": 1025518380,
+    "about-f34": "225/path---about-f-34-4c2-ngiQNVYXUJcUSoCzbpBruBEQtB4",
+    "welcome-e45": "47/path---welcome-e-45-1b7-M6Lbrq1Jzh6e7Ya2aAnokE1Yqz0",
     "sq--src-components-bio-js": 20992707,
-    "welcome-e45": "328/path---welcome-e-45-1b7-G227AjDHgzORU2xCuKkg6u4yY",
-    "hot-cocoa-macarons-7d6": "492/path---hot-cocoa-macarons-7-d-6-80f-06M6vlov4s6Qv4WmfKoFjSfuInE",
-    "tomato-mole-jam-527": "779/path---tomato-mole-jam-527-668-n9YpxOBiS2tbBYAV6l8q0OPdjUA",
+    "404-22d": "625/path---404-22-d-bce-ngiQNVYXUJcUSoCzbpBruBEQtB4",
+    "404-html-516": "903/path---404-html-516-62a-ngiQNVYXUJcUSoCzbpBruBEQtB4",
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "hot-cocoa-macarons-7d6": "430/path---hot-cocoa-macarons-7-d-6-80f-3bzASJbqPt9mEbIBuZqXxUFWZpc",
+    "index": "142/path---index-6a9-SOjHs2J6WdfLJXYf0CbBdfua36o",
+    "tomato-mole-jam-527": "763/path---tomato-mole-jam-527-668-jSl74GX4DCcY5hJiuN55WKs24",
+    "sq--src-components-layout-js": 755544856,
+    "page-2-fbc": "53/path---page-2-fbc-5a8-NZuapzHg3X9TaN1iIixfv1W23E",
     "offline-plugin-app-shell-fallback-a30": "520/path---offline-plugin-app-shell-fallback-a-30-c5a-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
-    "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js": {
-      "query": "",
-      "componentPath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js"
-    },
-    "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/templates/blog-post.js": {
+    "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js": {
       "query": "query BlogPostBySlug(\n  $slug: String!\n) {\n  site {\n    siteMetadata {\n      title\n      author\n    }\n  }\n  markdownRemark(fields: {slug: {eq: $slug}}) {\n    id\n    excerpt(pruneLength: 160)\n    html\n    frontmatter {\n      title\n      date(formatString: \"MMMM DD, YYYY\")\n    }\n  }\n}\n",
-      "componentPath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/templates/blog-post.js"
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js"
     },
-    "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/pages/404.js": {
-      "query": "query usersTarasiegelDocumentsPersonalCodeFullstackkitchenSrcPages404Js1097489062 {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
-      "componentPath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/pages/404.js"
+    "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/404.js": {
+      "query": "query usersTarasiegelDocumentsCodeProjectsFullstackkitchenSrcPages404Js1097489062 {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/404.js"
     },
-    "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/pages/about.js": {
-      "query": "query usersTarasiegelDocumentsPersonalCodeFullstackkitchenSrcPagesAboutJs1097489062 {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
-      "componentPath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/pages/about.js"
+    "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/about.js": {
+      "query": "query usersTarasiegelDocumentsCodeProjectsFullstackkitchenSrcPagesAboutJs1097489062 {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/about.js"
     },
-    "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/pages/index.js": {
-      "query": "query usersTarasiegelDocumentsPersonalCodeFullstackkitchenSrcPagesIndexJs3453470785 {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        excerpt\n        fields {\n          slug\n        }\n        frontmatter {\n          date(formatString: \"MMMM DD YYYY\")\n          title\n          image {\n            childImageSharp {\n              resize(width: 650, height: 650) {\n                src\n              }\n              fluid(maxWidth: 786) {\n                ...GatsbyImageSharpFluid\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
-      "componentPath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/pages/index.js"
+    "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/index.js": {
+      "query": "query usersTarasiegelDocumentsCodeProjectsFullstackkitchenSrcPagesIndexJs3453470785 {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        excerpt\n        fields {\n          slug\n        }\n        frontmatter {\n          date(formatString: \"MMMM DD YYYY\")\n          title\n          image {\n            childImageSharp {\n              resize(width: 650, height: 650) {\n                src\n              }\n              fluid(maxWidth: 786) {\n                ...GatsbyImageSharpFluid\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/index.js"
+    },
+    "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js": {
+      "query": "",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js"
     }
   },
   "staticQueryComponents": {
     "sq--src-components-seo-js": {
       "name": "DefaultSEOQuery",
-      "componentPath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/components/seo.js",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/components/seo.js",
       "id": "sq--src-components-seo-js",
       "jsonName": "sq--src-components-seo-js",
       "query": "query DefaultSEOQuery {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
@@ -3940,7 +3892,7 @@
     },
     "sq--src-components-bio-js": {
       "name": "BioQuery",
-      "componentPath": "/Users/tarasiegel/Documents/PersonalCode/fullstackkitchen/src/components/Bio.js",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/components/Bio.js",
       "id": "sq--src-components-bio-js",
       "jsonName": "sq--src-components-bio-js",
       "query": "query BioQuery {\n  avatar: file(absolutePath: {regex: \"/profile-pic.jpg/\"}) {\n    childImageSharp {\n      fixed(width: 50, height: 50) {\n        ...GatsbyImageSharpFixed\n      }\n    }\n  }\n  site {\n    siteMetadata {\n      author\n      social {\n        instagram\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFixed on ImageSharpFixed {\n  base64\n  width\n  height\n  src\n  srcSet\n}\n",

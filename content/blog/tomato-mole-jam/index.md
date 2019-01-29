@@ -39,10 +39,13 @@ This cake is perfect when you want to try making something different.  The jam i
 
 ![Top View with can](./mole_cheesecake-18.jpg)
 
+
+-----
 ### Mexican Ricotta Cheesecake with Tomato Mole Jam
 
+
 #### Tomato Mole Jam
-_Makes 1 4oz jar_
+_makes one 4oz jar_
 
 ##### __**Ingredients**__
 - 1 14.5oz can [Muir Glen Petite Diced Tomatoes](https://www.muirglen.com/products/petite-diced-tomatoes/)
@@ -72,7 +75,7 @@ If you are making this jam on its on and wish to preserve it unrefrigerated, fol
 ______________________________________________
 
 #### Ricotta Cheesecake
-_Makes 1 8-inch cake, about 10-12 servings_
+_makes one 8-inch cake, about 10-12 servings_
 
 ##### __**Ingredients**__
 ###### Crust
@@ -119,3 +122,5 @@ Bake for approximately 1.25-1.5 hours. It is done when you can shake the pan and
 When ready to serve, spread the Tomato Mole Jam on top of the cake.  I like to do this while it is still in the springform pan to get nice sharp edges around the side.  Decorate with slivered almonds if desired.  Run a butter knife around the edges of the cake and release it from the pan. Cake can be kept in the refrigerator for up to 5 days. 
 
 ![Slice with bite View](./mole_cheesecake-36.jpg)
+
+This post is sponsored by [Muir Glen](https://www.muirglen.com/) and [The Feedfeed](https://thefeedfeed.com/), but all opinions are my own.

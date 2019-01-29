@@ -15,10 +15,10 @@ class Layout extends React.Component {
         <Header />
         <div className="layout-container">
           {children}
+        </div>
           <footer>
             © {new Date().getFullYear()} fullstackkitchen.com
           </footer>
-        </div>
       </div>
     )
   }

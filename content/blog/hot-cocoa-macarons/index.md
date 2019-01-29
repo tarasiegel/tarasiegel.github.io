@@ -1,10 +1,10 @@
 ---
-title: Hot Cocoa Macarons
+title: Hot Cocoa Macarons with Chocolate & Marshmallow Filling
 description: Hot Cocoa Macarons
 date: '2019-01-11T23:46:37.121Z'
 image: ./hot_cocoa_macarons-7.jpg
 tags: [macarons, sweets, chocolate, buttercream, ganache]
----
+------
 
 ![Social View](./hot_cocoa_macarons-7.jpg)
 
@@ -16,7 +16,7 @@ tags: [macarons, sweets, chocolate, buttercream, ganache]
 
 <div class="body-text">
 
-The first month of the New Year has already flown by and it’s bitter cold here in Brooklyn.  Even though winter is always fun (ie. skiing), I get that yearning to be on a beach in Mexico or basking in the Mediterranean sun whenever I am trudging to work through the snowy dirty streets of New York.  Making and eating this Mexican Ricotta Cheesecake with a Tomato Mole Jam is possibly the next best thing to hopping on a flight to warmer weather.  It has loads of spicy, complex flavors that will keep you warm and preoccupied until the sun comes out in a few months. 
+Hot Cocoa Macarons w/chocolate & marshmallow filling: Its absurdly cold today in NYC (feels like -10˚F absurdly cold), which makes me feel way less guilty about spending the majority of today curled up inside, drinking hot cocoa with my best friend Netflix (that Frye Festival documentary was ridiculous). Also eating way too many of these 💁🏼‍♀️ These macarons have spicy chocolate shells (think cocoa, cinnamon, with a hint of cayenne), fluffy marshmallow buttercream, and a creamy dark chocolate ganache center. 
  
 </div>
 

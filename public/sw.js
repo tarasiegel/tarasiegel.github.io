@@ -26,29 +26,29 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-28b9bbb255af36e04c93.js"
+    "url": "webpack-runtime-35b196c257c7585a0b45.js"
   },
   {
-    "url": "app.bddaef654c66ded1434d.css"
+    "url": "app.bdf9fbf803502915c3d0.css"
   },
   {
-    "url": "app-d605ae52ce3bd4b1ec1a.js"
+    "url": "app-c6cf80a925f3dba9a68b.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-bb61e080472a9f33f38e.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "e101e4741025ac2bb120dfc236d7d23c"
+    "revision": "a930a4e7b102edb42cc2557e10c6b0bd"
   },
   {
     "url": "component---src-pages-404-js.0dc3d95ecabeec4485bb.css"
   },
   {
-    "url": "0-56e46c069fba726619b8.js"
+    "url": "0-6cd76f1dd387943531e9.js"
   },
   {
-    "url": "component---src-pages-404-js-a9815fa576847238448d.js"
+    "url": "component---src-pages-404-js-ac2dac8d821909283643.js"
   },
   {
     "url": "static/d/903/path---404-html-516-62a-ngiQNVYXUJcUSoCzbpBruBEQtB4.json"
@@ -79,7 +79,7 @@ const navigationRoute = new workbox.routing.NavigationRoute(({ event }) => {
   return idbKeyval.get(WHITELIST_KEY).then((customWhitelist = []) => {
     // Respond with the offline shell if we match the custom whitelist
     if (customWhitelist.includes(pathname)) {
-      const offlineShell = `/offline-plugin-app-shell-fallback/index.html`
+      const offlineShell = `/fullstackkitchen/offline-plugin-app-shell-fallback/index.html`
       const cacheName = workbox.core.cacheNames.precache
 
       return caches.match(offlineShell, { cacheName }).then(cachedResponse => {
@@ -151,7 +151,7 @@ const messageApi = {
 
     pathnames = pathnames.map(({ pathname, includesPrefix }) => {
       if (!includesPrefix) {
-        return `${pathname}`
+        return `/fullstackkitchen${pathname}`
       } else {
         return pathname
       }

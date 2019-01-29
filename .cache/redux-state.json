@@ -1,13 +1,22 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "51e1f1965ac63c4a94f2862d54718688",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
         "owner": "internal-data-bridge"
       }
     },
@@ -2173,14 +2182,15 @@
           "instagram": "taras.kitchen"
         }
       },
-      "pathPrefix": "",
-      "polyfill": true,
-      "buildTime": "2019-01-29T02:02:07.154Z",
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "/fullstackkitchen",
+      "buildTime": "2019-01-29T01:56:18.367Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "72cb33ef0e801469da90d3a1b04836fb",
+        "contentDigest": "355b1b71142227cea5e46098ab4ae02c",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2190,7 +2200,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "01f73246011204d6c6fb8c0bb5ee9434",
+        "contentDigest": "ee3641b7f6729f5300d42c2affd05a1b",
         "type": "Directory",
         "description": "Directory \"content/blog\"",
         "owner": "gatsby-source-filesystem"
@@ -2202,7 +2212,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2019-01-28T04:52:41.717Z",
-      "accessTime": "2019-01-29T02:02:09.488Z",
+      "accessTime": "2019-01-29T01:56:23.387Z",
       "changeTime": "2019-01-28T04:52:41.717Z",
       "birthTime": "2019-01-19T04:51:26.577Z",
       "root": "/",
@@ -2220,11 +2230,11 @@
       "blksize": 4096,
       "ino": 8604269393,
       "blocks": 0,
-      "atimeMs": 1548727329487.54,
+      "atimeMs": 1548726983387.3198,
       "mtimeMs": 1548651161717.497,
       "ctimeMs": 1548651161717.497,
       "birthtimeMs": 1547873486577.1038,
-      "atime": "2019-01-29T02:02:09.488Z",
+      "atime": "2019-01-29T01:56:23.387Z",
       "mtime": "2019-01-28T04:52:41.717Z",
       "ctime": "2019-01-28T04:52:41.717Z",
       "birthtime": "2019-01-19T04:51:26.577Z"
@@ -2234,7 +2244,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "b239735a6b4d7a0b38efa5b17ca8be02",
+        "contentDigest": "c23395889f80705585aae9b270180231",
         "type": "Directory",
         "description": "Directory \"content/blog/hot-cocoa-macarons\"",
         "owner": "gatsby-source-filesystem"
@@ -2246,7 +2256,7 @@
       "size": 256,
       "prettySize": "256 B",
       "modifiedTime": "2019-01-28T04:52:41.375Z",
-      "accessTime": "2019-01-29T02:02:09.490Z",
+      "accessTime": "2019-01-29T01:56:23.390Z",
       "changeTime": "2019-01-28T04:52:41.375Z",
       "birthTime": "2019-01-28T04:52:41.232Z",
       "root": "/",
@@ -2264,11 +2274,11 @@
       "blksize": 4096,
       "ino": 8604322489,
       "blocks": 0,
-      "atimeMs": 1548727329489.9067,
+      "atimeMs": 1548726983389.767,
       "mtimeMs": 1548651161374.6711,
       "ctimeMs": 1548651161374.6711,
       "birthtimeMs": 1548651161231.7734,
-      "atime": "2019-01-29T02:02:09.490Z",
+      "atime": "2019-01-29T01:56:23.390Z",
       "mtime": "2019-01-28T04:52:41.375Z",
       "ctime": "2019-01-28T04:52:41.375Z",
       "birthtime": "2019-01-28T04:52:41.232Z"
@@ -2278,7 +2288,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "b2f1ed8b14f517dd44c0a300cca13626",
+        "contentDigest": "3ecabeca193bf2c3bdae68f0ae8fc2f6",
         "type": "Directory",
         "description": "Directory \"content/blog/tomato-mole-jam\"",
         "owner": "gatsby-source-filesystem"
@@ -2290,7 +2300,7 @@
       "size": 320,
       "prettySize": "320 B",
       "modifiedTime": "2019-01-28T04:52:41.682Z",
-      "accessTime": "2019-01-29T02:02:09.490Z",
+      "accessTime": "2019-01-29T01:56:23.390Z",
       "changeTime": "2019-01-28T04:52:41.682Z",
       "birthTime": "2019-01-28T04:52:41.376Z",
       "root": "/",
@@ -2308,11 +2318,11 @@
       "blksize": 4096,
       "ino": 8604322500,
       "blocks": 0,
-      "atimeMs": 1548727329490.0688,
+      "atimeMs": 1548726983389.794,
       "mtimeMs": 1548651161681.9966,
       "ctimeMs": 1548651161681.9966,
       "birthtimeMs": 1548651161375.8928,
-      "atime": "2019-01-29T02:02:09.490Z",
+      "atime": "2019-01-29T01:56:23.390Z",
       "mtime": "2019-01-28T04:52:41.682Z",
       "ctime": "2019-01-28T04:52:41.682Z",
       "birthtime": "2019-01-28T04:52:41.376Z"
@@ -2322,7 +2332,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "bc244ea5dd733ba16e046cfe1d64779c",
+        "contentDigest": "18fe9d22eef1c59748ff3c80999f7922",
         "type": "Directory",
         "description": "Directory \"content/blog/welcome\"",
         "owner": "gatsby-source-filesystem"
@@ -2334,7 +2344,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2019-01-28T04:52:41.757Z",
-      "accessTime": "2019-01-29T02:02:09.490Z",
+      "accessTime": "2019-01-29T01:56:23.390Z",
       "changeTime": "2019-01-28T04:52:41.757Z",
       "birthTime": "2019-01-28T04:52:41.717Z",
       "root": "/",
@@ -2352,11 +2362,11 @@
       "blksize": 4096,
       "ino": 8604322509,
       "blocks": 0,
-      "atimeMs": 1548727329489.8977,
+      "atimeMs": 1548726983389.757,
       "mtimeMs": 1548651161757.0488,
       "ctimeMs": 1548651161757.0488,
       "birthtimeMs": 1548651161717.4866,
-      "atime": "2019-01-29T02:02:09.490Z",
+      "atime": "2019-01-29T01:56:23.390Z",
       "mtime": "2019-01-28T04:52:41.757Z",
       "ctime": "2019-01-28T04:52:41.757Z",
       "birthtime": "2019-01-28T04:52:41.717Z"
@@ -3341,7 +3351,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "8a835c28d8f16ee30ea497c2e8f971f9",
+        "contentDigest": "b931504f0e487e95ae42d20eb4a280d9",
         "type": "Directory",
         "description": "Directory \"content/assets\"",
         "owner": "gatsby-source-filesystem"
@@ -3353,7 +3363,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2019-01-28T04:52:41.221Z",
-      "accessTime": "2019-01-29T02:02:09.714Z",
+      "accessTime": "2019-01-29T01:56:23.659Z",
       "changeTime": "2019-01-28T04:52:41.221Z",
       "birthTime": "2019-01-28T04:52:41.220Z",
       "root": "/",
@@ -3371,11 +3381,11 @@
       "blksize": 4096,
       "ino": 8604322484,
       "blocks": 0,
-      "atimeMs": 1548727329714.337,
+      "atimeMs": 1548726983658.7417,
       "mtimeMs": 1548651161221.394,
       "ctimeMs": 1548651161221.394,
       "birthtimeMs": 1548651161219.81,
-      "atime": "2019-01-29T02:02:09.714Z",
+      "atime": "2019-01-29T01:56:23.659Z",
       "mtime": "2019-01-28T04:52:41.221Z",
       "ctime": "2019-01-28T04:52:41.221Z",
       "birthtime": "2019-01-28T04:52:41.220Z"
@@ -3584,26 +3594,6 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "SitePage /offline-plugin-app-shell-fallback/": {
-      "jsonName": "offline-plugin-app-shell-fallback-a30",
-      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
-      "path": "/offline-plugin-app-shell-fallback/",
-      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js",
-      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
-      "context": {},
-      "pluginCreator___NODE": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
-      "pluginCreatorId": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
-      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js",
-      "id": "SitePage /offline-plugin-app-shell-fallback/",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "c2137cd574232121fb44522c094051bb",
-        "description": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /tomato-mole-jam/": {
       "jsonName": "tomato-mole-jam-527",
       "internalComponentName": "ComponentTomatoMoleJam",
@@ -3792,15 +3782,15 @@
   "componentDataDependencies": {
     "nodes": {
       "Site": [
+        "sq--src-components-seo-js",
+        "sq--src-components-bio-js",
         "/404/",
         "/404.html",
         "/about/",
         "/tomato-mole-jam/",
         "/hot-cocoa-macarons/",
         "/welcome/",
-        "/",
-        "sq--src-components-bio-js",
-        "sq--src-components-seo-js"
+        "/"
       ],
       "2a7c202d-14d1-5f52-97fe-cf2dee369d5b": [
         "sq--src-components-bio-js"
@@ -3839,8 +3829,7 @@
     "connections": {
       "MarkdownRemark": [
         null,
-        "/",
-        null
+        "/"
       ]
     }
   },
@@ -3864,6 +3853,10 @@
       "query": "query BlogPostBySlug(\n  $slug: String!\n) {\n  site {\n    siteMetadata {\n      title\n      author\n    }\n  }\n  markdownRemark(fields: {slug: {eq: $slug}}) {\n    id\n    excerpt(pruneLength: 160)\n    html\n    frontmatter {\n      title\n      date(formatString: \"MMMM DD, YYYY\")\n    }\n  }\n}\n",
       "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js"
     },
+    "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/.cache/dev-404-page.js"
+    },
     "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/404.js": {
       "query": "query usersTarasiegelDocumentsCodeProjectsFullstackkitchenSrcPages404Js1097489062 {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
       "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/404.js"
@@ -3875,10 +3868,6 @@
     "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/index.js": {
       "query": "query usersTarasiegelDocumentsCodeProjectsFullstackkitchenSrcPagesIndexJs3453470785 {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        excerpt\n        fields {\n          slug\n        }\n        frontmatter {\n          date(formatString: \"MMMM DD YYYY\")\n          title\n          image {\n            childImageSharp {\n              resize(width: 650, height: 650) {\n                src\n              }\n              fluid(maxWidth: 786) {\n                ...GatsbyImageSharpFluid\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/index.js"
-    },
-    "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js": {
-      "query": "",
-      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js"
     }
   },
   "staticQueryComponents": {

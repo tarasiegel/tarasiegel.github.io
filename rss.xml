@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Full Stack Kitchen]]></title><description><![CDATA[Full Stack Kitchen: Unique Dessert Recipes from an Engineer's Mind]]></description><link>https://fullstackkitchen.com/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 29 Jan 2019 02:16:50 GMT</lastBuildDate><item><title><![CDATA[Mexican Ricotta Cheesecake with Tomato Mole Jam]]></title><description><![CDATA[The first month of the New Year has already flown by and it’s bitter cold here in Brooklyn.  Even though winter is always fun (ie. skiing…]]></description><link>https://fullstackkitchen.com//tomato-mole-jam/</link><guid isPermaLink="false">https://fullstackkitchen.com//tomato-mole-jam/</guid><pubDate>Thu, 24 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Full Stack Kitchen]]></title><description><![CDATA[Full Stack Kitchen: Unique Dessert Recipes from an Engineer's Mind]]></description><link>https://fullstackkitchen.com/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 29 Jan 2019 02:26:44 GMT</lastBuildDate><item><title><![CDATA[Mexican Ricotta Cheesecake with Tomato Mole Jam]]></title><description><![CDATA[The first month of the New Year has already flown by and it’s bitter cold here in Brooklyn.  Even though winter is always fun (ie. skiing…]]></description><link>https://fullstackkitchen.com//tomato-mole-jam/</link><guid isPermaLink="false">https://fullstackkitchen.com//tomato-mole-jam/</guid><pubDate>Thu, 24 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/5a84f5b522a205b32d57bee65508f38e/5442e/mole_cheesecake-13.jpg&quot;
+    href=&quot;/fullstackkitchen/static/5a84f5b522a205b32d57bee65508f38e/5442e/mole_cheesecake-13.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -21,13 +21,13 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Social View&quot;
         title=&quot;&quot;
-        src=&quot;/static/5a84f5b522a205b32d57bee65508f38e/71e08/mole_cheesecake-13.jpg&quot;
-        srcset=&quot;/static/5a84f5b522a205b32d57bee65508f38e/996a7/mole_cheesecake-13.jpg 320w,
-/static/5a84f5b522a205b32d57bee65508f38e/06faf/mole_cheesecake-13.jpg 640w,
-/static/5a84f5b522a205b32d57bee65508f38e/71e08/mole_cheesecake-13.jpg 1280w,
-/static/5a84f5b522a205b32d57bee65508f38e/2ed49/mole_cheesecake-13.jpg 1920w,
-/static/5a84f5b522a205b32d57bee65508f38e/ad50a/mole_cheesecake-13.jpg 2560w,
-/static/5a84f5b522a205b32d57bee65508f38e/5442e/mole_cheesecake-13.jpg 2848w&quot;
+        src=&quot;/fullstackkitchen/static/5a84f5b522a205b32d57bee65508f38e/71e08/mole_cheesecake-13.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/5a84f5b522a205b32d57bee65508f38e/996a7/mole_cheesecake-13.jpg 320w,
+/fullstackkitchen/static/5a84f5b522a205b32d57bee65508f38e/06faf/mole_cheesecake-13.jpg 640w,
+/fullstackkitchen/static/5a84f5b522a205b32d57bee65508f38e/71e08/mole_cheesecake-13.jpg 1280w,
+/fullstackkitchen/static/5a84f5b522a205b32d57bee65508f38e/2ed49/mole_cheesecake-13.jpg 1920w,
+/fullstackkitchen/static/5a84f5b522a205b32d57bee65508f38e/ad50a/mole_cheesecake-13.jpg 2560w,
+/fullstackkitchen/static/5a84f5b522a205b32d57bee65508f38e/5442e/mole_cheesecake-13.jpg 2848w&quot;
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
       /&gt;
     &lt;/span&gt;
@@ -38,7 +38,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/c6eb2abfac9121b6c6fefb10fe07cab5/18ea0/mole_cheesecake-34.jpg&quot;
+    href=&quot;/fullstackkitchen/static/c6eb2abfac9121b6c6fefb10fe07cab5/18ea0/mole_cheesecake-34.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -57,14 +57,14 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Slice View&quot;
         title=&quot;&quot;
-        src=&quot;/static/c6eb2abfac9121b6c6fefb10fe07cab5/71e08/mole_cheesecake-34.jpg&quot;
-        srcset=&quot;/static/c6eb2abfac9121b6c6fefb10fe07cab5/996a7/mole_cheesecake-34.jpg 320w,
-/static/c6eb2abfac9121b6c6fefb10fe07cab5/06faf/mole_cheesecake-34.jpg 640w,
-/static/c6eb2abfac9121b6c6fefb10fe07cab5/71e08/mole_cheesecake-34.jpg 1280w,
-/static/c6eb2abfac9121b6c6fefb10fe07cab5/2ed49/mole_cheesecake-34.jpg 1920w,
-/static/c6eb2abfac9121b6c6fefb10fe07cab5/ad50a/mole_cheesecake-34.jpg 2560w,
-/static/c6eb2abfac9121b6c6fefb10fe07cab5/12898/mole_cheesecake-34.jpg 3840w,
-/static/c6eb2abfac9121b6c6fefb10fe07cab5/18ea0/mole_cheesecake-34.jpg 4010w&quot;
+        src=&quot;/fullstackkitchen/static/c6eb2abfac9121b6c6fefb10fe07cab5/71e08/mole_cheesecake-34.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/c6eb2abfac9121b6c6fefb10fe07cab5/996a7/mole_cheesecake-34.jpg 320w,
+/fullstackkitchen/static/c6eb2abfac9121b6c6fefb10fe07cab5/06faf/mole_cheesecake-34.jpg 640w,
+/fullstackkitchen/static/c6eb2abfac9121b6c6fefb10fe07cab5/71e08/mole_cheesecake-34.jpg 1280w,
+/fullstackkitchen/static/c6eb2abfac9121b6c6fefb10fe07cab5/2ed49/mole_cheesecake-34.jpg 1920w,
+/fullstackkitchen/static/c6eb2abfac9121b6c6fefb10fe07cab5/ad50a/mole_cheesecake-34.jpg 2560w,
+/fullstackkitchen/static/c6eb2abfac9121b6c6fefb10fe07cab5/12898/mole_cheesecake-34.jpg 3840w,
+/fullstackkitchen/static/c6eb2abfac9121b6c6fefb10fe07cab5/18ea0/mole_cheesecake-34.jpg 4010w&quot;
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
       /&gt;
     &lt;/span&gt;
@@ -79,16 +79,16 @@
 &lt;div class=&quot;image-halfsize-container&quot;&gt;
     &lt;div class=&quot;image-halfsize&quot;&gt;
         
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/bd314c98b5b42609f694cb8e91e0dfa2/319c0/mole_cheesecake-27.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/fullstackkitchen/static/bd314c98b5b42609f694cb8e91e0dfa2/319c0/mole_cheesecake-27.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 131.7545748116254%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAbmEE8tcWEU4WVR4Gyv/xAAdEAACAQQDAAAAAAAAAAAAAAABAgMAECExERIj/9oACAEBAAEFAq5FmnHct7phWjLkxgMDgVLsa//EABYRAQEBAAAAAAAAAAAAAAAAABEAEP/aAAgBAwEBPwExm//EABYRAQEBAAAAAAAAAAAAAAAAABEAEP/aAAgBAgEBPwFwi//EAB8QAAECBgMAAAAAAAAAAAAAAAABMQIQEiAhIkJhkf/aAAgBAQAGPwKdKisw5tDjo5eW/wD/xAAcEAADAAIDAQAAAAAAAAAAAAAAAREhQTFxgbH/2gAIAQEAAT8hcGDeS6hRblNknTBPAd8Hv4lKZNJpDcx2IuZkxCrQ/9oADAMBAAIAAwAAABB3OrL/xAAXEQADAQAAAAAAAAAAAAAAAAAAARFB/9oACAEDAQE/EL0gnRR//8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARUf/aAAgBAgEBPxB5hnZZv//EABwQAQADAAMBAQAAAAAAAAAAAAEAESExUXGBYf/aAAgBAQABPxBA2C6huKqALuJ0XARCIa2vl8zKbS7CktxAKqVrCla+kU8OCc/NlAA9BA1AKRZ1rWNwa8jgoXyf/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;mole cheesecake 27&quot; title=&quot;&quot; src=&quot;/static/bd314c98b5b42609f694cb8e91e0dfa2/71e08/mole_cheesecake-27.jpg&quot; srcset=&quot;/static/bd314c98b5b42609f694cb8e91e0dfa2/996a7/mole_cheesecake-27.jpg 320w,
-/static/bd314c98b5b42609f694cb8e91e0dfa2/06faf/mole_cheesecake-27.jpg 640w,
-/static/bd314c98b5b42609f694cb8e91e0dfa2/71e08/mole_cheesecake-27.jpg 1280w,
-/static/bd314c98b5b42609f694cb8e91e0dfa2/2ed49/mole_cheesecake-27.jpg 1920w,
-/static/bd314c98b5b42609f694cb8e91e0dfa2/ad50a/mole_cheesecake-27.jpg 2560w,
-/static/bd314c98b5b42609f694cb8e91e0dfa2/319c0/mole_cheesecake-27.jpg 2787w&quot; sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;mole cheesecake 27&quot; title=&quot;&quot; src=&quot;/fullstackkitchen/static/bd314c98b5b42609f694cb8e91e0dfa2/71e08/mole_cheesecake-27.jpg&quot; srcset=&quot;/fullstackkitchen/static/bd314c98b5b42609f694cb8e91e0dfa2/996a7/mole_cheesecake-27.jpg 320w,
+/fullstackkitchen/static/bd314c98b5b42609f694cb8e91e0dfa2/06faf/mole_cheesecake-27.jpg 640w,
+/fullstackkitchen/static/bd314c98b5b42609f694cb8e91e0dfa2/71e08/mole_cheesecake-27.jpg 1280w,
+/fullstackkitchen/static/bd314c98b5b42609f694cb8e91e0dfa2/2ed49/mole_cheesecake-27.jpg 1920w,
+/fullstackkitchen/static/bd314c98b5b42609f694cb8e91e0dfa2/ad50a/mole_cheesecake-27.jpg 2560w,
+/fullstackkitchen/static/bd314c98b5b42609f694cb8e91e0dfa2/319c0/mole_cheesecake-27.jpg 2787w&quot; sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
@@ -97,16 +97,16 @@
     &lt;/div&gt;
     &lt;div class=&quot;image-halfsize&quot;&gt;
         
-  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/fdab715a5f325047e076df5df6e7a87c/319c0/mole_cheesecake-16.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/fullstackkitchen/static/fdab715a5f325047e076df5df6e7a87c/319c0/mole_cheesecake-16.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
   
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 131.7545748116254%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQADBP/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABYH3FzvaoUGdOTnsZf//EABwQAAIDAAMBAAAAAAAAAAAAAAECAAMREhMzIf/aAAgBAQABBQJmCiy+F9l1mk/T15LeLKRh7Wi+9nlP/8QAFREBAQAAAAAAAAAAAAAAAAAAIDH/2gAIAQMBAT8Bg//EABURAQEAAAAAAAAAAAAAAAAAACAx/9oACAECAQE/AaP/xAAfEAABAwMFAAAAAAAAAAAAAAABAAIQESExQVFhscH/2gAIAQEABj8CqqdLAVsCLuaEHVG0vGiB49j/xAAdEAEAAwACAwEAAAAAAAAAAAABABEhMUEQUYHR/9oACAEBAAE/IWKlWr9h+pi6j2zhmV3XMSi8rHO8S6XYckJKVOVGkLMK0ufOcfCAXG9/D//aAAwDAQACAAMAAAAQgBrP/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/EJDUrH//xAAXEQADAQAAAAAAAAAAAAAAAAABESAh/9oACAECAQE/EDpx/8QAHRABAQADAAMBAQAAAAAAAAAAAREAITFBYXGBUf/aAAgBAQABPxBUeCw7iUvQlRKJfYonjIpDQ2jt95rtoNLHnohfJlWmpXdX3msLlcF/phJFjiAXdqMD1vH10uOv2fubCtRFP1e41Y3yufDDoO+jdvdx7n//2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
-      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;mole cheesecake 16&quot; title=&quot;&quot; src=&quot;/static/fdab715a5f325047e076df5df6e7a87c/71e08/mole_cheesecake-16.jpg&quot; srcset=&quot;/static/fdab715a5f325047e076df5df6e7a87c/996a7/mole_cheesecake-16.jpg 320w,
-/static/fdab715a5f325047e076df5df6e7a87c/06faf/mole_cheesecake-16.jpg 640w,
-/static/fdab715a5f325047e076df5df6e7a87c/71e08/mole_cheesecake-16.jpg 1280w,
-/static/fdab715a5f325047e076df5df6e7a87c/2ed49/mole_cheesecake-16.jpg 1920w,
-/static/fdab715a5f325047e076df5df6e7a87c/ad50a/mole_cheesecake-16.jpg 2560w,
-/static/fdab715a5f325047e076df5df6e7a87c/319c0/mole_cheesecake-16.jpg 2787w&quot; sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;mole cheesecake 16&quot; title=&quot;&quot; src=&quot;/fullstackkitchen/static/fdab715a5f325047e076df5df6e7a87c/71e08/mole_cheesecake-16.jpg&quot; srcset=&quot;/fullstackkitchen/static/fdab715a5f325047e076df5df6e7a87c/996a7/mole_cheesecake-16.jpg 320w,
+/fullstackkitchen/static/fdab715a5f325047e076df5df6e7a87c/06faf/mole_cheesecake-16.jpg 640w,
+/fullstackkitchen/static/fdab715a5f325047e076df5df6e7a87c/71e08/mole_cheesecake-16.jpg 1280w,
+/fullstackkitchen/static/fdab715a5f325047e076df5df6e7a87c/2ed49/mole_cheesecake-16.jpg 1920w,
+/fullstackkitchen/static/fdab715a5f325047e076df5df6e7a87c/ad50a/mole_cheesecake-16.jpg 2560w,
+/fullstackkitchen/static/fdab715a5f325047e076df5df6e7a87c/319c0/mole_cheesecake-16.jpg 2787w&quot; sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;&gt;
     &lt;/span&gt;
   &lt;/span&gt;
   
@@ -122,7 +122,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/ed9251c527cc06faa39f3ce1cb540f0a/36a8f/mole_cheesecake-18.jpg&quot;
+    href=&quot;/fullstackkitchen/static/ed9251c527cc06faa39f3ce1cb540f0a/36a8f/mole_cheesecake-18.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -141,13 +141,13 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Top View with can&quot;
         title=&quot;&quot;
-        src=&quot;/static/ed9251c527cc06faa39f3ce1cb540f0a/71e08/mole_cheesecake-18.jpg&quot;
-        srcset=&quot;/static/ed9251c527cc06faa39f3ce1cb540f0a/996a7/mole_cheesecake-18.jpg 320w,
-/static/ed9251c527cc06faa39f3ce1cb540f0a/06faf/mole_cheesecake-18.jpg 640w,
-/static/ed9251c527cc06faa39f3ce1cb540f0a/71e08/mole_cheesecake-18.jpg 1280w,
-/static/ed9251c527cc06faa39f3ce1cb540f0a/2ed49/mole_cheesecake-18.jpg 1920w,
-/static/ed9251c527cc06faa39f3ce1cb540f0a/ad50a/mole_cheesecake-18.jpg 2560w,
-/static/ed9251c527cc06faa39f3ce1cb540f0a/36a8f/mole_cheesecake-18.jpg 3708w&quot;
+        src=&quot;/fullstackkitchen/static/ed9251c527cc06faa39f3ce1cb540f0a/71e08/mole_cheesecake-18.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/ed9251c527cc06faa39f3ce1cb540f0a/996a7/mole_cheesecake-18.jpg 320w,
+/fullstackkitchen/static/ed9251c527cc06faa39f3ce1cb540f0a/06faf/mole_cheesecake-18.jpg 640w,
+/fullstackkitchen/static/ed9251c527cc06faa39f3ce1cb540f0a/71e08/mole_cheesecake-18.jpg 1280w,
+/fullstackkitchen/static/ed9251c527cc06faa39f3ce1cb540f0a/2ed49/mole_cheesecake-18.jpg 1920w,
+/fullstackkitchen/static/ed9251c527cc06faa39f3ce1cb540f0a/ad50a/mole_cheesecake-18.jpg 2560w,
+/fullstackkitchen/static/ed9251c527cc06faa39f3ce1cb540f0a/36a8f/mole_cheesecake-18.jpg 3708w&quot;
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
       /&gt;
     &lt;/span&gt;
@@ -247,7 +247,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/cdf05965e46b79c210d3ce72eb97b907/5d12e/mole_cheesecake-36.jpg&quot;
+    href=&quot;/fullstackkitchen/static/cdf05965e46b79c210d3ce72eb97b907/5d12e/mole_cheesecake-36.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -266,13 +266,13 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Slice with bite View&quot;
         title=&quot;&quot;
-        src=&quot;/static/cdf05965e46b79c210d3ce72eb97b907/71e08/mole_cheesecake-36.jpg&quot;
-        srcset=&quot;/static/cdf05965e46b79c210d3ce72eb97b907/996a7/mole_cheesecake-36.jpg 320w,
-/static/cdf05965e46b79c210d3ce72eb97b907/06faf/mole_cheesecake-36.jpg 640w,
-/static/cdf05965e46b79c210d3ce72eb97b907/71e08/mole_cheesecake-36.jpg 1280w,
-/static/cdf05965e46b79c210d3ce72eb97b907/2ed49/mole_cheesecake-36.jpg 1920w,
-/static/cdf05965e46b79c210d3ce72eb97b907/ad50a/mole_cheesecake-36.jpg 2560w,
-/static/cdf05965e46b79c210d3ce72eb97b907/5d12e/mole_cheesecake-36.jpg 3625w&quot;
+        src=&quot;/fullstackkitchen/static/cdf05965e46b79c210d3ce72eb97b907/71e08/mole_cheesecake-36.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/cdf05965e46b79c210d3ce72eb97b907/996a7/mole_cheesecake-36.jpg 320w,
+/fullstackkitchen/static/cdf05965e46b79c210d3ce72eb97b907/06faf/mole_cheesecake-36.jpg 640w,
+/fullstackkitchen/static/cdf05965e46b79c210d3ce72eb97b907/71e08/mole_cheesecake-36.jpg 1280w,
+/fullstackkitchen/static/cdf05965e46b79c210d3ce72eb97b907/2ed49/mole_cheesecake-36.jpg 1920w,
+/fullstackkitchen/static/cdf05965e46b79c210d3ce72eb97b907/ad50a/mole_cheesecake-36.jpg 2560w,
+/fullstackkitchen/static/cdf05965e46b79c210d3ce72eb97b907/5d12e/mole_cheesecake-36.jpg 3625w&quot;
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
       /&gt;
     &lt;/span&gt;
@@ -282,7 +282,7 @@
     &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hot Cocoa Macarons]]></title><description><![CDATA[The first month of the New Year has already flown by and it’s bitter cold here in Brooklyn.  Even though winter is always fun (ie. skiing…]]></description><link>https://fullstackkitchen.com//hot-cocoa-macarons/</link><guid isPermaLink="false">https://fullstackkitchen.com//hot-cocoa-macarons/</guid><pubDate>Fri, 11 Jan 2019 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/41d4fa50af27c50b49919ce356f35527/49c7f/hot_cocoa_macarons-7.jpg&quot;
+    href=&quot;/fullstackkitchen/static/41d4fa50af27c50b49919ce356f35527/49c7f/hot_cocoa_macarons-7.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -301,13 +301,13 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Social View&quot;
         title=&quot;&quot;
-        src=&quot;/static/41d4fa50af27c50b49919ce356f35527/71e08/hot_cocoa_macarons-7.jpg&quot;
-        srcset=&quot;/static/41d4fa50af27c50b49919ce356f35527/996a7/hot_cocoa_macarons-7.jpg 320w,
-/static/41d4fa50af27c50b49919ce356f35527/06faf/hot_cocoa_macarons-7.jpg 640w,
-/static/41d4fa50af27c50b49919ce356f35527/71e08/hot_cocoa_macarons-7.jpg 1280w,
-/static/41d4fa50af27c50b49919ce356f35527/2ed49/hot_cocoa_macarons-7.jpg 1920w,
-/static/41d4fa50af27c50b49919ce356f35527/ad50a/hot_cocoa_macarons-7.jpg 2560w,
-/static/41d4fa50af27c50b49919ce356f35527/49c7f/hot_cocoa_macarons-7.jpg 2818w&quot;
+        src=&quot;/fullstackkitchen/static/41d4fa50af27c50b49919ce356f35527/71e08/hot_cocoa_macarons-7.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/41d4fa50af27c50b49919ce356f35527/996a7/hot_cocoa_macarons-7.jpg 320w,
+/fullstackkitchen/static/41d4fa50af27c50b49919ce356f35527/06faf/hot_cocoa_macarons-7.jpg 640w,
+/fullstackkitchen/static/41d4fa50af27c50b49919ce356f35527/71e08/hot_cocoa_macarons-7.jpg 1280w,
+/fullstackkitchen/static/41d4fa50af27c50b49919ce356f35527/2ed49/hot_cocoa_macarons-7.jpg 1920w,
+/fullstackkitchen/static/41d4fa50af27c50b49919ce356f35527/ad50a/hot_cocoa_macarons-7.jpg 2560w,
+/fullstackkitchen/static/41d4fa50af27c50b49919ce356f35527/49c7f/hot_cocoa_macarons-7.jpg 2818w&quot;
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
       /&gt;
     &lt;/span&gt;
@@ -318,7 +318,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/5b919f40fe34b9d6a87d8d1f28efc6a6/5442e/hot_cocoa_macarons-14.jpg&quot;
+    href=&quot;/fullstackkitchen/static/5b919f40fe34b9d6a87d8d1f28efc6a6/5442e/hot_cocoa_macarons-14.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -337,13 +337,13 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Slice View&quot;
         title=&quot;&quot;
-        src=&quot;/static/5b919f40fe34b9d6a87d8d1f28efc6a6/71e08/hot_cocoa_macarons-14.jpg&quot;
-        srcset=&quot;/static/5b919f40fe34b9d6a87d8d1f28efc6a6/996a7/hot_cocoa_macarons-14.jpg 320w,
-/static/5b919f40fe34b9d6a87d8d1f28efc6a6/06faf/hot_cocoa_macarons-14.jpg 640w,
-/static/5b919f40fe34b9d6a87d8d1f28efc6a6/71e08/hot_cocoa_macarons-14.jpg 1280w,
-/static/5b919f40fe34b9d6a87d8d1f28efc6a6/2ed49/hot_cocoa_macarons-14.jpg 1920w,
-/static/5b919f40fe34b9d6a87d8d1f28efc6a6/ad50a/hot_cocoa_macarons-14.jpg 2560w,
-/static/5b919f40fe34b9d6a87d8d1f28efc6a6/5442e/hot_cocoa_macarons-14.jpg 2848w&quot;
+        src=&quot;/fullstackkitchen/static/5b919f40fe34b9d6a87d8d1f28efc6a6/71e08/hot_cocoa_macarons-14.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/5b919f40fe34b9d6a87d8d1f28efc6a6/996a7/hot_cocoa_macarons-14.jpg 320w,
+/fullstackkitchen/static/5b919f40fe34b9d6a87d8d1f28efc6a6/06faf/hot_cocoa_macarons-14.jpg 640w,
+/fullstackkitchen/static/5b919f40fe34b9d6a87d8d1f28efc6a6/71e08/hot_cocoa_macarons-14.jpg 1280w,
+/fullstackkitchen/static/5b919f40fe34b9d6a87d8d1f28efc6a6/2ed49/hot_cocoa_macarons-14.jpg 1920w,
+/fullstackkitchen/static/5b919f40fe34b9d6a87d8d1f28efc6a6/ad50a/hot_cocoa_macarons-14.jpg 2560w,
+/fullstackkitchen/static/5b919f40fe34b9d6a87d8d1f28efc6a6/5442e/hot_cocoa_macarons-14.jpg 2848w&quot;
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
       /&gt;
     &lt;/span&gt;
@@ -354,7 +354,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/27a74dba9cdf11a410f79c158f61e548/f8d32/hot_cocoa_macarons-11.jpg&quot;
+    href=&quot;/fullstackkitchen/static/27a74dba9cdf11a410f79c158f61e548/f8d32/hot_cocoa_macarons-11.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -373,13 +373,13 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Slice View&quot;
         title=&quot;&quot;
-        src=&quot;/static/27a74dba9cdf11a410f79c158f61e548/71e08/hot_cocoa_macarons-11.jpg&quot;
-        srcset=&quot;/static/27a74dba9cdf11a410f79c158f61e548/996a7/hot_cocoa_macarons-11.jpg 320w,
-/static/27a74dba9cdf11a410f79c158f61e548/06faf/hot_cocoa_macarons-11.jpg 640w,
-/static/27a74dba9cdf11a410f79c158f61e548/71e08/hot_cocoa_macarons-11.jpg 1280w,
-/static/27a74dba9cdf11a410f79c158f61e548/2ed49/hot_cocoa_macarons-11.jpg 1920w,
-/static/27a74dba9cdf11a410f79c158f61e548/ad50a/hot_cocoa_macarons-11.jpg 2560w,
-/static/27a74dba9cdf11a410f79c158f61e548/f8d32/hot_cocoa_macarons-11.jpg 2650w&quot;
+        src=&quot;/fullstackkitchen/static/27a74dba9cdf11a410f79c158f61e548/71e08/hot_cocoa_macarons-11.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/27a74dba9cdf11a410f79c158f61e548/996a7/hot_cocoa_macarons-11.jpg 320w,
+/fullstackkitchen/static/27a74dba9cdf11a410f79c158f61e548/06faf/hot_cocoa_macarons-11.jpg 640w,
+/fullstackkitchen/static/27a74dba9cdf11a410f79c158f61e548/71e08/hot_cocoa_macarons-11.jpg 1280w,
+/fullstackkitchen/static/27a74dba9cdf11a410f79c158f61e548/2ed49/hot_cocoa_macarons-11.jpg 1920w,
+/fullstackkitchen/static/27a74dba9cdf11a410f79c158f61e548/ad50a/hot_cocoa_macarons-11.jpg 2560w,
+/fullstackkitchen/static/27a74dba9cdf11a410f79c158f61e548/f8d32/hot_cocoa_macarons-11.jpg 2650w&quot;
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
       /&gt;
     &lt;/span&gt;
@@ -390,7 +390,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/f19b0686ed0c7caae7c39a9b04023914/5442e/hot_cocoa_macarons-2.jpg&quot;
+    href=&quot;/fullstackkitchen/static/f19b0686ed0c7caae7c39a9b04023914/5442e/hot_cocoa_macarons-2.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -409,13 +409,13 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Slice View&quot;
         title=&quot;&quot;
-        src=&quot;/static/f19b0686ed0c7caae7c39a9b04023914/71e08/hot_cocoa_macarons-2.jpg&quot;
-        srcset=&quot;/static/f19b0686ed0c7caae7c39a9b04023914/996a7/hot_cocoa_macarons-2.jpg 320w,
-/static/f19b0686ed0c7caae7c39a9b04023914/06faf/hot_cocoa_macarons-2.jpg 640w,
-/static/f19b0686ed0c7caae7c39a9b04023914/71e08/hot_cocoa_macarons-2.jpg 1280w,
-/static/f19b0686ed0c7caae7c39a9b04023914/2ed49/hot_cocoa_macarons-2.jpg 1920w,
-/static/f19b0686ed0c7caae7c39a9b04023914/ad50a/hot_cocoa_macarons-2.jpg 2560w,
-/static/f19b0686ed0c7caae7c39a9b04023914/5442e/hot_cocoa_macarons-2.jpg 2848w&quot;
+        src=&quot;/fullstackkitchen/static/f19b0686ed0c7caae7c39a9b04023914/71e08/hot_cocoa_macarons-2.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/f19b0686ed0c7caae7c39a9b04023914/996a7/hot_cocoa_macarons-2.jpg 320w,
+/fullstackkitchen/static/f19b0686ed0c7caae7c39a9b04023914/06faf/hot_cocoa_macarons-2.jpg 640w,
+/fullstackkitchen/static/f19b0686ed0c7caae7c39a9b04023914/71e08/hot_cocoa_macarons-2.jpg 1280w,
+/fullstackkitchen/static/f19b0686ed0c7caae7c39a9b04023914/2ed49/hot_cocoa_macarons-2.jpg 1920w,
+/fullstackkitchen/static/f19b0686ed0c7caae7c39a9b04023914/ad50a/hot_cocoa_macarons-2.jpg 2560w,
+/fullstackkitchen/static/f19b0686ed0c7caae7c39a9b04023914/5442e/hot_cocoa_macarons-2.jpg 2848w&quot;
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
       /&gt;
     &lt;/span&gt;
@@ -429,7 +429,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/e1a87f4d503adc6873fcb868f934e5eb/27e97/hot_cocoa_macarons-9.jpg&quot;
+    href=&quot;/fullstackkitchen/static/e1a87f4d503adc6873fcb868f934e5eb/27e97/hot_cocoa_macarons-9.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -448,13 +448,13 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Top View with can&quot;
         title=&quot;&quot;
-        src=&quot;/static/e1a87f4d503adc6873fcb868f934e5eb/71e08/hot_cocoa_macarons-9.jpg&quot;
-        srcset=&quot;/static/e1a87f4d503adc6873fcb868f934e5eb/996a7/hot_cocoa_macarons-9.jpg 320w,
-/static/e1a87f4d503adc6873fcb868f934e5eb/06faf/hot_cocoa_macarons-9.jpg 640w,
-/static/e1a87f4d503adc6873fcb868f934e5eb/71e08/hot_cocoa_macarons-9.jpg 1280w,
-/static/e1a87f4d503adc6873fcb868f934e5eb/2ed49/hot_cocoa_macarons-9.jpg 1920w,
-/static/e1a87f4d503adc6873fcb868f934e5eb/ad50a/hot_cocoa_macarons-9.jpg 2560w,
-/static/e1a87f4d503adc6873fcb868f934e5eb/27e97/hot_cocoa_macarons-9.jpg 2788w&quot;
+        src=&quot;/fullstackkitchen/static/e1a87f4d503adc6873fcb868f934e5eb/71e08/hot_cocoa_macarons-9.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/e1a87f4d503adc6873fcb868f934e5eb/996a7/hot_cocoa_macarons-9.jpg 320w,
+/fullstackkitchen/static/e1a87f4d503adc6873fcb868f934e5eb/06faf/hot_cocoa_macarons-9.jpg 640w,
+/fullstackkitchen/static/e1a87f4d503adc6873fcb868f934e5eb/71e08/hot_cocoa_macarons-9.jpg 1280w,
+/fullstackkitchen/static/e1a87f4d503adc6873fcb868f934e5eb/2ed49/hot_cocoa_macarons-9.jpg 1920w,
+/fullstackkitchen/static/e1a87f4d503adc6873fcb868f934e5eb/ad50a/hot_cocoa_macarons-9.jpg 2560w,
+/fullstackkitchen/static/e1a87f4d503adc6873fcb868f934e5eb/27e97/hot_cocoa_macarons-9.jpg 2788w&quot;
         sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
       /&gt;
     &lt;/span&gt;

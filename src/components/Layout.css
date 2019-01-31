@@ -126,7 +126,6 @@ body {
     width: 100%;
     text-align: center;
     left: 0;
-    height: 230px;
     background-color: #fafafa;
     height: 30px;
     overflow-x: hidden;
@@ -134,7 +133,7 @@ body {
 }
 
 .header__link-container.menu-open {
-    height: 230px;
+    height: 270px;
     transition: height 0.3s linear;
 }
 
@@ -195,12 +194,12 @@ body {
 }
 
 .home-item__image {
-    height: 40vh;
+    height: 320px;
     overflow: hidden;
 }
 
 .home-item__image img {
-    top: 33% !important;
+    top: 38% !important;
     transform: translateY(-50%) !important;
 }
 

@@ -54,6 +54,7 @@ class Header extends React.Component {
         </Link>
         <div className={`header__link-container ${(this.state.menuOpen) ? 'menu-open' : ''}`}>
             <div className={`header__menu mobile`} onClick={this.toggleMenu}>menu</div>
+            <div className="header__link mobile"><Link to={'/'}>home</Link></div>
             <div className="header__link"><Link to={'/about'}>about</Link></div>
             <div className="header__link"><Link to={'/recipes'}>recipes</Link></div>
             <div className="header__link"><Link to={'/contact'}>contact</Link></div>

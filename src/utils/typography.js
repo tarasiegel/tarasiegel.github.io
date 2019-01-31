@@ -2,8 +2,8 @@ import Typography from 'typography'
 //import fairyGatesTheme from 'typography-theme-fairy-gates';
 import doelger from 'typography-theme-doelger';
 
-doelger.baseFontSize = '16px';
-doelger.baseLineHeight = '24px';
+doelger.baseFontSize = '17px';
+doelger.baseLineHeight = '26px';
 
 doelger.overrideThemeStyles = () => {
   return {

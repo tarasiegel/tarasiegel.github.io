@@ -17,7 +17,7 @@ class Layout extends React.Component {
           {children}
         </div>
           <footer>
-            © {new Date().getFullYear()} fullstackkitchen.com
+            <div className="footer__text">© {new Date().getFullYear()} fullstackkitchen.com</div>
           </footer>
       </div>
     )

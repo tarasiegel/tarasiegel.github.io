@@ -15,11 +15,16 @@ class Header extends React.Component {
 
     super(props);
     this.state = {
-      start: false
+        start: false,
+        menuOpen: false
     };
   }
   
   componentDidMount() {
+  }
+
+  toggleMenu = () => {
+    this.setState({menuOpen: !this.state.menuOpen});
   }
 
   render() {
@@ -47,10 +52,12 @@ class Header extends React.Component {
                 callback={console.log}
             />
         </Link>
-        <div className="header__link-container">
-          <div className="header__link"><Link to={'/about'}>about</Link></div>
-          <div className="header__link"><Link to={'/recipes'}>recipes</Link></div>
-          <div className="header__link"><a href="https://www.instagram.com/taras.kitchen" target="_blank"><Icon size={30} icon={instagram}/></a></div>
+        <div className={`header__link-container ${(this.state.menuOpen) ? 'menu-open' : ''}`}>
+            <div className={`header__menu mobile`} onClick={this.toggleMenu}>menu</div>
+            <div className="header__link"><Link to={'/about'}>about</Link></div>
+            <div className="header__link"><Link to={'/recipes'}>recipes</Link></div>
+            <div className="header__link"><Link to={'/contact'}>contact</Link></div>
+            <div className="header__link"><a href="https://www.instagram.com/taras.kitchen" target="_blank"><Icon size={30} icon={instagram}/></a></div>
 
         </div>
       </div>

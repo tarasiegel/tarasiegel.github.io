@@ -6,7 +6,7 @@ html {
 
 body {
     background-color: #fafafa;
-    color: hsla(0,0%,0%,0.55);
+    color: hsla(0,0%,0%,0.5);
     width: 100%;
     overflow-x: hidden;
 }
@@ -178,6 +178,9 @@ body {
     margin: 0 auto;
 }
 
+.blog-post--left a {
+    padding: 0 1px;
+}
 
 .home-item__container {
     width: 100%;

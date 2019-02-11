@@ -1,7 +1,141 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Full Stack Kitchen]]></title><description><![CDATA[Full Stack Kitchen: Unique Dessert Recipes from an Engineer's Mind]]></description><link>https://fullstackkitchen.com/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 10 Feb 2019 07:31:10 GMT</lastBuildDate><item><title><![CDATA[About]]></title><description><![CDATA[hi, Welcome to my little corner of the internet.  i’m tara. I have been living in New York City for the past four years, currently residing…]]></description><link>https://fullstackkitchen.com//about/</link><guid isPermaLink="false">https://fullstackkitchen.com//about/</guid><content:encoded>&lt;hr&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Full Stack Kitchen]]></title><description><![CDATA[Full Stack Kitchen: Unique Dessert Recipes from an Engineer's Mind]]></description><link>https://fullstackkitchen.com/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 11 Feb 2019 05:34:10 GMT</lastBuildDate><item><title><![CDATA[About]]></title><description><![CDATA[hi, Welcome to my little corner of the internet.  i’m tara. I have been living in New York City for the past four years, currently residing…]]></description><link>https://fullstackkitchen.com//about/</link><guid isPermaLink="false">https://fullstackkitchen.com//about/</guid><content:encoded>&lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;hi, Welcome to my little corner of the internet.  i’m tara.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;I have been living in New York City for the past four years, currently residing in Williamsburg.  Before that, I spent the first 18 years of my life in South Florida living that humid life. Once I left for school in Philadelphia, I realized I loved baking for my friends and running it off. &lt;/p&gt;
-&lt;p&gt;I studied Computer Science in school (+ a fine arts minor - all about that #balance) and am currently a full time Software Engineer for a media company. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Mexican Ricotta Cheesecake with Tomato Mole Jam]]></title><description><![CDATA[The first month of the New Year has already flown by and it’s bitter cold here in Brooklyn.  Even though winter is always fun (ie. skiing…]]></description><link>https://fullstackkitchen.com//tomato-mole-jam/</link><guid isPermaLink="false">https://fullstackkitchen.com//tomato-mole-jam/</guid><pubDate>Thu, 24 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;p&gt;I studied Computer Science in school (+ a fine arts minor - all about that #balance) and am currently a full time Software Engineer for a media company. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Blood Orange Bars]]></title><description><![CDATA[Blood Orange Bars makes 16 bars Ingredients Crust 1.5 c (180g) all-purpose flour 2 Tbsp confectioners’ sugar 1/4 tsp salt 1 stick of butter…]]></description><link>https://fullstackkitchen.com//blood-orange-bars/</link><guid isPermaLink="false">https://fullstackkitchen.com//blood-orange-bars/</guid><pubDate>Sun, 10 Feb 2019 23:46:37 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/fullstackkitchen/static/3184ae5937b685cbcc4c991ce4d3e0fc/60bf7/blood_orange_bars.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 141.8803418803419%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCAwUB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIQAxAAAAGVLaU665wcoo7i2KJcaf/EAB0QAAICAgMBAAAAAAAAAAAAAAEDAAISIgQjMjP/2gAIAQEAAQUCZe1mP3KfnyfUSetyze5oYsaETAZYgT//xAAYEQACAwAAAAAAAAAAAAAAAAAAARASMf/aAAgBAwEBPwFD0tH/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARIx/9oACAECAQE/AU4yj//EAB8QAAIABQUAAAAAAAAAAAAAAAABAhESMWEQICEicf/aAAgBAQAGPwJc00ijh8FMwYmLS/XZY//EAB4QAQACAgEFAAAAAAAAAAAAAAEAESExUUFxgZGh/9oACAEBAAE/IVwoXOGG1e0tUrTrMKvfOMv2hYtQaiUQLXgqECA7IrVug1AVEf/aAAwDAQACAAMAAAAQ3DAO/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAwEBPxDkGfUMMl12/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARITH/2gAIAQIBAT8QVV7eGzAhl//EAB0QAQEAAgIDAQAAAAAAAAAAAAERACExQVFhcbH/2gAIAQEAAT8QOHvoq4ZgqC1h7HzkomR5XAaU1kgzua+cYK7GRo7Xc7tcTyemEHEUTn1xmnSFaMGftwLoTo1iy0fuK7LCtbyYAZ//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Blood Orange Bar&quot;
+        title=&quot;&quot;
+        src=&quot;/fullstackkitchen/static/3184ae5937b685cbcc4c991ce4d3e0fc/71e08/blood_orange_bars.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/3184ae5937b685cbcc4c991ce4d3e0fc/996a7/blood_orange_bars.jpg 320w,
+/fullstackkitchen/static/3184ae5937b685cbcc4c991ce4d3e0fc/06faf/blood_orange_bars.jpg 640w,
+/fullstackkitchen/static/3184ae5937b685cbcc4c991ce4d3e0fc/71e08/blood_orange_bars.jpg 1280w,
+/fullstackkitchen/static/3184ae5937b685cbcc4c991ce4d3e0fc/2ed49/blood_orange_bars.jpg 1920w,
+/fullstackkitchen/static/3184ae5937b685cbcc4c991ce4d3e0fc/ad50a/blood_orange_bars.jpg 2560w,
+/fullstackkitchen/static/3184ae5937b685cbcc4c991ce4d3e0fc/60bf7/blood_orange_bars.jpg 2808w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/fullstackkitchen/static/9cba1ef7b2c52c220cc79c1712fe95cd/5442e/blood_orange_bars-4.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 119.69803370786518%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAYABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAHowwxjTSqMtEqItf/EABsQAQADAAMBAAAAAAAAAAAAAAEAAhEDBBMU/9oACAEBAAEFAnlCW5sj2MXbWlbKeWPms+dn/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREv/aAAgBAwEBPwHKIim2f//EABYRAQEBAAAAAAAAAAAAAAAAAAAREv/aAAgBAgEBPwGqjL//xAAbEAACAgMBAAAAAAAAAAAAAAAAEQEhAhIxYf/aAAgBAQAGPwIuDhqh1XhWDKE5Oyf/xAAbEAADAAMBAQAAAAAAAAAAAAAAAREhQXFRgf/aAAgBAQABPyHW3MNE+MuqZ0dGCdbYnGq1aFNJwmmA8lLp4K4z/9oADAMBAAIAAwAAABDM8ED/xAAaEQACAgMAAAAAAAAAAAAAAAAAARARITGh/9oACAEDAQE/ECqxXRvuH//EABgRAQEAAwAAAAAAAAAAAAAAAAARASFR/9oACAECAQE/ELV1jaIf/8QAHRABAAMAAgMBAAAAAAAAAAAAAQARITGBQVFh0f/aAAgBAQABPxBx4MPG3F6LF38+xgG8GjnTPXp4XjjIzKCyvX32xBdV271zAVlg0i7D7LCjYgV0C3wT/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Blood Orange Bar&quot;
+        title=&quot;&quot;
+        src=&quot;/fullstackkitchen/static/9cba1ef7b2c52c220cc79c1712fe95cd/71e08/blood_orange_bars-4.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/9cba1ef7b2c52c220cc79c1712fe95cd/996a7/blood_orange_bars-4.jpg 320w,
+/fullstackkitchen/static/9cba1ef7b2c52c220cc79c1712fe95cd/06faf/blood_orange_bars-4.jpg 640w,
+/fullstackkitchen/static/9cba1ef7b2c52c220cc79c1712fe95cd/71e08/blood_orange_bars-4.jpg 1280w,
+/fullstackkitchen/static/9cba1ef7b2c52c220cc79c1712fe95cd/2ed49/blood_orange_bars-4.jpg 1920w,
+/fullstackkitchen/static/9cba1ef7b2c52c220cc79c1712fe95cd/ad50a/blood_orange_bars-4.jpg 2560w,
+/fullstackkitchen/static/9cba1ef7b2c52c220cc79c1712fe95cd/5442e/blood_orange_bars-4.jpg 2848w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/fullstackkitchen/static/cf7112a7399a497fb42243c86b3f3e9e/5442e/blood_orange_bars-7.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 120.85674157303372%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAYABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIDAQT/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIQAxAAAAGavsrwzaa4inuDT//EAB0QAAIBBAMAAAAAAAAAAAAAAAESAwACESETIkH/2gAIAQEAAQUCkDXd+QzZMepvUuolqXSZH//EABgRAAIDAAAAAAAAAAAAAAAAAAARAhBh/9oACAEDAQE/AcFEar//xAAYEQEAAwEAAAAAAAAAAAAAAAAAAREhMf/aAAgBAgEBPwFqerf/xAAfEAACAgIBBQAAAAAAAAAAAAAAAQIREiEjMTJBYZH/2gAIAQEABj8C4zOUaHpfC8aRLfcOmhar0RqDvyzq0f/EABoQAQEBAQEBAQAAAAAAAAAAAAERACExQZH/2gAIAQEAAT8h8JwCbx5X5jV9NlSviZQnVEr5g3jXWQqEaxRCLgBVpyDv/9oADAMBAAIAAwAAABCP/wB//8QAGhEAAgIDAAAAAAAAAAAAAAAAAAERITFRYf/aAAgBAwEBPxB1gdBQEvZ//8QAGREAAwADAAAAAAAAAAAAAAAAAAERIUFh/9oACAECAQE/EFt0oxYXJ//EAB8QAQACAgICAwAAAAAAAAAAAAEAESFBMWFxgaHB0f/aAAgBAQABPxAqVRNlTct0iwMVY/cyiuuVJ65ubpmgtHuES9Yt2nzDwSbi36jNycRfMytXW6TXMcxCwwe5/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Blood Orange Bar&quot;
+        title=&quot;&quot;
+        src=&quot;/fullstackkitchen/static/cf7112a7399a497fb42243c86b3f3e9e/71e08/blood_orange_bars-7.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/cf7112a7399a497fb42243c86b3f3e9e/996a7/blood_orange_bars-7.jpg 320w,
+/fullstackkitchen/static/cf7112a7399a497fb42243c86b3f3e9e/06faf/blood_orange_bars-7.jpg 640w,
+/fullstackkitchen/static/cf7112a7399a497fb42243c86b3f3e9e/71e08/blood_orange_bars-7.jpg 1280w,
+/fullstackkitchen/static/cf7112a7399a497fb42243c86b3f3e9e/2ed49/blood_orange_bars-7.jpg 1920w,
+/fullstackkitchen/static/cf7112a7399a497fb42243c86b3f3e9e/ad50a/blood_orange_bars-7.jpg 2560w,
+/fullstackkitchen/static/cf7112a7399a497fb42243c86b3f3e9e/5442e/blood_orange_bars-7.jpg 2848w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Blood Orange Bars&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;makes 16 bars&lt;/em&gt;&lt;/p&gt;
+&lt;h5&gt;&lt;strong&gt;&lt;strong&gt;Ingredients&lt;/strong&gt;&lt;/strong&gt;&lt;/h5&gt;
+&lt;h6&gt;&lt;strong&gt;&lt;strong&gt;Crust&lt;/strong&gt;&lt;/strong&gt;&lt;/h6&gt;
+&lt;ul&gt;
+&lt;li&gt;1.5 c (180g) all-purpose flour&lt;/li&gt;
+&lt;li&gt;2 Tbsp confectioners’ sugar&lt;/li&gt;
+&lt;li&gt;1/4 tsp salt&lt;/li&gt;
+&lt;li&gt;1 stick of butter, cut into pieces&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h6&gt;&lt;strong&gt;&lt;strong&gt;Filling&lt;/strong&gt;&lt;/strong&gt;&lt;/h6&gt;
+&lt;ul&gt;
+&lt;li&gt;4 eggs&lt;/li&gt;
+&lt;li&gt;3 egg yolks&lt;/li&gt;
+&lt;li&gt;3/4 c (170g) granulated sugar&lt;/li&gt;
+&lt;li&gt;1/8 tsp salt&lt;/li&gt;
+&lt;li&gt;1 c blood orange juice, (or 1/2 blood orange, 1/2 lemon juice)&lt;/li&gt;
+&lt;li&gt;1.5 Tbsp blood orange zest (from about 2 oranges)&lt;/li&gt;
+&lt;li&gt;2 Tbsp of butter, cut into pieces&lt;/li&gt;
+&lt;li&gt;2 Tbsp heavy cream&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5&gt;&lt;strong&gt;&lt;strong&gt;Directions&lt;/strong&gt;&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;Preheat oven to 350, line a 8x8 pan with parchment paper. In a food processor, combine the ingredients for the crust. Pulse until the mixture looks like coarse crumbs and sticks together when you pinch the dough. Press into the pan and bake 15-20 min until golden. Let cool.&lt;/p&gt;
+&lt;p&gt;To make the curd: Whisk together eggs, yolks, sugar and salt in a medium pot.  Add juice, turn on to medium heat and constantly stir for about 10 min until the curd thickens and is a thic puddin like consistency.  Whisk in the butter and cream until incorporated.  Strain it through a fine-mesh strainer into a bowl to get rid of cooked egg clumps.  Pour into crust and cook 25-30 min until filling is set and not very wobbly. Some wobble is fine.&lt;/p&gt;
+&lt;p&gt;Cool for an hour on rack. Then put in the fridge for 2-3 hrs or overnight. Cut into squares and liberally sift powdered sugar on top.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Mexican Ricotta Cheesecake with Tomato Mole Jam]]></title><description><![CDATA[The first month of the New Year has already flown by and it’s bitter cold here in Brooklyn.  Even though winter is always fun (ie. skiing…]]></description><link>https://fullstackkitchen.com//tomato-mole-jam/</link><guid isPermaLink="false">https://fullstackkitchen.com//tomato-mole-jam/</guid><pubDate>Thu, 24 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -482,4 +616,8 @@
 &lt;li&gt;160g white sugar&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h5&gt;&lt;strong&gt;&lt;strong&gt;Directions&lt;/strong&gt;&lt;/strong&gt;&lt;/h5&gt;
-&lt;p&gt;Chocolate Macaron Shells&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Welcome to Full Stack Kitchen!]]></title><description><![CDATA[Welcome to Full Stack Kitchen! My name is Tara Siegel and I am a full time full stack engineer and lover of all things sweet. ]]></description><link>https://fullstackkitchen.com//welcome/</link><guid isPermaLink="false">https://fullstackkitchen.com//welcome/</guid><pubDate>Tue, 01 Jan 2019 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to Full Stack Kitchen! My name is Tara Siegel and I am a full time full stack engineer and lover of all things sweet. &lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;&lt;a href=&quot;https://www.cloudykitchen.com/blog/2018/6/30/chocolate-macarons-with-dark-chocolate-swiss-meringue-buttercream-and-cherry-compote-filling&quot;&gt;Chocolate Macaron Shells&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.saveur.com/best-white-layer-cake-recipe&quot;&gt;Marshmallow Buttercream&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.kingarthurflour.com/recipes/chocolate-ganache-recipe&quot;&gt;Chocolate Ganache&lt;/a&gt;&lt;/p&gt;
+&lt;h5&gt;&lt;strong&gt;&lt;strong&gt;Assembly&lt;/strong&gt;&lt;/strong&gt;&lt;/h5&gt;
+&lt;p&gt;Pair each shell with an appropriate sized twin shell. Take the ganache out of the fridge and let soften.  Put in a piping bag with a star tip.  Put the marshmallow buttercream in a different piping bag.  Pipe a donut shape ring of buttercream on one of the shells and then a star of ganache in the middle.  Press the matched shell on top gently. Repeat with the rest of the macarons. Chill overnight for best results, but can be eaten right away. Letting them rest will soften the shells and meld the flavors!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Welcome to Full Stack Kitchen!]]></title><description><![CDATA[Welcome to Full Stack Kitchen! My name is Tara Siegel and I am a full time full stack engineer and lover of all things sweet. ]]></description><link>https://fullstackkitchen.com//welcome/</link><guid isPermaLink="false">https://fullstackkitchen.com//welcome/</guid><pubDate>Tue, 01 Jan 2019 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to Full Stack Kitchen! My name is Tara Siegel and I am a full time full stack engineer and lover of all things sweet. &lt;/p&gt;</content:encoded></item></channel></rss>

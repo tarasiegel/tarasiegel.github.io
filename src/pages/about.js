@@ -19,7 +19,7 @@ class About extends React.Component {
         
         {pages.map(({ node }) => {
           return (
-            <div className="about-container">
+            <div className="about-container" key={node.fields.slug}>
               <div className="about-container__image"><Img fluid={node.frontmatter.image.childImageSharp.fluid} /></div>
               <div className="about-container__text-container"><div className="blog-html" dangerouslySetInnerHTML={{ __html: node.html }} /></div>
             </div>

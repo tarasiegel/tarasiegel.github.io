@@ -3,7 +3,7 @@ import Typography from 'typography'
 import doelger from 'typography-theme-doelger';
 
 doelger.baseFontSize = '17px';
-doelger.baseLineHeight = '26px';
+doelger.baseLineHeight = '28px';
 
 doelger.overrideThemeStyles = () => {
   return {

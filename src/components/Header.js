@@ -57,7 +57,6 @@ class Header extends React.Component {
             <div className="header__link mobile"><Link to={'/'}>home</Link></div>
             <div className="header__link"><Link to={'/about'}>about</Link></div>
             <div className="header__link"><Link to={'/recipes'}>recipes</Link></div>
-            <div className="header__link"><Link to={'/contact'}>contact</Link></div>
             <div className="header__link"><a href="https://www.instagram.com/taras.kitchen" target="_blank"><Icon size={30} icon={instagram}/></a></div>
 
         </div>

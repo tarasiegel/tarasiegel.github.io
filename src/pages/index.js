@@ -30,6 +30,7 @@ class BlogIndex extends React.Component {
                             <Img fluid={node.frontmatter.image.childImageSharp.fluid} />
                         </Link>
                     </div>
+                    <div className="home-item__category" >{node.frontmatter.tags[0]}</div>                    
                     <div className="home-item__date" >{node.frontmatter.date}</div>
                     <div className="home-item__title">
                         <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
@@ -66,6 +67,7 @@ export const pageQuery = graphql`
           frontmatter {
             date(formatString: "MMMM DD YYYY")
             title
+            tags
             image {
               childImageSharp {
                 resize(width: 650, height: 650) {

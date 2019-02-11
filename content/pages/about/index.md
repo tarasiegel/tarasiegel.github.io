@@ -1,6 +1,7 @@
 ---
 title: About
 path: /about
+category: about
 image: ./about-image.jpg
 ------
 

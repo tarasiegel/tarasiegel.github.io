@@ -20,8 +20,33 @@
         "path": "/about/"
     },
     {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "blood-orange-bars-74a",
+        "path": "/blood-orange-bars/"
+    },
+    {
         "componentChunkName": "component---cache-dev-404-page-js",
         "jsonName": "dev-404-page-5f9",
         "path": "/dev-404-page/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "hot-cocoa-macarons-7d6",
+        "path": "/hot-cocoa-macarons/"
+    },
+    {
+        "componentChunkName": "component---src-pages-recipes-js",
+        "jsonName": "recipes-3c6",
+        "path": "/recipes/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "tomato-mole-jam-527",
+        "path": "/tomato-mole-jam/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "welcome-e45",
+        "path": "/welcome/"
     }
 ]

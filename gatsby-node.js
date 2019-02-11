@@ -30,10 +30,26 @@ exports.createPages = ({ graphql, actions }) => {
       throw result.errors
     }
 
-    console.log(items);
+    // and pages.
+    const pages = result.data.allMarkdownRemark.edges.filter(item => item.node.fields.source === "pages");
+    pages.forEach(({ node }) => {
+      const slug = node.fields.slug;
+      const source = node.fields.source;
 
+      createPage({
+        path: slug,
+        component: pageTemplate,
+        context: {
+          slug,
+          source
+        }
+      });
+    });
+
+    const posts = result.data.allMarkdownRemark.edges;
+  
     // Create blog posts pages.
-    const posts = items.filter(item => item.node.fields.source === "blog");
+    //const posts = items.filter(item => item.node.fields.source === "blog");
 
     posts.forEach((post, index) => {
       const previous = index === posts.length - 1 ? null : posts[index + 1].node
@@ -48,22 +64,6 @@ exports.createPages = ({ graphql, actions }) => {
           next,
         },
       })
-    });
-
-    // and pages.
-    const pages = items.filter(item => item.node.fields.source === "pages");
-    pages.forEach(({ node }) => {
-      const slug = node.fields.slug;
-      const source = node.fields.source;
-
-      createPage({
-        path: slug,
-        component: pageTemplate,
-        context: {
-          slug,
-          source
-        }
-      });
     });
 
   })

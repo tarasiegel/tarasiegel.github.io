@@ -2310,12 +2310,12 @@
       "host": "localhost",
       "pathPrefix": "/fullstackkitchen",
       "polyfill": true,
-      "buildTime": "2019-02-11T05:26:49.914Z",
+      "buildTime": "2019-02-15T06:28:34.506Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "76ee2113642c6b0f97f7580dac953f67",
+        "contentDigest": "5e53b182b66132d6ba3e2899c92afda4",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2325,7 +2325,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "d5248fcfd12285a9c53fb40aedcd9574",
+        "contentDigest": "50a3fd66bfd276d47475c7195d9f7da6",
         "type": "Directory",
         "description": "Directory \"content/blog\"",
         "owner": "gatsby-source-filesystem"
@@ -2337,7 +2337,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2019-02-11T05:25:00.470Z",
-      "accessTime": "2019-02-11T05:26:54.390Z",
+      "accessTime": "2019-02-15T06:28:39.789Z",
       "changeTime": "2019-02-11T05:25:00.470Z",
       "birthTime": "2019-01-19T04:51:26.577Z",
       "root": "/",
@@ -2355,11 +2355,11 @@
       "blksize": 4096,
       "ino": 8604269393,
       "blocks": 0,
-      "atimeMs": 1549862814390.1611,
+      "atimeMs": 1550212119789.058,
       "mtimeMs": 1549862700469.8833,
       "ctimeMs": 1549862700469.8833,
       "birthtimeMs": 1547873486577.1038,
-      "atime": "2019-02-11T05:26:54.390Z",
+      "atime": "2019-02-15T06:28:39.789Z",
       "mtime": "2019-02-11T05:25:00.470Z",
       "ctime": "2019-02-11T05:25:00.470Z",
       "birthtime": "2019-01-19T04:51:26.577Z"
@@ -2369,7 +2369,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "75a7b0b37b387d21a83fd3f701ac3a6d",
+        "contentDigest": "56234a2d8246555181477057d468b9f6",
         "type": "Directory",
         "description": "Directory \"content/blog/blood-orange-bars\"",
         "owner": "gatsby-source-filesystem"
@@ -2381,7 +2381,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2019-02-10T22:32:34.183Z",
-      "accessTime": "2019-02-11T05:26:54.393Z",
+      "accessTime": "2019-02-15T06:28:39.791Z",
       "changeTime": "2019-02-10T22:32:34.183Z",
       "birthTime": "2019-02-10T22:29:40.545Z",
       "root": "/",
@@ -2399,11 +2399,11 @@
       "blksize": 4096,
       "ino": 8604949502,
       "blocks": 0,
-      "atimeMs": 1549862814393.328,
+      "atimeMs": 1550212119791.184,
       "mtimeMs": 1549837954182.841,
       "ctimeMs": 1549837954182.841,
       "birthtimeMs": 1549837780544.8103,
-      "atime": "2019-02-11T05:26:54.393Z",
+      "atime": "2019-02-15T06:28:39.791Z",
       "mtime": "2019-02-10T22:32:34.183Z",
       "ctime": "2019-02-10T22:32:34.183Z",
       "birthtime": "2019-02-10T22:29:40.545Z"
@@ -2413,7 +2413,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "0a73508f08236502119f7c13c9bd5ad4",
+        "contentDigest": "701bcebc371475cd024e790c18a46518",
         "type": "Directory",
         "description": "Directory \"content/blog/hot-cocoa-macarons\"",
         "owner": "gatsby-source-filesystem"
@@ -2425,7 +2425,7 @@
       "size": 256,
       "prettySize": "256 B",
       "modifiedTime": "2019-01-29T03:28:54.380Z",
-      "accessTime": "2019-02-11T05:26:54.393Z",
+      "accessTime": "2019-02-15T06:28:39.791Z",
       "changeTime": "2019-01-29T03:28:54.380Z",
       "birthTime": "2019-01-28T04:52:41.232Z",
       "root": "/",
@@ -2443,11 +2443,11 @@
       "blksize": 4096,
       "ino": 8604322489,
       "blocks": 0,
-      "atimeMs": 1549862814393.497,
+      "atimeMs": 1550212119791.217,
       "mtimeMs": 1548732534379.5332,
       "ctimeMs": 1548732534379.5332,
       "birthtimeMs": 1548651161231.7734,
-      "atime": "2019-02-11T05:26:54.393Z",
+      "atime": "2019-02-15T06:28:39.791Z",
       "mtime": "2019-01-29T03:28:54.380Z",
       "ctime": "2019-01-29T03:28:54.380Z",
       "birthtime": "2019-01-28T04:52:41.232Z"
@@ -2457,7 +2457,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "6a14082275470f56584657c812f06871",
+        "contentDigest": "411cd3e60ebe53a64b38f8474eb39d9b",
         "type": "Directory",
         "description": "Directory \"content/blog/tomato-mole-jam\"",
         "owner": "gatsby-source-filesystem"
@@ -2469,7 +2469,7 @@
       "size": 320,
       "prettySize": "320 B",
       "modifiedTime": "2019-01-28T04:52:41.682Z",
-      "accessTime": "2019-02-11T05:26:54.394Z",
+      "accessTime": "2019-02-15T06:28:39.791Z",
       "changeTime": "2019-01-28T04:52:41.682Z",
       "birthTime": "2019-01-28T04:52:41.376Z",
       "root": "/",
@@ -2487,11 +2487,11 @@
       "blksize": 4096,
       "ino": 8604322500,
       "blocks": 0,
-      "atimeMs": 1549862814393.5137,
+      "atimeMs": 1550212119791.231,
       "mtimeMs": 1548651161681.9966,
       "ctimeMs": 1548651161681.9966,
       "birthtimeMs": 1548651161375.8928,
-      "atime": "2019-02-11T05:26:54.394Z",
+      "atime": "2019-02-15T06:28:39.791Z",
       "mtime": "2019-01-28T04:52:41.682Z",
       "ctime": "2019-01-28T04:52:41.682Z",
       "birthtime": "2019-01-28T04:52:41.376Z"
@@ -3529,7 +3529,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "1ef1def7ea87b74bb597da5c5b0bf431",
+        "contentDigest": "35294b87024593c42d99be589e8df8df",
         "type": "Directory",
         "description": "Directory \"content/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -3541,7 +3541,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-02-10T04:18:22.389Z",
-      "accessTime": "2019-02-11T05:26:54.684Z",
+      "accessTime": "2019-02-15T06:28:40.105Z",
       "changeTime": "2019-02-10T04:18:22.389Z",
       "birthTime": "2019-02-10T04:18:16.212Z",
       "root": "/",
@@ -3559,11 +3559,11 @@
       "blksize": 4096,
       "ino": 8604905065,
       "blocks": 0,
-      "atimeMs": 1549862814684.384,
+      "atimeMs": 1550212120105.4822,
       "mtimeMs": 1549772302389.4385,
       "ctimeMs": 1549772302389.4385,
       "birthtimeMs": 1549772296211.6716,
-      "atime": "2019-02-11T05:26:54.684Z",
+      "atime": "2019-02-15T06:28:40.105Z",
       "mtime": "2019-02-10T04:18:22.389Z",
       "ctime": "2019-02-10T04:18:22.389Z",
       "birthtime": "2019-02-10T04:18:16.212Z"
@@ -3573,7 +3573,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "2c82e662f5018aa43755b0a5c88b39ce",
+        "contentDigest": "a5892df224fe58636bcc69f31aacfe4e",
         "type": "Directory",
         "description": "Directory \"content/pages/about\"",
         "owner": "gatsby-source-filesystem"
@@ -3585,7 +3585,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2019-02-09T05:57:35.626Z",
-      "accessTime": "2019-02-11T05:26:54.685Z",
+      "accessTime": "2019-02-15T06:28:40.107Z",
       "changeTime": "2019-02-10T04:18:22.389Z",
       "birthTime": "2019-02-09T05:54:27.735Z",
       "root": "/",
@@ -3603,11 +3603,11 @@
       "blksize": 4096,
       "ino": 8604867502,
       "blocks": 0,
-      "atimeMs": 1549862814685.1536,
+      "atimeMs": 1550212120106.684,
       "mtimeMs": 1549691855625.9097,
       "ctimeMs": 1549772302389.4382,
       "birthtimeMs": 1549691667735.0195,
-      "atime": "2019-02-11T05:26:54.685Z",
+      "atime": "2019-02-15T06:28:40.107Z",
       "mtime": "2019-02-09T05:57:35.626Z",
       "ctime": "2019-02-10T04:18:22.389Z",
       "birthtime": "2019-02-09T05:54:27.735Z"
@@ -3619,7 +3619,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "416996d614b2b348cf7a59296d8fee31",
+        "contentDigest": "d790cfa621b0b1249f8d4d0ef4fa59f8",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content/pages/about/index.md\"",
@@ -3629,11 +3629,11 @@
       "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/pages/about/index.md",
       "relativePath": "about/index.md",
       "extension": "md",
-      "size": 591,
-      "prettySize": "591 B",
-      "modifiedTime": "2019-02-10T22:08:07.493Z",
-      "accessTime": "2019-02-11T04:44:35.136Z",
-      "changeTime": "2019-02-10T22:08:07.493Z",
+      "size": 1889,
+      "prettySize": "1.89 kB",
+      "modifiedTime": "2019-02-15T06:30:18.503Z",
+      "accessTime": "2019-02-15T06:30:18.503Z",
+      "changeTime": "2019-02-15T06:30:18.503Z",
       "birthTime": "2019-02-09T05:54:35.335Z",
       "root": "/",
       "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/pages/about",
@@ -3650,40 +3650,14 @@
       "blksize": 4096,
       "ino": 8604867504,
       "blocks": 8,
-      "atimeMs": 1549860275136.176,
-      "mtimeMs": 1549836487492.59,
-      "ctimeMs": 1549836487492.59,
+      "atimeMs": 1550212218502.5923,
+      "mtimeMs": 1550212218503.1516,
+      "ctimeMs": 1550212218503.1516,
       "birthtimeMs": 1549691675335.0847,
-      "atime": "2019-02-11T04:44:35.136Z",
-      "mtime": "2019-02-10T22:08:07.493Z",
-      "ctime": "2019-02-10T22:08:07.493Z",
+      "atime": "2019-02-15T06:30:18.503Z",
+      "mtime": "2019-02-15T06:30:18.503Z",
+      "ctime": "2019-02-15T06:30:18.503Z",
       "birthtime": "2019-02-09T05:54:35.335Z"
-    },
-    "850a5357-ae22-5af9-92ac-80173c8690e4": {
-      "id": "850a5357-ae22-5af9-92ac-80173c8690e4",
-      "children": [],
-      "parent": "d91f9afe-4bca-59da-a4aa-7f61a1469fa3",
-      "internal": {
-        "content": "---\n\n**hi, Welcome to my little corner of the internet.  i'm tara.**\n\nI have been living in New York City for the past four years, currently residing in Williamsburg.  Before that, I spent the first 18 years of my life in South Florida living that humid life. Once I left for school in Philadelphia, I realized I loved baking for my friends and running it off. \n\nI studied Computer Science in school (+ a fine arts minor - all about that #balance) and am currently a full time Software Engineer for a media company. \n",
-        "type": "MarkdownRemark",
-        "contentDigest": "1d83122d34daf3a199b06398cbda26d4",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "About",
-        "path": "/about",
-        "category": "about",
-        "image": "./about-image.jpg"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "---\n\n**hi, Welcome to my little corner of the internet.  i'm tara.**\n\nI have been living in New York City for the past four years, currently residing in Williamsburg.  Before that, I spent the first 18 years of my life in South Florida living that humid life. Once I left for school in Philadelphia, I realized I loved baking for my friends and running it off. \n\nI studied Computer Science in school (+ a fine arts minor - all about that #balance) and am currently a full time Software Engineer for a media company. \n",
-      "fileAbsolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/pages/about/index.md",
-      "fields": {
-        "slug": "/about/"
-      }
     },
     "dbf4df14-7ce0-5a7a-b1d6-03f008ac53f1": {
       "id": "dbf4df14-7ce0-5a7a-b1d6-03f008ac53f1",
@@ -3804,7 +3778,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "f364e85a192fdb7c0516c5291e5c902a",
+        "contentDigest": "a95032bc69d95c2d550c873c35c03100",
         "type": "Directory",
         "description": "Directory \"content/assets\"",
         "owner": "gatsby-source-filesystem"
@@ -3816,7 +3790,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2019-02-02T16:33:03.202Z",
-      "accessTime": "2019-02-11T05:26:54.713Z",
+      "accessTime": "2019-02-15T06:28:40.137Z",
       "changeTime": "2019-02-02T16:33:03.202Z",
       "birthTime": "2019-01-28T04:52:41.220Z",
       "root": "/",
@@ -3834,11 +3808,11 @@
       "blksize": 4096,
       "ino": 8604322484,
       "blocks": 0,
-      "atimeMs": 1549862814713.3918,
+      "atimeMs": 1550212120137.1182,
       "mtimeMs": 1549125183202.2559,
       "ctimeMs": 1549125183202.2559,
       "birthtimeMs": 1548651161219.81,
-      "atime": "2019-02-11T05:26:54.713Z",
+      "atime": "2019-02-15T06:28:40.137Z",
       "mtime": "2019-02-02T16:33:03.202Z",
       "ctime": "2019-02-02T16:33:03.202Z",
       "birthtime": "2019-01-28T04:52:41.220Z"
@@ -4118,7 +4092,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "718ac880e086ccdda22f288b3cf61b70",
+        "contentDigest": "b5cff7d2d70c0bdc50655bfbf5a830ff",
         "type": "Directory",
         "description": "Directory \"content/blog/welcome\"",
         "owner": "gatsby-source-filesystem"
@@ -4130,7 +4104,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2019-01-28T04:52:41.757Z",
-      "accessTime": "2019-02-11T05:26:54.393Z",
+      "accessTime": "2019-02-15T06:28:39.791Z",
       "changeTime": "2019-02-11T05:25:00.470Z",
       "birthTime": "2019-01-28T04:52:41.717Z",
       "root": "/",
@@ -4148,11 +4122,11 @@
       "blksize": 4096,
       "ino": 8604322509,
       "blocks": 0,
-      "atimeMs": 1549862814393.4314,
+      "atimeMs": 1550212119791.198,
       "mtimeMs": 1548651161757.0488,
       "ctimeMs": 1549862700469.883,
       "birthtimeMs": 1548651161717.4866,
-      "atime": "2019-02-11T05:26:54.393Z",
+      "atime": "2019-02-15T06:28:39.791Z",
       "mtime": "2019-01-28T04:52:41.757Z",
       "ctime": "2019-02-11T05:25:00.470Z",
       "birthtime": "2019-01-28T04:52:41.717Z"
@@ -4297,19 +4271,30 @@
       "jsonName": "about-f34",
       "internalComponentName": "ComponentAbout",
       "path": "/about/",
-      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/about.js",
-      "componentChunkName": "component---src-pages-about-js",
-      "context": {},
-      "pluginCreator___NODE": "086142d7-4c5b-5202-afd4-d6ebd7b2af36",
-      "pluginCreatorId": "086142d7-4c5b-5202-afd4-d6ebd7b2af36",
-      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/about.js",
+      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/about/",
+        "previous": {
+          "fields": {
+            "slug": "/blood-orange-bars/"
+          },
+          "frontmatter": {
+            "title": "Blood Orange Bars"
+          }
+        },
+        "next": null
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js",
       "id": "SitePage /about/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7e149fc1772e891204c33f20271ee415",
-        "description": "086142d7-4c5b-5202-afd4-d6ebd7b2af36",
+        "contentDigest": "979ff7c4601bb771c3db31af9c6c1d44",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
     },
@@ -4537,6 +4522,32 @@
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
+    },
+    "850a5357-ae22-5af9-92ac-80173c8690e4": {
+      "id": "850a5357-ae22-5af9-92ac-80173c8690e4",
+      "children": [],
+      "parent": "d91f9afe-4bca-59da-a4aa-7f61a1469fa3",
+      "internal": {
+        "content": "---\n\n**hi, Welcome to my little corner of the internet.  i'm tara.**\n\nI have been a resident of New York City for the past four years, currently living in Williamsburg.  Before that, I spent the first eighteen years of my life in South Florida dealing with that humid hair life.  Then I spent four in Philadelphia for college, where I discovered and honed my love of baking while procrastinating problem sets.  Many times I would be making muffins at midnight to break up the _all too frequent_ all-nighters I pulled.\n\nI studied Computer Science/Computer Graphics in school (+ a fine arts minor) and am currently a full time, full stack Software Engineer for a media company. Having an office to bring sweets to is key to maintaining a healthy lifestyle. To counteract what doesn't make it into the office, I am constantly trying to find ways to be exercising.  I am an avid runner, biker (I try to CitiBike to work every day if its above freezing), and walker (and will walk places to avoid the subway at all costs).  Right now I've completed 5 half marathons and 1 century ride!\n\nIf we can get nerdy for a second, I am very proud of this website you see here. The \"tech stack\", as one would say, is pretty cool.  I am using [React](https://reactjs.org/), which is a component based Javascript library for building UI's. That is wrapped in an instance of [GatsbyJs](https://www.gatsbyjs.org/), which is a React-based, [GraphQL](https://graphql.org/) powered, static site generator (makes for better SEO and file hosting!).  All the posts are written in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), which is a lightweight markup language for text syntax.  Once I make updates and build it, it hooks into [GitHub Pages](https://pages.github.com/) and automatically updates the site! ",
+        "type": "MarkdownRemark",
+        "contentDigest": "5ad207c05a7849347b0738b39b7e175f",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "About",
+        "path": "/about",
+        "category": "about",
+        "image": "./about-image.jpg"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "---\n\n**hi, Welcome to my little corner of the internet.  i'm tara.**\n\nI have been a resident of New York City for the past four years, currently living in Williamsburg.  Before that, I spent the first eighteen years of my life in South Florida dealing with that humid hair life.  Then I spent four in Philadelphia for college, where I discovered and honed my love of baking while procrastinating problem sets.  Many times I would be making muffins at midnight to break up the _all too frequent_ all-nighters I pulled.\n\nI studied Computer Science/Computer Graphics in school (+ a fine arts minor) and am currently a full time, full stack Software Engineer for a media company. Having an office to bring sweets to is key to maintaining a healthy lifestyle. To counteract what doesn't make it into the office, I am constantly trying to find ways to be exercising.  I am an avid runner, biker (I try to CitiBike to work every day if its above freezing), and walker (and will walk places to avoid the subway at all costs).  Right now I've completed 5 half marathons and 1 century ride!\n\nIf we can get nerdy for a second, I am very proud of this website you see here. The \"tech stack\", as one would say, is pretty cool.  I am using [React](https://reactjs.org/), which is a component based Javascript library for building UI's. That is wrapped in an instance of [GatsbyJs](https://www.gatsbyjs.org/), which is a React-based, [GraphQL](https://graphql.org/) powered, static site generator (makes for better SEO and file hosting!).  All the posts are written in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), which is a lightweight markup language for text syntax.  Once I make updates and build it, it hooks into [GitHub Pages](https://pages.github.com/) and automatically updates the site! ",
+      "fileAbsolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/pages/about/index.md",
+      "fields": {
+        "slug": "/about/"
+      }
     }
   },
   "status": {
@@ -4634,7 +4645,7 @@
     "sq--src-components-seo-js": 1025518380,
     "offline-plugin-app-shell-fallback-a30": "520/path---offline-plugin-app-shell-fallback-a-30-c5a-NZuapzHg3X9TaN1iIixfv1W23E",
     "sq--src-components-bio-js": 20992707,
-    "about-f34": "906/path---about-f-34-4c2-CBpaksgaB9U6mJ8AZmSWAXy0Dmw",
+    "about-f34": "121/path---about-f-34-4c2-y86QWz2EsoqneHHjWXRqeRBDHME",
     "index": "167/path---index-6a9-kmpPRSRv5IC6g9A4yRPmoA3OA",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
     "blood-orange-bars-74a": "82/path---blood-orange-bars-74-a-e9e-rG7oeV0JcORb526W07lnutTs",
@@ -4647,10 +4658,6 @@
     "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js": {
       "query": "query BlogPostBySlug(\n  $slug: String!\n) {\n  site {\n    siteMetadata {\n      title\n      author\n    }\n  }\n  markdownRemark(fields: {slug: {eq: $slug}}) {\n    id\n    excerpt(pruneLength: 160)\n    html\n    frontmatter {\n      title\n      date(formatString: \"MMMM DD, YYYY\")\n    }\n  }\n}\n",
       "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js"
-    },
-    "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/.cache/dev-404-page.js": {
-      "query": "",
-      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/.cache/dev-404-page.js"
     },
     "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/404.js": {
       "query": "query usersTarasiegelDocumentsCodeProjectsFullstackkitchenSrcPages404Js1097489062 {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
@@ -4667,6 +4674,10 @@
     "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/recipes.js": {
       "query": "query usersTarasiegelDocumentsCodeProjectsFullstackkitchenSrcPagesRecipesJs878401524 {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}, filter: {fileAbsolutePath: {regex: \"//blog//\"}}) {\n    edges {\n      node {\n        excerpt\n        fields {\n          slug\n        }\n        frontmatter {\n          date(formatString: \"MMMM DD YYYY\")\n          title\n          tags\n          image {\n            childImageSharp {\n              resize(width: 650, height: 650) {\n                src\n              }\n              fluid(maxWidth: 786) {\n                ...GatsbyImageSharpFluid\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/recipes.js"
+    },
+    "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/.cache/dev-404-page.js"
     }
   },
   "staticQueryComponents": {

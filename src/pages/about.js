@@ -1,6 +1,13 @@
 import React from 'react';
 import { graphql } from 'gatsby';
 
+import { Icon } from 'react-icons-kit';
+import {github} from 'react-icons-kit/fa/github';
+import {instagram} from 'react-icons-kit/fa/instagram';
+import {facebook} from 'react-icons-kit/fa/facebook';
+import {facebookSquare} from 'react-icons-kit/fa/facebookSquare';
+import {pinterest} from 'react-icons-kit/fa/pinterest';
+
 import Layout from '../components/Layout';
 import SEO from '../components/seo';
 import Img from 'gatsby-image';
@@ -20,8 +27,20 @@ class About extends React.Component {
         {pages.map(({ node }) => {
           return (
             <div className="about-container" key={node.fields.slug}>
-              <div className="about-container__image"><Img fluid={node.frontmatter.image.childImageSharp.fluid} /></div>
-              <div className="about-container__text-container"><div className="blog-html" dangerouslySetInnerHTML={{ __html: node.html }} /></div>
+              <div className="about-container__image">
+                <Img fluid={node.frontmatter.image.childImageSharp.fluid} />
+                <div className="about-container__icons-container">
+                  <div className="about-container__icons">
+                    <a className="about-container__icon" href="https://github.com/tarasiegel/fullstackkitchen"><Icon icon={github} size={30} /></a>
+                    <a className="about-container__icon" href="https://www.instagram.com/taras.kitchen"><Icon icon={instagram} size={30} /></a>
+                    <a className="about-container__icon" href="https://www.facebook.com/tarasiegelskitchen/"><Icon icon={facebookSquare} size={30} /></a>
+                    <a className="about-container__icon" href="https://www.pinterest.com"><Icon icon={pinterest} size={30} /></a>                  
+                  </div>
+                </div>
+              </div>
+              <div className="about-container__text-container">
+                <div className="blog-html" dangerouslySetInnerHTML={{ __html: node.html }} />
+              </div>
             </div>
           );
       })}

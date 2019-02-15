@@ -1,18 +1,56 @@
 .about-container {
     width: 100%;
-    display: inline-flex;
+    display: block;
+    padding: 0 15px;
 }
 
 .about-container__image {
-    width: 50%;
+    width: 100%;
 }
 
 .about-container__text-container {
-    margin-left: 5%;
-    width: 50%;
+    width: 100%;
 }
 
 .about-container__text-container strong {
     text-transform: lowercase;
     font: 17px/14px "Arvo";
+}
+
+.about-container__icons {
+    display: inline;
+}
+
+.about-container__icon {
+    padding: 0 15px;
+}
+
+.about-container__icon:hover {
+    height: 30px;
+    position: relative;
+    width: 100%;
+    display: table-cell;
+}
+
+.about-container__icons-container {
+    display: table;
+    margin: 20px auto;
+}
+
+@media (min-width: 767px) {
+
+    .about-container {
+        width: 100%;
+        display: inline-flex;
+    }
+    
+    .about-container__image {
+        width: 50%;
+    }
+    
+    .about-container__text-container {
+        margin-left: 5%;
+        width: 50%;
+    }
+
 }

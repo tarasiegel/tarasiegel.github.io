@@ -52,6 +52,8 @@ exports.createPages = ({ graphql, actions }) => {
     //const posts = items.filter(item => item.node.fields.source === "blog");
 
     posts.forEach((post, index) => {
+      console.log(post);
+      console.log(index);
       const previous = index === posts.length - 1 ? null : posts[index + 1].node
       const next = index === 0 ? null : posts[index - 1].node
 

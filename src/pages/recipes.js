@@ -4,7 +4,7 @@ import { Link, graphql } from 'gatsby';
 import Layout from '../components/Layout';
 import SEO from '../components/seo';
 import Img from 'gatsby-image';
-import './recipes.css';
+import './recipePage.css';
 
 class Recipes extends React.Component {
   render() {

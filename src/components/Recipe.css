@@ -1,0 +1,128 @@
+.recipe {
+    position: relative;
+    margin: 40px 0px;
+    padding: 30px;
+    border: 1px solid rgba(0,0,0,0.15);
+}
+
+.recipe__instruction {
+
+}
+
+.recipe__instruction {
+
+}
+
+.recipe__assembly {
+
+}
+
+.recipe__section {
+
+}
+
+.recipe__title {
+    font-size: 30px;
+    font-style: italic;
+    line-height: 30px;
+    color: #000;
+    margin-top: 0;
+    width: 60%;
+}
+
+.recipe__yield {
+    color: #000;
+    font-size: 14px;
+}
+
+.recipe__time {
+    font-size: 12px;
+    line-height: 19px;
+    position: absolute;
+    right: 30px;
+    top: 30px;
+    text-align: right;
+}
+
+.recipe__prep-time {
+
+}
+
+.recipe__cook-time {
+
+}
+
+.recipe__total-time {
+
+}
+
+.recipe__section-title {
+    text-decoration: underline;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 'Arvo',sans-serif;
+    font-size: 0.87055rem;
+    color: #000;
+}
+
+
+.recipe__ingredients-container {
+    margin: 2rem 0;
+}
+
+.recipe__ingredients-title  {
+    margin-bottom: 0.8rem;
+}
+
+.ingredient-section__ingredient-item {
+    list-style: circle;
+    margin-left: 20px;
+    margin-bottom: 0px;
+}
+
+.ingredient-section {
+
+}
+
+.ingredient-section__title {
+    color: hsla(0,0%,0%,0.9);
+    font-family: 'Arvo',sans-serif;
+    font-weight: 700;
+    text-rendering: optimizeLegibility;
+    font-size: 0.77rem;
+    line-height: 1.2;
+    text-transform: uppercase;
+}
+
+.ingredient-section__ingredients {
+    margin-bottom: 30px;
+}
+
+.recipe__instructions-container {
+    margin-bottom: 2rem;
+}
+
+.recipe__instructions-title {
+
+}
+
+.recipe__instruction {
+
+}
+
+.recipe__assembly-container {
+
+}
+
+.recipe__assembly-title {
+
+}
+
+.recipe__assembly {
+
+}
+
+.recipe__paragraph {
+    margin-bottom: 1.3rem;
+}

@@ -2310,12 +2310,12 @@
       "host": "localhost",
       "pathPrefix": "/fullstackkitchen",
       "polyfill": true,
-      "buildTime": "2019-02-16T21:48:43.062Z",
+      "buildTime": "2019-02-19T04:29:12.812Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "357bd05194ba49849561aedd1774b084",
+        "contentDigest": "22608f4757aef08cfc11fb8e7b1e0a3d",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2325,7 +2325,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "fde286765493b414d140f846d4a551c5",
+        "contentDigest": "5de84b256980954a72c4b2a44492bea8",
         "type": "Directory",
         "description": "Directory \"content/blog\"",
         "owner": "gatsby-source-filesystem"
@@ -2337,7 +2337,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2019-02-11T05:25:00.470Z",
-      "accessTime": "2019-02-16T21:48:48.447Z",
+      "accessTime": "2019-02-19T04:29:19.289Z",
       "changeTime": "2019-02-11T05:25:00.470Z",
       "birthTime": "2019-01-19T04:51:26.577Z",
       "root": "/",
@@ -2355,11 +2355,11 @@
       "blksize": 4096,
       "ino": 8604269393,
       "blocks": 0,
-      "atimeMs": 1550353728446.8901,
+      "atimeMs": 1550550559289.2798,
       "mtimeMs": 1549862700469.8833,
       "ctimeMs": 1549862700469.8833,
       "birthtimeMs": 1547873486577.1038,
-      "atime": "2019-02-16T21:48:48.447Z",
+      "atime": "2019-02-19T04:29:19.289Z",
       "mtime": "2019-02-11T05:25:00.470Z",
       "ctime": "2019-02-11T05:25:00.470Z",
       "birthtime": "2019-01-19T04:51:26.577Z"
@@ -2369,7 +2369,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "c91d528d8c393cb4ba818b04faa86f4a",
+        "contentDigest": "32e3f8e88100ba6f17b0e2920575797f",
         "type": "Directory",
         "description": "Directory \"content/blog/hot-cocoa-macarons\"",
         "owner": "gatsby-source-filesystem"
@@ -2381,7 +2381,7 @@
       "size": 288,
       "prettySize": "288 B",
       "modifiedTime": "2019-02-16T04:52:47.116Z",
-      "accessTime": "2019-02-16T21:48:48.451Z",
+      "accessTime": "2019-02-19T04:29:19.292Z",
       "changeTime": "2019-02-16T04:52:47.116Z",
       "birthTime": "2019-01-28T04:52:41.232Z",
       "root": "/",
@@ -2399,11 +2399,11 @@
       "blksize": 4096,
       "ino": 8604322489,
       "blocks": 0,
-      "atimeMs": 1550353728450.52,
+      "atimeMs": 1550550559292.3528,
       "mtimeMs": 1550292767115.8914,
       "ctimeMs": 1550292767115.8914,
       "birthtimeMs": 1548651161231.7734,
-      "atime": "2019-02-16T21:48:48.451Z",
+      "atime": "2019-02-19T04:29:19.292Z",
       "mtime": "2019-02-16T04:52:47.116Z",
       "ctime": "2019-02-16T04:52:47.116Z",
       "birthtime": "2019-01-28T04:52:41.232Z"
@@ -2413,7 +2413,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "383ec448e65dfb322e9f82fdacafc44e",
+        "contentDigest": "0a984f182cee5fd6c076fb74a2140d69",
         "type": "Directory",
         "description": "Directory \"content/blog/blood-orange-bars\"",
         "owner": "gatsby-source-filesystem"
@@ -2425,7 +2425,7 @@
       "size": 256,
       "prettySize": "256 B",
       "modifiedTime": "2019-02-16T04:22:11.034Z",
-      "accessTime": "2019-02-16T21:48:48.450Z",
+      "accessTime": "2019-02-19T04:29:19.292Z",
       "changeTime": "2019-02-16T04:22:11.034Z",
       "birthTime": "2019-02-10T22:29:40.545Z",
       "root": "/",
@@ -2443,11 +2443,11 @@
       "blksize": 4096,
       "ino": 8604949502,
       "blocks": 0,
-      "atimeMs": 1550353728450.4802,
+      "atimeMs": 1550550559292.3206,
       "mtimeMs": 1550290931034.1497,
       "ctimeMs": 1550290931034.1497,
       "birthtimeMs": 1549837780544.8103,
-      "atime": "2019-02-16T21:48:48.450Z",
+      "atime": "2019-02-19T04:29:19.292Z",
       "mtime": "2019-02-16T04:22:11.034Z",
       "ctime": "2019-02-16T04:22:11.034Z",
       "birthtime": "2019-02-10T22:29:40.545Z"
@@ -2457,7 +2457,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "7386cc339b98a7f5b3d36ca621cb3b7d",
+        "contentDigest": "5a6915e52a7d7df583254d6bd07296e9",
         "type": "Directory",
         "description": "Directory \"content/blog/tomato-mole-jam\"",
         "owner": "gatsby-source-filesystem"
@@ -2469,7 +2469,7 @@
       "size": 352,
       "prettySize": "352 B",
       "modifiedTime": "2019-02-16T04:52:53.065Z",
-      "accessTime": "2019-02-16T21:48:48.451Z",
+      "accessTime": "2019-02-19T04:29:19.292Z",
       "changeTime": "2019-02-16T04:52:53.065Z",
       "birthTime": "2019-01-28T04:52:41.376Z",
       "root": "/",
@@ -2487,11 +2487,11 @@
       "blksize": 4096,
       "ino": 8604322500,
       "blocks": 0,
-      "atimeMs": 1550353728450.525,
+      "atimeMs": 1550550559292.3167,
       "mtimeMs": 1550292773065.3662,
       "ctimeMs": 1550292773065.3662,
       "birthtimeMs": 1548651161375.8928,
-      "atime": "2019-02-16T21:48:48.451Z",
+      "atime": "2019-02-19T04:29:19.292Z",
       "mtime": "2019-02-16T04:52:53.065Z",
       "ctime": "2019-02-16T04:52:53.065Z",
       "birthtime": "2019-01-28T04:52:41.376Z"
@@ -2501,7 +2501,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "845a4f32db138691ad7d71a9a78e37f8",
+        "contentDigest": "ad0ff4a57af60927f55e09dcddc973cc",
         "type": "Directory",
         "description": "Directory \"content/blog/welcome\"",
         "owner": "gatsby-source-filesystem"
@@ -2513,7 +2513,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2019-02-16T04:53:06.013Z",
-      "accessTime": "2019-02-16T21:48:48.451Z",
+      "accessTime": "2019-02-19T04:29:19.292Z",
       "changeTime": "2019-02-16T04:53:06.013Z",
       "birthTime": "2019-01-28T04:52:41.717Z",
       "root": "/",
@@ -2531,11 +2531,11 @@
       "blksize": 4096,
       "ino": 8604322509,
       "blocks": 0,
-      "atimeMs": 1550353728450.757,
+      "atimeMs": 1550550559292.3787,
       "mtimeMs": 1550292786012.5715,
       "ctimeMs": 1550292786012.5715,
       "birthtimeMs": 1548651161717.4866,
-      "atime": "2019-02-16T21:48:48.451Z",
+      "atime": "2019-02-19T04:29:19.292Z",
       "mtime": "2019-02-16T04:53:06.013Z",
       "ctime": "2019-02-16T04:53:06.013Z",
       "birthtime": "2019-01-28T04:52:41.717Z"
@@ -2592,7 +2592,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "51deb23776eedd7d9ad1254f362d9274",
+        "contentDigest": "6ea8baddccc0bc8cb205e9d92915336f",
         "type": "File",
         "mediaType": "application/javascript",
         "description": "File \"content/blog/blood-orange-bars/recipe.js\"",
@@ -2602,11 +2602,11 @@
       "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/blood-orange-bars/recipe.js",
       "relativePath": "blood-orange-bars/recipe.js",
       "extension": "js",
-      "size": 1866,
-      "prettySize": "1.87 kB",
-      "modifiedTime": "2019-02-16T21:48:30.578Z",
-      "accessTime": "2019-02-16T21:48:30.577Z",
-      "changeTime": "2019-02-16T21:48:30.578Z",
+      "size": 1882,
+      "prettySize": "1.88 kB",
+      "modifiedTime": "2019-02-19T05:08:57.371Z",
+      "accessTime": "2019-02-19T05:08:57.371Z",
+      "changeTime": "2019-02-19T05:08:57.371Z",
       "birthTime": "2019-02-16T04:22:11.034Z",
       "root": "/",
       "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/blood-orange-bars",
@@ -2623,13 +2623,13 @@
       "blksize": 4096,
       "ino": 8605252948,
       "blocks": 8,
-      "atimeMs": 1550353710576.851,
-      "mtimeMs": 1550353710578.343,
-      "ctimeMs": 1550353710578.343,
+      "atimeMs": 1550552937370.958,
+      "mtimeMs": 1550552937371.273,
+      "ctimeMs": 1550552937371.273,
       "birthtimeMs": 1550290931034.1284,
-      "atime": "2019-02-16T21:48:30.577Z",
-      "mtime": "2019-02-16T21:48:30.578Z",
-      "ctime": "2019-02-16T21:48:30.578Z",
+      "atime": "2019-02-19T05:08:57.371Z",
+      "mtime": "2019-02-19T05:08:57.371Z",
+      "ctime": "2019-02-19T05:08:57.371Z",
       "birthtime": "2019-02-16T04:22:11.034Z"
     },
     "99fcf748-120c-5059-872a-11d078a9bb68": {
@@ -2823,7 +2823,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "82135eb02fd21320c361d861d52e85a8",
+        "contentDigest": "9b20c8cc3da3eca4322dddc1d11bc2f2",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content/blog/tomato-mole-jam/index.md\"",
@@ -2833,11 +2833,11 @@
       "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam/index.md",
       "relativePath": "tomato-mole-jam/index.md",
       "extension": "md",
-      "size": 9028,
-      "prettySize": "9.03 kB",
-      "modifiedTime": "2019-02-11T05:02:02.061Z",
-      "accessTime": "2019-02-16T03:30:19.762Z",
-      "changeTime": "2019-02-11T05:02:02.061Z",
+      "size": 4014,
+      "prettySize": "4.01 kB",
+      "modifiedTime": "2019-02-19T05:34:40.615Z",
+      "accessTime": "2019-02-19T05:34:40.611Z",
+      "changeTime": "2019-02-19T05:34:40.615Z",
       "birthTime": "2019-01-28T04:52:41.376Z",
       "root": "/",
       "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam",
@@ -2853,14 +2853,14 @@
       "rdev": 0,
       "blksize": 4096,
       "ino": 8604322501,
-      "blocks": 24,
-      "atimeMs": 1550287819762.2893,
-      "mtimeMs": 1549861322060.623,
-      "ctimeMs": 1549861322060.623,
+      "blocks": 8,
+      "atimeMs": 1550554480611.2476,
+      "mtimeMs": 1550554480614.5823,
+      "ctimeMs": 1550554480614.5823,
       "birthtimeMs": 1548651161375.967,
-      "atime": "2019-02-16T03:30:19.762Z",
-      "mtime": "2019-02-11T05:02:02.061Z",
-      "ctime": "2019-02-11T05:02:02.061Z",
+      "atime": "2019-02-19T05:34:40.611Z",
+      "mtime": "2019-02-19T05:34:40.615Z",
+      "ctime": "2019-02-19T05:34:40.615Z",
       "birthtime": "2019-01-28T04:52:41.376Z"
     },
     "2e778bcf-7fde-52c6-a9fe-f203fd85d881": {
@@ -2868,7 +2868,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "fc271905419a95519c098b164d489595",
+        "contentDigest": "995dfc7c4bb7ed4890ffb0b5df161c71",
         "type": "File",
         "mediaType": "application/javascript",
         "description": "File \"content/blog/tomato-mole-jam/recipe.js\"",
@@ -2878,11 +2878,11 @@
       "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam/recipe.js",
       "relativePath": "tomato-mole-jam/recipe.js",
       "extension": "js",
-      "size": 1767,
-      "prettySize": "1.77 kB",
-      "modifiedTime": "2019-02-16T21:24:51.045Z",
-      "accessTime": "2019-02-16T21:24:51.032Z",
-      "changeTime": "2019-02-16T21:24:51.045Z",
+      "size": 5930,
+      "prettySize": "5.93 kB",
+      "modifiedTime": "2019-02-19T05:41:56.961Z",
+      "accessTime": "2019-02-19T05:41:56.961Z",
+      "changeTime": "2019-02-19T05:41:56.961Z",
       "birthTime": "2019-02-16T04:52:53.065Z",
       "root": "/",
       "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam",
@@ -2898,14 +2898,14 @@
       "rdev": 0,
       "blksize": 4096,
       "ino": 8605254229,
-      "blocks": 8,
-      "atimeMs": 1550352291032.494,
-      "mtimeMs": 1550352291044.7434,
-      "ctimeMs": 1550352291044.7434,
+      "blocks": 16,
+      "atimeMs": 1550554916960.8584,
+      "mtimeMs": 1550554916961.1792,
+      "ctimeMs": 1550554916961.1792,
       "birthtimeMs": 1550292773065.3425,
-      "atime": "2019-02-16T21:24:51.032Z",
-      "mtime": "2019-02-16T21:24:51.045Z",
-      "ctime": "2019-02-16T21:24:51.045Z",
+      "atime": "2019-02-19T05:41:56.961Z",
+      "mtime": "2019-02-19T05:41:56.961Z",
+      "ctime": "2019-02-19T05:41:56.961Z",
       "birthtime": "2019-02-16T04:52:53.065Z"
     },
     "5fac45af-9dda-5faa-a929-243d1c5db1ab": {
@@ -3004,38 +3004,6 @@
       "fileAbsolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/welcome/index.md",
       "fields": {
         "slug": "/welcome/"
-      }
-    },
-    "e938c780-ae3e-5016-8fd4-9b48f53caa32": {
-      "id": "e938c780-ae3e-5016-8fd4-9b48f53caa32",
-      "children": [],
-      "parent": "6612e892-42b8-5cfc-8985-16cf22049c7e",
-      "internal": {
-        "content": "---\n\n![Social View](./mole_cheesecake-13.jpg)\n\n![Slice View](./mole_cheesecake-34.jpg)\n\n<div class=\"body-text\">\n\nThe first month of the New Year has already flown by and it’s bitter cold here in Brooklyn.  Even though winter is always fun (ie. skiing), I get that yearning to be on a beach in Mexico or basking in the Mediterranean sun whenever I am trudging to work through the snowy dirty streets of New York.  Making and eating this Mexican Ricotta Cheesecake with a Tomato Mole Jam is possibly the next best thing to hopping on a flight to warmer weather.  It has loads of spicy, complex flavors that will keep you warm and preoccupied until the sun comes out in a few months. \n\n\nWhen i was approached by Muir Glen and The Feedfeed to develop a recipe for them using their organic canned tomatoes, I wanted to think outside the box. Wanting to stay true to my *mostly* dessert feed, a tomato jam immediately came to mind. Tomato jams are usually made with onions, cumin and other savory spices. They show up on cheese plates, as condiments for sandwiches, on top of eggs and in vinaigrettes.  I wanted to make a more complex, sweeter jam that could do double duty as a perfect addition to a cheese plate but not feel weird on top of a dessert. Mole is a traditional sauce used in Mexican cuisines. According to Wikipedia - the source of all knowledge - a mole sauce contains a fruit, chili pepper, nut, and such spices as black pepper, cinnamon, cumin, and chocolate.  I could work with that. As you can see in the final recipe below, my mole jam has a lot of that - cinnamon, dried fruit, almonds and cocoa. The results? A sweet, (but not too sweet!) dynamic, interesting jam with a slightly spicy aftertaste.  It tastes like a tomato jam, but it also doesn’t really taste a whole lot like what you would think tomatoes taste like.  But what do I put it on? \n</div>\n\n<div class=\"image-halfsize-container\">\n    <div class=\"image-halfsize\">\n        <img src=\"./mole_cheesecake-27.jpg\" />\n    </div>\n    <div class=\"image-halfsize\">\n        <img src=\"./mole_cheesecake-16.jpg\" />\n    </div>\n</div>\n\n<div class=\"body-text\">\n\nEnter the ricotta cheesecake. Using ricotta in place of some of the cream cheese makes the cake a lot lighter (in a calorie and fluffier way). This creates a good balance with the graham cracker crust and thick dense mole jam.  By using the tried and true water bath method (outlined in the instructions), my cheesecake came out perfect with no cracks, no overcooked edges and a flat top!  I also left it in the oven after I turned off the heat for a few hours, which I’ve read helps prevent cracking.\n\nI ventured to my local co-op to buy the tomatoes, spices and other ingredients for this recipe.  Flatbush Food Coop is the closest one to me, but you can find your closest one here! The tomatoes are currently on sale for 10/$10 - which is very exciting because that’s almost half their regular price. Speaking of deals (which I’m a huge fan of), the entire co-op was extremely reasonably priced and they had an extensive bulk food and spice section where you can get just what you need (like for this recipe!). \n\nThis cake is perfect when you want to try making something different.  The jam itself is a showstopper and I can imagine it works very well with all sorts of cheese, on top of your morning bagel and cream cheese, inside a pastry or mixed into yogurt.   The jam makes a little more than you actually need to cover the cake, so let me know if you make this recipe and what you did with the extra!\n\n</div>\n\n![Top View with can](./mole_cheesecake-18.jpg)\n\n\n-----\n### Mexican Ricotta Cheesecake with Tomato Mole Jam\n\n\n#### Tomato Mole Jam\n_makes one 4oz jar_\n\n##### __**Ingredients**__\n- 1 14.5oz can [Muir Glen Petite Diced Tomatoes](https://www.muirglen.com/products/petite-diced-tomatoes/)\n- 1 cup sugar _(7 oz / 200g)_\n- 2 dates, finely chopped\n- ¼ cup raisins, finely chopped\n- 2 Tbsp almonds, finely chopped\n- 1-2 cinnamon sticks\n- 1 whole or ¼ tsp ground star anise _(optional)_\n- Juice and zest from 1 lime\n- 1 Tbsp cocoa powder\n- ¼ - ½ tsp chili powder _(depending on how spicy you want it)_\n- ⅛ tsp cayenne pepper\n- ¼ tsp nutmeg\n- ¼ tsp cloves\n\n##### __**Directions**__\nDrain the tomatoes in a mesh strainer to remove any extra juice. Place tomatoes and rest of the ingredients in a medium-sized saucepan.\n\nHeat on low and stir frequently until the sugar has dissolved.  Increase the heat to medium and bring the jam to a boil, stirring frequently with a wooden spoon.  Let it cook at a medium boil for 15-20 minutes, stirring every minute or so to prevent the sides and bottom from burning.  At 15 minutes, test the jam.  It should have a thick gelatinous consistency.  \n\nOnce the jam is done, remove cinnamon sticks and whole star anise.  The jam will be kind of chunky with the dried fruit and nuts.  If you prefer a smoother jam, use an immersion blender stick to puree it a bit.  You can also put it in a food processor or blender.  Afterwards, quickly pour jam into a glass ball jar and seal it.  Let it completely cool at room temperature.  It should last up to 4 months refrigerated. \n\nIf you are making this jam on its on and wish to preserve it unrefrigerated, follow steps [here](https://www.nytimes.com/2012/09/19/dining/canning-jam-from-preparing-the-jars-to-testing-the-seal.html) for prepping the jar.\n\n\n______________________________________________\n\n#### Ricotta Cheesecake\n_makes one 8-inch cake, about 10-12 servings_\n\n##### __**Ingredients**__\n###### Crust\n- 1 cup Graham Cracker crumbs _(100g, or from ~7 crackers)_\n- 3 Tbsp butter, melted\n- 1 Tbsp cinnamon\n- ⅛ tsp cayenne\n- ¼ tsp ginger\n\n###### Cake\n- 32 oz ricotta, drained _-- then will be more like 27 oz_\n- 8 oz cream cheese\n- 1 cup sugar\n- 4 eggs\n- 2 Tbsp all-purpose flour\n- 2 Tbsp cornstarch\n- 1 Tbsp lime juice _(juice from 1 lime)_\n- Zest of 1 lime\n- 1 tsp vanilla extract\n- ½ tsp almond extract _(optional)_\n- ¼ tsp salt\n\n- Tomato Mole Jam, _recipe above_\n- Slivered Almonds _for garnish, optional_\n\n##### __**Directions**__\nPreheat the oven to 350˚F / 180˚C. Butter a 8-inch springform pan.\n\nPlace the ricotta cheese in either a cheesecloth on top of a mesh strainer or in a fine mesh strainer, and put the strainer over a bowl.  Let it sit for at least 30 minutes, or up to 2 hours to drain the cheese, since it’s usually pretty watery.\n\nIf not using packaged graham cracker crumbs, put the graham crackers in a food processor and pulse until fine.  You can also put the crackers in a ziploc bag and smash them.  Add the melted butter and spices in the food processor and pulse a few times to just mix. Pour the crumbs into the pan and press into an even layer.  Using the bottom of a glass helps!\n\nBake the crust for 8-10 minutes, or until golden brown. Once completely cooled, wrap the base of the springform pan in 1-3 layers of tinfoil.  This is so the water from the water-bath doesn’t seep into the cake. \n\nLower the oven to 325˚F / 160˚C.\n\nUsing a electric mixer with a paddle attachment (or by hand if you don’t have a mixer), beat the cream cheese on medium-low until smooth, 1-2 minutes.  Add ricotta and sugar, and beat until smooth. One at a time, add in the eggs until fully incorporated. Add the flour, cornstarch, extracts, salt, lime juice and zest and mix until just combined and a smooth consistency.  Pour batter over the crust and spread evenly.\n\nPlace the pan on a roasting pan and put in the oven.  Boil some water.  Once in the oven, pour boiling water into the pan so that it covers about 1/2 up the side of the pan, 1-1.5 inches high.  Trust me, it’s a lot easier and safer to pour the water in after it’s in the oven than trying to carefully put it on the rack with splashing hot water going everywhere.\n\nBake for approximately 1.25-1.5 hours. It is done when you can shake the pan and the sides of the cake are set but the center is slightly wiggly, about the size of an inch in diameter. . That’s fine.  Turn off the oven and leave it in the oven for 3 hours with the door closed the entire time.  Take it out and leave it on the counter for another 1-2 hours. Refrigerate (tightly wrapped in plastic wrap) until ready to use, preferably overnight.\n\n##### __**Assembly**__\nWhen ready to serve, spread the Tomato Mole Jam on top of the cake.  I like to do this while it is still in the springform pan to get nice sharp edges around the side.  Decorate with slivered almonds if desired.  Run a butter knife around the edges of the cake and release it from the pan. Cake can be kept in the refrigerator for up to 5 days. \n\n![Slice with bite View](./mole_cheesecake-36.jpg)\n\nThis post is sponsored by [Muir Glen](https://www.muirglen.com/) and [The Feedfeed](https://thefeedfeed.com/), but all opinions are my own.",
-        "type": "MarkdownRemark",
-        "contentDigest": "dabd0b7494dd14c25bed1dbc6952ad72",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Mexican Ricotta Cheesecake with Tomato Mole Jam",
-        "description": "Mexican Ricotta Cheesecake with Tomato Mole Jam",
-        "date": "2019-01-24",
-        "image": "./mole_cheesecake-13.jpg",
-        "category": "cake",
-        "tags": [
-          "cake",
-          "cheesecake",
-          "jam"
-        ]
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "---\n\n![Social View](./mole_cheesecake-13.jpg)\n\n![Slice View](./mole_cheesecake-34.jpg)\n\n<div class=\"body-text\">\n\nThe first month of the New Year has already flown by and it’s bitter cold here in Brooklyn.  Even though winter is always fun (ie. skiing), I get that yearning to be on a beach in Mexico or basking in the Mediterranean sun whenever I am trudging to work through the snowy dirty streets of New York.  Making and eating this Mexican Ricotta Cheesecake with a Tomato Mole Jam is possibly the next best thing to hopping on a flight to warmer weather.  It has loads of spicy, complex flavors that will keep you warm and preoccupied until the sun comes out in a few months. \n\n\nWhen i was approached by Muir Glen and The Feedfeed to develop a recipe for them using their organic canned tomatoes, I wanted to think outside the box. Wanting to stay true to my *mostly* dessert feed, a tomato jam immediately came to mind. Tomato jams are usually made with onions, cumin and other savory spices. They show up on cheese plates, as condiments for sandwiches, on top of eggs and in vinaigrettes.  I wanted to make a more complex, sweeter jam that could do double duty as a perfect addition to a cheese plate but not feel weird on top of a dessert. Mole is a traditional sauce used in Mexican cuisines. According to Wikipedia - the source of all knowledge - a mole sauce contains a fruit, chili pepper, nut, and such spices as black pepper, cinnamon, cumin, and chocolate.  I could work with that. As you can see in the final recipe below, my mole jam has a lot of that - cinnamon, dried fruit, almonds and cocoa. The results? A sweet, (but not too sweet!) dynamic, interesting jam with a slightly spicy aftertaste.  It tastes like a tomato jam, but it also doesn’t really taste a whole lot like what you would think tomatoes taste like.  But what do I put it on? \n</div>\n\n<div class=\"image-halfsize-container\">\n    <div class=\"image-halfsize\">\n        <img src=\"./mole_cheesecake-27.jpg\" />\n    </div>\n    <div class=\"image-halfsize\">\n        <img src=\"./mole_cheesecake-16.jpg\" />\n    </div>\n</div>\n\n<div class=\"body-text\">\n\nEnter the ricotta cheesecake. Using ricotta in place of some of the cream cheese makes the cake a lot lighter (in a calorie and fluffier way). This creates a good balance with the graham cracker crust and thick dense mole jam.  By using the tried and true water bath method (outlined in the instructions), my cheesecake came out perfect with no cracks, no overcooked edges and a flat top!  I also left it in the oven after I turned off the heat for a few hours, which I’ve read helps prevent cracking.\n\nI ventured to my local co-op to buy the tomatoes, spices and other ingredients for this recipe.  Flatbush Food Coop is the closest one to me, but you can find your closest one here! The tomatoes are currently on sale for 10/$10 - which is very exciting because that’s almost half their regular price. Speaking of deals (which I’m a huge fan of), the entire co-op was extremely reasonably priced and they had an extensive bulk food and spice section where you can get just what you need (like for this recipe!). \n\nThis cake is perfect when you want to try making something different.  The jam itself is a showstopper and I can imagine it works very well with all sorts of cheese, on top of your morning bagel and cream cheese, inside a pastry or mixed into yogurt.   The jam makes a little more than you actually need to cover the cake, so let me know if you make this recipe and what you did with the extra!\n\n</div>\n\n![Top View with can](./mole_cheesecake-18.jpg)\n\n\n-----\n### Mexican Ricotta Cheesecake with Tomato Mole Jam\n\n\n#### Tomato Mole Jam\n_makes one 4oz jar_\n\n##### __**Ingredients**__\n- 1 14.5oz can [Muir Glen Petite Diced Tomatoes](https://www.muirglen.com/products/petite-diced-tomatoes/)\n- 1 cup sugar _(7 oz / 200g)_\n- 2 dates, finely chopped\n- ¼ cup raisins, finely chopped\n- 2 Tbsp almonds, finely chopped\n- 1-2 cinnamon sticks\n- 1 whole or ¼ tsp ground star anise _(optional)_\n- Juice and zest from 1 lime\n- 1 Tbsp cocoa powder\n- ¼ - ½ tsp chili powder _(depending on how spicy you want it)_\n- ⅛ tsp cayenne pepper\n- ¼ tsp nutmeg\n- ¼ tsp cloves\n\n##### __**Directions**__\nDrain the tomatoes in a mesh strainer to remove any extra juice. Place tomatoes and rest of the ingredients in a medium-sized saucepan.\n\nHeat on low and stir frequently until the sugar has dissolved.  Increase the heat to medium and bring the jam to a boil, stirring frequently with a wooden spoon.  Let it cook at a medium boil for 15-20 minutes, stirring every minute or so to prevent the sides and bottom from burning.  At 15 minutes, test the jam.  It should have a thick gelatinous consistency.  \n\nOnce the jam is done, remove cinnamon sticks and whole star anise.  The jam will be kind of chunky with the dried fruit and nuts.  If you prefer a smoother jam, use an immersion blender stick to puree it a bit.  You can also put it in a food processor or blender.  Afterwards, quickly pour jam into a glass ball jar and seal it.  Let it completely cool at room temperature.  It should last up to 4 months refrigerated. \n\nIf you are making this jam on its on and wish to preserve it unrefrigerated, follow steps [here](https://www.nytimes.com/2012/09/19/dining/canning-jam-from-preparing-the-jars-to-testing-the-seal.html) for prepping the jar.\n\n\n______________________________________________\n\n#### Ricotta Cheesecake\n_makes one 8-inch cake, about 10-12 servings_\n\n##### __**Ingredients**__\n###### Crust\n- 1 cup Graham Cracker crumbs _(100g, or from ~7 crackers)_\n- 3 Tbsp butter, melted\n- 1 Tbsp cinnamon\n- ⅛ tsp cayenne\n- ¼ tsp ginger\n\n###### Cake\n- 32 oz ricotta, drained _-- then will be more like 27 oz_\n- 8 oz cream cheese\n- 1 cup sugar\n- 4 eggs\n- 2 Tbsp all-purpose flour\n- 2 Tbsp cornstarch\n- 1 Tbsp lime juice _(juice from 1 lime)_\n- Zest of 1 lime\n- 1 tsp vanilla extract\n- ½ tsp almond extract _(optional)_\n- ¼ tsp salt\n\n- Tomato Mole Jam, _recipe above_\n- Slivered Almonds _for garnish, optional_\n\n##### __**Directions**__\nPreheat the oven to 350˚F / 180˚C. Butter a 8-inch springform pan.\n\nPlace the ricotta cheese in either a cheesecloth on top of a mesh strainer or in a fine mesh strainer, and put the strainer over a bowl.  Let it sit for at least 30 minutes, or up to 2 hours to drain the cheese, since it’s usually pretty watery.\n\nIf not using packaged graham cracker crumbs, put the graham crackers in a food processor and pulse until fine.  You can also put the crackers in a ziploc bag and smash them.  Add the melted butter and spices in the food processor and pulse a few times to just mix. Pour the crumbs into the pan and press into an even layer.  Using the bottom of a glass helps!\n\nBake the crust for 8-10 minutes, or until golden brown. Once completely cooled, wrap the base of the springform pan in 1-3 layers of tinfoil.  This is so the water from the water-bath doesn’t seep into the cake. \n\nLower the oven to 325˚F / 160˚C.\n\nUsing a electric mixer with a paddle attachment (or by hand if you don’t have a mixer), beat the cream cheese on medium-low until smooth, 1-2 minutes.  Add ricotta and sugar, and beat until smooth. One at a time, add in the eggs until fully incorporated. Add the flour, cornstarch, extracts, salt, lime juice and zest and mix until just combined and a smooth consistency.  Pour batter over the crust and spread evenly.\n\nPlace the pan on a roasting pan and put in the oven.  Boil some water.  Once in the oven, pour boiling water into the pan so that it covers about 1/2 up the side of the pan, 1-1.5 inches high.  Trust me, it’s a lot easier and safer to pour the water in after it’s in the oven than trying to carefully put it on the rack with splashing hot water going everywhere.\n\nBake for approximately 1.25-1.5 hours. It is done when you can shake the pan and the sides of the cake are set but the center is slightly wiggly, about the size of an inch in diameter. . That’s fine.  Turn off the oven and leave it in the oven for 3 hours with the door closed the entire time.  Take it out and leave it on the counter for another 1-2 hours. Refrigerate (tightly wrapped in plastic wrap) until ready to use, preferably overnight.\n\n##### __**Assembly**__\nWhen ready to serve, spread the Tomato Mole Jam on top of the cake.  I like to do this while it is still in the springform pan to get nice sharp edges around the side.  Decorate with slivered almonds if desired.  Run a butter knife around the edges of the cake and release it from the pan. Cake can be kept in the refrigerator for up to 5 days. \n\n![Slice with bite View](./mole_cheesecake-36.jpg)\n\nThis post is sponsored by [Muir Glen](https://www.muirglen.com/) and [The Feedfeed](https://thefeedfeed.com/), but all opinions are my own.",
-      "fileAbsolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam/index.md",
-      "fields": {
-        "slug": "/tomato-mole-jam/"
       }
     },
     "1b85c435-e0df-5a48-b793-c6c1c7b06fc7": {
@@ -3955,7 +3923,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "2f1d2fda8714b5d7cad8547573a2acdc",
+        "contentDigest": "f7f312876c839a2e072a28b19d9454ef",
         "type": "Directory",
         "description": "Directory \"content/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -3967,7 +3935,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-02-10T04:18:22.389Z",
-      "accessTime": "2019-02-16T21:48:48.785Z",
+      "accessTime": "2019-02-19T04:29:19.586Z",
       "changeTime": "2019-02-10T04:18:22.389Z",
       "birthTime": "2019-02-10T04:18:16.212Z",
       "root": "/",
@@ -3985,11 +3953,11 @@
       "blksize": 4096,
       "ino": 8604905065,
       "blocks": 0,
-      "atimeMs": 1550353728785.0344,
+      "atimeMs": 1550550559586.4766,
       "mtimeMs": 1549772302389.4385,
       "ctimeMs": 1549772302389.4385,
       "birthtimeMs": 1549772296211.6716,
-      "atime": "2019-02-16T21:48:48.785Z",
+      "atime": "2019-02-19T04:29:19.586Z",
       "mtime": "2019-02-10T04:18:22.389Z",
       "ctime": "2019-02-10T04:18:22.389Z",
       "birthtime": "2019-02-10T04:18:16.212Z"
@@ -3999,7 +3967,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "4117b003f23579940ecb471d41c43f9a",
+        "contentDigest": "3c0a397aeda563ad5e29e9ed0f789d60",
         "type": "Directory",
         "description": "Directory \"content/pages/about\"",
         "owner": "gatsby-source-filesystem"
@@ -4011,7 +3979,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2019-02-09T05:57:35.626Z",
-      "accessTime": "2019-02-16T21:48:48.786Z",
+      "accessTime": "2019-02-19T04:29:19.587Z",
       "changeTime": "2019-02-10T04:18:22.389Z",
       "birthTime": "2019-02-09T05:54:27.735Z",
       "root": "/",
@@ -4029,11 +3997,11 @@
       "blksize": 4096,
       "ino": 8604867502,
       "blocks": 0,
-      "atimeMs": 1550353728786.0576,
+      "atimeMs": 1550550559587.194,
       "mtimeMs": 1549691855625.9097,
       "ctimeMs": 1549772302389.4382,
       "birthtimeMs": 1549691667735.0195,
-      "atime": "2019-02-16T21:48:48.786Z",
+      "atime": "2019-02-19T04:29:19.587Z",
       "mtime": "2019-02-09T05:57:35.626Z",
       "ctime": "2019-02-10T04:18:22.389Z",
       "birthtime": "2019-02-09T05:54:27.735Z"
@@ -4230,7 +4198,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "e3bc65451b15c3cd38895428a4054c5d",
+        "contentDigest": "34d2aa51e7d53adde8f84036b10173fe",
         "type": "Directory",
         "description": "Directory \"content/assets\"",
         "owner": "gatsby-source-filesystem"
@@ -4242,7 +4210,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2019-02-02T16:33:03.202Z",
-      "accessTime": "2019-02-16T21:48:48.822Z",
+      "accessTime": "2019-02-19T04:29:19.615Z",
       "changeTime": "2019-02-02T16:33:03.202Z",
       "birthTime": "2019-01-28T04:52:41.220Z",
       "root": "/",
@@ -4260,11 +4228,11 @@
       "blksize": 4096,
       "ino": 8604322484,
       "blocks": 0,
-      "atimeMs": 1550353728822.1875,
+      "atimeMs": 1550550559615.306,
       "mtimeMs": 1549125183202.2559,
       "ctimeMs": 1549125183202.2559,
       "birthtimeMs": 1548651161219.81,
-      "atime": "2019-02-16T21:48:48.822Z",
+      "atime": "2019-02-19T04:29:19.615Z",
       "mtime": "2019-02-02T16:33:03.202Z",
       "ctime": "2019-02-02T16:33:03.202Z",
       "birthtime": "2019-01-28T04:52:41.220Z"
@@ -4477,19 +4445,30 @@
       "jsonName": "about-f34",
       "internalComponentName": "ComponentAbout",
       "path": "/about/",
-      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/about.js",
-      "componentChunkName": "component---src-pages-about-js",
-      "context": {},
-      "pluginCreator___NODE": "086142d7-4c5b-5202-afd4-d6ebd7b2af36",
-      "pluginCreatorId": "086142d7-4c5b-5202-afd4-d6ebd7b2af36",
-      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/about.js",
+      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/about/",
+        "previous": {
+          "fields": {
+            "slug": "/blood-orange-bars/"
+          },
+          "frontmatter": {
+            "title": "Blood Orange Bars"
+          }
+        },
+        "next": null
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js",
       "id": "SitePage /about/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7e149fc1772e891204c33f20271ee415",
-        "description": "086142d7-4c5b-5202-afd4-d6ebd7b2af36",
+        "contentDigest": "979ff7c4601bb771c3db31af9c6c1d44",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
     },
@@ -4717,6 +4696,38 @@
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
+    },
+    "e938c780-ae3e-5016-8fd4-9b48f53caa32": {
+      "id": "e938c780-ae3e-5016-8fd4-9b48f53caa32",
+      "children": [],
+      "parent": "6612e892-42b8-5cfc-8985-16cf22049c7e",
+      "internal": {
+        "content": "---\n\n![Social View](./mole_cheesecake-13.jpg)\n\n![Slice View](./mole_cheesecake-34.jpg)\n\n<div class=\"body-text\">\n\nThe first month of the New Year has already flown by and it’s bitter cold here in Brooklyn.  Even though winter is always fun (ie. skiing), I get that yearning to be on a beach in Mexico or basking in the Mediterranean sun whenever I am trudging to work through the snowy dirty streets of New York.  Making and eating this Mexican Ricotta Cheesecake with a Tomato Mole Jam is possibly the next best thing to hopping on a flight to warmer weather.  It has loads of spicy, complex flavors that will keep you warm and preoccupied until the sun comes out in a few months. \n\n\nWhen i was approached by Muir Glen and The Feedfeed to develop a recipe for them using their organic canned tomatoes, I wanted to think outside the box. Wanting to stay true to my *mostly* dessert feed, a tomato jam immediately came to mind. Tomato jams are usually made with onions, cumin and other savory spices. They show up on cheese plates, as condiments for sandwiches, on top of eggs and in vinaigrettes.  I wanted to make a more complex, sweeter jam that could do double duty as a perfect addition to a cheese plate but not feel weird on top of a dessert. Mole is a traditional sauce used in Mexican cuisines. According to Wikipedia - the source of all knowledge - a mole sauce contains a fruit, chili pepper, nut, and such spices as black pepper, cinnamon, cumin, and chocolate.  I could work with that. As you can see in the final recipe below, my mole jam has a lot of that - cinnamon, dried fruit, almonds and cocoa. The results? A sweet, (but not too sweet!) dynamic, interesting jam with a slightly spicy aftertaste.  It tastes like a tomato jam, but it also doesn’t really taste a whole lot like what you would think tomatoes taste like.  But what do I put it on? \n</div>\n\n<div class=\"image-halfsize-container\">\n    <div class=\"image-halfsize\">\n        <img src=\"./mole_cheesecake-27.jpg\" />\n    </div>\n    <div class=\"image-halfsize\">\n        <img src=\"./mole_cheesecake-16.jpg\" />\n    </div>\n</div>\n\n<div class=\"body-text\">\n\nEnter the ricotta cheesecake. Using ricotta in place of some of the cream cheese makes the cake a lot lighter (in a calorie and fluffier way). This creates a good balance with the graham cracker crust and thick dense mole jam.  By using the tried and true water bath method (outlined in the instructions), my cheesecake came out perfect with no cracks, no overcooked edges and a flat top!  I also left it in the oven after I turned off the heat for a few hours, which I’ve read helps prevent cracking.\n\nI ventured to my local co-op to buy the tomatoes, spices and other ingredients for this recipe.  Flatbush Food Coop is the closest one to me, but you can find your closest one here! The tomatoes are currently on sale for 10/$10 - which is very exciting because that’s almost half their regular price. Speaking of deals (which I’m a huge fan of), the entire co-op was extremely reasonably priced and they had an extensive bulk food and spice section where you can get just what you need (like for this recipe!). \n\nThis cake is perfect when you want to try making something different.  The jam itself is a showstopper and I can imagine it works very well with all sorts of cheese, on top of your morning bagel and cream cheese, inside a pastry or mixed into yogurt.   The jam makes a little more than you actually need to cover the cake, so let me know if you make this recipe and what you did with the extra!\n\n</div>\n\n![Top View with can](./mole_cheesecake-18.jpg)\n\n\n![Slice with bite View](./mole_cheesecake-36.jpg)\n\nThis post is sponsored by [Muir Glen](https://www.muirglen.com/) and [The Feedfeed](https://thefeedfeed.com/), but all opinions are my own.",
+        "type": "MarkdownRemark",
+        "contentDigest": "9b7b9145c7abcc1a15dfaa06a7d92ab7",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Mexican Ricotta Cheesecake with Tomato Mole Jam",
+        "description": "Mexican Ricotta Cheesecake with Tomato Mole Jam",
+        "date": "2019-01-24",
+        "image": "./mole_cheesecake-13.jpg",
+        "category": "cake",
+        "tags": [
+          "cake",
+          "cheesecake",
+          "jam"
+        ]
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "---\n\n![Social View](./mole_cheesecake-13.jpg)\n\n![Slice View](./mole_cheesecake-34.jpg)\n\n<div class=\"body-text\">\n\nThe first month of the New Year has already flown by and it’s bitter cold here in Brooklyn.  Even though winter is always fun (ie. skiing), I get that yearning to be on a beach in Mexico or basking in the Mediterranean sun whenever I am trudging to work through the snowy dirty streets of New York.  Making and eating this Mexican Ricotta Cheesecake with a Tomato Mole Jam is possibly the next best thing to hopping on a flight to warmer weather.  It has loads of spicy, complex flavors that will keep you warm and preoccupied until the sun comes out in a few months. \n\n\nWhen i was approached by Muir Glen and The Feedfeed to develop a recipe for them using their organic canned tomatoes, I wanted to think outside the box. Wanting to stay true to my *mostly* dessert feed, a tomato jam immediately came to mind. Tomato jams are usually made with onions, cumin and other savory spices. They show up on cheese plates, as condiments for sandwiches, on top of eggs and in vinaigrettes.  I wanted to make a more complex, sweeter jam that could do double duty as a perfect addition to a cheese plate but not feel weird on top of a dessert. Mole is a traditional sauce used in Mexican cuisines. According to Wikipedia - the source of all knowledge - a mole sauce contains a fruit, chili pepper, nut, and such spices as black pepper, cinnamon, cumin, and chocolate.  I could work with that. As you can see in the final recipe below, my mole jam has a lot of that - cinnamon, dried fruit, almonds and cocoa. The results? A sweet, (but not too sweet!) dynamic, interesting jam with a slightly spicy aftertaste.  It tastes like a tomato jam, but it also doesn’t really taste a whole lot like what you would think tomatoes taste like.  But what do I put it on? \n</div>\n\n<div class=\"image-halfsize-container\">\n    <div class=\"image-halfsize\">\n        <img src=\"./mole_cheesecake-27.jpg\" />\n    </div>\n    <div class=\"image-halfsize\">\n        <img src=\"./mole_cheesecake-16.jpg\" />\n    </div>\n</div>\n\n<div class=\"body-text\">\n\nEnter the ricotta cheesecake. Using ricotta in place of some of the cream cheese makes the cake a lot lighter (in a calorie and fluffier way). This creates a good balance with the graham cracker crust and thick dense mole jam.  By using the tried and true water bath method (outlined in the instructions), my cheesecake came out perfect with no cracks, no overcooked edges and a flat top!  I also left it in the oven after I turned off the heat for a few hours, which I’ve read helps prevent cracking.\n\nI ventured to my local co-op to buy the tomatoes, spices and other ingredients for this recipe.  Flatbush Food Coop is the closest one to me, but you can find your closest one here! The tomatoes are currently on sale for 10/$10 - which is very exciting because that’s almost half their regular price. Speaking of deals (which I’m a huge fan of), the entire co-op was extremely reasonably priced and they had an extensive bulk food and spice section where you can get just what you need (like for this recipe!). \n\nThis cake is perfect when you want to try making something different.  The jam itself is a showstopper and I can imagine it works very well with all sorts of cheese, on top of your morning bagel and cream cheese, inside a pastry or mixed into yogurt.   The jam makes a little more than you actually need to cover the cake, so let me know if you make this recipe and what you did with the extra!\n\n</div>\n\n![Top View with can](./mole_cheesecake-18.jpg)\n\n\n![Slice with bite View](./mole_cheesecake-36.jpg)\n\nThis post is sponsored by [Muir Glen](https://www.muirglen.com/) and [The Feedfeed](https://thefeedfeed.com/), but all opinions are my own.",
+      "fileAbsolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam/index.md",
+      "fields": {
+        "slug": "/tomato-mole-jam/"
+      }
     }
   },
   "status": {
@@ -4728,16 +4739,16 @@
       "Site": [
         "/404/",
         "/404.html",
-        "/about/",
         "/",
         "/recipes/",
         "/blood-orange-bars/",
+        "/about/",
         "/tomato-mole-jam/",
         "/hot-cocoa-macarons/",
         "/welcome/",
         "sq--src-components-bio-js",
-        "sq--src-components-recipe-seo-js",
-        "sq--src-components-seo-js"
+        "sq--src-components-seo-js",
+        "sq--src-components-recipe-seo-js"
       ],
       "2a7c202d-14d1-5f52-97fe-cf2dee369d5b": [
         "sq--src-components-bio-js"
@@ -4753,35 +4764,43 @@
       ],
       "6dabc158-a3ba-5d8c-a68d-98e844a3a7a0": [
         "/",
-        "/recipes/"
+        "/recipes/",
+        "/blood-orange-bars/"
       ],
       "bea38287-942b-5376-8162-446c17361442": [
         "/",
-        "/recipes/"
+        "/recipes/",
+        "/tomato-mole-jam/"
       ],
       "76d2b583-d148-565b-9864-ba92712eda90": [
         "/",
-        "/recipes/"
+        "/recipes/",
+        "/hot-cocoa-macarons/"
       ],
       "52d62133-825a-5ba3-9997-5ed831877268": [
         "/",
-        "/recipes/"
+        "/recipes/",
+        "/welcome/"
       ],
       "65061127-8470-5a48-9467-f0c49c787014": [
         "/",
-        "/recipes/"
+        "/recipes/",
+        "/blood-orange-bars/"
       ],
       "338c0182-88bf-580b-a7e2-40f9790160ba": [
         "/",
-        "/recipes/"
+        "/recipes/",
+        "/tomato-mole-jam/"
       ],
       "da1ff49a-fe64-5a3e-931c-3ce6a28794b8": [
         "/",
-        "/recipes/"
+        "/recipes/",
+        "/hot-cocoa-macarons/"
       ],
       "4d5b971c-17c7-5b00-975d-3778041c2ddc": [
         "/",
-        "/recipes/"
+        "/recipes/",
+        "/welcome/"
       ],
       "17bd3f17-5985-595c-b303-26ec731e7360": [
         "/blood-orange-bars/"
@@ -4794,15 +4813,17 @@
       ],
       "61859686-f971-51c1-aeb5-1ec4020ed339": [
         "/welcome/"
+      ],
+      "850a5357-ae22-5af9-92ac-80173c8690e4": [
+        "/about/"
       ]
     },
     "connections": {
       "MarkdownRemark": [
         null,
-        "/about/",
+        null,
         "/",
-        "/recipes/",
-        null
+        "/recipes/"
       ]
     }
   },
@@ -4812,20 +4833,20 @@
     "sq--src-components-seo-js": 1025518380,
     "offline-plugin-app-shell-fallback-a30": "520/path---offline-plugin-app-shell-fallback-a-30-c5a-NZuapzHg3X9TaN1iIixfv1W23E",
     "sq--src-components-bio-js": 20992707,
-    "about-f34": "121/path---about-f-34-4c2-y86QWz2EsoqneHHjWXRqeRBDHME",
+    "about-f34": "65/path---about-f-34-4c2-w48nhki2WbHCO1qyzQ9d7YNotU",
     "index": "505/path---index-6a9-4FNNA2lHg2pSdS004RZbNaqKSIk",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
-    "blood-orange-bars-74a": "792/path---blood-orange-bars-74-a-e9e-xQUvFZnxgWuQCMr5k6ZNnGO5vE",
-    "welcome-e45": "166/path---welcome-e-45-1b7-kEuefANYbFZwhVyZOgzz4ZhCFc",
-    "hot-cocoa-macarons-7d6": "598/path---hot-cocoa-macarons-7-d-6-80f-tLqsWGwuwu3V0haxDMqJNmssc",
-    "tomato-mole-jam-527": "623/path---tomato-mole-jam-527-668-ss6gyUN5oXbXGfYgo4wIHAgKDw",
+    "blood-orange-bars-74a": "211/path---blood-orange-bars-74-a-e9e-eFv1n7h919yXkjKoiPJpALkmyno",
+    "welcome-e45": "580/path---welcome-e-45-1b7-wQEpYJaeWBZ687P9ItGNv5rmc2U",
+    "hot-cocoa-macarons-7d6": "803/path---hot-cocoa-macarons-7-d-6-80f-6oHTNRaeuuRraXbGyvQOYU1kFk",
+    "tomato-mole-jam-527": "880/path---tomato-mole-jam-527-668-hr2qVaLZqTQF1wHUx1jNs7y6w8",
     "recipes-3c6": "507/path---recipes-3-c-6-4cc-4FNNA2lHg2pSdS004RZbNaqKSIk",
     "sq--src-components-recipe-seo-js": 4240880194,
     "hot-cocoa-macarons-recipe-03c": "548/path---hot-cocoa-macarons-recipe-03-c-c5e-MDSZzwSFCoQZnKfZ5oOhHGZpomw"
   },
   "components": {
     "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js": {
-      "query": "query BlogPostBySlug(\n  $slug: String!\n) {\n  site {\n    siteMetadata {\n      title\n      author\n    }\n  }\n  markdownRemark(fields: {slug: {eq: $slug}}) {\n    id\n    excerpt(pruneLength: 160)\n    html\n    frontmatter {\n      title\n      description\n      tags\n      date(formatString: \"MMMM DD, YYYY\")\n    }\n  }\n}\n",
+      "query": "query BlogPostBySlug(\n  $slug: String!\n) {\n  site {\n    siteMetadata {\n      title\n      author\n    }\n  }\n  markdownRemark(fields: {slug: {eq: $slug}}) {\n    id\n    excerpt(pruneLength: 160)\n    html\n    frontmatter {\n      title\n      description\n      tags\n      image {\n        childImageSharp {\n          resize(width: 650, height: 650) {\n            src\n          }\n          fluid(maxWidth: 786) {\n            ...GatsbyImageSharpFluid\n          }\n        }\n      }\n      date(formatString: \"MMMM DD, YYYY\")\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js"
     },
     "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/.cache/dev-404-page.js": {
@@ -4858,14 +4879,6 @@
       "query": "query BioQuery {\n  avatar: file(absolutePath: {regex: \"/profile-pic.jpg/\"}) {\n    childImageSharp {\n      fixed(width: 50, height: 50) {\n        ...GatsbyImageSharpFixed\n      }\n    }\n  }\n  site {\n    siteMetadata {\n      author\n      social {\n        instagram\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFixed on ImageSharpFixed {\n  base64\n  width\n  height\n  src\n  srcSet\n}\n",
       "hash": 20992707
     },
-    "sq--src-components-seo-js": {
-      "name": "DefaultSEOQuery",
-      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/components/seo.js",
-      "id": "sq--src-components-seo-js",
-      "jsonName": "sq--src-components-seo-js",
-      "query": "query DefaultSEOQuery {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
-      "hash": 1025518380
-    },
     "sq--src-components-recipe-seo-js": {
       "name": "RecipeSEOQuery",
       "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/components/RecipeSEO.js",
@@ -4873,6 +4886,14 @@
       "jsonName": "sq--src-components-recipe-seo-js",
       "query": "query RecipeSEOQuery {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
       "hash": 4240880194
+    },
+    "sq--src-components-seo-js": {
+      "name": "DefaultSEOQuery",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/components/seo.js",
+      "id": "sq--src-components-seo-js",
+      "jsonName": "sq--src-components-seo-js",
+      "query": "query DefaultSEOQuery {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
+      "hash": 1025518380
     }
   }
 }

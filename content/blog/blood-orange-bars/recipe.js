@@ -1,9 +1,9 @@
 const recipe = [{
     subTitle: "",
-    yield: "16 bars",
-    prepTime: "PT20M",
-    cookTime: "PT40M",
-    totalTime: "PT60M",
+    yield: "Makes: 16 bars",
+    prepTime: "20",
+    cookTime: "40",
+    totalTime: "60",
     ingredients: [
         {
             title: 'crust',
@@ -31,7 +31,8 @@ const recipe = [{
         "Preheat oven to 350, line a 8x8 pan with parchment paper. In a food processor, combine the ingredients for the crust. Pulse until the mixture looks like coarse crumbs and sticks together when you pinch the dough. Press into the pan and bake 15-20 min until golden. Let cool.",
         "While the crust is in the oven, make the curd. Whisk together eggs, yolks, sugar and salt in a medium pot.  Add juice, turn on to medium heat and constantly stir for about 10 min until the curd thickens and is a thic puddin like consistency.  Whisk in the butter and cream until incorporated.  Strain it through a fine-mesh strainer into a bowl to get rid of cooked egg clumps.  Pour into crust and cook 25-30 min until filling is set and not very wobbly. Some wobble is fine.",
         "Cool for an hour on rack. Then put in the fridge for 2-3 hrs or overnight. Cut into squares and liberally sift powdered sugar on top."
-    ]
+    ],
+    assembly: []
 }];
 
 export default recipe;

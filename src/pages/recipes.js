@@ -16,13 +16,13 @@ class Recipes extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="Recipes" />
         
-        <div className="recipes__container">
+        <div className="recipe-page__container">
             {posts.map(({ node }) => {
                 const title = node.frontmatter.title || node.fields.slug
                 return (
-                <div className="recipe" key={node.fields.slug}>
-                    <div className="recipe__category" >{node.frontmatter.tags[0]}</div>                    
-                     <div className="recipe__title">
+                <div className="recipe-page" key={node.fields.slug}>
+                    <div className="recipe-page__category" >{node.frontmatter.tags[0]}</div>                    
+                     <div className="recipe-page__title">
                         <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
                             {title}
                         </Link>

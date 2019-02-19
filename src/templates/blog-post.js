@@ -32,10 +32,10 @@ class BlogPostTemplate extends React.Component {
   }
 
   render() {
-    console.log(this.props);
     const post = this.props.data.markdownRemark;
     const siteTitle = this.props.data.site.siteMetadata.title;
     const { previous, next } = this.props.pageContext;
+    console.log(post.frontmatter.image.childImageSharp.fluid);
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -50,13 +50,14 @@ class BlogPostTemplate extends React.Component {
             
             {(this.state.recipeData) ? 
               <div className="recipe-container">
-                <h3 className="recipe__title">{post.frontmatter.title}</h3>
                 <Recipe 
                   recipe={this.state.recipeData}
                   name={post.frontmatter.title}
                   keywords={post.frontmatter.tags}
                   date={post.frontmatter.date}
-                  description={post.frontmatter.description} />
+                  description={post.frontmatter.description}
+                  image={post.frontmatter.image.childImageSharp.fluid}
+                />
               </div>
               : null
             }
@@ -108,6 +109,16 @@ export const pageQuery = graphql`
         title
         description
         tags
+        image {
+          childImageSharp {
+            resize(width: 650, height: 650) {
+              src
+            }
+            fluid(maxWidth: 786) {
+              ...GatsbyImageSharpFluid
+            }
+          }
+        }
         date(formatString: "MMMM DD, YYYY")
       }
     }

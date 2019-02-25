@@ -1,68 +1,134 @@
 const recipe = [{
     subTitle: 'Tomato Mole Jam',
     yield: 'makes one 4oz jar',
-    prepTime: "20",
-    cookTime: "40",
-    totalTime: "60",
+    prepTime: "5",
+    cookTime: "20",
+    totalTime: "25",
     ingredients: [
         {
             title: '',
             data: [
-                '1 14.5oz can [Muir Glen Petite Diced Tomatoes](https://www.muirglen.com/products/petite-diced-tomatoes/)',
-                '1 cup sugar _(7 oz / 200g)_',
-                '2 dates, finely chopped',
-                '¼ cup raisins, finely chopped',
-                '2 Tbsp almonds, finely chopped',
-                '1-2 cinnamon sticks',
-                '1 whole or ¼ tsp ground star anise _(optional)_',
-                'Juice and zest from 1 lime',
-                '1 Tbsp cocoa powder',
-                '¼ - ½ tsp chili powder _(depending on how spicy you want it)_',
-                '⅛ tsp cayenne pepper',
-                '¼ tsp nutmeg',
-                '¼ tsp cloves',
-            ],
+                {
+                    text: '1 14.5oz can <a href="https://www.muirglen.com/products/petite-diced-tomatoes">Muir Glen Petite Diced Tomatoes</a>',
+                    reference: 'tomatoes',
+                }, {
+                    text: '1 cup sugar <i>(7 oz / 200g)</i>',
+                    reference: 'sugar',
+                }, {
+                    text: '2 dates, finely chopped',
+                    reference: 'dates',
+                }, {
+                    text: '¼ cup raisins, finely chopped',
+                    reference: 'raisins',
+                }, {
+                    text: '2 Tbsp almonds, finely chopped',
+                    reference: 'almonds',
+                }, {
+                    text: '1-2 cinnamon sticks',
+                    reference: 'cinnamon',
+                }, {
+                    text: '1 whole or ¼ tsp ground star anise <i>(optional)</i>',
+                    reference: 'star anise',
+                }, {
+                    text: 'Juice and zest from 1 lime',
+                    reference: 'juice',
+                }, {
+                    text: '1 Tbsp cocoa powder',
+                    reference: 'cocoa',
+                }, {
+                    text: '¼ - ½ tsp chili powder <i>(depending on how spicy you want it)<i>',
+                    reference: 'chili',
+                }, {
+                    text: '⅛ tsp cayenne pepper',
+                    reference: 'cayenne',
+                }, {
+                    text: '¼ tsp nutmeg',
+                    reference: 'nutmeg',
+                }, {
+                    text: '¼ tsp cloves',
+                    reference: 'cloves',
+                }
+            ], 
         }
     ],
     instructions: [
         'Drain the tomatoes in a mesh strainer to remove any extra juice. Place tomatoes and rest of the ingredients in a medium-sized saucepan.',
         'Heat on low and stir frequently until the sugar has dissolved.  Increase the heat to medium and bring the jam to a boil, stirring frequently with a wooden spoon.  Let it cook at a medium boil for 15-20 minutes, stirring every minute or so to prevent the sides and bottom from burning.  At 15 minutes, test the jam.  It should have a thick gelatinous consistency.',
         'Once the jam is done, remove cinnamon sticks and whole star anise.  The jam will be kind of chunky with the dried fruit and nuts.  If you prefer a smoother jam, use an immersion blender stick to puree it a bit.  You can also put it in a food processor or blender.  Afterwards, quickly pour jam into a glass ball jar and seal it.  Let it completely cool at room temperature.  It should last up to 4 months refrigerated.',
-        'If you are making this jam on its on and wish to preserve it unrefrigerated, follow steps [here](https://www.nytimes.com/2012/09/19/dining/canning-jam-from-preparing-the-jars-to-testing-the-seal.html) for prepping the jar.'
+        'If you are making this jam on its on and wish to preserve it unrefrigerated, follow steps <a href="https://www.nytimes.com/2012/09/19/dining/canning-jam-from-preparing-the-jars-to-testing-the-seal.html">here</a> for prepping the jar.'
     ]
 },
 {
     subTitle: 'Ricotta Cheesecake',
     yield: 'makes one 8-inch cake, about 10-12 servings',
+    prepTime: "30",
+    cookTime: "100",
+    totalTime: "400",
     ingredients: [
         {
             title: 'Crust',
             data: [
-                '1 cup Graham Cracker crumbs _(100g, or from ~7 crackers)_',
-                '3 Tbsp butter, melted',
-                '1 Tbsp cinnamon',
-                '⅛ tsp cayenne',
-                '¼ tsp ginger',
+                {
+                    text: '1 cup Graham Cracker crumbs <i>(100g, or from ~7 crackers)</i>',
+                    reference: 'graham crackers'
+                },{
+                    text: '3 Tbsp butter, melted', 
+                    reference: 'butter'
+                },{
+                    text: '1 Tbsp cinnamon', 
+                    reference: 'cinnamon'
+                },{
+                    text: '⅛ tsp cayenne', 
+                    reference: 'cayenne'
+                },{
+                    text: '¼ tsp ginger', 
+                    reference: 'ginger'
+                },
             ],
         },
         {
             title: 'Cake',
             data: [
-                '32 oz ricotta, drained _-- then will be more like 27 oz_',
-                '8 oz cream cheese',
-                '1 cup sugar',
-                '4 eggs',
-                '2 Tbsp all-purpose flour',
-                '2 Tbsp cornstarch',
-                '1 Tbsp lime juice _(juice from 1 lime)_',
-                'Zest of 1 lime',
-                '1 tsp vanilla extract',
-                '½ tsp almond extract _(optional)_',
-                '¼ tsp salt',
-                'Tomato Mole Jam, _recipe above_',
-                'Slivered Almonds _for garnish, optional_'
-            ],
-        }
+                {
+                    text: '32 oz ricotta, drained <i>-- then will be more like 27 oz</i>', 
+                    reference: 'ricotta cheese',
+                },{
+                    text: '8 oz cream cheese', 
+                    reference: 'cream cheese'
+                },{
+                    text: '1 cup sugar', 
+                    reference: 'sugar'
+                },{
+                    text: '4 eggs', 
+                    reference: 'eggs'
+                },{
+                    text: '2 Tbsp all-purpose flour', 
+                    reference: 'flour'
+                },{
+                    text: '2 Tbsp cornstarch', 
+                    reference: 'cornstarch'
+                },{
+                    text: '1 Tbsp lime juice <i>(juice from 1 lime)</i>', 
+                    reference: 'lime juice'
+                },{
+                    text: 'Zest of 1 lime', 
+                    reference: 'zest'
+                },{
+                    text: '1 tsp vanilla extract', 
+                    reference: 'extracts'
+                },{
+                    text: '½ tsp almond extract <i>(optional)</i>', 
+                    reference: 'extracts'
+                },{
+                    text: '¼ tsp salt', 
+                    reference: 'salt'
+                },{
+                    text: 'Tomato Mole Jam, <i>recipe above</i>'
+                },{
+                    text: 'Slivered Almonds <i>for garnish, optional</i>'
+                },
+            ]
+        },
     ],
     instructions: [
         'Preheat the oven to 350˚F / 180˚C. Butter a 8-inch springform pan.',

@@ -18,7 +18,7 @@
 }
 
 .recipe__section {
-
+    position: relative;
 }
 
 .recipe__title {
@@ -27,7 +27,13 @@
     line-height: 30px;
     color: #000;
     margin-top: 0;
-    width: 60%;
+    width: 90%;
+}
+
+.recipe__time-image {
+    width: 150px;
+    float: right;
+    display: block;
 }
 
 .recipe__yield {
@@ -40,8 +46,9 @@
     line-height: 19px;
     position: absolute;
     right: 30px;
-    top: 30px;
+    top: 0px;
     text-align: right;
+    max-width: 150px;
 }
 
 .recipe__prep-time {
@@ -66,9 +73,15 @@
     color: #000;
 }
 
+.recipe__sub-title {
+    font-size: 24px;
+    line-height: 28px;
+    margin: 40px 0 10px;
+    text-decoration: underline;
+}
 
 .recipe__ingredients-container {
-    margin: 2rem 0;
+    margin: 1rem 0;
 }
 
 .recipe__ingredients-title  {
@@ -76,10 +89,91 @@
 }
 
 .ingredient-section__ingredient-item {
-    list-style: circle;
+    list-style: none;
     margin-left: 20px;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
 }
+
+.ingredient-section__ingredient-item div {
+    display: inline-block;
+}
+
+.check {
+    cursor: pointer;
+    position: relative;
+    margin: auto;
+    width: 16px;
+    height: 16px;
+    -webkit-tap-highlight-color: transparent;
+    transform: translate3d(0, 0, 0);
+    margin-right: 10px;
+    top: 2px;
+}
+
+.check:before {
+    content: "";
+    position: absolute;
+    top: -9px;
+    left: -9px;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background: rgba(34,50,84,0.03);
+    opacity: 0;
+    transition: opacity 0.2s ease;
+}
+
+.check svg {
+    position: relative;
+    z-index: 1;
+    fill: none;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke: #a09097;
+    stroke-width: 1.5;
+    transform: translate3d(0, 0, 0);
+    transition: all 0.2s ease;
+}
+  
+.check svg path {
+    stroke-dasharray: 60;
+    stroke-dashoffset: 0;
+}
+
+.check svg polyline {
+    stroke-dasharray: 22;
+    stroke-dashoffset: 66;
+}
+
+.check:hover:before {
+    opacity: 1;
+}
+
+.check:hover svg {
+    stroke: #a09097;
+}
+
+.ingredient-section__ingredient-item-input {
+    display: none;
+    margin-right: 3px;
+}
+
+
+.ingredient-section__ingredient-item-input:checked + .check svg {
+    stroke: #a09097;
+}
+
+.ingredient-section__ingredient-item-input:checked + .check svg path {
+    stroke-dashoffset: 60;
+    transition: all 0.3s linear;
+}
+
+.ingredient-section__ingredient-item-input:checked + .check svg polyline {
+    stroke-dashoffset: 42;
+    transition: all 0.2s linear;
+    transition-delay: 0.15s;
+}
+  
 
 .ingredient-section {
 
@@ -93,6 +187,7 @@
     font-size: 0.77rem;
     line-height: 1.2;
     text-transform: uppercase;
+    margin-bottom: 10px;
 }
 
 .ingredient-section__ingredients {
@@ -100,7 +195,7 @@
 }
 
 .recipe__instructions-container {
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
 
 .recipe__instructions-title {

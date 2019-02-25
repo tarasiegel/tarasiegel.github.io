@@ -11,8 +11,8 @@ class Recipe extends React.Component {
     getRecipeSection = (recipe, image) => {
         console.log(recipe);
         let recipeHtml = [];
-        recipe.forEach(rec => {
-            recipeHtml.push(<RecipeSection recipe={rec} image={image} />);
+        recipe.forEach((rec, sec) => {
+            recipeHtml.push(<RecipeSection recipe={rec} image={image} sectionKey={sec} key={sec} />);
         })
         console.log(recipeHtml);
         return recipeHtml;
@@ -35,30 +35,70 @@ class Recipe extends React.Component {
 
 
 class RecipeSection extends React.Component {
-    render() {
-        const {recipe, image} = this.props;
-        const ingredientHTML = recipe.ingredients.map((ing, key) => {
-            return <RecipeIngredients key={key} ingredientData={ing} />
+    getTime = (time) => {
+        let hours = Math.floor( time / 60);
+        let minutes = time % 60;
+        let timeString = '';
+
+        if (hours > 0) {
+            timeString += `${hours} hour${(hours > 1) ? 's' : ''} & `;
+        }
+
+        timeString += `${minutes} minutes`;
+
+        return timeString;
+    }
+
+    getRefData = (ingredients) => {
+        let refData = [];
+        ingredients.forEach((ingSection, sectionKey) => {
+            const refSectionData = ingSection.data.map((ings) => {
+                return (ings.reference) ? ings.reference : false;
+            });
+
+            refData.push(refSectionData);
         });
-        console.log(image);
+        return refData;
+    }
+
+    updateInstruction = (instruction, refData, recipeSectionKey) => {
+        let updatedInstruction = instruction;
+        refData.forEach((sec, secKey) => {
+            sec.forEach((ref, refKey) => {
+                if (updatedInstruction.indexOf(ref) !== -1) {
+                    updatedInstruction = updatedInstruction.replace(ref, `<span id="ref-${recipeSectionKey}-${secKey}-${refKey}" >${ref}</span>`);
+                }
+            });
+        });
+        return updatedInstruction;
+    }
+
+
+    render() {
+        const {recipe, image, sectionKey} = this.props;
+        const refData = this.getRefData(recipe.ingredients);
+        console.log(refData);
+        const ingredientHTML = recipe.ingredients.map((ing, key) => {
+            return <RecipeIngredients key={key} ingredientData={ing} sectionKey={sectionKey} ingredientKey={key} />
+        });
 
         const directionsHTML = recipe.instructions.map((ins, key) => {
-            return <div className="recipe__instruction recipe__paragraph" index={key} key={key} >{ins}</div>
+            return <div className="recipe__instruction recipe__paragraph" index={key} key={key} dangerouslySetInnerHTML={{ __html: this.updateInstruction(ins, refData, sectionKey)}} />
         });
 
         const assemblyHTML = (recipe.assembly) ? recipe.assembly.map((ass, key) => {
-            return <div className="recipe__assembly recipe__paragraph" index={key} key={key} >{ass}</div>
+            return <div className="recipe__assembly recipe__paragraph" index={key} key={key} dangerouslySetInnerHTML={{ __html: ass}} />
         }) : [];
 
         return (
-            <div className="recipe__section">
+            <div className={`recipe__section recipe__section--${sectionKey}`}>
                 {(recipe.subTitle) ? <h3 className="recipe__sub-title">{recipe.subTitle}</h3> : null }
                 <div className="recipe__time">
-                    <Img fluid={image} />
+                    <div className="recipe__time-image"><Img fluid={image} /></div>
                     <em className="recipe__yield">{recipe.yield}</em>
-                    <div className="recipe__prep-time">{`Prep: ${recipe.prepTime} minutes`}</div>
-                    <div className="recipe__cook-time">{`Cook: ${recipe.cookTime} minutes`}</div>
-                    <div className="recipe__total-time">{`Total: ${recipe.totalTime} minutes`}</div>
+                    <div className="recipe__prep-time">{`Prep: ${this.getTime(recipe.prepTime)}`}</div>
+                    <div className="recipe__cook-time">{`Cook: ${this.getTime(recipe.cookTime)}`}</div>
+                    <div className="recipe__total-time">{`Total: ${this.getTime(recipe.totalTime)}`}</div>
                 </div>
 
                 <div className="recipe__ingredients-container">
@@ -92,10 +132,35 @@ class RecipeIngredients extends React.Component {
         ingredientData: []
     }
 
+    inputClicked = (e) => {
+        let inputDiv = e.target,
+            ingredient = inputDiv.dataset.ingredient,
+            refDiv = document.getElementById(`ref-${ingredient}`);
+        console.log(`ref-${ingredient}`);
+        console.log(refDiv);
+        if (refDiv !== null) {
+            const decoration = (inputDiv.checked) ? 'line-through' : 'none';
+            console.log(decoration);
+            refDiv.setAttribute('style', `text-decoration: ${decoration};`);
+        }
+
+    }
+
     render() {
-        const {ingredientData} = this.props;
-        const ingHtml = ingredientData.data.map((ing) => {
-            return <li className="ingredient-section__ingredient-item" data-name={ing} >{ing}</li>
+        const {ingredientData, sectionKey, ingredientKey} = this.props;
+        const ingHtml = ingredientData.data.map((ing, key) => {
+            const ingredientText = (typeof ing === 'object') ? ing.text : ing;
+            return (
+                <li className={`ingredient-section__ingredient-item ingredient--${sectionKey}-${ingredientKey}-${key}`} data-name={((ing.reference) ? ing.reference : ing)}>
+                    <input className="ingredient-section__ingredient-item-input" type="checkbox" id={`cbx-${sectionKey}-${ingredientKey}-${key}`} data-ingredient={`${sectionKey}-${ingredientKey}-${key}`} onClick={this.inputClicked} />
+                    <label htmlFor={`cbx-${sectionKey}-${ingredientKey}-${key}`} className="check">
+                        <svg width="16px" height="16px" viewBox="0 0 16 16">
+                            <path d="M1,9 L1,3.5 C1,2 2,1 3.5,1 L14.5,1 C14,1 15,2 15,3.5 L15,14.5 C15,14 14,15 14.5,15 L3.5,15 C2,15 1,14 1,14.5 L1,9 Z"></path>
+                            <polyline points="1 9 7 14 15 4"></polyline>
+                        </svg>
+                    </label>
+                    <div dangerouslySetInnerHTML={{ __html: ingredientText}} />
+                </li>)
         });
 
         return (

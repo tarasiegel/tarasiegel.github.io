@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./content/blog/welcome/recipe.js"],"names":["__webpack_require__","r","__webpack_exports__","recipe"],"mappings":"2FAAAA,EAAAC,EAAAC,GAEeC,UAFA","file":"15-c6a1b7140d9d88cdc994.js","sourcesContent":["const recipe = {};\n\nexport default recipe;"],"sourceRoot":""}

@@ -1,7 +1,7 @@
 .recipe {
     position: relative;
     margin: 40px 0px;
-    padding: 30px;
+    padding: 20px 10px;
     border: 1px solid rgba(0,0,0,0.15);
 }
 
@@ -22,18 +22,17 @@
 }
 
 .recipe__title {
-    font-size: 30px;
+    font-size: 24px;
     font-style: italic;
     line-height: 30px;
     color: #000;
     margin-top: 0;
-    width: 90%;
 }
 
 .recipe__time-image {
     width: 150px;
     float: right;
-    display: block;
+    display: none;
 }
 
 .recipe__yield {
@@ -44,10 +43,7 @@
 .recipe__time {
     font-size: 12px;
     line-height: 19px;
-    position: absolute;
-    right: 30px;
-    top: 0px;
-    text-align: right;
+    position: relative;
     max-width: 150px;
 }
 
@@ -90,12 +86,20 @@
 
 .ingredient-section__ingredient-item {
     list-style: none;
-    margin-left: 20px;
-    margin-bottom: 10px;
+    margin-bottom: 0;
+    
 }
 
 .ingredient-section__ingredient-item div {
-    display: inline-block;
+    display: inline;
+    padding: 0 10px;
+    font-size: 16px;
+    line-height: 16px;
+}
+
+.ingredient-section__ingredient-item.hover div {
+    background-color: #a09097;
+    color: #fff;
 }
 
 .check {
@@ -106,7 +110,7 @@
     height: 16px;
     -webkit-tap-highlight-color: transparent;
     transform: translate3d(0, 0, 0);
-    margin-right: 10px;
+    margin-right: 5px;
     top: 2px;
 }
 
@@ -198,6 +202,15 @@
     margin-bottom: 1rem;
 }
 
+.instruction-item {
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.instruction-item:hover {
+    
+}
+
 .recipe__instructions-title {
 
 }
@@ -220,4 +233,37 @@
 
 .recipe__paragraph {
     margin-bottom: 1.3rem;
+}
+
+
+@media  (min-width: 767px) {
+
+    .recipe {
+        padding: 30px;
+    }
+
+    .recipe__title {
+        font-size: 30px;
+        width: 90%;
+    }
+
+    .recipe__time {
+        position: absolute;
+        right: 0;
+        top: 0;
+        text-align: right;
+    }
+
+    .recipe__time-image {
+        display: block;
+    }
+
+    .ingredient-section__ingredient-item {
+        margin-left: 10px;
+        margin-bottom: 10px;
+    }
+
+    .ingredient-section__ingredient-item div {
+        font-size: 17px;
+    }
 }

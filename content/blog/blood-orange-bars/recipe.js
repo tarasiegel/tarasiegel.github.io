@@ -16,7 +16,7 @@ const recipe = [{
                     reference: "confectioners sugar"
                 },{
                     text: "1/4 tsp salt",
-                    reference: "salt"
+                    reference: "crust salt"
                 },{
                     text: "1 stick of butter, cut into pieces",
                     reference: "cut butter"

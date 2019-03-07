@@ -4,9 +4,9 @@ import { Link, graphql } from 'gatsby';
 import RecipeSEO from '../components/RecipeSEO';
 import './Recipe.css';
 import Img from 'gatsby-image';
+import $ from 'jquery';
 
 class Recipe extends React.Component {
-
 
     getRecipeSection = (recipe, image) => {
         console.log(recipe);
@@ -18,33 +18,52 @@ class Recipe extends React.Component {
         return recipeHtml;
     }
 
-  render() {
-    const {name, recipe, image} = this.props;
-    const recipeSections = this.getRecipeSection(recipe, image);
-    
+    render() {
+        const {name, recipe, image} = this.props;
+        const recipeSections = this.getRecipeSection(recipe, image);
+        
 
-    return (
-        <div className="recipe">
-            <RecipeSEO data={recipe[0]} {...this.props} />
-            <h3 className="recipe__title">{name}</h3>
-            {recipeSections}
-        </div>
-    );
-  }
+        return (
+            <div className="recipe">
+                <RecipeSEO data={recipe[0]} {...this.props} />
+                <h3 className="recipe__title">{name}</h3>
+                {recipeSections}
+            </div>
+        );
+    }
 }
 
 
 class RecipeSection extends React.Component {
+
+    componentDidMount() {
+        $('.instruction-item').on({
+            mouseenter: (e) => {
+                this.instructionHovered(e);
+            },
+            mouseleave: (e) => {
+                this.instructionLeft(e);
+            },
+            click: (e) => {
+                this.instructionClicked(e);
+            }
+        }
+        );
+    }
+
     getTime = (time) => {
         let hours = Math.floor( time / 60);
         let minutes = time % 60;
         let timeString = '';
 
         if (hours > 0) {
-            timeString += `${hours} hour${(hours > 1) ? 's' : ''} & `;
+            timeString += `${hours} hour${(hours > 1) ? 's' : ''}`;
+            timeString += (minutes > 0) ? ` & ` : '';
         }
 
-        timeString += `${minutes} minutes`;
+        if (minutes > 0) {
+            timeString += `${minutes} minutes`;
+        }
 
         return timeString;
     }
@@ -61,12 +80,53 @@ class RecipeSection extends React.Component {
         return refData;
     }
 
+    
+    
+    instructionClicked = (e) => {
+        let inputDiv = e.target,
+            ref = inputDiv.dataset.ref, 
+            $refDiv = $(`#ingredient--${ref} input`);
+        console.log('click');
+
+        console.log($(`#ingredient--${ref} input`));
+
+        $refDiv.prop('checked', !$refDiv.prop('checked'));
+        this.strikeOutIngredient($(inputDiv), $refDiv);
+    }
+    
+    instructionHovered = (e) => {
+        let inputDiv = e.target,
+            ref = inputDiv.dataset.ref;
+
+        $(`#ingredient--${ref}`).addClass('hover');
+        console.log($(`#ingredient--${ref}`));
+    }
+
+    instructionLeft = (e) => {
+        let inputDiv = e.target,
+            ref = inputDiv.dataset.ref;
+
+        $(`#ingredient--${ref}`).removeClass('hover');
+    }
+
+    strikeOutIngredient = (refDiv, inputDiv) => {
+        console.log(refDiv);
+        console.log(inputDiv);
+        if (refDiv !== null) {
+            const decoration = (inputDiv.prop('checked')) ? 'line-through' : 'underline';
+            console.log(decoration);
+            refDiv.attr('style', `text-decoration: ${decoration};`);
+        }
+    }
+
+
     updateInstruction = (instruction, refData, recipeSectionKey) => {
         let updatedInstruction = instruction;
         refData.forEach((sec, secKey) => {
             sec.forEach((ref, refKey) => {
                 if (updatedInstruction.indexOf(ref) !== -1) {
-                    updatedInstruction = updatedInstruction.replace(ref, `<span id="ref-${recipeSectionKey}-${secKey}-${refKey}" >${ref}</span>`);
+                    const fullRefKey = `${recipeSectionKey}-${secKey}-${refKey}`;
+                    updatedInstruction = updatedInstruction.replace(ref, `<span id="ref-${fullRefKey}" class="instruction-item" data-ref="${fullRefKey}" data-ingredient=${ref} >${ref}</span>`);
                 }
             });
         });
@@ -79,7 +139,7 @@ class RecipeSection extends React.Component {
         const refData = this.getRefData(recipe.ingredients);
         console.log(refData);
         const ingredientHTML = recipe.ingredients.map((ing, key) => {
-            return <RecipeIngredients key={key} ingredientData={ing} sectionKey={sectionKey} ingredientKey={key} />
+            return <RecipeIngredients key={key} ingredientData={ing} sectionKey={sectionKey} ingredientKey={key} strikeOutIngredient={this.strikeOutIngredient} />
         });
 
         const directionsHTML = recipe.instructions.map((ins, key) => {
@@ -132,28 +192,23 @@ class RecipeIngredients extends React.Component {
         ingredientData: []
     }
 
+
     inputClicked = (e) => {
         let inputDiv = e.target,
             ingredient = inputDiv.dataset.ingredient,
-            refDiv = document.getElementById(`ref-${ingredient}`);
-        console.log(`ref-${ingredient}`);
-        console.log(refDiv);
-        if (refDiv !== null) {
-            const decoration = (inputDiv.checked) ? 'line-through' : 'none';
-            console.log(decoration);
-            refDiv.setAttribute('style', `text-decoration: ${decoration};`);
-        }
-
+            refDiv = $(`#ref-${ingredient}`);
+        this.props.strikeOutIngredient(refDiv, $(inputDiv));
     }
 
     render() {
         const {ingredientData, sectionKey, ingredientKey} = this.props;
         const ingHtml = ingredientData.data.map((ing, key) => {
             const ingredientText = (typeof ing === 'object') ? ing.text : ing;
+            const referenceKey = `${sectionKey}-${ingredientKey}-${key}`;
             return (
-                <li className={`ingredient-section__ingredient-item ingredient--${sectionKey}-${ingredientKey}-${key}`} data-name={((ing.reference) ? ing.reference : ing)}>
-                    <input className="ingredient-section__ingredient-item-input" type="checkbox" id={`cbx-${sectionKey}-${ingredientKey}-${key}`} data-ingredient={`${sectionKey}-${ingredientKey}-${key}`} onClick={this.inputClicked} />
-                    <label htmlFor={`cbx-${sectionKey}-${ingredientKey}-${key}`} className="check">
+                <li id={`ingredient--${referenceKey}`} className={`ingredient-section__ingredient-item ingredient--${referenceKey}`} data-name={((ing.reference) ? ing.reference : ing)}>
+                    <input className="ingredient-section__ingredient-item-input" type="checkbox" id={`cbx-${referenceKey}`} data-ingredient={`${referenceKey}`} onClick={this.inputClicked} />
+                    <label htmlFor={`cbx-${referenceKey}`} className="check">
                         <svg width="16px" height="16px" viewBox="0 0 16 16">
                             <path d="M1,9 L1,3.5 C1,2 2,1 3.5,1 L14.5,1 C14,1 15,2 15,3.5 L15,14.5 C15,14 14,15 14.5,15 L3.5,15 C2,15 1,14 1,14.5 L1,9 Z"></path>
                             <polyline points="1 9 7 14 15 4"></polyline>

@@ -91,6 +91,7 @@
 
 .recipe__content {
     display: block;
+    width: 100%;
 }
 
 .recipe__ingredients-title  {

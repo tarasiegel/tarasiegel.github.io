@@ -2,7 +2,7 @@
     position: relative;
     margin: 40px 0px;
     padding: 20px 10px;
-    border: 1px solid rgba(0,0,0,0.15);
+    border-top: 1px solid rgba(0,0,0,0.15);
 }
 
 .recipe__instruction {
@@ -29,8 +29,8 @@
     margin-top: 0;
 }
 
-.recipe__time-image {
-    width: 150px;
+.recipe__image {
+    width: 100px;
     float: right;
     display: none;
 }
@@ -38,13 +38,15 @@
 .recipe__yield {
     color: #000;
     font-size: 14px;
+    line-height: 24px;
+    display: block;
 }
 
 .recipe__time {
     font-size: 12px;
     line-height: 19px;
     position: relative;
-    max-width: 150px;
+    margin: 20px 0;
 }
 
 .recipe__prep-time {
@@ -57,6 +59,17 @@
 
 .recipe__total-time {
 
+}
+
+.recipe__time div {
+    display: inline;
+    margin-right: 10px;
+    padding-right: 10px;
+    border-right: 1px solid;
+}
+
+.recipe__time div:last-of-type {
+    border-right: none;
 }
 
 .recipe__section-title {
@@ -76,8 +89,8 @@
     text-decoration: underline;
 }
 
-.recipe__ingredients-container {
-    margin: 1rem 0;
+.recipe__content {
+    display: block;
 }
 
 .recipe__ingredients-title  {
@@ -198,37 +211,13 @@
     margin-bottom: 30px;
 }
 
-.recipe__instructions-container {
-    margin-bottom: 1rem;
-}
-
 .instruction-item {
     cursor: pointer;
     text-decoration: underline;
 }
 
-.instruction-item:hover {
-    
-}
-
 .recipe__instructions-title {
-
-}
-
-.recipe__instruction {
-
-}
-
-.recipe__assembly-container {
-
-}
-
-.recipe__assembly-title {
-
-}
-
-.recipe__assembly {
-
+    margin-bottom: 13px;
 }
 
 .recipe__paragraph {
@@ -240,30 +229,46 @@
 
     .recipe {
         padding: 30px;
+        border: 1px solid rgba(0,0,0,0.15);
     }
+
+    .recipe__content {
+        display: inline-flex;
+    }
+    
+    .recipe__ingredients-container {
+        flex: 1;
+        margin: 1rem 0;
+    }
+    
+    .recipe__instructions-container {
+        margin: 1rem 0 1rem 1rem;
+        flex: 2;
+        border-left: 1px solid;
+        padding-left: 1rem;
+    }
+    
 
     .recipe__title {
         font-size: 30px;
-        width: 90%;
+        width: 75%;
+    }
+
+    .recipe__image {
+        position: absolute;
+        right: 20px;
+        top: 20px;
+        text-align: right;
+        display: block;
     }
 
     .recipe__time {
-        position: absolute;
-        right: 0;
-        top: 0;
-        text-align: right;
-    }
-
-    .recipe__time-image {
         display: block;
+        margin: 0;
     }
 
     .ingredient-section__ingredient-item {
         margin-left: 10px;
         margin-bottom: 10px;
-    }
-
-    .ingredient-section__ingredient-item div {
-        font-size: 17px;
     }
 }

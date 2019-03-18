@@ -2372,12 +2372,12 @@
       "host": "localhost",
       "pathPrefix": "/fullstackkitchen",
       "polyfill": true,
-      "buildTime": "2019-03-04T01:13:48.071Z",
+      "buildTime": "2019-03-18T02:49:52.696Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "705fe17394819af845eb26370aed610e",
+        "contentDigest": "bf761475ee2e33d4da7f5176768e08bd",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2387,7 +2387,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "81ad507e97e6dec4b68e312002a5fea7",
+        "contentDigest": "3460fb498a691768ea0bb8636aaee882",
         "type": "Directory",
         "description": "Directory \"content/blog\"",
         "owner": "gatsby-source-filesystem"
@@ -2399,7 +2399,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2019-02-11T05:25:00.470Z",
-      "accessTime": "2019-03-04T01:13:56.519Z",
+      "accessTime": "2019-03-18T02:50:01.053Z",
       "changeTime": "2019-02-11T05:25:00.470Z",
       "birthTime": "2019-01-19T04:51:26.577Z",
       "root": "/",
@@ -2417,11 +2417,11 @@
       "blksize": 4096,
       "ino": 8604269393,
       "blocks": 0,
-      "atimeMs": 1551662036518.9888,
+      "atimeMs": 1552877401052.8223,
       "mtimeMs": 1549862700469.8833,
       "ctimeMs": 1549862700469.8833,
       "birthtimeMs": 1547873486577.1038,
-      "atime": "2019-03-04T01:13:56.519Z",
+      "atime": "2019-03-18T02:50:01.053Z",
       "mtime": "2019-02-11T05:25:00.470Z",
       "ctime": "2019-02-11T05:25:00.470Z",
       "birthtime": "2019-01-19T04:51:26.577Z"
@@ -2431,7 +2431,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "e85ff778eff259fe848566a2837182bd",
+        "contentDigest": "3f00ef49155afc31b3a506fa475c80b7",
         "type": "Directory",
         "description": "Directory \"content/blog/blood-orange-bars\"",
         "owner": "gatsby-source-filesystem"
@@ -2443,7 +2443,7 @@
       "size": 256,
       "prettySize": "256 B",
       "modifiedTime": "2019-02-16T04:22:11.034Z",
-      "accessTime": "2019-03-04T01:13:56.521Z",
+      "accessTime": "2019-03-18T02:50:01.054Z",
       "changeTime": "2019-02-16T04:22:11.034Z",
       "birthTime": "2019-02-10T22:29:40.545Z",
       "root": "/",
@@ -2461,11 +2461,11 @@
       "blksize": 4096,
       "ino": 8604949502,
       "blocks": 0,
-      "atimeMs": 1551662036521.354,
+      "atimeMs": 1552877401054.4248,
       "mtimeMs": 1550290931034.1497,
       "ctimeMs": 1550290931034.1497,
       "birthtimeMs": 1549837780544.8103,
-      "atime": "2019-03-04T01:13:56.521Z",
+      "atime": "2019-03-18T02:50:01.054Z",
       "mtime": "2019-02-16T04:22:11.034Z",
       "ctime": "2019-02-16T04:22:11.034Z",
       "birthtime": "2019-02-10T22:29:40.545Z"
@@ -2475,7 +2475,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "5fb5baaafffafc1bd259c6c92ff2a566",
+        "contentDigest": "11c4c35029933261005dd182ae6fd0c7",
         "type": "Directory",
         "description": "Directory \"content/blog/hot-cocoa-macarons\"",
         "owner": "gatsby-source-filesystem"
@@ -2487,7 +2487,7 @@
       "size": 288,
       "prettySize": "288 B",
       "modifiedTime": "2019-02-16T04:52:47.116Z",
-      "accessTime": "2019-03-04T01:13:56.521Z",
+      "accessTime": "2019-03-18T02:50:01.055Z",
       "changeTime": "2019-02-16T04:52:47.116Z",
       "birthTime": "2019-01-28T04:52:41.232Z",
       "root": "/",
@@ -2505,11 +2505,11 @@
       "blksize": 4096,
       "ino": 8604322489,
       "blocks": 0,
-      "atimeMs": 1551662036521.3745,
+      "atimeMs": 1552877401055.2544,
       "mtimeMs": 1550292767115.8914,
       "ctimeMs": 1550292767115.8914,
       "birthtimeMs": 1548651161231.7734,
-      "atime": "2019-03-04T01:13:56.521Z",
+      "atime": "2019-03-18T02:50:01.055Z",
       "mtime": "2019-02-16T04:52:47.116Z",
       "ctime": "2019-02-16T04:52:47.116Z",
       "birthtime": "2019-01-28T04:52:41.232Z"
@@ -2519,7 +2519,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "df31ed78aaad15314baecd9281b8277c",
+        "contentDigest": "5cfae42b12007b7e778fa736b2e723db",
         "type": "Directory",
         "description": "Directory \"content/blog/tomato-mole-jam\"",
         "owner": "gatsby-source-filesystem"
@@ -2531,7 +2531,7 @@
       "size": 352,
       "prettySize": "352 B",
       "modifiedTime": "2019-02-16T04:52:53.065Z",
-      "accessTime": "2019-03-04T01:13:56.521Z",
+      "accessTime": "2019-03-18T02:50:01.055Z",
       "changeTime": "2019-02-16T04:52:53.065Z",
       "birthTime": "2019-01-28T04:52:41.376Z",
       "root": "/",
@@ -2549,150 +2549,14 @@
       "blksize": 4096,
       "ino": 8604322500,
       "blocks": 0,
-      "atimeMs": 1551662036521.3499,
+      "atimeMs": 1552877401055.2302,
       "mtimeMs": 1550292773065.3662,
       "ctimeMs": 1550292773065.3662,
       "birthtimeMs": 1548651161375.8928,
-      "atime": "2019-03-04T01:13:56.521Z",
+      "atime": "2019-03-18T02:50:01.055Z",
       "mtime": "2019-02-16T04:52:53.065Z",
       "ctime": "2019-02-16T04:52:53.065Z",
       "birthtime": "2019-01-28T04:52:41.376Z"
-    },
-    "640d2c70-c1db-51b3-a26c-72c83b0e07be": {
-      "id": "640d2c70-c1db-51b3-a26c-72c83b0e07be",
-      "children": [],
-      "parent": null,
-      "internal": {
-        "contentDigest": "6c0daf6ebe1901acde170591e68bb7e4",
-        "type": "Directory",
-        "description": "Directory \"content/blog/welcome\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/welcome",
-      "relativePath": "welcome",
-      "extension": "",
-      "size": 160,
-      "prettySize": "160 B",
-      "modifiedTime": "2019-02-16T04:53:06.013Z",
-      "accessTime": "2019-03-04T01:13:56.521Z",
-      "changeTime": "2019-02-16T04:53:06.013Z",
-      "birthTime": "2019-01-28T04:52:41.717Z",
-      "root": "/",
-      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog",
-      "base": "welcome",
-      "ext": "",
-      "name": "welcome",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 16877,
-      "nlink": 5,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 8604322509,
-      "blocks": 0,
-      "atimeMs": 1551662036521.357,
-      "mtimeMs": 1550292786012.5715,
-      "ctimeMs": 1550292786012.5715,
-      "birthtimeMs": 1548651161717.4866,
-      "atime": "2019-03-04T01:13:56.521Z",
-      "mtime": "2019-02-16T04:53:06.013Z",
-      "ctime": "2019-02-16T04:53:06.013Z",
-      "birthtime": "2019-01-28T04:52:41.717Z"
-    },
-    "8927e0cb-77c7-5087-a6e8-1c495d6e802d": {
-      "id": "8927e0cb-77c7-5087-a6e8-1c495d6e802d",
-      "children": [
-        "61859686-f971-51c1-aeb5-1ec4020ed339"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "02c249447b210cbb580be00567a1cb63",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"content/blog/welcome/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/welcome/index.md",
-      "relativePath": "welcome/index.md",
-      "extension": "md",
-      "size": 301,
-      "prettySize": "301 B",
-      "modifiedTime": "2019-02-10T22:09:59.423Z",
-      "accessTime": "2019-02-28T04:50:28.812Z",
-      "changeTime": "2019-02-10T22:09:59.423Z",
-      "birthTime": "2019-01-28T04:52:41.757Z",
-      "root": "/",
-      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/welcome",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "welcome",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 8604322511,
-      "blocks": 8,
-      "atimeMs": 1551329428812.172,
-      "mtimeMs": 1549836599423.2153,
-      "ctimeMs": 1549836599423.2153,
-      "birthtimeMs": 1548651161757.0132,
-      "atime": "2019-02-28T04:50:28.812Z",
-      "mtime": "2019-02-10T22:09:59.423Z",
-      "ctime": "2019-02-10T22:09:59.423Z",
-      "birthtime": "2019-01-28T04:52:41.757Z"
-    },
-    "5bf5ac93-edda-58a4-814b-815545007f82": {
-      "id": "5bf5ac93-edda-58a4-814b-815545007f82",
-      "children": [],
-      "parent": null,
-      "internal": {
-        "contentDigest": "c586d998e13ac625c210b5b68e30c314",
-        "type": "File",
-        "mediaType": "application/javascript",
-        "description": "File \"content/blog/welcome/recipe.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/welcome/recipe.js",
-      "relativePath": "welcome/recipe.js",
-      "extension": "js",
-      "size": 42,
-      "prettySize": "42 B",
-      "modifiedTime": "2019-02-16T04:53:15.915Z",
-      "accessTime": "2019-02-28T04:50:28.812Z",
-      "changeTime": "2019-02-16T04:53:15.915Z",
-      "birthTime": "2019-02-16T04:53:06.013Z",
-      "root": "/",
-      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/welcome",
-      "base": "recipe.js",
-      "ext": ".js",
-      "name": "recipe",
-      "relativeDirectory": "welcome",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 8605254238,
-      "blocks": 8,
-      "atimeMs": 1551329428812.1753,
-      "mtimeMs": 1550292795915.2925,
-      "ctimeMs": 1550292795915.2925,
-      "birthtimeMs": 1550292786012.5479,
-      "atime": "2019-02-28T04:50:28.812Z",
-      "mtime": "2019-02-16T04:53:15.915Z",
-      "ctime": "2019-02-16T04:53:15.915Z",
-      "birthtime": "2019-02-16T04:53:06.013Z"
     },
     "f3ad8532-6355-5c71-83f7-72c4ad8c777b": {
       "id": "f3ad8532-6355-5c71-83f7-72c4ad8c777b",
@@ -2838,7 +2702,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "ca3a97dc4200535a9a8b76259d4b953e",
+        "contentDigest": "35ce9a301eafc01b91f0257ddb317291",
         "type": "File",
         "mediaType": "application/javascript",
         "description": "File \"content/blog/tomato-mole-jam/recipe.js\"",
@@ -2848,11 +2712,11 @@
       "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam/recipe.js",
       "relativePath": "tomato-mole-jam/recipe.js",
       "extension": "js",
-      "size": 8274,
+      "size": 8272,
       "prettySize": "8.27 kB",
-      "modifiedTime": "2019-02-25T05:03:36.406Z",
-      "accessTime": "2019-02-28T04:50:28.812Z",
-      "changeTime": "2019-02-25T05:03:36.406Z",
+      "modifiedTime": "2019-03-18T03:30:07.880Z",
+      "accessTime": "2019-03-18T03:30:07.879Z",
+      "changeTime": "2019-03-18T03:30:07.880Z",
       "birthTime": "2019-02-16T04:52:53.065Z",
       "root": "/",
       "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam",
@@ -2860,7 +2724,7 @@
       "ext": ".js",
       "name": "recipe",
       "relativeDirectory": "tomato-mole-jam",
-      "dev": 16777221,
+      "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
       "uid": 501,
@@ -2869,13 +2733,13 @@
       "blksize": 4096,
       "ino": 8605254229,
       "blocks": 24,
-      "atimeMs": 1551329428812.1614,
-      "mtimeMs": 1551071016406.3618,
-      "ctimeMs": 1551071016406.3618,
+      "atimeMs": 1552879807879.4395,
+      "mtimeMs": 1552879807879.7944,
+      "ctimeMs": 1552879807879.7944,
       "birthtimeMs": 1550292773065.3425,
-      "atime": "2019-02-28T04:50:28.812Z",
-      "mtime": "2019-02-25T05:03:36.406Z",
-      "ctime": "2019-02-25T05:03:36.406Z",
+      "atime": "2019-03-18T03:30:07.879Z",
+      "mtime": "2019-03-18T03:30:07.880Z",
+      "ctime": "2019-03-18T03:30:07.880Z",
       "birthtime": "2019-02-16T04:52:53.065Z"
     },
     "99fcf748-120c-5059-872a-11d078a9bb68": {
@@ -2883,7 +2747,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "83adde306c416b3969215696e8973d5d",
+        "contentDigest": "cfd6aa59367c6608055891836ee1472a",
         "type": "File",
         "mediaType": "application/javascript",
         "description": "File \"content/blog/hot-cocoa-macarons/recipe.js\"",
@@ -2893,11 +2757,11 @@
       "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/hot-cocoa-macarons/recipe.js",
       "relativePath": "hot-cocoa-macarons/recipe.js",
       "extension": "js",
-      "size": 1625,
-      "prettySize": "1.63 kB",
-      "modifiedTime": "2019-02-16T04:52:47.116Z",
-      "accessTime": "2019-02-28T04:50:28.812Z",
-      "changeTime": "2019-02-16T04:52:47.116Z",
+      "size": 1663,
+      "prettySize": "1.66 kB",
+      "modifiedTime": "2019-03-18T03:53:25.154Z",
+      "accessTime": "2019-03-18T03:53:25.153Z",
+      "changeTime": "2019-03-18T03:53:25.154Z",
       "birthTime": "2019-02-16T04:52:26.604Z",
       "root": "/",
       "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/hot-cocoa-macarons",
@@ -2905,7 +2769,7 @@
       "ext": ".js",
       "name": "recipe",
       "relativeDirectory": "hot-cocoa-macarons",
-      "dev": 16777221,
+      "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
       "uid": 501,
@@ -2914,13 +2778,13 @@
       "blksize": 4096,
       "ino": 8605254175,
       "blocks": 8,
-      "atimeMs": 1551329428812.125,
-      "mtimeMs": 1550292767116,
-      "ctimeMs": 1550292767116.3694,
+      "atimeMs": 1552881205152.5964,
+      "mtimeMs": 1552881205153.7795,
+      "ctimeMs": 1552881205153.7795,
       "birthtimeMs": 1550292746603.6255,
-      "atime": "2019-02-28T04:50:28.812Z",
-      "mtime": "2019-02-16T04:52:47.116Z",
-      "ctime": "2019-02-16T04:52:47.116Z",
+      "atime": "2019-03-18T03:53:25.153Z",
+      "mtime": "2019-03-18T03:53:25.154Z",
+      "ctime": "2019-03-18T03:53:25.154Z",
       "birthtime": "2019-02-16T04:52:26.604Z"
     },
     "dd2de463-d5af-55fb-be09-c2c1abca9aa2": {
@@ -2930,7 +2794,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "6a1dce8865700efcf183e57aeea5887d",
+        "contentDigest": "ae17def5decbf2a19c316597274963e3",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"content/blog/hot-cocoa-macarons/index.md\"",
@@ -2940,11 +2804,11 @@
       "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/hot-cocoa-macarons/index.md",
       "relativePath": "hot-cocoa-macarons/index.md",
       "extension": "md",
-      "size": 2227,
-      "prettySize": "2.23 kB",
-      "modifiedTime": "2019-02-11T05:16:38.001Z",
-      "accessTime": "2019-02-28T04:50:28.812Z",
-      "changeTime": "2019-02-11T05:16:38.001Z",
+      "size": 1037,
+      "prettySize": "1.04 kB",
+      "modifiedTime": "2019-03-18T03:49:27.874Z",
+      "accessTime": "2019-03-18T03:49:27.873Z",
+      "changeTime": "2019-03-18T03:49:27.874Z",
       "birthTime": "2019-01-28T04:52:41.375Z",
       "root": "/",
       "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/hot-cocoa-macarons",
@@ -2952,7 +2816,7 @@
       "ext": ".md",
       "name": "index",
       "relativeDirectory": "hot-cocoa-macarons",
-      "dev": 16777221,
+      "dev": 16777220,
       "mode": 33188,
       "nlink": 1,
       "uid": 501,
@@ -2961,46 +2825,14 @@
       "blksize": 4096,
       "ino": 8604322499,
       "blocks": 8,
-      "atimeMs": 1551329428812.121,
-      "mtimeMs": 1549862198001.4604,
-      "ctimeMs": 1549862198001.4604,
+      "atimeMs": 1552880967872.9878,
+      "mtimeMs": 1552880967873.9011,
+      "ctimeMs": 1552880967873.9011,
       "birthtimeMs": 1548651161374.6565,
-      "atime": "2019-02-28T04:50:28.812Z",
-      "mtime": "2019-02-11T05:16:38.001Z",
-      "ctime": "2019-02-11T05:16:38.001Z",
+      "atime": "2019-03-18T03:49:27.873Z",
+      "mtime": "2019-03-18T03:49:27.874Z",
+      "ctime": "2019-03-18T03:49:27.874Z",
       "birthtime": "2019-01-28T04:52:41.375Z"
-    },
-    "61859686-f971-51c1-aeb5-1ec4020ed339": {
-      "id": "61859686-f971-51c1-aeb5-1ec4020ed339",
-      "children": [],
-      "parent": "8927e0cb-77c7-5087-a6e8-1c495d6e802d",
-      "internal": {
-        "content": "\nWelcome to Full Stack Kitchen! My name is Tara Siegel and I am a full time full stack engineer and lover of all things sweet. ",
-        "type": "MarkdownRemark",
-        "contentDigest": "c23217446a8fc2a77d50cd8a1171379a",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Welcome to Full Stack Kitchen!",
-        "date": "2019-01-01T22:40:32.169Z",
-        "description": "Welcome!",
-        "image": "./chia_pet_cake.jpg",
-        "tags": [
-          "intro",
-          "first",
-          "welcome"
-        ],
-        "category": "intro"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nWelcome to Full Stack Kitchen! My name is Tara Siegel and I am a full time full stack engineer and lover of all things sweet. ",
-      "fileAbsolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/welcome/index.md",
-      "fields": {
-        "slug": "/welcome/"
-      }
     },
     "17bd3f17-5985-595c-b303-26ec731e7360": {
       "id": "17bd3f17-5985-595c-b303-26ec731e7360",
@@ -3064,40 +2896,6 @@
       "fileAbsolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/tomato-mole-jam/index.md",
       "fields": {
         "slug": "/tomato-mole-jam/"
-      }
-    },
-    "5fac45af-9dda-5faa-a929-243d1c5db1ab": {
-      "id": "5fac45af-9dda-5faa-a929-243d1c5db1ab",
-      "children": [],
-      "parent": "dd2de463-d5af-55fb-be09-c2c1abca9aa2",
-      "internal": {
-        "content": "---\n\n![Social View](./hot_cocoa_macarons-7.jpg)\n\n![Slice View](./hot_cocoa_macarons-14.jpg)\n\n![Slice View](./hot_cocoa_macarons-11.jpg)\n\n![Slice View](./hot_cocoa_macarons-2.jpg)\n\n<div class=\"body-text\">\n\nHot Cocoa Macarons w/chocolate & marshmallow filling: Its absurdly cold today in NYC (feels like -10˚F absurdly cold), which makes me feel way less guilty about spending the majority of today curled up inside, drinking hot cocoa with my best friend Netflix (that Frye Festival documentary was ridiculous). Also eating way too many of these 💁🏼‍♀️ These macarons have spicy chocolate shells (think cocoa, cinnamon, with a hint of cayenne), fluffy marshmallow buttercream, and a creamy dark chocolate ganache center. \n \n</div>\n\n![Top View with can](./hot_cocoa_macarons-9.jpg)\n\n### Hot Cocoa Macarons\n\n##### __**Ingredients**__\n\n###### __**Macarons Shells**__\n- 170g ground almonds\n- 260g powdered sugar\n- 30g cocoa powder\n- 1/2 teaspoon of cayenne pepper\n- 1 teaspoon of cinnamon\n- 1/2 teaspoon of vanilla powder\n- 180g egg whites, at room temperature\n- 160g white sugar\n\n\n##### __**Directions**__\n\n[Chocolate Macaron Shells](https://www.cloudykitchen.com/blog/2018/6/30/chocolate-macarons-with-dark-chocolate-swiss-meringue-buttercream-and-cherry-compote-filling)\n\n[Marshmallow Buttercream](https://www.saveur.com/best-white-layer-cake-recipe)\n\n[Chocolate Ganache](https://www.kingarthurflour.com/recipes/chocolate-ganache-recipe)\n\n##### __**Assembly**__\nPair each shell with an appropriate sized twin shell. Take the ganache out of the fridge and let soften.  Put in a piping bag with a star tip.  Put the marshmallow buttercream in a different piping bag.  Pipe a donut shape ring of buttercream on one of the shells and then a star of ganache in the middle.  Press the matched shell on top gently. Repeat with the rest of the macarons. Chill overnight for best results, but can be eaten right away. Letting them rest will soften the shells and meld the flavors!",
-        "type": "MarkdownRemark",
-        "contentDigest": "25360a43cad536026ff1163e08d87f11",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Hot Cocoa Macarons with Chocolate & Marshmallow Filling",
-        "description": "Hot Cocoa Macarons",
-        "date": "2019-01-11T23:46:37.121Z",
-        "image": "./hot_cocoa_macarons-7.jpg",
-        "category": "macarons",
-        "tags": [
-          "macarons",
-          "sweets",
-          "chocolate",
-          "buttercream",
-          "ganache"
-        ]
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "---\n\n![Social View](./hot_cocoa_macarons-7.jpg)\n\n![Slice View](./hot_cocoa_macarons-14.jpg)\n\n![Slice View](./hot_cocoa_macarons-11.jpg)\n\n![Slice View](./hot_cocoa_macarons-2.jpg)\n\n<div class=\"body-text\">\n\nHot Cocoa Macarons w/chocolate & marshmallow filling: Its absurdly cold today in NYC (feels like -10˚F absurdly cold), which makes me feel way less guilty about spending the majority of today curled up inside, drinking hot cocoa with my best friend Netflix (that Frye Festival documentary was ridiculous). Also eating way too many of these 💁🏼‍♀️ These macarons have spicy chocolate shells (think cocoa, cinnamon, with a hint of cayenne), fluffy marshmallow buttercream, and a creamy dark chocolate ganache center. \n \n</div>\n\n![Top View with can](./hot_cocoa_macarons-9.jpg)\n\n### Hot Cocoa Macarons\n\n##### __**Ingredients**__\n\n###### __**Macarons Shells**__\n- 170g ground almonds\n- 260g powdered sugar\n- 30g cocoa powder\n- 1/2 teaspoon of cayenne pepper\n- 1 teaspoon of cinnamon\n- 1/2 teaspoon of vanilla powder\n- 180g egg whites, at room temperature\n- 160g white sugar\n\n\n##### __**Directions**__\n\n[Chocolate Macaron Shells](https://www.cloudykitchen.com/blog/2018/6/30/chocolate-macarons-with-dark-chocolate-swiss-meringue-buttercream-and-cherry-compote-filling)\n\n[Marshmallow Buttercream](https://www.saveur.com/best-white-layer-cake-recipe)\n\n[Chocolate Ganache](https://www.kingarthurflour.com/recipes/chocolate-ganache-recipe)\n\n##### __**Assembly**__\nPair each shell with an appropriate sized twin shell. Take the ganache out of the fridge and let soften.  Put in a piping bag with a star tip.  Put the marshmallow buttercream in a different piping bag.  Pipe a donut shape ring of buttercream on one of the shells and then a star of ganache in the middle.  Press the matched shell on top gently. Repeat with the rest of the macarons. Chill overnight for best results, but can be eaten right away. Letting them rest will soften the shells and meld the flavors!",
-      "fileAbsolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/hot-cocoa-macarons/index.md",
-      "fields": {
-        "slug": "/hot-cocoa-macarons/"
       }
     },
     "1b85c435-e0df-5a48-b793-c6c1c7b06fc7": {
@@ -3328,53 +3126,6 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "52d62133-825a-5ba3-9997-5ed831877268": {
-      "id": "52d62133-825a-5ba3-9997-5ed831877268",
-      "children": [
-        "4d5b971c-17c7-5b00-975d-3778041c2ddc"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "8e1e1d09787d815291dc7fd6a82ecbef",
-        "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"content/blog/welcome/chia_pet_cake.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "blog",
-      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/welcome/chia_pet_cake.jpg",
-      "relativePath": "welcome/chia_pet_cake.jpg",
-      "extension": "jpg",
-      "size": 5406536,
-      "prettySize": "5.41 MB",
-      "modifiedTime": "2019-01-28T04:52:41.756Z",
-      "accessTime": "2019-02-28T04:50:28.812Z",
-      "changeTime": "2019-01-28T04:52:41.756Z",
-      "birthTime": "2019-01-28T04:52:41.718Z",
-      "root": "/",
-      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/welcome",
-      "base": "chia_pet_cake.jpg",
-      "ext": ".jpg",
-      "name": "chia_pet_cake",
-      "relativeDirectory": "welcome",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 8604322510,
-      "blocks": 10560,
-      "atimeMs": 1551329428812.1687,
-      "mtimeMs": 1548651161756.1685,
-      "ctimeMs": 1548651161756.1685,
-      "birthtimeMs": 1548651161717.6074,
-      "atime": "2019-02-28T04:50:28.812Z",
-      "mtime": "2019-01-28T04:52:41.756Z",
-      "ctime": "2019-01-28T04:52:41.756Z",
-      "birthtime": "2019-01-28T04:52:41.718Z"
-    },
     "ec1933e3-577c-5b68-856b-991f49510144": {
       "id": "ec1933e3-577c-5b68-856b-991f49510144",
       "children": [
@@ -3421,16 +3172,6 @@
       "mtime": "2019-01-28T04:52:41.417Z",
       "ctime": "2019-01-28T04:52:41.417Z",
       "birthtime": "2019-01-28T04:52:41.377Z"
-    },
-    "4d5b971c-17c7-5b00-975d-3778041c2ddc": {
-      "id": "4d5b971c-17c7-5b00-975d-3778041c2ddc",
-      "children": [],
-      "parent": "52d62133-825a-5ba3-9997-5ed831877268",
-      "internal": {
-        "contentDigest": "8e1e1d09787d815291dc7fd6a82ecbef",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
     },
     "ea20878a-5756-5943-8f13-8e2f4551fd2d": {
       "id": "ea20878a-5756-5943-8f13-8e2f4551fd2d",
@@ -4017,7 +3758,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "d8f199e532942c413aae5a62b41c0f16",
+        "contentDigest": "89d20e09b75d8e0f946b46fe890bfa44",
         "type": "Directory",
         "description": "Directory \"content/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -4029,7 +3770,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-02-10T04:18:22.389Z",
-      "accessTime": "2019-03-04T01:13:56.807Z",
+      "accessTime": "2019-03-18T02:50:01.441Z",
       "changeTime": "2019-02-10T04:18:22.389Z",
       "birthTime": "2019-02-10T04:18:16.212Z",
       "root": "/",
@@ -4047,11 +3788,11 @@
       "blksize": 4096,
       "ino": 8604905065,
       "blocks": 0,
-      "atimeMs": 1551662036807.3723,
+      "atimeMs": 1552877401441.0728,
       "mtimeMs": 1549772302389.4385,
       "ctimeMs": 1549772302389.4385,
       "birthtimeMs": 1549772296211.6716,
-      "atime": "2019-03-04T01:13:56.807Z",
+      "atime": "2019-03-18T02:50:01.441Z",
       "mtime": "2019-02-10T04:18:22.389Z",
       "ctime": "2019-02-10T04:18:22.389Z",
       "birthtime": "2019-02-10T04:18:16.212Z"
@@ -4061,7 +3802,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "d0ae9e702a54103509231036016630d0",
+        "contentDigest": "ad23d30b44662f79b11c089cfca1553e",
         "type": "Directory",
         "description": "Directory \"content/pages/about\"",
         "owner": "gatsby-source-filesystem"
@@ -4073,7 +3814,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2019-02-09T05:57:35.626Z",
-      "accessTime": "2019-03-04T01:13:56.809Z",
+      "accessTime": "2019-03-18T02:50:01.442Z",
       "changeTime": "2019-02-10T04:18:22.389Z",
       "birthTime": "2019-02-09T05:54:27.735Z",
       "root": "/",
@@ -4091,11 +3832,11 @@
       "blksize": 4096,
       "ino": 8604867502,
       "blocks": 0,
-      "atimeMs": 1551662036808.5708,
+      "atimeMs": 1552877401442.041,
       "mtimeMs": 1549691855625.9097,
       "ctimeMs": 1549772302389.4382,
       "birthtimeMs": 1549691667735.0195,
-      "atime": "2019-03-04T01:13:56.809Z",
+      "atime": "2019-03-18T02:50:01.442Z",
       "mtime": "2019-02-09T05:57:35.626Z",
       "ctime": "2019-02-10T04:18:22.389Z",
       "birthtime": "2019-02-09T05:54:27.735Z"
@@ -4292,7 +4033,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "dbb283bc48bcd031329eff189f9c18a2",
+        "contentDigest": "878f521cce888d237a1acf001b162152",
         "type": "Directory",
         "description": "Directory \"content/assets\"",
         "owner": "gatsby-source-filesystem"
@@ -4304,7 +4045,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2019-02-02T16:33:03.202Z",
-      "accessTime": "2019-03-04T01:13:56.842Z",
+      "accessTime": "2019-03-18T02:50:01.481Z",
       "changeTime": "2019-02-02T16:33:03.202Z",
       "birthTime": "2019-01-28T04:52:41.220Z",
       "root": "/",
@@ -4322,11 +4063,11 @@
       "blksize": 4096,
       "ino": 8604322484,
       "blocks": 0,
-      "atimeMs": 1551662036842.4355,
+      "atimeMs": 1552877401481.367,
       "mtimeMs": 1549125183202.2559,
       "ctimeMs": 1549125183202.2559,
       "birthtimeMs": 1548651161219.81,
-      "atime": "2019-03-04T01:13:56.842Z",
+      "atime": "2019-03-18T02:50:01.481Z",
       "mtime": "2019-02-02T16:33:03.202Z",
       "ctime": "2019-02-02T16:33:03.202Z",
       "birthtime": "2019-01-28T04:52:41.220Z"
@@ -4539,19 +4280,30 @@
       "jsonName": "about-f34",
       "internalComponentName": "ComponentAbout",
       "path": "/about/",
-      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/about.js",
-      "componentChunkName": "component---src-pages-about-js",
-      "context": {},
-      "pluginCreator___NODE": "086142d7-4c5b-5202-afd4-d6ebd7b2af36",
-      "pluginCreatorId": "086142d7-4c5b-5202-afd4-d6ebd7b2af36",
-      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/about.js",
+      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/about/",
+        "previous": {
+          "fields": {
+            "slug": "/blood-orange-bars/"
+          },
+          "frontmatter": {
+            "title": "Blood Orange Bars"
+          }
+        },
+        "next": null
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js",
       "id": "SitePage /about/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7e149fc1772e891204c33f20271ee415",
-        "description": "086142d7-4c5b-5202-afd4-d6ebd7b2af36",
+        "contentDigest": "979ff7c4601bb771c3db31af9c6c1d44",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
     },
@@ -4639,14 +4391,7 @@
       "componentChunkName": "component---src-templates-blog-post-js",
       "context": {
         "slug": "/hot-cocoa-macarons/",
-        "previous": {
-          "fields": {
-            "slug": "/welcome/"
-          },
-          "frontmatter": {
-            "title": "Welcome to Full Stack Kitchen!"
-          }
-        },
+        "previous": null,
         "next": {
           "fields": {
             "slug": "/tomato-mole-jam/"
@@ -4664,38 +4409,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1f3bedb2b9e97b8f9b14abab2264eee9",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /welcome/": {
-      "jsonName": "welcome-e45",
-      "internalComponentName": "ComponentWelcome",
-      "path": "/welcome/",
-      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "/welcome/",
-        "previous": null,
-        "next": {
-          "fields": {
-            "slug": "/hot-cocoa-macarons/"
-          },
-          "frontmatter": {
-            "title": "Hot Cocoa Macarons with Chocolate & Marshmallow Filling"
-          }
-        }
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js",
-      "id": "SitePage /welcome/",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "b966b4c008f12e19294f082f9a882cec",
+        "contentDigest": "4d8b339f3340041286c2685be80bd88e",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -4760,24 +4474,38 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /404.html": {
-      "jsonName": "404-html-516",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/404.js",
-      "id": "SitePage /404.html",
-      "parent": null,
+    "5fac45af-9dda-5faa-a929-243d1c5db1ab": {
+      "id": "5fac45af-9dda-5faa-a929-243d1c5db1ab",
       "children": [],
+      "parent": "dd2de463-d5af-55fb-be09-c2c1abca9aa2",
       "internal": {
-        "type": "SitePage",
-        "contentDigest": "66af1545e00be500bb8610ff962bffe7",
-        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-        "owner": "internal-data-bridge"
+        "content": "---\n\n![Social View](./hot_cocoa_macarons-7.jpg)\n\n![Slice View](./hot_cocoa_macarons-14.jpg)\n\n![Slice View](./hot_cocoa_macarons-11.jpg)\n\n![Slice View](./hot_cocoa_macarons-2.jpg)\n\n<div class=\"body-text\">\n\nHot Cocoa Macarons w/chocolate & marshmallow filling: Its absurdly cold today in NYC (feels like -10˚F absurdly cold), which makes me feel way less guilty about spending the majority of today curled up inside, drinking hot cocoa with my best friend Netflix (that Frye Festival documentary was ridiculous). Also eating way too many of these 💁🏼‍♀️ These macarons have spicy chocolate shells (think cocoa, cinnamon, with a hint of cayenne), fluffy marshmallow buttercream, and a creamy dark chocolate ganache center. \n \n</div>\n\n![Top View with can](./hot_cocoa_macarons-9.jpg)",
+        "type": "MarkdownRemark",
+        "contentDigest": "423f7c8d5e51532f132cab95a20c1e6b",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Hot Cocoa Macarons with Chocolate & Marshmallow Filling",
+        "description": "Hot Cocoa Macarons",
+        "date": "2019-01-11T23:46:37.121Z",
+        "image": "./hot_cocoa_macarons-7.jpg",
+        "category": "macarons",
+        "tags": [
+          "macarons",
+          "sweets",
+          "chocolate",
+          "buttercream",
+          "ganache"
+        ]
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "---\n\n![Social View](./hot_cocoa_macarons-7.jpg)\n\n![Slice View](./hot_cocoa_macarons-14.jpg)\n\n![Slice View](./hot_cocoa_macarons-11.jpg)\n\n![Slice View](./hot_cocoa_macarons-2.jpg)\n\n<div class=\"body-text\">\n\nHot Cocoa Macarons w/chocolate & marshmallow filling: Its absurdly cold today in NYC (feels like -10˚F absurdly cold), which makes me feel way less guilty about spending the majority of today curled up inside, drinking hot cocoa with my best friend Netflix (that Frye Festival documentary was ridiculous). Also eating way too many of these 💁🏼‍♀️ These macarons have spicy chocolate shells (think cocoa, cinnamon, with a hint of cayenne), fluffy marshmallow buttercream, and a creamy dark chocolate ganache center. \n \n</div>\n\n![Top View with can](./hot_cocoa_macarons-9.jpg)",
+      "fileAbsolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/hot-cocoa-macarons/index.md",
+      "fields": {
+        "slug": "/hot-cocoa-macarons/"
       }
     }
   },
@@ -4790,16 +4518,14 @@
       "Site": [
         "/about/",
         "/404/",
-        "/404.html",
         "/recipes/",
         "/",
         "/blood-orange-bars/",
         "/tomato-mole-jam/",
         "/hot-cocoa-macarons/",
-        "/welcome/",
         "sq--src-components-bio-js",
-        "sq--src-components-seo-js",
-        "sq--src-components-recipe-seo-js"
+        "sq--src-components-recipe-seo-js",
+        "sq--src-components-seo-js"
       ],
       "2a7c202d-14d1-5f52-97fe-cf2dee369d5b": [
         "sq--src-components-bio-js"
@@ -4830,8 +4556,7 @@
       ],
       "52d62133-825a-5ba3-9997-5ed831877268": [
         "/recipes/",
-        "/",
-        "/welcome/"
+        "/"
       ],
       "65061127-8470-5a48-9467-f0c49c787014": [
         "/recipes/",
@@ -4850,8 +4575,7 @@
       ],
       "4d5b971c-17c7-5b00-975d-3778041c2ddc": [
         "/recipes/",
-        "/",
-        "/welcome/"
+        "/"
       ],
       "17bd3f17-5985-595c-b303-26ec731e7360": [
         "/blood-orange-bars/"
@@ -4862,8 +4586,9 @@
       "5fac45af-9dda-5faa-a929-243d1c5db1ab": [
         "/hot-cocoa-macarons/"
       ],
-      "61859686-f971-51c1-aeb5-1ec4020ed339": [
-        "/welcome/"
+      "61859686-f971-51c1-aeb5-1ec4020ed339": [],
+      "850a5357-ae22-5af9-92ac-80173c8690e4": [
+        "/about/"
       ]
     },
     "connections": {
@@ -4882,13 +4607,13 @@
     "404-22d": "625/path---404-22-d-bce-ngiQNVYXUJcUSoCzbpBruBEQtB4",
     "404-html-516": "903/path---404-html-516-62a-ngiQNVYXUJcUSoCzbpBruBEQtB4",
     "sq--src-components-bio-js": 20992707,
-    "about-f34": "324/path---about-f-34-4c2-DirZa5UOCtlD9wzz4sQsz8fvGTQ",
+    "about-f34": "65/path---about-f-34-4c2-e0HdtrRpsPjzFo9CG2fxVwPfgc",
     "blood-orange-bars-74a": "459/path---blood-orange-bars-74-a-e9e-Y75xYLA6eIRoZV568EjgGrf0Us",
-    "hot-cocoa-macarons-7d6": "505/path---hot-cocoa-macarons-7-d-6-80f-W34kq6Yv7xKDs1tpIgbDAcZdDxI",
-    "welcome-e45": "788/path---welcome-e-45-1b7-kKhDr4CakKIr3wgPId3T7js",
+    "hot-cocoa-macarons-7d6": "778/path---hot-cocoa-macarons-7-d-6-80f-rekgTwkStD11auUoBJlZ39GLc",
+    "welcome-e45": "291/path---welcome-e-45-1b7-PPm693iSjdt4sSlU9IAvSsLY",
     "offline-plugin-app-shell-fallback-a30": "520/path---offline-plugin-app-shell-fallback-a-30-c5a-NZuapzHg3X9TaN1iIixfv1W23E",
-    "recipes-3c6": "768/path---recipes-3-c-6-4cc-GSgcVzqxHCCCF9qHO0MzLl4u2g",
-    "index": "35/path---index-6a9-GSgcVzqxHCCCF9qHO0MzLl4u2g",
+    "recipes-3c6": "265/path---recipes-3-c-6-4cc-LtLvqvWGwsrZRJELg4BkRfe6lFM",
+    "index": "410/path---index-6a9-LtLvqvWGwsrZRJELg4BkRfe6lFM",
     "tomato-mole-jam-527": "218/path---tomato-mole-jam-527-668-y4hQYRhVdXorCr8ISwJvia508",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E"
   },

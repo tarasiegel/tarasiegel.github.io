@@ -1,29 +1,47 @@
-const recipe = {
-    title: 'Blood Orange Bars',
-    yield: '16 bars',
-    ingredients: {
-        crust: [
-            '1.5 c (180g) all-purpose flour',
-            '2 Tbsp confectioners sugar',
-            '1/4 tsp salt',
-            '1 stick of butter, cut into pieces'
-        ],
-        filling: [
-            '4 eggs',
-            '3 egg yolks',
-            '3/4 c (170g) granulated sugar',
-            '1/8 tsp salt',
-            '1 c blood orange juice, (or 1/2 blood orange, 1/2 lemon juice)',
-            '1.5 Tbsp blood orange zest (from about 2 oranges)',
-            '2 Tbsp of butter, cut into pieces',
-            '2 Tbsp heavy cream',
-        ]
-    },
-    directions: [
-        'Preheat oven to 350, line a 8x8 pan with parchment paper. In a food processor, combine the ingredients for the crust. Pulse until the mixture looks like coarse crumbs and sticks together when you pinch the dough. Press into the pan and bake 15-20 min until golden. Let cool.',
-        'To make the curd: Whisk together eggs, yolks, sugar and salt in a medium pot.  Add juice, turn on to medium heat and constantly stir for about 10 min until the curd thickens and is a thic puddin like consistency.  Whisk in the butter and cream until incorporated.  Strain it through a fine-mesh strainer into a bowl to get rid of cooked egg clumps.  Pour into crust and cook 25-30 min until filling is set and not very wobbly. Some wobble is fine.',
-        'Cool for an hour on rack. Then put in the fridge for 2-3 hrs or overnight. Cut into squares and liberally sift powdered sugar on top.'
-    ]
-}
+const recipe = [{
+    yield: "Makes: 40 Macarons",
+    prepTime: "20",
+    cookTime: "40",
+    totalTime: "60",
+    ingredients: [
+        {
+            title: 'Macaron Shells',
+            data: [
+                {
+                    text: "170g ground almonds",
+                    reference: "almonds"
+                },{
+                    text: "260g powdered sugar",
+                    reference: "powdered sugar"
+                },{
+                    text: "30g cocoa powder",
+                    reference: "cocoa powder"
+                },{
+                    text: "1/2 teaspoon of cayanne pepper",
+                    reference: "cayanne"
+                },
+                {
+                    text: "1 teaspoon of cinnamon",
+                    reference: "cinnamon"
+                },{
+                    text: "180g egg whites, at room temperature",
+                    reference: "egg whites"
+                },{
+                    text: "1/2 teaspoon of vanilla powder",
+                    reference: "vanilla"
+                },{
+                    text: "160g white sugar",
+                    reference: "sugar"
+                },
+            ],
+        },
+    ],
+    instructions: [
+        "<a href='https://www.cloudykitchen.com/blog/2018/6/30/chocolate-macarons-with-dark-chocolate-swiss-meringue-buttercream-and-cherry-compote-filling'>Chocolate Macaron Shells</a>",
+        "<a href='https://www.saveur.com/best-white-layer-cake-recipe'>Marshmallow Buttercream</a>",
+        "<a href='https://www.kingarthurflour.com/recipes/chocolate-ganache-recipe'>Chocolate Ganache</a>",
+    ],
+    assembly: []
+}];
 
 export default recipe;

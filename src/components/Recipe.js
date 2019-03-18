@@ -8,11 +8,11 @@ import $ from 'jquery';
 
 class Recipe extends React.Component {
 
-    getRecipeSection = (recipe, image) => {
+    getRecipeSection = (recipe) => {
         console.log(recipe);
         let recipeHtml = [];
         recipe.forEach((rec, sec) => {
-            recipeHtml.push(<RecipeSection recipe={rec} image={image} sectionKey={sec} key={sec} />);
+            recipeHtml.push(<RecipeSection recipe={rec} sectionKey={sec} key={sec} />);
         })
         console.log(recipeHtml);
         return recipeHtml;
@@ -20,12 +20,13 @@ class Recipe extends React.Component {
 
     render() {
         const {name, recipe, image} = this.props;
-        const recipeSections = this.getRecipeSection(recipe, image);
+        const recipeSections = this.getRecipeSection(recipe);
         
 
         return (
             <div className="recipe">
                 <RecipeSEO data={recipe[0]} {...this.props} />
+                <div className="recipe__image"><Img fluid={image} /></div>
                 <h3 className="recipe__title">{name}</h3>
                 {recipeSections}
             </div>
@@ -135,7 +136,7 @@ class RecipeSection extends React.Component {
 
 
     render() {
-        const {recipe, image, sectionKey} = this.props;
+        const {recipe, sectionKey} = this.props;
         const refData = this.getRefData(recipe.ingredients);
         console.log(refData);
         const ingredientHTML = recipe.ingredients.map((ing, key) => {
@@ -154,30 +155,31 @@ class RecipeSection extends React.Component {
             <div className={`recipe__section recipe__section--${sectionKey}`}>
                 {(recipe.subTitle) ? <h3 className="recipe__sub-title">{recipe.subTitle}</h3> : null }
                 <div className="recipe__time">
-                    <div className="recipe__time-image"><Img fluid={image} /></div>
                     <em className="recipe__yield">{recipe.yield}</em>
                     <div className="recipe__prep-time">{`Prep: ${this.getTime(recipe.prepTime)}`}</div>
                     <div className="recipe__cook-time">{`Cook: ${this.getTime(recipe.cookTime)}`}</div>
                     <div className="recipe__total-time">{`Total: ${this.getTime(recipe.totalTime)}`}</div>
                 </div>
 
-                <div className="recipe__ingredients-container">
-                    <div className="recipe__ingredients-title recipe__section-title">Ingredients</div>
-                    {ingredientHTML}
-                </div>
+                <div className="recipe__content">
+                    <div className="recipe__ingredients-container">
+                        <div className="recipe__ingredients-title recipe__section-title">Ingredients</div>
+                        {ingredientHTML}
+                    </div>
 
-                <div className="recipe__instructions-container">
-                    <div className="recipe__instructions-title recipe__section-title">Directions</div>
-                    {directionsHTML}
+                    <div className="recipe__instructions-container">
+                        <div className="recipe__instructions-title recipe__section-title">Directions</div>
+                        {directionsHTML}
+                        
+                        {(assemblyHTML.length > 0) ? 
+                            <div className="recipe__assembly-container">
+                                <div className="recipe__assembly-title recipe__section-title">Assembly</div>
+                                {assemblyHTML}
+                            </div> 
+                            : null
+                        }
+                    </div>
                 </div>
-
-                {(assemblyHTML.length > 0) ? 
-                    <div className="recipe__assembly-container">
-                        <div className="recipe__assembly-title recipe__section-title">Assembly</div>
-                        {assemblyHTML}
-                    </div> 
-                    : null
-                }
 
             </div>
         )
@@ -186,7 +188,7 @@ class RecipeSection extends React.Component {
 
 class RecipeIngredients extends React.Component {
     static propTypes = {
-        ingredientData: PropTypes.array
+        ingredientData: PropTypes.object
     }
     static defaultProps = {
         ingredientData: []
@@ -206,7 +208,7 @@ class RecipeIngredients extends React.Component {
             const ingredientText = (typeof ing === 'object') ? ing.text : ing;
             const referenceKey = `${sectionKey}-${ingredientKey}-${key}`;
             return (
-                <li id={`ingredient--${referenceKey}`} className={`ingredient-section__ingredient-item ingredient--${referenceKey}`} data-name={((ing.reference) ? ing.reference : ing)}>
+                <li id={`ingredient--${referenceKey}`} key={key} className={`ingredient-section__ingredient-item ingredient--${referenceKey}`} data-name={((ing.reference) ? ing.reference : ing)}>
                     <input className="ingredient-section__ingredient-item-input" type="checkbox" id={`cbx-${referenceKey}`} data-ingredient={`${referenceKey}`} onClick={this.inputClicked} />
                     <label htmlFor={`cbx-${referenceKey}`} className="check">
                         <svg width="16px" height="16px" viewBox="0 0 16 16">

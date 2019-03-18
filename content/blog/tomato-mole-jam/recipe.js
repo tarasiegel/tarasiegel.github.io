@@ -1,6 +1,6 @@
 const recipe = [{
     subTitle: 'Tomato Mole Jam',
-    yield: 'makes one 4oz jar',
+    yield: 'Makes one 4oz jar',
     prepTime: "5",
     cookTime: "20",
     totalTime: "25",
@@ -60,7 +60,7 @@ const recipe = [{
 },
 {
     subTitle: 'Ricotta Cheesecake',
-    yield: 'makes one 8-inch cake, about 10-12 servings',
+    yield: 'Makes one 8-inch cake, about 10-12 servings',
     prepTime: "30",
     cookTime: "100",
     totalTime: "400",
@@ -118,7 +118,7 @@ const recipe = [{
                     reference: 'extracts'
                 },{
                     text: '½ tsp almond extract <i>(optional)</i>', 
-                    reference: 'extracts'
+                    reference: 'almond'
                 },{
                     text: '¼ tsp salt', 
                     reference: 'salt'

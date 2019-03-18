@@ -23,6 +23,10 @@ class BlogPostTemplate extends React.Component {
       this.setState({
         recipeData: results.default
       });
+    }).catch(error => {
+      this.setState({
+        recipeData: false
+      });
     });
   }
 

@@ -37,6 +37,14 @@
     margin: 20px auto;
 }
 
+.about-container__instagram {
+    border: 1px solid #d9d9d9;
+}
+
+.about-container__instagram a:hover {
+    background-color: transparent;
+}
+
 @media (min-width: 767px) {
 
     .about-container {
@@ -53,4 +61,13 @@
         width: 50%;
     }
 
+    .about-container__instagram .instagram-post__item {
+        width: calc(33% - 10px);
+    }
+}
+
+@media (min-width: 1280px) {
+    .about-container__instagram .instagram-post__item {
+        width: calc(25% - 10px);
+    }
 }

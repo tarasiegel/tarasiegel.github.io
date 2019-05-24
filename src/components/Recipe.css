@@ -101,7 +101,7 @@
 .ingredient-section__ingredient-item {
     list-style: none;
     margin-bottom: 0;
-    
+    color: #2d2d2d;
 }
 
 .ingredient-section__ingredient-item div {
@@ -223,8 +223,8 @@
 
 .recipe__paragraph {
     margin-bottom: 1.3rem;
+    color: #2d2d2d;
 }
-
 
 @media  (min-width: 767px) {
 

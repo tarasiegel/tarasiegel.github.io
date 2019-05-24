@@ -55,12 +55,6 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
-      },
-    },
     `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
@@ -80,6 +74,19 @@ module.exports = {
       resolve: `gatsby-plugin-typography`,
       options: {
         pathToConfigModule: `src/utils/typography`,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-38256341-2",
+      },
+    },
+    {
+      resolve: `gatsby-source-instagram`,
+      options: {
+        username: `taras.kitchen`,
+        access_token: '6885349594.1677ed0.35b20b688003427ba82a56b9f09e15a5'
       },
     },
   ],

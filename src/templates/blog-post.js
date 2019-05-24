@@ -5,8 +5,14 @@ import Bio from '../components/Bio'
 import Layout from '../components/Layout'
 import SEO from '../components/seo';
 import Recipe from '../components/Recipe';
+import InstagramPosts from '../components/InstagramPosts';
 import { rhythm, scale } from '../utils/typography';
 import './blog-post.css';
+
+import { Icon } from 'react-icons-kit';
+import {instagram} from 'react-icons-kit/fa/instagram';
+import {facebook} from 'react-icons-kit/fa/facebook';
+import {envelope} from 'react-icons-kit/fa/envelope';
 
 class BlogPostTemplate extends React.Component {
 
@@ -40,6 +46,7 @@ class BlogPostTemplate extends React.Component {
     const siteTitle = this.props.data.site.siteMetadata.title;
     const { previous, next } = this.props.pageContext;
     console.log(post.frontmatter.image.childImageSharp.fluid);
+    console.log(post);
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -71,22 +78,47 @@ class BlogPostTemplate extends React.Component {
                 }}
             />
 
+            <div className="recipe-tags">
+              {
+                post.frontmatter.tags.map(tag => 
+                  // <a className="recipe-tag" href={`/tags/${tag}`}>{`  ${tag}  `}</a>                  
+                  <a className="recipe-tag" href={`/recipes`}>{`  ${tag}  `}</a>
+                )
+              }
+            </div>
+
+
             <ul className="blog-post__navigation">
                 <li>
                 {previous && (
                     <Link to={previous.fields.slug} rel="prev">
-                    ← {previous.frontmatter.title}
+                     {`< ${previous.frontmatter.title}`}
                     </Link>
                 )}
                 </li>
                 <li>
                 {next && (
                     <Link to={next.fields.slug} rel="next">
-                    {next.frontmatter.title} →
+                    {`${next.frontmatter.title} >`}
                     </Link>
                 )}
                 </li>
             </ul>
+
+            <div className="blog-post__bottom">
+                <div className="blog-post__bottom-title">follow at <a href="https://www.instagram.com/taras.kitchen" target="_blank">@taras.kitchen</a></div>
+                <div className="blog-post__share-tools desktop">
+                  <a className="is-icon" href="https://www.instagram.com/taras.kitchen" target="_blank"><Icon size={25} icon={instagram}/></a>
+                  <a className="is-icon" href="https://www.facebook.com/tarasiegelskitchen/" target="_blank"><Icon size={25} icon={facebook}/></a>
+                  <a className="is-icon" href="mailto:tarafsiegel@gmail.com" target="_blank"><Icon size={25} icon={envelope}/></a>
+                </div>
+                <InstagramPosts />  
+                <div className="blog-post__share-tools mobile">
+                  <a className="is-icon" href="https://www.instagram.com/taras.kitchen" target="_blank"><Icon size={30} icon={instagram}/></a>
+                  <a className="is-icon" href="https://www.facebook.com/tarasiegelskitchen/" target="_blank"><Icon size={30} icon={facebook}/></a>
+                  <a className="is-icon" href="mailto:tarafsiegel@gmail.com" target="_blank"><Icon size={30} icon={envelope}/></a>
+                </div>         
+            </div>
         </div>
         <div className="blog-post--right">
         </div>

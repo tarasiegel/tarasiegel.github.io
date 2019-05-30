@@ -1,8 +1,156 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Full Stack Kitchen]]></title><description><![CDATA[Full Stack Kitchen: Unique Dessert Recipes from an Engineer's Mind]]></description><link>https://fullstackkitchen.com/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 24 May 2019 03:22:47 GMT</lastBuildDate><item><title><![CDATA[About]]></title><description><![CDATA[hi, Welcome to my little corner of the internet.  my name is tara. I have been a resident of New York City for the past four years…]]></description><link>https://fullstackkitchen.com//about/</link><guid isPermaLink="false">https://fullstackkitchen.com//about/</guid><content:encoded>&lt;hr&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Full Stack Kitchen]]></title><description><![CDATA[Full Stack Kitchen: Unique Dessert Recipes from an Engineer's Mind]]></description><link>https://fullstackkitchen.com/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 30 May 2019 04:19:41 GMT</lastBuildDate><item><title><![CDATA[About]]></title><description><![CDATA[hi, Welcome to my little corner of the internet.  my name is tara. I have been a resident of New York City for the past four years…]]></description><link>https://fullstackkitchen.com//about/</link><guid isPermaLink="false">https://fullstackkitchen.com//about/</guid><content:encoded>&lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;hi, Welcome to my little corner of the internet.  my name is tara.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;I have been a resident of New York City for the past four years, currently living in Williamsburg.  Before that, I spent the first eighteen years of my life in South Florida dealing with that humid hair life.  Then I spent four in Philadelphia for college, where I discovered and honed my love of baking while procrastinating problem sets.  Many times I would be making muffins at midnight to break up the &lt;em&gt;all too frequent&lt;/em&gt; all-nighters I pulled.&lt;/p&gt;
 &lt;p&gt;I studied Computer Science/Computer Graphics in school (+ a fine arts minor) and am currently a full time, full stack Software Engineer for a media company. Having an office to bring sweets to is key to maintaining a healthy lifestyle. To counteract what doesn’t make it into the office, I am constantly trying to find ways to be exercising.  I am an avid runner, biker (I try to CitiBike to work every day if its above freezing), and walker (and will walk places to avoid the subway at all costs).  Right now I’ve completed 5 half marathons and 1 century ride!&lt;/p&gt;
-&lt;p&gt;If we can get nerdy for a second, I am very proud of this website you see here. The “tech stack”, as one would say, is pretty cool.  I am using &lt;a href=&quot;https://reactjs.org/&quot;&gt;React&lt;/a&gt;, which is a component based Javascript library for building UI’s. That is wrapped in an instance of &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;GatsbyJs&lt;/a&gt;, which is a React-based, &lt;a href=&quot;https://graphql.org/&quot;&gt;GraphQL&lt;/a&gt; powered, static site generator (makes for better SEO and file hosting!).  All the posts are written in &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;markdown&lt;/a&gt;, which is a lightweight markup language for text syntax.  Once I make updates and build it, it hooks into &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; and automatically updates the site! &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Blood Orange Bars]]></title><description><![CDATA[Its Valentine’s week, which means my feed (and probably yours) is over run with heart shaped this and chocolate that and pink this. Well…]]></description><link>https://fullstackkitchen.com//blood-orange-bars/</link><guid isPermaLink="false">https://fullstackkitchen.com//blood-orange-bars/</guid><pubDate>Sun, 10 Feb 2019 23:46:37 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;p&gt;If we can get nerdy for a second, I am very proud of this website you see here. The “tech stack”, as one would say, is pretty cool.  I am using &lt;a href=&quot;https://reactjs.org/&quot;&gt;React&lt;/a&gt;, which is a component based Javascript library for building UI’s. That is wrapped in an instance of &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;GatsbyJs&lt;/a&gt;, which is a React-based, &lt;a href=&quot;https://graphql.org/&quot;&gt;GraphQL&lt;/a&gt; powered, static site generator (makes for better SEO and file hosting!).  All the posts are written in &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;markdown&lt;/a&gt;, which is a lightweight markup language for text syntax.  Once I make updates and build it, it hooks into &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; and automatically updates the site! &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Berry Rhubarb Crumble Bars]]></title><description><![CDATA[
+ 
+ 
+ These bars are super easy to make and a great summer dessert! Feel free to use either fresh or frozen fruit.  If you use fresh…]]></description><link>https://fullstackkitchen.com//berry-rhubarb-bars/</link><guid isPermaLink="false">https://fullstackkitchen.com//berry-rhubarb-bars/</guid><pubDate>Thu, 30 May 2019 12:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/fullstackkitchen/static/11c1bb1c51c77290c4d6edffd6fa813f/2bd0c/berry_rhubarb_bars.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 124.9904761904762%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQC/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAABfQtyY6PhUFk87Exl5L//xAAaEAACAwEBAAAAAAAAAAAAAAAAAQIDEBMS/9oACAEBAAEFAtssclFtP3MVBxicIFA8/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAESE//aAAgBAwEBPwHNmtK0v//EABgRAAMBAQAAAAAAAAAAAAAAAAABEhAR/9oACAECAQE/AbLRxZ//xAAcEAACAgIDAAAAAAAAAAAAAAAAEQECIUEQICL/2gAIAQEABj8C5tDHmZ1k2e7Mbnr/AP/EAB0QAAMAAgIDAAAAAAAAAAAAAAABESExQXEQYYH/2gAIAQEAAT8hZU+fCMwu4TX1FCcrU+mZulqYWhWWhqDpybPs0Gf/2gAMAwEAAgADAAAAELTOfv/EABgRAQEBAQEAAAAAAAAAAAAAAAERAFFh/9oACAEDAQE/EBpV1dzeXe+//8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBEGH/2gAIAQIBAT8QSrIUH//EAB0QAQEBAAICAwAAAAAAAAAAAAERACExEHFRwdH/2gAIAQEAAT8QgK4ZAPp0xmQEeHMjB+8VVVOWnrEqr2V+5Y+AIHphMFS0kyUql+QfDdG7b//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Side image of bars&quot;
+        title=&quot;&quot;
+        src=&quot;/fullstackkitchen/static/11c1bb1c51c77290c4d6edffd6fa813f/71e08/berry_rhubarb_bars.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/11c1bb1c51c77290c4d6edffd6fa813f/996a7/berry_rhubarb_bars.jpg 320w,
+/fullstackkitchen/static/11c1bb1c51c77290c4d6edffd6fa813f/06faf/berry_rhubarb_bars.jpg 640w,
+/fullstackkitchen/static/11c1bb1c51c77290c4d6edffd6fa813f/71e08/berry_rhubarb_bars.jpg 1280w,
+/fullstackkitchen/static/11c1bb1c51c77290c4d6edffd6fa813f/2ed49/berry_rhubarb_bars.jpg 1920w,
+/fullstackkitchen/static/11c1bb1c51c77290c4d6edffd6fa813f/ad50a/berry_rhubarb_bars.jpg 2560w,
+/fullstackkitchen/static/11c1bb1c51c77290c4d6edffd6fa813f/2bd0c/berry_rhubarb_bars.jpg 2625w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/fullstackkitchen/static/3853108822abbcb629e737d5b20f487a/2bd0c/berry_rhubarb_bars-4.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 124.9904761904762%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgT/2gAMAwEAAhADEAAAARMaMnUMLLEtyP/EAB4QAQABBAIDAAAAAAAAAAAAAAECAAMRIhIxITIz/9oACAEBAAEFAuWbibS7dbiNBU3xPKHT8rntGv/EABcRAQADAAAAAAAAAAAAAAAAAAAQERL/2gAIAQMBAT8Bai3/xAAWEQEBAQAAAAAAAAAAAAAAAAAAERD/2gAIAQIBAT8BXI//xAAiEAABAgMJAAAAAAAAAAAAAAAAARECMZEQEiEyQWFxgaH/2gAIAQEABj8CVkHkYpQdtiGV01HhSR6ZlqRcKJ1Z/8QAHRAAAgMBAAMBAAAAAAAAAAAAAREAMUEhEFFhof/aAAgBAQABPyEdQ4QfsSgU3sDTWlDShHcbopCAX+IAMTa6hM+hTYZIE9A8eYZSf//aAAwDAQACAAMAAAAQ0xI+/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEhETH/2gAIAQMBAT8Q5UbUFXg6P//EABURAQEAAAAAAAAAAAAAAAAAACAx/9oACAECAQE/EID/xAAhEAEBAAIBBAIDAAAAAAAAAAABEQAhMUFhgbFRcZGh8P/aAAgBAQABPxAEKoTlpFTwfjEIWzV0jTh8fWcWkEiJNafeBANrgDbWYQiLaLw6b5jm2WdpFO2zEtUbRsNYfBvC6QgqtdOnSYvwhsuReDP7HbP0PXOXx6M//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Berry Rhubarb bars&quot;
+        title=&quot;&quot;
+        src=&quot;/fullstackkitchen/static/3853108822abbcb629e737d5b20f487a/71e08/berry_rhubarb_bars-4.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/3853108822abbcb629e737d5b20f487a/996a7/berry_rhubarb_bars-4.jpg 320w,
+/fullstackkitchen/static/3853108822abbcb629e737d5b20f487a/06faf/berry_rhubarb_bars-4.jpg 640w,
+/fullstackkitchen/static/3853108822abbcb629e737d5b20f487a/71e08/berry_rhubarb_bars-4.jpg 1280w,
+/fullstackkitchen/static/3853108822abbcb629e737d5b20f487a/2ed49/berry_rhubarb_bars-4.jpg 1920w,
+/fullstackkitchen/static/3853108822abbcb629e737d5b20f487a/ad50a/berry_rhubarb_bars-4.jpg 2560w,
+/fullstackkitchen/static/3853108822abbcb629e737d5b20f487a/2bd0c/berry_rhubarb_bars-4.jpg 2625w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/fullstackkitchen/static/c8d2b7c6caf129d4a33229e3fd869740/5442e/strawberry_rhubarb_bars-3.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 150%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwUE/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/9oADAMBAAIQAxAAAAGxqpjUcj5m0meWWagb/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIAAxIRIf/aAAgBAQABBQIN2Vnxi3a9KB2A2AbZiQWjqythZkTIM//EABgRAQEAAwAAAAAAAAAAAAAAAAATASFh/9oACAEDAQE/AW1OKYf/xAAYEQACAwAAAAAAAAAAAAAAAAAAARAREv/aAAgBAgEBPwGKMs//xAAfEAACAQQCAwAAAAAAAAAAAAAAARECIjFhEJEhUYH/2gAIAQEABj8CbljR4okwuy1TpHr4aLW1sil9sxz/AP/EABwQAQACAgMBAAAAAAAAAAAAAAEAESExQWFx0f/aAAgBAQABPyHWBFAr5Nuzn2cZOuIiNYmNLlFqpcppgArxGNccuiVBQ4NMRqhIG6soKCoqtJ//2gAMAwEAAgADAAAAEPcwD//EABkRAQEBAAMAAAAAAAAAAAAAAAEAETFRYf/aAAgBAwEBPxA6j1ITCGfF/8QAGBEBAAMBAAAAAAAAAAAAAAAAAAERMXH/2gAIAQIBAT8Q1UO02P/EAB8QAQEAAgMAAgMAAAAAAAAAAAERACExQWFRgZGx0f/aAAgBAQABPxBkHQRAd/L84lbA6T9OBcTqRlNF2cnGIYwm0Ha7J9+5vzNCpLFf5kmU1Q2K+Gbo30FQDg7j8eYMQIUUBgL9vODjILa3zZrNtbToycMcwJlkr5n/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Berry Rhubarb Bars&quot;
+        title=&quot;&quot;
+        src=&quot;/fullstackkitchen/static/c8d2b7c6caf129d4a33229e3fd869740/71e08/strawberry_rhubarb_bars-3.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/c8d2b7c6caf129d4a33229e3fd869740/996a7/strawberry_rhubarb_bars-3.jpg 320w,
+/fullstackkitchen/static/c8d2b7c6caf129d4a33229e3fd869740/06faf/strawberry_rhubarb_bars-3.jpg 640w,
+/fullstackkitchen/static/c8d2b7c6caf129d4a33229e3fd869740/71e08/strawberry_rhubarb_bars-3.jpg 1280w,
+/fullstackkitchen/static/c8d2b7c6caf129d4a33229e3fd869740/2ed49/strawberry_rhubarb_bars-3.jpg 1920w,
+/fullstackkitchen/static/c8d2b7c6caf129d4a33229e3fd869740/ad50a/strawberry_rhubarb_bars-3.jpg 2560w,
+/fullstackkitchen/static/c8d2b7c6caf129d4a33229e3fd869740/5442e/strawberry_rhubarb_bars-3.jpg 2848w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/fullstackkitchen/static/ef8b5c6151313e25b6382525f1d0bc8c/5442e/strawberry_rhubarb_bars-2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAECAwT/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMC/9oADAMBAAIQAxAAAAGpildEDRdFJPQZhn//xAAbEAEAAgMBAQAAAAAAAAAAAAABAhEAITEyQf/aAAgBAQABBQK4X6g93Z5SOcR0RKM+uf/EABcRAQEBAQAAAAAAAAAAAAAAAAARASH/2gAIAQMBAT8BTU6j/8QAFREBAQAAAAAAAAAAAAAAAAAAEAH/2gAIAQIBAT8BIf/EAB4QAAICAQUBAAAAAAAAAAAAAAABEYEyAiFBUWFx/9oACAEBAAY/Anvwe/TKLHKZ3Ri6HIjODUKxH//EACAQAAICAQMFAAAAAAAAAAAAAAERACExQVGBYXGhscH/2gAIAQEAAT8hTcaawAWslK0IJ1zH4BERBkcuKQJ0BBZS4uUIFDe1xBhYlsp7B9h80Ydk/9oADAMBAAIAAwAAABBM/LP/xAAYEQADAQEAAAAAAAAAAAAAAAAAARFBUf/aAAgBAwEBPxCsbcHAvp//xAAXEQADAQAAAAAAAAAAAAAAAAAAARFR/9oACAECAQE/EJgpBBH/xAAfEAEAAgICAwEBAAAAAAAAAAABESEAMVFhQXHwEIH/2gAIAQEAAT8QtQRC+7dzrWEBIMmgvns3iSQUgI/lZOmUJca0k9YqlREDigfPvHTUbhrFORAyULEipyYEJCiyfG024ORO4pPfL3+I+Zxnw9uf/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Berry Rhubarb Bars&quot;
+        title=&quot;&quot;
+        src=&quot;/fullstackkitchen/static/ef8b5c6151313e25b6382525f1d0bc8c/71e08/strawberry_rhubarb_bars-2.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/ef8b5c6151313e25b6382525f1d0bc8c/996a7/strawberry_rhubarb_bars-2.jpg 320w,
+/fullstackkitchen/static/ef8b5c6151313e25b6382525f1d0bc8c/06faf/strawberry_rhubarb_bars-2.jpg 640w,
+/fullstackkitchen/static/ef8b5c6151313e25b6382525f1d0bc8c/71e08/strawberry_rhubarb_bars-2.jpg 1280w,
+/fullstackkitchen/static/ef8b5c6151313e25b6382525f1d0bc8c/2ed49/strawberry_rhubarb_bars-2.jpg 1920w,
+/fullstackkitchen/static/ef8b5c6151313e25b6382525f1d0bc8c/ad50a/strawberry_rhubarb_bars-2.jpg 2560w,
+/fullstackkitchen/static/ef8b5c6151313e25b6382525f1d0bc8c/5442e/strawberry_rhubarb_bars-2.jpg 2848w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;These bars are super easy to make and a great summer dessert! Feel free to use either fresh or frozen fruit.  If you use fresh strawberries and/or berries, the texture will be a bit more chunky than frozen (seen in photos 3 and 4).  From my experiments, frozen fruit will break down easier and form more of a jam like texture (seen in photos 1 and 2). The recipe says to use 450g of strawberries and 350g of rhubarb.  If you don’t have that much rhubarb (it’s expensive yo!), replace some of the weight with raspberries, blueberries or more strawberries! Any combo will be delicious.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Blood Orange Bars]]></title><description><![CDATA[Its Valentine’s week, which means my feed (and probably yours) is over run with heart shaped this and chocolate that and pink this. Well…]]></description><link>https://fullstackkitchen.com//blood-orange-bars/</link><guid isPermaLink="false">https://fullstackkitchen.com//blood-orange-bars/</guid><pubDate>Sun, 10 Feb 2019 23:46:37 GMT</pubDate><content:encoded>&lt;hr&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;

@@ -271,13 +271,9 @@ footer {
     margin: 0 auto;
 }
 
-.footer__text {
-    display: inline-block;
-    float: right;
-}
-
+.footer__text,
 .footer__navigation {
-    display: inline-block;
+    text-align: center;
 }
 
 .footer__link {
@@ -367,5 +363,14 @@ footer {
         font-size: 40px;
         line-height: 40px;
     }
-    
+
+    .footer__text {
+        display: inline-block;
+        float: right;
+        text-align: right;
+    }
+
+    .footer__navigation {
+        display: inline-block;
+    }
 }

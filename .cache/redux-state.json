@@ -1,13 +1,22 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "51e1f1965ac63c4a94f2862d54718688",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
         "owner": "internal-data-bridge"
       }
     },
@@ -2487,14 +2496,16 @@
           "instagram": "taras.kitchen"
         }
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "/fullstackkitchen",
       "polyfill": true,
-      "buildTime": "2019-05-24T03:14:05.729Z",
+      "buildTime": "2019-05-30T03:51:16.077Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "015a0e4e3196b8a82595aa08abac6e1f",
+        "contentDigest": "648c576612e06dbbc6aa2e58c179cd8a",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2504,7 +2515,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "575033db8f606d8192bf9b7afa4555f7",
+        "contentDigest": "a4a241cddf60546c4683e708d1798e68",
         "type": "Directory",
         "description": "Directory \"content/blog\"",
         "owner": "gatsby-source-filesystem"
@@ -2513,11 +2524,11 @@
       "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog",
       "relativePath": "",
       "extension": "",
-      "size": 192,
-      "prettySize": "192 B",
-      "modifiedTime": "2019-03-18T03:57:55.492Z",
-      "accessTime": "2019-05-24T03:14:08.676Z",
-      "changeTime": "2019-03-18T03:57:55.492Z",
+      "size": 224,
+      "prettySize": "224 B",
+      "modifiedTime": "2019-05-30T01:59:08.263Z",
+      "accessTime": "2019-05-30T03:51:22.522Z",
+      "changeTime": "2019-05-30T01:59:08.263Z",
       "birthTime": "2019-01-19T04:51:26.577Z",
       "root": "/",
       "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content",
@@ -2527,20 +2538,20 @@
       "relativeDirectory": "..",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 6,
+      "nlink": 7,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
       "ino": 8604269393,
       "blocks": 0,
-      "atimeMs": 1558667648676.2166,
-      "mtimeMs": 1552881475491.995,
-      "ctimeMs": 1552881475491.995,
+      "atimeMs": 1559188282522.4177,
+      "mtimeMs": 1559181548263.011,
+      "ctimeMs": 1559181548263.011,
       "birthtimeMs": 1547873486577.1038,
-      "atime": "2019-05-24T03:14:08.676Z",
-      "mtime": "2019-03-18T03:57:55.492Z",
-      "ctime": "2019-03-18T03:57:55.492Z",
+      "atime": "2019-05-30T03:51:22.522Z",
+      "mtime": "2019-05-30T01:59:08.263Z",
+      "ctime": "2019-05-30T01:59:08.263Z",
       "birthtime": "2019-01-19T04:51:26.577Z"
     },
     "da3343b3-4dea-539b-a9a5-e2b8667cad56": {
@@ -2548,7 +2559,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "0f31c86b318aa48ee39d9d1a8eaf2113",
+        "contentDigest": "293f764909b5f336bded2f38189a6f6e",
         "type": "Directory",
         "description": "Directory \"content/blog/blood-orange-bars\"",
         "owner": "gatsby-source-filesystem"
@@ -2560,7 +2571,7 @@
       "size": 256,
       "prettySize": "256 B",
       "modifiedTime": "2019-02-16T04:22:11.034Z",
-      "accessTime": "2019-05-24T03:14:08.679Z",
+      "accessTime": "2019-05-30T03:51:22.525Z",
       "changeTime": "2019-02-16T04:22:11.034Z",
       "birthTime": "2019-02-10T22:29:40.545Z",
       "root": "/",
@@ -2578,11 +2589,11 @@
       "blksize": 4096,
       "ino": 8604949502,
       "blocks": 0,
-      "atimeMs": 1558667648678.877,
+      "atimeMs": 1559188282524.7878,
       "mtimeMs": 1550290931034.1497,
       "ctimeMs": 1550290931034.1497,
       "birthtimeMs": 1549837780544.8103,
-      "atime": "2019-05-24T03:14:08.679Z",
+      "atime": "2019-05-30T03:51:22.525Z",
       "mtime": "2019-02-16T04:22:11.034Z",
       "ctime": "2019-02-16T04:22:11.034Z",
       "birthtime": "2019-02-10T22:29:40.545Z"
@@ -2592,7 +2603,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "2c3c6e3d8715f38eb031bf5cd9fd8ed1",
+        "contentDigest": "974dd7a29e26bbd9a071850845a12993",
         "type": "Directory",
         "description": "Directory \"content/blog/hot-cocoa-macarons\"",
         "owner": "gatsby-source-filesystem"
@@ -2604,7 +2615,7 @@
       "size": 288,
       "prettySize": "288 B",
       "modifiedTime": "2019-02-16T04:52:47.116Z",
-      "accessTime": "2019-05-24T03:14:08.679Z",
+      "accessTime": "2019-05-30T03:51:22.525Z",
       "changeTime": "2019-02-16T04:52:47.116Z",
       "birthTime": "2019-01-28T04:52:41.232Z",
       "root": "/",
@@ -2622,11 +2633,11 @@
       "blksize": 4096,
       "ino": 8604322489,
       "blocks": 0,
-      "atimeMs": 1558667648678.5747,
+      "atimeMs": 1559188282524.8594,
       "mtimeMs": 1550292767115.8914,
       "ctimeMs": 1550292767115.8914,
       "birthtimeMs": 1548651161231.7734,
-      "atime": "2019-05-24T03:14:08.679Z",
+      "atime": "2019-05-30T03:51:22.525Z",
       "mtime": "2019-02-16T04:52:47.116Z",
       "ctime": "2019-02-16T04:52:47.116Z",
       "birthtime": "2019-01-28T04:52:41.232Z"
@@ -2636,7 +2647,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "2a07631d92691523b654c729a7bf4b14",
+        "contentDigest": "23b3adc236ff0c5dfe4d94b5792fa308",
         "type": "Directory",
         "description": "Directory \"content/blog/tomato-mole-jam\"",
         "owner": "gatsby-source-filesystem"
@@ -2648,7 +2659,7 @@
       "size": 352,
       "prettySize": "352 B",
       "modifiedTime": "2019-02-16T04:52:53.065Z",
-      "accessTime": "2019-05-24T03:14:08.679Z",
+      "accessTime": "2019-05-30T03:51:22.525Z",
       "changeTime": "2019-02-16T04:52:53.065Z",
       "birthTime": "2019-01-28T04:52:41.376Z",
       "root": "/",
@@ -2666,11 +2677,11 @@
       "blksize": 4096,
       "ino": 8604322500,
       "blocks": 0,
-      "atimeMs": 1558667648678.668,
+      "atimeMs": 1559188282524.862,
       "mtimeMs": 1550292773065.3662,
       "ctimeMs": 1550292773065.3662,
       "birthtimeMs": 1548651161375.8928,
-      "atime": "2019-05-24T03:14:08.679Z",
+      "atime": "2019-05-30T03:51:22.525Z",
       "mtime": "2019-02-16T04:52:53.065Z",
       "ctime": "2019-02-16T04:52:53.065Z",
       "birthtime": "2019-01-28T04:52:41.376Z"
@@ -3909,7 +3920,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "ba5b953b3050fc7e1ecadb7d8c2651f0",
+        "contentDigest": "f5ae69302b285a4949c5819d19a25fe7",
         "type": "Directory",
         "description": "Directory \"content/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -3921,7 +3932,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-02-10T04:18:22.389Z",
-      "accessTime": "2019-05-24T03:14:08.937Z",
+      "accessTime": "2019-05-30T03:51:22.926Z",
       "changeTime": "2019-02-10T04:18:22.389Z",
       "birthTime": "2019-02-10T04:18:16.212Z",
       "root": "/",
@@ -3939,11 +3950,11 @@
       "blksize": 4096,
       "ino": 8604905065,
       "blocks": 0,
-      "atimeMs": 1558667648937.175,
+      "atimeMs": 1559188282925.6428,
       "mtimeMs": 1549772302389.4385,
       "ctimeMs": 1549772302389.4385,
       "birthtimeMs": 1549772296211.6716,
-      "atime": "2019-05-24T03:14:08.937Z",
+      "atime": "2019-05-30T03:51:22.926Z",
       "mtime": "2019-02-10T04:18:22.389Z",
       "ctime": "2019-02-10T04:18:22.389Z",
       "birthtime": "2019-02-10T04:18:16.212Z"
@@ -3953,7 +3964,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "bb65e7d598adcb34bb3d49983b3f50b3",
+        "contentDigest": "a3858589993ac65ea4e92554d4ccd0c0",
         "type": "Directory",
         "description": "Directory \"content/pages/about\"",
         "owner": "gatsby-source-filesystem"
@@ -3965,7 +3976,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2019-02-09T05:57:35.626Z",
-      "accessTime": "2019-05-24T03:14:08.938Z",
+      "accessTime": "2019-05-30T03:51:22.926Z",
       "changeTime": "2019-02-10T04:18:22.389Z",
       "birthTime": "2019-02-09T05:54:27.735Z",
       "root": "/",
@@ -3983,11 +3994,11 @@
       "blksize": 4096,
       "ino": 8604867502,
       "blocks": 0,
-      "atimeMs": 1558667648937.66,
+      "atimeMs": 1559188282926.3093,
       "mtimeMs": 1549691855625.9097,
       "ctimeMs": 1549772302389.4382,
       "birthtimeMs": 1549691667735.0195,
-      "atime": "2019-05-24T03:14:08.938Z",
+      "atime": "2019-05-30T03:51:22.926Z",
       "mtime": "2019-02-09T05:57:35.626Z",
       "ctime": "2019-02-10T04:18:22.389Z",
       "birthtime": "2019-02-09T05:54:27.735Z"
@@ -4158,7 +4169,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "9b317c90055689eafffc59a1b4005e85",
+        "contentDigest": "ca43e80664be885f20ebf62d3baa15dc",
         "type": "Directory",
         "description": "Directory \"content/assets\"",
         "owner": "gatsby-source-filesystem"
@@ -4170,7 +4181,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2019-02-02T16:33:03.202Z",
-      "accessTime": "2019-05-24T03:14:08.965Z",
+      "accessTime": "2019-05-30T03:51:22.968Z",
       "changeTime": "2019-02-02T16:33:03.202Z",
       "birthTime": "2019-01-28T04:52:41.220Z",
       "root": "/",
@@ -4188,11 +4199,11 @@
       "blksize": 4096,
       "ino": 8604322484,
       "blocks": 0,
-      "atimeMs": 1558667648965.0718,
+      "atimeMs": 1559188282967.623,
       "mtimeMs": 1549125183202.2559,
       "ctimeMs": 1549125183202.2559,
       "birthtimeMs": 1548651161219.81,
-      "atime": "2019-05-24T03:14:08.965Z",
+      "atime": "2019-05-30T03:51:22.968Z",
       "mtime": "2019-02-02T16:33:03.202Z",
       "ctime": "2019-02-02T16:33:03.202Z",
       "birthtime": "2019-01-28T04:52:41.220Z"
@@ -4688,11 +4699,11 @@
       "parent": "__SOURCE__",
       "internal": {
         "type": "InstaNode",
-        "contentDigest": "9df7d7d3a7177a556b57d6298f2342ca",
+        "contentDigest": "181f231303a03122a0d454305ecd36a7",
         "owner": "gatsby-source-instagram"
       },
       "children": [],
-      "likes": 487,
+      "likes": 490,
       "caption": "Orange White Chocolate UVA Macarons 🏀🍫🍊: The NCAA basketball championship game was last night and the University of Virginia men’s team, @uvamenshoops, came out on top!! My lil brother went to UVA and was at the final four games in Minneapolis, so I was *kinda* obligated to cheer for them, but damn did they have some close and exciting last few games 🤟🏻⛹🏼‍♂️ Sports games weren’t really a thing people went to at my alma mater (and when we did have games I was most likely across the street in the engineering lab lol), so it was exciting to cheer for a team that actually is now National Champs! Basketball has always been a big part of my life. My brother and I both played in HS (both pretty tall, but he’s much better than me), heavily influenced by our dad who still plays and wrecks multiple times a week in his mellow yellow league - So making these were super fun! #wahoowa #gohoos @uva @virginiasports\n.\nThe base macaron recipe from @cloudykitchen & @foxandcrane , adding in 1/2 tsp of orange and 1/2 tsp of vanilla extract.  Filling is a whipped white chocolate ganache, tinted with butterfly pea flowers. @wiltoncakes stars and decorating pen. .\nTo make ganache, bring 300g of heavy cream to a boil and add a handful of butterfly pea flowers steep for about 10 min. Pour over 16oz of white chocolate, chopped + 2 Tbsp of butter.  Let sit for 3 min then stir until smooth.  Chill in the fridge for 1-2 hours.  Put ganache + 4 Tbsp of butter in bowl of stand mixer with whisk attachment. Whip for at least 5 minutes until light and fluffy.  Add food coloring if you want.\n.\n.\n#uvabasketball #macarons #frenchmacarons #frenchdesserts #macaronlove #orangemacarons #whitechocolateganache #macaronstagram #bakersofinstagram #flatlaytoday @flatlaytoday #foodstyling #feedfeed @thefeedfeed #huffposttaste @thefeedfeed.baking #f52grams @food52 #thebakefeed #bakefromscratch #buzzfeedfood @saveurmag #foodphotography #beautifulcuisines @beautifulcuisines #bakestagram #feedfeedbaking @thrillist #foodiefeature #kingarthurflour #bakefromscratch #nycbaker #gloobyfood #spoonfed #macaronlady @macaronlady",
       "thumbnails": [
         {
@@ -4701,7 +4712,7 @@
           "config_height": 150
         },
         {
-          "src": "https://scontent-lga3-1.cdninstagram.com/vp/6b8b5993eb9825ddba29bc060210de64/5D630EBF/t51.2885-15/e35/c0.135.1080.1080a/s240x240/56169849_376924999568834_3592085654657013295_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+          "src": "https://scontent-lga3-1.cdninstagram.com/vp/f15e47ae4a5fec2a6c952c45694540b7/5D8A9BBF/t51.2885-15/e35/c0.135.1080.1080a/s240x240/56169849_376924999568834_3592085654657013295_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
           "config_width": 240,
           "config_height": 240
         },
@@ -4711,7 +4722,7 @@
           "config_height": 320
         },
         {
-          "src": "https://scontent-lga3-1.cdninstagram.com/vp/1821fa443edeed185cd30c893824070c/5D5EE15F/t51.2885-15/e35/c0.135.1080.1080a/s480x480/56169849_376924999568834_3592085654657013295_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+          "src": "https://scontent-lga3-1.cdninstagram.com/vp/696293d494cd5efc6999aaf02b092d62/5D866E5F/t51.2885-15/e35/c0.135.1080.1080a/s480x480/56169849_376924999568834_3592085654657013295_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
           "config_width": 480,
           "config_height": 480
         },
@@ -4722,8 +4733,8 @@
         }
       ],
       "mediaType": "GraphSidecar",
-      "preview": "https://scontent-lga3-1.cdninstagram.com/vp/f5d5e58e104a4e34006615967cb67804/5D67FB32/t51.2885-15/e35/56169849_376924999568834_3592085654657013295_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
-      "original": "https://scontent-lga3-1.cdninstagram.com/vp/f5d5e58e104a4e34006615967cb67804/5D67FB32/t51.2885-15/e35/56169849_376924999568834_3592085654657013295_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+      "preview": "https://scontent-lga3-1.cdninstagram.com/vp/487f3ba608e1e0b47357ed806438b0af/5D8F8832/t51.2885-15/e35/56169849_376924999568834_3592085654657013295_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+      "original": "https://scontent-lga3-1.cdninstagram.com/vp/487f3ba608e1e0b47357ed806438b0af/5D8F8832/t51.2885-15/e35/56169849_376924999568834_3592085654657013295_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
       "timestamp": 1554848369,
       "dimensions": {
         "height": 1350,
@@ -4797,11 +4808,11 @@
       "parent": "__SOURCE__",
       "internal": {
         "type": "InstaNode",
-        "contentDigest": "df63690586bd326b0385bb332fe3dc3c",
+        "contentDigest": "dfd93181040d9dd238c20e0e2c2b6624",
         "owner": "gatsby-source-instagram"
       },
       "children": [],
-      "likes": 364,
+      "likes": 373,
       "caption": "Dirty Chai Almond Brownies (GF) -  Its currently Passover, and I usually try to keep kosher for passover. That means no wheat, grains or legumes.  A bakers nightmare. My family and I were in Vermont this past weekend and did a small seder in an RV kitchen, which was a sight to be seen 😂 It was lovely, we skied and hiked! I bought some chai infused honey while there, which inspired these brownies.  I altered a GF Brownie recipe i found on @kingarthurflour , reducing the sugar almost by half since I probably was gonna eat most of these myself, adding some honey, chai spices, espresso and chopped unsweetened @callebautchocolate chocolate (regular chocolate usually has soy lecithin, which isn’t K for P - according to some). Altered Recipe below! - 5 tbsp butter, melted\n- 2/3 cup sugar\n- 6 tbsp honey\n- 1/2 tsp salt\n- 1 tsp vanilla\n- 1 tsp ginger, 1/2 tsp cinnamon, 1/2 tsp cardamon, 1/4 tsp allspice, 1/4 tsp cloves\n- 1/2 tsp instant espresso, dissolved in 2 tsp hot water\n- 3/4 cup cocoa powder\n- 3 large eggs\n- 1 1/2 cups almond flour\n- 1 teaspoon baking powder\n- 4oz unsweetened chocolate, chopped\n- Maldon salt for finishing\n\nPreheat oven to 350.  Mix butter, sugars, salt, vanilla, spices, espresso, cocoa and eggs in a bowl until smooth. Then mix in almond flour and baking powder.  Add in chocolate till just mixed.  Put into a parchment paper lined 8x8 pan.  Bake for 35 min until set. Cool for 15.\n\n#kosherforpassover #brownies  #chocolatebrownies #glutenfree #glutenfreerecipes #glutenfreedesserts #passoverdesserts #kosherfood #almondbrownies #brownieslover  #bakersofinstagram #flatlaytoday @flatlaytoday #foodstyling #feedfeed @thefeedfeed #huffposttaste @thefeedfeed.baking #f52grams @food52 #thebakefeed #bakefromscratch #buzzfeedfood @saveurmag #foodphotography #beautifulcuisines @beautifulcuisines #bakestagram #feedfeedbaking @thrillist  #wsbakeclub #foodiefeature #kingarthurflour #bakefromscratch #nycbaker #gloobyfood",
       "thumbnails": [
         {
@@ -4820,7 +4831,7 @@
           "config_height": 320
         },
         {
-          "src": "https://scontent-lga3-1.cdninstagram.com/vp/67439b20d80c5559d20df6d5b15da5dd/5D65BED2/t51.2885-15/e35/c0.100.1080.1080a/s480x480/56580646_401112450471401_3678505825225721183_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+          "src": "https://scontent-lga3-1.cdninstagram.com/vp/3ece95cf376d8d54b3d39f0e1663f69f/5D8D4BD2/t51.2885-15/e35/c0.100.1080.1080a/s480x480/56580646_401112450471401_3678505825225721183_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
           "config_width": 480,
           "config_height": 480
         },
@@ -4858,15 +4869,15 @@
       "parent": "__SOURCE__",
       "internal": {
         "type": "InstaNode",
-        "contentDigest": "90649e5129b36511fade9c1317dbcd88",
+        "contentDigest": "9f542cfc2fd722f9797b027c0fbfbbb5",
         "owner": "gatsby-source-instagram"
       },
       "children": [],
-      "likes": 284,
+      "likes": 285,
       "caption": "Cardamom Vanilla Halva: As someone of you may know from my stories, I bought a large quality of @soomfoods tahini last year and have been slowly working my way though it / giving it out to friends and family.  I recently opened up the “bucket” to  fill up some jars and thought it was time to try and make halva. .\nHalva is a traditional middle eastern / Israeli candy thats basically made of tahini and sugar and has a crumbly texture.  Its one of my favorite sweets and I can’t believe I had never made it! There are a few companies in NYC that make great flavored halva but its pretty expensive per pound.  This recipe literally took me 20 minutes to make and produced probably about 1.5lbs. Great use of tahini if you’ve had a jar sitting in the back of your cabinet for a while!\n.\nI used the salted chocolate halva recipe from @bonappetitmag as the starting off point\n- 1 ½ cups tahini\n- ¼ tsp. kosher salt\n- 4 Tbsp. black and white sesame seeds, mixed\n- 1 ½ cups sugar\n- 1 tsp cardamom\n- 1 tsp vanilla extract\n- flaky sea salt\nLine a 8x8 pan with parchment.  Mix tahini, salt, 1/2 of the sesame seeds, cardamom in a medium bowl.  In a small saucepan with a candy thermometer over low heat, cook sugar, vanilla + 1/2 cup water until sugar is dissolved.  Increase to medium-high and cook, without stirring it. Once the thermometer reads 250˚, slowly pour the sugar syrup into the tahini mix, mixing constantly until it starts to pull away from the bowl.  Scrape into the pan, sprinkle the remaining seeds + flaky sea salt and let completely cool.  Cut and enjoy!\n.\n.\n#halva #israelifood #israeligram #homemadecandy #tahini #candy #tahinirecipes @flatlaytoday #foodstyling #feedfeed @thefeedfeed #huffposttaste @thefeedfeed.baking #f52grams @food52 #thebakefeed #bakefromscratch #buzzfeedfood @saveurmag #foodphotography #beautifulcuisines @beautifulcuisines #bakestagram #feedfeedbaking @thrillist  #wsbakeclub #foodtographyschool #foodiefeature #kingarthurflour #bakefromscratch #nycbaker #gloobyfood #spoonfed",
       "thumbnails": [
         {
-          "src": "https://scontent-lga3-1.cdninstagram.com/vp/4c9dcf6dc1f5909a5f9bfa26eb9b7ec3/5D68AD31/t51.2885-15/e35/c0.135.1080.1080a/s150x150/54277403_289898211911479_2735579724844245838_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+          "src": "https://scontent-lga3-1.cdninstagram.com/vp/39eef4d5612aff5fc04ea48f4bb585d2/5D903A31/t51.2885-15/e35/c0.135.1080.1080a/s150x150/54277403_289898211911479_2735579724844245838_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
           "config_width": 150,
           "config_height": 150
         },
@@ -4886,14 +4897,14 @@
           "config_height": 480
         },
         {
-          "src": "https://scontent-lga3-1.cdninstagram.com/vp/bc8146f76c8d686b826f8d03c2234b0e/5D5E42FA/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/54277403_289898211911479_2735579724844245838_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+          "src": "https://scontent-lga3-1.cdninstagram.com/vp/fbec29d5fe1afe48f9608acd6a96456e/5D85CFFA/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/54277403_289898211911479_2735579724844245838_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
           "config_width": 640,
           "config_height": 640
         }
       ],
       "mediaType": "GraphImage",
-      "preview": "https://scontent-lga3-1.cdninstagram.com/vp/f853da19be2ac73308004e3f7c637976/5D6517F6/t51.2885-15/e35/54277403_289898211911479_2735579724844245838_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
-      "original": "https://scontent-lga3-1.cdninstagram.com/vp/f853da19be2ac73308004e3f7c637976/5D6517F6/t51.2885-15/e35/54277403_289898211911479_2735579724844245838_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+      "preview": "https://scontent-lga3-1.cdninstagram.com/vp/2f6f2c25941b8954c58b9d5fbb2efbbc/5D8CA4F6/t51.2885-15/e35/54277403_289898211911479_2735579724844245838_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+      "original": "https://scontent-lga3-1.cdninstagram.com/vp/2f6f2c25941b8954c58b9d5fbb2efbbc/5D8CA4F6/t51.2885-15/e35/54277403_289898211911479_2735579724844245838_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
       "timestamp": 1553810965,
       "dimensions": {
         "height": 1350,
@@ -4967,11 +4978,11 @@
       "parent": "__SOURCE__",
       "internal": {
         "type": "InstaNode",
-        "contentDigest": "cc92379cdd670730a9ce8b8ab033670f",
+        "contentDigest": "b340e8d029de17b18be95e6328ace5ca",
         "owner": "gatsby-source-instagram"
       },
       "children": [],
-      "likes": 1021,
+      "likes": 1119,
       "caption": "Raspberry Rose Macarons 🌹: l I made these for a friend’s girls night a little while back.  She sent me photos of the stands and table runner she had bought for the event and I tried to match the pink and gold theme. The gold specks was so easy and really elevated the macarons.  The subtle flavor combo was a keeper.  #macaronmonday\n. .\nI added ground freeze-dried raspberries to a vanilla shell recipe (replaced about 20g of the powdered sugar) and rose water + raspberry extract to an American buttercream. I didn’t give my self too much time to create/assemble these, so they’re on the simple side. I also solely use silpat mats for these (I usually use parchment), and had a lot of issues getting them off the mats.  I guess I’ll stick with parchment going forward. 🤷‍♀️ Base shell recipe from @cloudykitchen & @foxandcrane\n.\n.\n.\n#macarons #frenchmacarons #frenchdesserts #macaronlove #rosemacarons #rose #raspberry #macaronstagram  #macaronlady #bakersofinstagram @flatlaytoday #flaylaytoday #foodstyling #feedfeed @thefeedfeed #huffposttaste @thefeedfeed.baking #f52grams @food52 #thebakefeed #bakefromscratch #buzzfeedfood @saveurmag #foodphotography #beautifulcuisines @beautifulcuisines #bakestagram #feedfeedbaking @thrillist  #wsbakeclub #foodtographyschool #foodiefeature #bobsredmill #bakefromscratch #nycbaker #imsomartha #f52bright",
       "thumbnails": [
         {
@@ -4980,7 +4991,7 @@
           "config_height": 150
         },
         {
-          "src": "https://scontent-lga3-1.cdninstagram.com/vp/f709b67e06b18557209656b6a06cd57b/5D667331/t51.2885-15/e35/c0.141.1440.1440a/s240x240/57506247_430538874409343_1447768991249017709_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+          "src": "https://scontent-lga3-1.cdninstagram.com/vp/5a691d3a9c1971ae688808945f14fdcf/5D8E0031/t51.2885-15/e35/c0.141.1440.1440a/s240x240/57506247_430538874409343_1447768991249017709_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
           "config_width": 240,
           "config_height": 240
         },
@@ -4995,7 +5006,7 @@
           "config_height": 480
         },
         {
-          "src": "https://scontent-lga3-1.cdninstagram.com/vp/7c56fd09341bad42fa874d3042e096b7/5D6000B0/t51.2885-15/sh0.08/e35/c0.141.1440.1440a/s640x640/57506247_430538874409343_1447768991249017709_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+          "src": "https://scontent-lga3-1.cdninstagram.com/vp/a90cc884a130dfe952b57a90d3864952/5D878DB0/t51.2885-15/sh0.08/e35/c0.141.1440.1440a/s640x640/57506247_430538874409343_1447768991249017709_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
           "config_width": 640,
           "config_height": 640
         }
@@ -5008,7 +5019,7 @@
         "height": 1292,
         "width": 1080
       },
-      "comments": 46,
+      "comments": 47,
       "localFile___NODE": "cf7adbb7-69b8-54bd-b81d-6f91e21eb3a6"
     },
     "BvxRn0Yl1aT": {
@@ -5018,11 +5029,11 @@
       "parent": "__SOURCE__",
       "internal": {
         "type": "InstaNode",
-        "contentDigest": "6817143b92df09a12003579100b78159",
+        "contentDigest": "1d5cda97b1875f88164e8c7316e1a64c",
         "owner": "gatsby-source-instagram"
       },
       "children": [],
-      "likes": 378,
+      "likes": 381,
       "caption": "Strawberry Balsamic Pie: I just wanted to share the baked version of the pie I made for Pi(e) Day a few weeks ago! It’s a strawberry balsamic pie with beet root colored dough, painstakingly woven while watching too much tv.\n.\nPie recipe is from The Four & Twenty Blackbirds Pie Book @birdsblack! Lattice inspired by @lokokitchen .\n.\n#pie #strawberrypie #latticepie #latticecrust #pieart #pieday #pastryart #piepiepie #bakersofinstagram #flatlaytoday #piesofinstagram @flatlaytoday #foodstyling #feedfeed @thefeedfeed #huffposttaste @thefeedfeed.baking #f52grams @food52 #thebakefeed #bakefromscratch #buzzfeedfood @saveurmag #foodphotography #beautifulcuisines @beautifulcuisines #bakestagram #feedfeedbaking @thrillist  #wsbakeclub #foodtographyschool #foodiefeature #kingarthurflour #bakefromscratch #nycbaker #inmykitchen #spoonfed",
       "thumbnails": [
         {
@@ -5036,7 +5047,7 @@
           "config_height": 240
         },
         {
-          "src": "https://scontent-lga3-1.cdninstagram.com/vp/1d360dfffafa3c4f09abcb3939124686/5D64DC6A/t51.2885-15/e35/c0.123.1080.1080a/s320x320/53343724_660354197715003_585569267628737833_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+          "src": "https://scontent-lga3-1.cdninstagram.com/vp/9ca174e71841d5392a557f98d69b43c7/5D8C696A/t51.2885-15/e35/c0.123.1080.1080a/s320x320/53343724_660354197715003_585569267628737833_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
           "config_width": 320,
           "config_height": 320
         },
@@ -5046,7 +5057,7 @@
           "config_height": 480
         },
         {
-          "src": "https://scontent-lga3-1.cdninstagram.com/vp/69a987b134e202069552a773d0ed9cc0/5D65FA83/t51.2885-15/sh0.08/e35/c0.123.1080.1080a/s640x640/53343724_660354197715003_585569267628737833_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+          "src": "https://scontent-lga3-1.cdninstagram.com/vp/ac258e9610f7b44c90705b96c59f519d/5D8D8783/t51.2885-15/sh0.08/e35/c0.123.1080.1080a/s640x640/53343724_660354197715003_585569267628737833_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
           "config_width": 640,
           "config_height": 640
         }
@@ -5127,7 +5138,7 @@
       "parent": "__SOURCE__",
       "internal": {
         "type": "InstaNode",
-        "contentDigest": "9babe17dd0080e119bd1026b5764657c",
+        "contentDigest": "52cace60bc4ce3adb6c6a65539e4e09d",
         "owner": "gatsby-source-instagram"
       },
       "children": [],
@@ -5135,7 +5146,7 @@
       "caption": "Strawberry Balsamic Pie: Its Pi Day 🥧, one of the best internet/real life holidays around! It combines two or my passions perfectly, baking (pie) and engineering/math (pi)\n.\nI remember celebrating the holiday in High School with the Mu Alpha THeta (math) club (yes i was so cool) - we made t-shirts with all the numbers of Pi and just ate a ton of dessert. Fast forward 10 years, and I’m still that nerd wearing a blouse with numbers all over it (at least its designer now :P), working in tech as an software eng, bringing in pie for coworkers. Some things never change. .\nPie recipe from The Four & Twenty Blackbirds Pie Book @birdsblack ! After forming the dough and splitting it, i kneaded in some beet powder to achieve the pinkish dough.  @lokokitchen is lattice inspiration/goals always . Ill post the baked version soon! The color baked out a bit but still looks 💯\n.\n.\n.\n#pie #piday #strawberrypie #latticepie #pieart #happypiday #pieday #pastryart #bakersofinstagram #flatlaytoday #piesofinstagram @flatlaytoday #foodstyling #feedfeed @thefeedfeed #huffposttaste @thefeedfeed.baking #f52grams @food52 #thebakefeed #bakefromscratch #buzzfeedfood @saveurmag #foodphotography #beautifulcuisines @beautifulcuisines #bakestagram #feedfeedbaking @thrillist  #wsbakeclub #foodtographyschool #foodiefeature #kingarthurflour #bakefromscratch #nycbaker #spoonfeed",
       "thumbnails": [
         {
-          "src": "https://scontent-lga3-1.cdninstagram.com/vp/5b1f9bcdcd3d7946167bcd1698ccbf38/5D62BBB2/t51.2885-15/e35/c0.52.1080.1080a/s150x150/53123477_2235578659867912_570053385702222590_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+          "src": "https://scontent-lga3-1.cdninstagram.com/vp/0de1e44c7e12c3d1ddaaf8d5b176752d/5D8A48B2/t51.2885-15/e35/c0.52.1080.1080a/s150x150/53123477_2235578659867912_570053385702222590_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
           "config_width": 150,
           "config_height": 150
         },
@@ -5155,14 +5166,14 @@
           "config_height": 480
         },
         {
-          "src": "https://scontent-lga3-1.cdninstagram.com/vp/44c0760374b9b3dcc9964404c0b7df18/5D6135A9/t51.2885-15/sh0.08/e35/c0.52.1080.1080a/s640x640/53123477_2235578659867912_570053385702222590_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+          "src": "https://scontent-lga3-1.cdninstagram.com/vp/f5a5b77f683940b8e76feb3154c6ddd0/5D88C2A9/t51.2885-15/sh0.08/e35/c0.52.1080.1080a/s640x640/53123477_2235578659867912_570053385702222590_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
           "config_width": 640,
           "config_height": 640
         }
       ],
       "mediaType": "GraphImage",
-      "preview": "https://scontent-lga3-1.cdninstagram.com/vp/5cf96af236e5e003aa293dfffd1ceb57/5D68D66A/t51.2885-15/e35/53123477_2235578659867912_570053385702222590_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
-      "original": "https://scontent-lga3-1.cdninstagram.com/vp/5cf96af236e5e003aa293dfffd1ceb57/5D68D66A/t51.2885-15/e35/53123477_2235578659867912_570053385702222590_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+      "preview": "https://scontent-lga3-1.cdninstagram.com/vp/5ae8ae61d9735f7f28a03bc94964bf84/5D90636A/t51.2885-15/e35/53123477_2235578659867912_570053385702222590_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+      "original": "https://scontent-lga3-1.cdninstagram.com/vp/5ae8ae61d9735f7f28a03bc94964bf84/5D90636A/t51.2885-15/e35/53123477_2235578659867912_570053385702222590_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
       "timestamp": 1552581267,
       "dimensions": {
         "height": 1184,
@@ -5284,15 +5295,15 @@
       "parent": "__SOURCE__",
       "internal": {
         "type": "InstaNode",
-        "contentDigest": "2b1e06e5ae513640a420e9ec3315e013",
+        "contentDigest": "c5ed2a41257aa911a1f162de4d1c1e5e",
         "owner": "gatsby-source-instagram"
       },
       "children": [],
-      "likes": 790,
+      "likes": 836,
       "caption": "Salted Chocolate Chunk Shortbread cookies: Just checking in to say hi to the ig world! I’ve been really busy the past few weeks and haven’t really been able to bake much, so I’m posting these cookies I made a while ago because they are just always so damn good every time I make them. Ive really been struggling between work (I have a full time tech job), seeing friends, working out 4-5 times a week, and dating to actually carve out time to spend an entire evening in the kitchen baking on top of making dinner. (I’m currently writing this waiting for my intramural b-ball game) Anyone feel the same? Maybe I need to time manage better or do less but what’s an overachieving girl to do? 🤷🏼‍♀️ recipe by @alisoneroman . .\n#saltedchocolatechunkcookies  #maldonsalt #salt #chocolatechipcookies #chocolatechipshortbread #chocolatechipcookie #cookies #chocolatecookies #cookielove #bakersofinstagram  @flatlaytoday #flaylaytoday #foodstyling #feedfeed @thefeedfeed #huffposttaste @thefeedfeed.baking #f52grams @food52 #thebakefeed #bakefromscratch #buzzfeedfood @saveurmag #foodphotography #beautifulcuisines @beautifulcuisines #bakestagram #feedfeedbaking @thrillist  #wsbakeclub #foodtographyschool #foodiefeature #bobsredmill #bakefromscratch #nycbaker",
       "thumbnails": [
         {
-          "src": "https://scontent-lga3-1.cdninstagram.com/vp/9c7443e36ad2771c633fd47d7aa89977/5D5F488B/t51.2885-15/e35/c0.114.1440.1440/s150x150/60527002_135322077561170_4338801736823300806_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+          "src": "https://scontent-lga3-1.cdninstagram.com/vp/3f55fba0450a44f931fa7569730dc464/5D86D58B/t51.2885-15/e35/c0.114.1440.1440/s150x150/60527002_135322077561170_4338801736823300806_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
           "config_width": 150,
           "config_height": 150
         },
@@ -5312,20 +5323,20 @@
           "config_height": 480
         },
         {
-          "src": "https://scontent-lga3-1.cdninstagram.com/vp/f87936149e2bcbc2244a2007e0a81fe7/5D69A590/t51.2885-15/sh0.08/e35/c0.114.1440.1440/s640x640/60527002_135322077561170_4338801736823300806_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+          "src": "https://scontent-lga3-1.cdninstagram.com/vp/92ad8b7175051b0ba8811f4c2138aeaa/5D913290/t51.2885-15/sh0.08/e35/c0.114.1440.1440/s640x640/60527002_135322077561170_4338801736823300806_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
           "config_width": 640,
           "config_height": 640
         }
       ],
       "mediaType": "GraphImage",
-      "preview": "https://scontent-lga3-1.cdninstagram.com/vp/ad57d14de8b59cdd206e849644ae6029/5D679618/t51.2885-15/e35/p1080x1080/60527002_135322077561170_4338801736823300806_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
-      "original": "https://scontent-lga3-1.cdninstagram.com/vp/ad57d14de8b59cdd206e849644ae6029/5D679618/t51.2885-15/e35/p1080x1080/60527002_135322077561170_4338801736823300806_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+      "preview": "https://scontent-lga3-1.cdninstagram.com/vp/6233a27eda0b2962ec89ee3c9eeddb70/5D8F2318/t51.2885-15/e35/p1080x1080/60527002_135322077561170_4338801736823300806_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+      "original": "https://scontent-lga3-1.cdninstagram.com/vp/6233a27eda0b2962ec89ee3c9eeddb70/5D8F2318/t51.2885-15/e35/p1080x1080/60527002_135322077561170_4338801736823300806_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
       "timestamp": 1558486553,
       "dimensions": {
         "height": 1251,
         "width": 1080
       },
-      "comments": 46,
+      "comments": 49,
       "localFile___NODE": "606bb624-c297-5eed-b3bf-48c69bb84c09"
     },
     "fbe7dce7-847e-525e-b395-5cde0476e153": {
@@ -5345,20 +5356,20 @@
       "parent": "__SOURCE__",
       "internal": {
         "type": "InstaNode",
-        "contentDigest": "ee3e709a22ee5a6c5516ae01820b08e1",
+        "contentDigest": "a660d5010b965a6db9c6e0d78db788f0",
         "owner": "gatsby-source-instagram"
       },
       "children": [],
-      "likes": 328,
+      "likes": 329,
       "caption": "Halva Jam Hamentashen: PSA - Purim is tomorrow! I’ve been wanting to make these forever! I am a huge fan of halva/tahini (hence my purchase of @tahinibucket) and these are heavenly! The halva spread is basically tahini, honey, (I used some date syrup too!), cinnamon and vanilla and is really freakin addicting. Hamentashen is a traditional shortbread cookie filled with jam or chocolate that’s triangle shaped to represent Haman’s hat, one of the bad guys in the Purim story. .\n.\nRecipe is by @mollyyeh and i pretty much followed it to a T! Used four berry jam by @bonnemaman_us . I added an egg wash to make them a bit more shiny\n.\n.\n#hamentashen #jamhamentashen #halva #purim #purim2019 #jewishbaking #jewishfood #cookies @flatlaytoday #foodstyling #feedfeed @thefeedfeed #huffposttaste @thefeedfeed.baking #f52grams @food52 #thebakefeed #bakefromscratch #buzzfeedfood @saveurmag #foodphotography #beautifulcuisines @beautifulcuisines #bakestagram #feedfeedbaking @thrillist  #wsbakeclub #foodtographyschool #foodiefeature #kingarthurflour #bakefromscratch #nycbaker #globyfood #spoonfeed",
       "thumbnails": [
         {
-          "src": "https://scontent-lga3-1.cdninstagram.com/vp/cc8bb0baa6e2892d4dfd5ffcbe0e8627/5D696932/t51.2885-15/e35/c0.135.1080.1080a/s150x150/53262999_570017240176478_5977848100161686334_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+          "src": "https://scontent-lga3-1.cdninstagram.com/vp/96ff46c72012a20c6b0bbaeb2d5b0991/5D90F632/t51.2885-15/e35/c0.135.1080.1080a/s150x150/53262999_570017240176478_5977848100161686334_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
           "config_width": 150,
           "config_height": 150
         },
         {
-          "src": "https://scontent-lga3-1.cdninstagram.com/vp/24ff65909037031783f9a5f5ec38f952/5D637C78/t51.2885-15/e35/c0.135.1080.1080a/s240x240/53262999_570017240176478_5977848100161686334_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+          "src": "https://scontent-lga3-1.cdninstagram.com/vp/a3a1b0e3a479ce05c6ed47b2c7e7b60d/5D8B0978/t51.2885-15/e35/c0.135.1080.1080a/s240x240/53262999_570017240176478_5977848100161686334_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
           "config_width": 240,
           "config_height": 240
         },
@@ -5396,11 +5407,11 @@
       "parent": "__SOURCE__",
       "internal": {
         "type": "InstaNode",
-        "contentDigest": "1017c8c793799de8ab4f1f796fc67411",
+        "contentDigest": "56f2d0a29d6fe2e313c5010033cb9efd",
         "owner": "gatsby-source-instagram"
       },
       "children": [],
-      "likes": 267,
+      "likes": 273,
       "caption": "Cheesecake stuffed chocolate bundt cake with blood orange glaze: Blood orange season is coming to a close, but I had to make one more thing with these beautifully colored fruit! The recipe is from @livforcake + a simple sugar glaze for an extra special effect.  The cake was SOOO good and moist, i highly recommend! I made this cake for a Game of Thrones party (trying to make it look like blood inside, geared up for the battle of winterfell), but I ended up with a beautiful shade of pink inside and out.  It happens 🤷‍♀️ .\n.\n.\n#bundtcake #chocolatecake #nordicware #lovetobake #bloodorange #cakedecorating #cake #cakes #creamcheesefilling #cakesofig #foodstyling #feedfeed @thefeedfeed #huffposttaste @thefeedfeed.baking #f52grams @food52 #thebakefeed #bakefromscratch #buzzfeedfood @saveurmag #foodphotography #beautifulcuisines @beautifulcuisines #bakestagram #feedfeedbaking @thrillist  #wsbakeclub #foodtographyschool #foodiefeature #kingarthurflour #bakefromscratch #nycbaker #spoonfed #cheesecake",
       "thumbnails": [
         {
@@ -5409,22 +5420,22 @@
           "config_height": 150
         },
         {
-          "src": "https://scontent-lga3-1.cdninstagram.com/vp/a35a4eb63cdef9839affa8fe3645a98c/5D6814C0/t51.2885-15/e35/c0.135.1080.1080a/s240x240/57321708_134348001043295_2857087335048438336_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+          "src": "https://scontent-lga3-1.cdninstagram.com/vp/378210dc461b8934932ee5596d474419/5D8FA1C0/t51.2885-15/e35/c0.135.1080.1080a/s240x240/57321708_134348001043295_2857087335048438336_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
           "config_width": 240,
           "config_height": 240
         },
         {
-          "src": "https://scontent-lga3-1.cdninstagram.com/vp/8d7e2a457806aa2dc565891d01448e1d/5D68BB7A/t51.2885-15/e35/c0.135.1080.1080a/s320x320/57321708_134348001043295_2857087335048438336_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+          "src": "https://scontent-lga3-1.cdninstagram.com/vp/1886ff6655c3d7491f0a7d970ae727ba/5D90487A/t51.2885-15/e35/c0.135.1080.1080a/s320x320/57321708_134348001043295_2857087335048438336_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
           "config_width": 320,
           "config_height": 320
         },
         {
-          "src": "https://scontent-lga3-1.cdninstagram.com/vp/0143f18f8ee11269b26837d581040763/5D651220/t51.2885-15/e35/c0.135.1080.1080a/s480x480/57321708_134348001043295_2857087335048438336_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+          "src": "https://scontent-lga3-1.cdninstagram.com/vp/4815917d9ef0a8f474f877b3e6298fc8/5D8C9F20/t51.2885-15/e35/c0.135.1080.1080a/s480x480/57321708_134348001043295_2857087335048438336_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
           "config_width": 480,
           "config_height": 480
         },
         {
-          "src": "https://scontent-lga3-1.cdninstagram.com/vp/d9ff20bc08d19d209873e68d7d8d027b/5D66E341/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/57321708_134348001043295_2857087335048438336_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+          "src": "https://scontent-lga3-1.cdninstagram.com/vp/3fe22f05a921986705f88bcec2fdd4b7/5D8E7041/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/57321708_134348001043295_2857087335048438336_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
           "config_width": 640,
           "config_height": 640
         }
@@ -5543,11 +5554,11 @@
       "parent": "__SOURCE__",
       "internal": {
         "type": "InstaNode",
-        "contentDigest": "cf7c6806c0c6e9035729bec1b9bd9da1",
+        "contentDigest": "87bb0ae2c7946c1e7d59e8cae7af8af2",
         "owner": "gatsby-source-instagram"
       },
       "children": [],
-      "likes": 294,
+      "likes": 295,
       "caption": "Healthy-ish Strawberry Zucchini?! Poptarts: (+Recipe) What’s a better way to start your lazy Sunday with these healthy-ish pop tarts?! I say -ish because that sugar glaze is definitely not helping my case, but there’s zucchini inside! Thats healthy! And chia seeds! 😂 I had strawberries and zucchini in my fridge and thought can I jam it? Yes I can apparently. And its super good. I have been eating the left over jam for days on crackers and in my yogurt.  Jam fruit to sugar usually are 2:1.  However, the chia seeds expand to give it a jammy texture, which allows for very little sugar be added and it still keeps that consistency. Let me know if you try making the jam or pop tart! Recipe below!\n.\n.\nStrawberry Zucchini Chia Jam\n- 1 lb strawberries, diced\n- 1 cup shredded zucchini (about 1 zucchini)\n- 1/2 cup (3.5oz) sugar\n- 1 tablespoon lemon juice\n- 1/4 cup chia seeds\n- 1/4 teaspoon salt\nDough - 1 pie dough recipe -  I used the recipe from @birdsblack which is GREAT, but any pie crust recipe, homemade or not works!\nGlaze\n- 1 cup powdered sugar\n- 4 Tbsp heavy cream\n- 1/2 tsp vanilla extract\n- Sprinkles\n.\nMakes 15\nJam - Add strawberries and zucchini in a medium saucepan and cook on medium heat until they start to break down a bit, 5-6 min. Add sugar, lemon juice and salt. Cook for another 5 min, making sure you stir the pot frequently to prevent burning and that the jam dissolves.  Add the chia seeds and cook for an additional 10 minutes, or until its at a jam like consistently.  The chia seeds should get plump.  Pour into a jar and let cool completely.\nPoptarts - Roll out the prepared chilled dough and cut 2.5x3in rectangles. Fill with a tablespoon or so of jam and pinch the edges, crimping with a fork.  Bake at 375 for 20-25 min or until golden.  Mix glaze ingredients and drizzle over pop tarts once cooled.  Add sprinkles\n.\n.\n#homemadepoptarts #strawberrypoptarts #healthyish #healthyrecipes #homemade #poptarts #healthy #breakfast #zucc#handpies #piecrust @flatlaytoday #foodstyling #feedfeed @thefeedfeed #huffposttaste @thefeedfeed.baking #f52grams @food52 #thebakefeed #bakefromscratch #nycbaker #globyfood #gloobyfood #spoonfed #imsomartha #bakestagram #f52bright",
       "thumbnails": [
         {
@@ -5577,8 +5588,8 @@
         }
       ],
       "mediaType": "GraphSidecar",
-      "preview": "https://scontent-lga3-1.cdninstagram.com/vp/74cae5f6b53a9dee0b033b8f5c8cacf1/5D60DE46/t51.2885-15/e35/53241118_374987686681081_5701807044331753989_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
-      "original": "https://scontent-lga3-1.cdninstagram.com/vp/74cae5f6b53a9dee0b033b8f5c8cacf1/5D60DE46/t51.2885-15/e35/53241118_374987686681081_5701807044331753989_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+      "preview": "https://scontent-lga3-1.cdninstagram.com/vp/d09ce0d9d8e20048c47d617ff7cd9f11/5D886B46/t51.2885-15/e35/53241118_374987686681081_5701807044331753989_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+      "original": "https://scontent-lga3-1.cdninstagram.com/vp/d09ce0d9d8e20048c47d617ff7cd9f11/5D886B46/t51.2885-15/e35/53241118_374987686681081_5701807044331753989_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
       "timestamp": 1553442553,
       "dimensions": {
         "height": 1258,
@@ -5614,11 +5625,11 @@
       "parent": "__SOURCE__",
       "internal": {
         "type": "InstaNode",
-        "contentDigest": "249d0af6caeddda0126bd88c81f1b939",
+        "contentDigest": "eb873a65854cfe651567cf0ea144f19a",
         "owner": "gatsby-source-instagram"
       },
       "children": [],
-      "likes": 253,
+      "likes": 257,
       "caption": "Rye and Tahini Chocolate Chip Cookies: Just a little fresh outta the oven cookie porn for ya this Thursday!  Its almost the end of the week and the weather in NYC is finally starting to feel like spring, which means it time to celebrate.  Currently my favorite cookie recipe is this Rye and Tahini CCC from @boywhobakes. I am slightly impartial to anything with tahini and sesame seeds in it, but I’m telling you these are dope! The rye adds great depth and the seeds give a nice crunch while still being soft inside 🤤 I may have eaten like 4 in a row as soon as these came out of the oven #livingmybestlife .\n.\n#chocolatechipcookies #chocolatechipcookie #cookies #chocolatecookies #tahinicookies  #tahini #cookielove #flatlay @flatlaytoday #foodstyling #feedfeed @thefeedfeed #huffposttaste @thefeedfeed.baking #f52grams @food52 #thebakefeed #bakefromscratch #buzzfeedfood @saveurmag #foodphotography #beautifulcuisines @beautifulcuisines #bakestagram #feedfeedbaking @thrillist  #wsbakeclub #foodtographyschool #foodiefeature #kingarthurflour #bakefromscratch #nycbaker #gloobyfood #spoonfed #heresmyfood #rslove",
       "thumbnails": [
         {
@@ -5632,12 +5643,12 @@
           "config_height": 240
         },
         {
-          "src": "https://scontent-lga3-1.cdninstagram.com/vp/d6c1facae7da81ed2bb2681a41ee013b/5D6466AF/t51.2885-15/e35/c0.135.1080.1080a/s320x320/54247451_424281078328898_8236261047579884519_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+          "src": "https://scontent-lga3-1.cdninstagram.com/vp/98aa4447c5080b5fc4d80e4f3df889e3/5D8BF3AF/t51.2885-15/e35/c0.135.1080.1080a/s320x320/54247451_424281078328898_8236261047579884519_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
           "config_width": 320,
           "config_height": 320
         },
         {
-          "src": "https://scontent-lga3-1.cdninstagram.com/vp/64382f396eeeefeb45ffdfceaab8c48c/5D6678F5/t51.2885-15/e35/c0.135.1080.1080a/s480x480/54247451_424281078328898_8236261047579884519_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+          "src": "https://scontent-lga3-1.cdninstagram.com/vp/599787d951168ad729ddecdaab48a253/5D8E05F5/t51.2885-15/e35/c0.135.1080.1080a/s480x480/54247451_424281078328898_8236261047579884519_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
           "config_width": 480,
           "config_height": 480
         },
@@ -5648,8 +5659,8 @@
         }
       ],
       "mediaType": "GraphImage",
-      "preview": "https://scontent-lga3-1.cdninstagram.com/vp/70f9928722f2dfc6dab935121a1f15e9/5D67B398/t51.2885-15/e35/54247451_424281078328898_8236261047579884519_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
-      "original": "https://scontent-lga3-1.cdninstagram.com/vp/70f9928722f2dfc6dab935121a1f15e9/5D67B398/t51.2885-15/e35/54247451_424281078328898_8236261047579884519_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+      "preview": "https://scontent-lga3-1.cdninstagram.com/vp/bfa1dcc233caf232cccd9c6361c10660/5D8F4098/t51.2885-15/e35/54247451_424281078328898_8236261047579884519_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+      "original": "https://scontent-lga3-1.cdninstagram.com/vp/bfa1dcc233caf232cccd9c6361c10660/5D8F4098/t51.2885-15/e35/54247451_424281078328898_8236261047579884519_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
       "timestamp": 1554417021,
       "dimensions": {
         "height": 1350,
@@ -5665,11 +5676,11 @@
       "parent": "__SOURCE__",
       "internal": {
         "type": "InstaNode",
-        "contentDigest": "381afa50afce8a810034bf5efef9c197",
+        "contentDigest": "4dd6708d22c8faf62f0965126e2cd6a7",
         "owner": "gatsby-source-instagram"
       },
       "children": [],
-      "likes": 249,
+      "likes": 251,
       "caption": "Blood Orange Key Lime Pie: It is officially pie week! (Recipe below) I spent the past weekend in the Florida panhandle with my parents soaking up the sun, riding bikes and playing with the family cats. I had some leftover blood oranges I wanted to use and since key lime pie is such a Florida staple, we combined the two! (Whenever I’m home, baking is a combined effort with my mom and I - she taught me *most* of what I know 😜) This is her recipe and it’s suuuuper easy with very little ingredients! .\nCrust:\n1c plus 2 ½ tbsp graham cracker crumbs\n5tbsp butter\n1/3c sugar ..\nFilling:\n3 egg yolks\n1 14oz can sweetened condensed milk\n1/3c key lime juice\n1/3c blood orange juice ...\nPreheat oven to 350 degrees.  Butter a 9” pie pan.  Stir together crumbs, butter and sugar until combined well.  Press the mixture into the bottom and sides of the pan.  Bake crust until set and golden, about 8 minutes.  Let cool on a wire rack. .... In an electric mixer with a whisk attachment, beat the egg yolks at a high speed until very fluffy, about 5 minutes.  Gradually add condensed milk and continue to beat until thick, about 3-4 minutes longer.  Lower the mixer speed and slowly add the lime and orange juice, mixing just until combined.  Pour into the crust.  Bake 10 minutes or until just set.  Cool on a wire rack, then refrigerate.  Freeze for 15-20 minutes before serving.\n.....\n#pie #piday #keylimepie #keylime #bloodorange #bakersofinstagram #flatlaytoday @flatlaytoday #foodstyling #feedfeed @thefeedfeed #huffposttaste @thefeedfeed.baking #f52grams @food52 #tastingtable #foooodieee #infatuation @foodandwine #thebakefeed #bakefromscratch #buzzfeedfood @saveurmag #foodphotography #beautifulcuisines @beautifulcuisines #bakestagram #feedfeedbaking @thrillist  #wsbakeclub #foodtographyschool #foodiefeature #kingarthurflour #bakefromscratch #nycbaker #globyfood #spoonfeed",
       "thumbnails": [
         {
@@ -5683,7 +5694,7 @@
           "config_height": 240
         },
         {
-          "src": "https://scontent-lga3-1.cdninstagram.com/vp/42851f388ca682f97a292b218a5c5459/5D66547C/t51.2885-15/e35/s320x320/53345486_2012295839079287_6745481073790942435_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
+          "src": "https://scontent-lga3-1.cdninstagram.com/vp/da28bb7159014dd02c65b99a8c72f58a/5D8DE17C/t51.2885-15/e35/s320x320/53345486_2012295839079287_6745481073790942435_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com",
           "config_width": 320,
           "config_height": 320
         },
@@ -5706,7 +5717,7 @@
         "height": 1080,
         "width": 1080
       },
-      "comments": 8,
+      "comments": 9,
       "localFile___NODE": "91304a12-296a-534d-973b-259e71ba2a08"
     },
     "850a5357-ae22-5af9-92ac-80173c8690e4": {
@@ -5735,43 +5746,436 @@
         "slug": "/about/"
       }
     },
-    "SitePage /offline-plugin-app-shell-fallback/": {
-      "jsonName": "offline-plugin-app-shell-fallback-a30",
-      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
-      "path": "/offline-plugin-app-shell-fallback/",
-      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js",
-      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
-      "context": {},
-      "pluginCreator___NODE": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
-      "pluginCreatorId": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
-      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js",
-      "id": "SitePage /offline-plugin-app-shell-fallback/",
-      "parent": null,
+    "107af2e1-17e5-5f33-93c3-a1b43569a00e": {
+      "id": "107af2e1-17e5-5f33-93c3-a1b43569a00e",
       "children": [],
+      "parent": null,
       "internal": {
-        "type": "SitePage",
-        "contentDigest": "c2137cd574232121fb44522c094051bb",
-        "description": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
-        "owner": "internal-data-bridge"
+        "contentDigest": "23a87f7884e941fc77840d232b4c906b",
+        "type": "Directory",
+        "description": "Directory \"content/blog/berry-rhubarb-bars\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "blog",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/berry-rhubarb-bars",
+      "relativePath": "berry-rhubarb-bars",
+      "extension": "",
+      "size": 288,
+      "prettySize": "288 B",
+      "modifiedTime": "2019-05-30T02:36:33.492Z",
+      "accessTime": "2019-05-30T03:51:22.525Z",
+      "changeTime": "2019-05-30T02:36:33.492Z",
+      "birthTime": "2019-05-30T01:59:08.263Z",
+      "root": "/",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog",
+      "base": "berry-rhubarb-bars",
+      "ext": "",
+      "name": "berry-rhubarb-bars",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 9,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8608649344,
+      "blocks": 0,
+      "atimeMs": 1559188282524.853,
+      "mtimeMs": 1559183793492.2507,
+      "ctimeMs": 1559183793492.2507,
+      "birthtimeMs": 1559181548262.995,
+      "atime": "2019-05-30T03:51:22.525Z",
+      "mtime": "2019-05-30T02:36:33.492Z",
+      "ctime": "2019-05-30T02:36:33.492Z",
+      "birthtime": "2019-05-30T01:59:08.263Z"
+    },
+    "db4a7efb-261a-5706-a5d3-3b06a9395653": {
+      "id": "db4a7efb-261a-5706-a5d3-3b06a9395653",
+      "children": [
+        "d3c7cbd6-07e9-5871-9938-cdbc8ac9a7c2"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "f3212b81938239bea15bbd415d2f876a",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"content/blog/berry-rhubarb-bars/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "blog",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/berry-rhubarb-bars/index.md",
+      "relativePath": "berry-rhubarb-bars/index.md",
+      "extension": "md",
+      "size": 1037,
+      "prettySize": "1.04 kB",
+      "modifiedTime": "2019-05-30T04:03:20.321Z",
+      "accessTime": "2019-05-30T04:03:20.320Z",
+      "changeTime": "2019-05-30T04:03:20.321Z",
+      "birthTime": "2019-05-30T01:59:17.528Z",
+      "root": "/",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/berry-rhubarb-bars",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "berry-rhubarb-bars",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8608649352,
+      "blocks": 8,
+      "atimeMs": 1559189000320.3987,
+      "mtimeMs": 1559189000320.8203,
+      "ctimeMs": 1559189000320.8203,
+      "birthtimeMs": 1559181557528.1016,
+      "atime": "2019-05-30T04:03:20.320Z",
+      "mtime": "2019-05-30T04:03:20.321Z",
+      "ctime": "2019-05-30T04:03:20.321Z",
+      "birthtime": "2019-05-30T01:59:17.528Z"
+    },
+    "1a4894fb-9d35-5c40-a8c1-9675ce9eeb02": {
+      "id": "1a4894fb-9d35-5c40-a8c1-9675ce9eeb02",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "09d395f51752161470702f6cc1bfe9b9",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"content/blog/berry-rhubarb-bars/recipe.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "blog",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/berry-rhubarb-bars/recipe.js",
+      "relativePath": "berry-rhubarb-bars/recipe.js",
+      "extension": "js",
+      "size": 3370,
+      "prettySize": "3.37 kB",
+      "modifiedTime": "2019-05-30T03:51:01.822Z",
+      "accessTime": "2019-05-30T03:51:01.821Z",
+      "changeTime": "2019-05-30T03:51:01.822Z",
+      "birthTime": "2019-05-30T01:59:35.684Z",
+      "root": "/",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/berry-rhubarb-bars",
+      "base": "recipe.js",
+      "ext": ".js",
+      "name": "recipe",
+      "relativeDirectory": "berry-rhubarb-bars",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8608649363,
+      "blocks": 8,
+      "atimeMs": 1559188261821.3423,
+      "mtimeMs": 1559188261821.6995,
+      "ctimeMs": 1559188261821.6995,
+      "birthtimeMs": 1559181575684.4712,
+      "atime": "2019-05-30T03:51:01.821Z",
+      "mtime": "2019-05-30T03:51:01.822Z",
+      "ctime": "2019-05-30T03:51:01.822Z",
+      "birthtime": "2019-05-30T01:59:35.684Z"
+    },
+    "64e551d1-40be-51cd-b4e6-2d08824aea78": {
+      "id": "64e551d1-40be-51cd-b4e6-2d08824aea78",
+      "children": [
+        "5b24738e-cdbc-562e-86a8-7d4edbd5bf50"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "3853108822abbcb629e737d5b20f487a",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content/blog/berry-rhubarb-bars/berry_rhubarb_bars-4.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "blog",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/berry-rhubarb-bars/berry_rhubarb_bars-4.jpg",
+      "relativePath": "berry-rhubarb-bars/berry_rhubarb_bars-4.jpg",
+      "extension": "jpg",
+      "size": 5552225,
+      "prettySize": "5.55 MB",
+      "modifiedTime": "2019-05-29T16:31:03.000Z",
+      "accessTime": "2019-05-30T02:26:28.721Z",
+      "changeTime": "2019-05-30T02:27:16.851Z",
+      "birthTime": "2019-05-29T16:31:03.000Z",
+      "root": "/",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/berry-rhubarb-bars",
+      "base": "berry_rhubarb_bars-4.jpg",
+      "ext": ".jpg",
+      "name": "berry_rhubarb_bars-4",
+      "relativeDirectory": "berry-rhubarb-bars",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8608650390,
+      "blocks": 10848,
+      "atimeMs": 1559183188720.9397,
+      "mtimeMs": 1559147463000,
+      "ctimeMs": 1559183236851.4485,
+      "birthtimeMs": 1559147463000,
+      "atime": "2019-05-30T02:26:28.721Z",
+      "mtime": "2019-05-29T16:31:03.000Z",
+      "ctime": "2019-05-30T02:27:16.851Z",
+      "birthtime": "2019-05-29T16:31:03.000Z"
+    },
+    "5b24738e-cdbc-562e-86a8-7d4edbd5bf50": {
+      "id": "5b24738e-cdbc-562e-86a8-7d4edbd5bf50",
+      "children": [],
+      "parent": "64e551d1-40be-51cd-b4e6-2d08824aea78",
+      "internal": {
+        "contentDigest": "3853108822abbcb629e737d5b20f487a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "25db69b2-c751-5940-94d9-b7b824e5bf8f": {
+      "id": "25db69b2-c751-5940-94d9-b7b824e5bf8f",
+      "children": [
+        "ee8efdb3-1341-559c-a8cf-87cfc486894a"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "11c1bb1c51c77290c4d6edffd6fa813f",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content/blog/berry-rhubarb-bars/berry_rhubarb_bars.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "blog",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/berry-rhubarb-bars/berry_rhubarb_bars.jpg",
+      "relativePath": "berry-rhubarb-bars/berry_rhubarb_bars.jpg",
+      "extension": "jpg",
+      "size": 2422835,
+      "prettySize": "2.42 MB",
+      "modifiedTime": "2019-05-29T16:28:54.000Z",
+      "accessTime": "2019-05-30T02:27:17.107Z",
+      "changeTime": "2019-05-30T02:27:29.794Z",
+      "birthTime": "2019-05-29T16:28:54.000Z",
+      "root": "/",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/berry-rhubarb-bars",
+      "base": "berry_rhubarb_bars.jpg",
+      "ext": ".jpg",
+      "name": "berry_rhubarb_bars",
+      "relativeDirectory": "berry-rhubarb-bars",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8608650394,
+      "blocks": 4736,
+      "atimeMs": 1559183237107.3643,
+      "mtimeMs": 1559147334000,
+      "ctimeMs": 1559183249794.2056,
+      "birthtimeMs": 1559147334000,
+      "atime": "2019-05-30T02:27:17.107Z",
+      "mtime": "2019-05-29T16:28:54.000Z",
+      "ctime": "2019-05-30T02:27:29.794Z",
+      "birthtime": "2019-05-29T16:28:54.000Z"
+    },
+    "ee8efdb3-1341-559c-a8cf-87cfc486894a": {
+      "id": "ee8efdb3-1341-559c-a8cf-87cfc486894a",
+      "children": [],
+      "parent": "25db69b2-c751-5940-94d9-b7b824e5bf8f",
+      "internal": {
+        "contentDigest": "11c1bb1c51c77290c4d6edffd6fa813f",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "59d79739-a11e-56a3-b4b9-55011cba2149": {
+      "id": "59d79739-a11e-56a3-b4b9-55011cba2149",
+      "children": [
+        "910fc865-39f0-561e-8c1f-977e9e76a8f9"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "ef8b5c6151313e25b6382525f1d0bc8c",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content/blog/berry-rhubarb-bars/strawberry_rhubarb_bars-2.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "blog",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/berry-rhubarb-bars/strawberry_rhubarb_bars-2.jpg",
+      "relativePath": "berry-rhubarb-bars/strawberry_rhubarb_bars-2.jpg",
+      "extension": "jpg",
+      "size": 6915639,
+      "prettySize": "6.92 MB",
+      "modifiedTime": "2019-05-27T23:35:06.000Z",
+      "accessTime": "2019-05-30T02:37:04.738Z",
+      "changeTime": "2019-05-30T02:35:59.693Z",
+      "birthTime": "2019-05-27T23:35:06.000Z",
+      "root": "/",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/berry-rhubarb-bars",
+      "base": "strawberry_rhubarb_bars-2.jpg",
+      "ext": ".jpg",
+      "name": "strawberry_rhubarb_bars-2",
+      "relativeDirectory": "berry-rhubarb-bars",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8608650400,
+      "blocks": 13512,
+      "atimeMs": 1559183824737.808,
+      "mtimeMs": 1559000106000,
+      "ctimeMs": 1559183759693.0378,
+      "birthtimeMs": 1559000106000,
+      "atime": "2019-05-30T02:37:04.738Z",
+      "mtime": "2019-05-27T23:35:06.000Z",
+      "ctime": "2019-05-30T02:35:59.693Z",
+      "birthtime": "2019-05-27T23:35:06.000Z"
+    },
+    "0db97634-40cf-55fc-9d47-7053463c303d": {
+      "id": "0db97634-40cf-55fc-9d47-7053463c303d",
+      "children": [
+        "c68196e1-6dc5-554e-8131-b84004514671"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "c8d2b7c6caf129d4a33229e3fd869740",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"content/blog/berry-rhubarb-bars/strawberry_rhubarb_bars-3.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "blog",
+      "absolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/berry-rhubarb-bars/strawberry_rhubarb_bars-3.jpg",
+      "relativePath": "berry-rhubarb-bars/strawberry_rhubarb_bars-3.jpg",
+      "extension": "jpg",
+      "size": 6934513,
+      "prettySize": "6.93 MB",
+      "modifiedTime": "2019-05-27T23:25:06.000Z",
+      "accessTime": "2019-05-30T02:37:04.738Z",
+      "changeTime": "2019-05-30T02:36:29.390Z",
+      "birthTime": "2019-05-27T23:25:06.000Z",
+      "root": "/",
+      "dir": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/berry-rhubarb-bars",
+      "base": "strawberry_rhubarb_bars-3.jpg",
+      "ext": ".jpg",
+      "name": "strawberry_rhubarb_bars-3",
+      "relativeDirectory": "berry-rhubarb-bars",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8608650392,
+      "blocks": 13544,
+      "atimeMs": 1559183824737.8154,
+      "mtimeMs": 1558999506000,
+      "ctimeMs": 1559183789389.559,
+      "birthtimeMs": 1558999506000,
+      "atime": "2019-05-30T02:37:04.738Z",
+      "mtime": "2019-05-27T23:25:06.000Z",
+      "ctime": "2019-05-30T02:36:29.390Z",
+      "birthtime": "2019-05-27T23:25:06.000Z"
+    },
+    "910fc865-39f0-561e-8c1f-977e9e76a8f9": {
+      "id": "910fc865-39f0-561e-8c1f-977e9e76a8f9",
+      "children": [],
+      "parent": "59d79739-a11e-56a3-b4b9-55011cba2149",
+      "internal": {
+        "contentDigest": "ef8b5c6151313e25b6382525f1d0bc8c",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "c68196e1-6dc5-554e-8131-b84004514671": {
+      "id": "c68196e1-6dc5-554e-8131-b84004514671",
+      "children": [],
+      "parent": "0db97634-40cf-55fc-9d47-7053463c303d",
+      "internal": {
+        "contentDigest": "c8d2b7c6caf129d4a33229e3fd869740",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
       }
     },
     "SitePage /about/": {
       "jsonName": "about-f34",
       "internalComponentName": "ComponentAbout",
       "path": "/about/",
-      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/about.js",
-      "componentChunkName": "component---src-pages-about-js",
-      "context": {},
-      "pluginCreator___NODE": "086142d7-4c5b-5202-afd4-d6ebd7b2af36",
-      "pluginCreatorId": "086142d7-4c5b-5202-afd4-d6ebd7b2af36",
-      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/about.js",
+      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/about/",
+        "previous": {
+          "fields": {
+            "slug": "/berry-rhubarb-bars/"
+          },
+          "frontmatter": {
+            "title": "Berry Rhubarb Crumble Bars"
+          }
+        },
+        "next": null
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js",
       "id": "SitePage /about/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7e149fc1772e891204c33f20271ee415",
-        "description": "086142d7-4c5b-5202-afd4-d6ebd7b2af36",
+        "contentDigest": "f041e4aa1900d8bac53107db3fa72e51",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /berry-rhubarb-bars/": {
+      "jsonName": "berry-rhubarb-bars-035",
+      "internalComponentName": "ComponentBerryRhubarbBars",
+      "path": "/berry-rhubarb-bars/",
+      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/berry-rhubarb-bars/",
+        "previous": {
+          "fields": {
+            "slug": "/blood-orange-bars/"
+          },
+          "frontmatter": {
+            "title": "Blood Orange Bars"
+          }
+        },
+        "next": {
+          "fields": {
+            "slug": "/about/"
+          },
+          "frontmatter": {
+            "title": "About"
+          }
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js",
+      "id": "SitePage /berry-rhubarb-bars/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "af75d57636b71bc6f234208f75a22776",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
     },
@@ -5793,10 +6197,10 @@
         },
         "next": {
           "fields": {
-            "slug": "/about/"
+            "slug": "/berry-rhubarb-bars/"
           },
           "frontmatter": {
-            "title": "About"
+            "title": "Berry Rhubarb Crumble Bars"
           }
         }
       },
@@ -5808,7 +6212,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f25d40ad021397f2ca7251acd82b2e9f",
+        "contentDigest": "61f95868f4801841df356403ddff3bca",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -5942,24 +6346,39 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /404.html": {
-      "jsonName": "404-html-516",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/404.js",
-      "id": "SitePage /404.html",
-      "parent": null,
+    "d3c7cbd6-07e9-5871-9938-cdbc8ac9a7c2": {
+      "id": "d3c7cbd6-07e9-5871-9938-cdbc8ac9a7c2",
       "children": [],
+      "parent": "db4a7efb-261a-5706-a5d3-3b06a9395653",
       "internal": {
-        "type": "SitePage",
-        "contentDigest": "66af1545e00be500bb8610ff962bffe7",
-        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-        "owner": "internal-data-bridge"
+        "content": "---\n\n![Side image of bars](./berry_rhubarb_bars.jpg)\n![Berry Rhubarb bars](./berry_rhubarb_bars-4.jpg)\n![Berry Rhubarb Bars](./strawberry_rhubarb_bars-3.jpg)\n![Berry Rhubarb Bars](./strawberry_rhubarb_bars-2.jpg)\n\n\n\nThese bars are super easy to make and a great summer dessert! Feel free to use either fresh or frozen fruit.  If you use fresh strawberries and/or berries, the texture will be a bit more chunky than frozen (seen in photos 3 and 4).  From my experiments, frozen fruit will break down easier and form more of a jam like texture (seen in photos 1 and 2). The recipe says to use 450g of strawberries and 350g of rhubarb.  If you don't have that much rhubarb (it's expensive yo!), replace some of the weight with raspberries, blueberries or more strawberries! Any combo will be delicious.",
+        "type": "MarkdownRemark",
+        "contentDigest": "b165efd2040d7488c8fc9afd6eb2a933",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Berry Rhubarb Crumble Bars",
+        "description": "Strawberry Raspberry Rhubarb Crumble Bars",
+        "date": "2019-05-30T12:00:00.121Z",
+        "image": "./berry_rhubarb_bars.jpg",
+        "category": "bars",
+        "tags": [
+          "bars",
+          "sweets",
+          "berries",
+          "strawberries",
+          "rhubarb",
+          "crumble"
+        ]
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "---\n\n![Side image of bars](./berry_rhubarb_bars.jpg)\n![Berry Rhubarb bars](./berry_rhubarb_bars-4.jpg)\n![Berry Rhubarb Bars](./strawberry_rhubarb_bars-3.jpg)\n![Berry Rhubarb Bars](./strawberry_rhubarb_bars-2.jpg)\n\n\n\nThese bars are super easy to make and a great summer dessert! Feel free to use either fresh or frozen fruit.  If you use fresh strawberries and/or berries, the texture will be a bit more chunky than frozen (seen in photos 3 and 4).  From my experiments, frozen fruit will break down easier and form more of a jam like texture (seen in photos 1 and 2). The recipe says to use 450g of strawberries and 350g of rhubarb.  If you don't have that much rhubarb (it's expensive yo!), replace some of the weight with raspberries, blueberries or more strawberries! Any combo will be delicious.",
+      "fileAbsolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/berry-rhubarb-bars/index.md",
+      "fields": {
+        "slug": "/berry-rhubarb-bars/"
       }
     }
   },
@@ -5977,10 +6396,10 @@
         "/blood-orange-bars/",
         "/tomato-mole-jam/",
         "/hot-cocoa-macarons/",
-        "/404.html",
+        "/berry-rhubarb-bars/",
         "sq--src-components-bio-js",
-        "sq--src-components-recipe-seo-js",
-        "sq--src-components-seo-js"
+        "sq--src-components-seo-js",
+        "sq--src-components-recipe-seo-js"
       ],
       "2a7c202d-14d1-5f52-97fe-cf2dee369d5b": [
         "sq--src-components-bio-js"
@@ -6107,6 +6526,19 @@
       ],
       "850a5357-ae22-5af9-92ac-80173c8690e4": [
         "/about/"
+      ],
+      "d3c7cbd6-07e9-5871-9938-cdbc8ac9a7c2": [
+        "/berry-rhubarb-bars/"
+      ],
+      "25db69b2-c751-5940-94d9-b7b824e5bf8f": [
+        "/",
+        "/recipes/",
+        "/berry-rhubarb-bars/"
+      ],
+      "ee8efdb3-1341-559c-a8cf-87cfc486894a": [
+        "/",
+        "/recipes/",
+        "/berry-rhubarb-bars/"
       ]
     },
     "connections": {
@@ -6126,17 +6558,18 @@
     "sq--src-components-recipe-seo-js": 4240880194,
     "sq--src-components-seo-js": 1025518380,
     "sq--src-components-bio-js": 20992707,
-    "about-f34": "580/path---about-f-34-4c2-uYG4fb9zBGDNCgBu7oZX5rwAXg",
-    "blood-orange-bars-74a": "808/path---blood-orange-bars-74-a-e9e-pu5X8DYjGZXx6LDf6wrQVpvQ",
+    "about-f34": "741/path---about-f-34-4c2-HAQcbvbuCKendwrDem7FWeIJP7w",
+    "blood-orange-bars-74a": "722/path---blood-orange-bars-74-a-e9e-D1eRo9N4JsQIJxEzfa3WtSeBk",
     "404-22d": "625/path---404-22-d-bce-ngiQNVYXUJcUSoCzbpBruBEQtB4",
     "404-html-516": "903/path---404-html-516-62a-ngiQNVYXUJcUSoCzbpBruBEQtB4",
-    "hot-cocoa-macarons-7d6": "195/path---hot-cocoa-macarons-7-d-6-80f-nuEzHUnMEtoDGLifKEOGQYNCoGM",
+    "hot-cocoa-macarons-7d6": "778/path---hot-cocoa-macarons-7-d-6-80f-rekgTwkStD11auUoBJlZ39GLc",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
-    "index": "948/path---index-6a9-p7DFD5XnvRdkOpUPcsEwdU3qOk",
-    "recipes-3c6": "673/path---recipes-3-c-6-4cc-p7DFD5XnvRdkOpUPcsEwdU3qOk",
-    "tomato-mole-jam-527": "189/path---tomato-mole-jam-527-668-BgkUPmVX7m0WwHLNZMay5koRyIc",
+    "index": "433/path---index-6a9-rHLXsjRbOOOJYAZHt379CELijnI",
+    "recipes-3c6": "694/path---recipes-3-c-6-4cc-rHLXsjRbOOOJYAZHt379CELijnI",
+    "tomato-mole-jam-527": "218/path---tomato-mole-jam-527-668-y4hQYRhVdXorCr8ISwJvia508",
     "sq--src-components-instagram-posts-js": 1047821533,
-    "offline-plugin-app-shell-fallback-a30": "520/path---offline-plugin-app-shell-fallback-a-30-c5a-NZuapzHg3X9TaN1iIixfv1W23E"
+    "offline-plugin-app-shell-fallback-a30": "520/path---offline-plugin-app-shell-fallback-a-30-c5a-NZuapzHg3X9TaN1iIixfv1W23E",
+    "berry-rhubarb-bars-035": "466/path---berry-rhubarb-bars-035-fcf-gMTKqGBi17Wlp5YoTKLJq9dGXI8"
   },
   "components": {
     "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js": {
@@ -6159,9 +6592,9 @@
       "query": "query usersTarasiegelDocumentsCodeProjectsFullstackkitchenSrcPagesRecipesJs878401524 {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}, filter: {fileAbsolutePath: {regex: \"//blog//\"}}) {\n    edges {\n      node {\n        excerpt\n        fields {\n          slug\n        }\n        frontmatter {\n          date(formatString: \"MMMM DD YYYY\")\n          title\n          tags\n          image {\n            childImageSharp {\n              resize(width: 650, height: 650) {\n                src\n              }\n              fluid(maxWidth: 786) {\n                ...GatsbyImageSharpFluid\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/recipes.js"
     },
-    "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js": {
+    "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/.cache/dev-404-page.js": {
       "query": "",
-      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js"
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/.cache/dev-404-page.js"
     }
   },
   "staticQueryComponents": {

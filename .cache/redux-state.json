@@ -1,22 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "jsonName": "dev-404-page-5f9",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "51e1f1965ac63c4a94f2862d54718688",
-        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -2496,16 +2487,14 @@
           "instagram": "taras.kitchen"
         }
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "/fullstackkitchen",
       "polyfill": true,
-      "buildTime": "2019-05-30T03:51:16.077Z",
+      "buildTime": "2019-05-30T04:19:27.979Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "648c576612e06dbbc6aa2e58c179cd8a",
+        "contentDigest": "e729935b3bb7eca7466d1b6e8a9fbf70",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2515,7 +2504,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "a4a241cddf60546c4683e708d1798e68",
+        "contentDigest": "d5a34319bcbeed0348b9e3487063ca9f",
         "type": "Directory",
         "description": "Directory \"content/blog\"",
         "owner": "gatsby-source-filesystem"
@@ -2527,7 +2516,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2019-05-30T01:59:08.263Z",
-      "accessTime": "2019-05-30T03:51:22.522Z",
+      "accessTime": "2019-05-30T04:19:33.662Z",
       "changeTime": "2019-05-30T01:59:08.263Z",
       "birthTime": "2019-01-19T04:51:26.577Z",
       "root": "/",
@@ -2545,11 +2534,11 @@
       "blksize": 4096,
       "ino": 8604269393,
       "blocks": 0,
-      "atimeMs": 1559188282522.4177,
+      "atimeMs": 1559189973662.3044,
       "mtimeMs": 1559181548263.011,
       "ctimeMs": 1559181548263.011,
       "birthtimeMs": 1547873486577.1038,
-      "atime": "2019-05-30T03:51:22.522Z",
+      "atime": "2019-05-30T04:19:33.662Z",
       "mtime": "2019-05-30T01:59:08.263Z",
       "ctime": "2019-05-30T01:59:08.263Z",
       "birthtime": "2019-01-19T04:51:26.577Z"
@@ -2559,7 +2548,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "293f764909b5f336bded2f38189a6f6e",
+        "contentDigest": "a3c5485aef5a410d435cf149dea007aa",
         "type": "Directory",
         "description": "Directory \"content/blog/blood-orange-bars\"",
         "owner": "gatsby-source-filesystem"
@@ -2571,7 +2560,7 @@
       "size": 256,
       "prettySize": "256 B",
       "modifiedTime": "2019-02-16T04:22:11.034Z",
-      "accessTime": "2019-05-30T03:51:22.525Z",
+      "accessTime": "2019-05-30T04:19:33.665Z",
       "changeTime": "2019-02-16T04:22:11.034Z",
       "birthTime": "2019-02-10T22:29:40.545Z",
       "root": "/",
@@ -2589,11 +2578,11 @@
       "blksize": 4096,
       "ino": 8604949502,
       "blocks": 0,
-      "atimeMs": 1559188282524.7878,
+      "atimeMs": 1559189973665.2495,
       "mtimeMs": 1550290931034.1497,
       "ctimeMs": 1550290931034.1497,
       "birthtimeMs": 1549837780544.8103,
-      "atime": "2019-05-30T03:51:22.525Z",
+      "atime": "2019-05-30T04:19:33.665Z",
       "mtime": "2019-02-16T04:22:11.034Z",
       "ctime": "2019-02-16T04:22:11.034Z",
       "birthtime": "2019-02-10T22:29:40.545Z"
@@ -2603,7 +2592,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "974dd7a29e26bbd9a071850845a12993",
+        "contentDigest": "4272b9ed6cffd4ebba6007a2f64b4175",
         "type": "Directory",
         "description": "Directory \"content/blog/hot-cocoa-macarons\"",
         "owner": "gatsby-source-filesystem"
@@ -2615,7 +2604,7 @@
       "size": 288,
       "prettySize": "288 B",
       "modifiedTime": "2019-02-16T04:52:47.116Z",
-      "accessTime": "2019-05-30T03:51:22.525Z",
+      "accessTime": "2019-05-30T04:19:33.666Z",
       "changeTime": "2019-02-16T04:52:47.116Z",
       "birthTime": "2019-01-28T04:52:41.232Z",
       "root": "/",
@@ -2633,11 +2622,11 @@
       "blksize": 4096,
       "ino": 8604322489,
       "blocks": 0,
-      "atimeMs": 1559188282524.8594,
+      "atimeMs": 1559189973665.8198,
       "mtimeMs": 1550292767115.8914,
       "ctimeMs": 1550292767115.8914,
       "birthtimeMs": 1548651161231.7734,
-      "atime": "2019-05-30T03:51:22.525Z",
+      "atime": "2019-05-30T04:19:33.666Z",
       "mtime": "2019-02-16T04:52:47.116Z",
       "ctime": "2019-02-16T04:52:47.116Z",
       "birthtime": "2019-01-28T04:52:41.232Z"
@@ -2647,7 +2636,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "23b3adc236ff0c5dfe4d94b5792fa308",
+        "contentDigest": "7ec5839d8a877ede4f62af5b71a5aed3",
         "type": "Directory",
         "description": "Directory \"content/blog/tomato-mole-jam\"",
         "owner": "gatsby-source-filesystem"
@@ -2659,7 +2648,7 @@
       "size": 352,
       "prettySize": "352 B",
       "modifiedTime": "2019-02-16T04:52:53.065Z",
-      "accessTime": "2019-05-30T03:51:22.525Z",
+      "accessTime": "2019-05-30T04:19:33.666Z",
       "changeTime": "2019-02-16T04:52:53.065Z",
       "birthTime": "2019-01-28T04:52:41.376Z",
       "root": "/",
@@ -2677,11 +2666,11 @@
       "blksize": 4096,
       "ino": 8604322500,
       "blocks": 0,
-      "atimeMs": 1559188282524.862,
+      "atimeMs": 1559189973665.9302,
       "mtimeMs": 1550292773065.3662,
       "ctimeMs": 1550292773065.3662,
       "birthtimeMs": 1548651161375.8928,
-      "atime": "2019-05-30T03:51:22.525Z",
+      "atime": "2019-05-30T04:19:33.666Z",
       "mtime": "2019-02-16T04:52:53.065Z",
       "ctime": "2019-02-16T04:52:53.065Z",
       "birthtime": "2019-01-28T04:52:41.376Z"
@@ -3920,7 +3909,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "f5ae69302b285a4949c5819d19a25fe7",
+        "contentDigest": "642ddaa179d2b130c590d638345fd7a8",
         "type": "Directory",
         "description": "Directory \"content/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -3932,7 +3921,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-02-10T04:18:22.389Z",
-      "accessTime": "2019-05-30T03:51:22.926Z",
+      "accessTime": "2019-05-30T04:19:33.996Z",
       "changeTime": "2019-02-10T04:18:22.389Z",
       "birthTime": "2019-02-10T04:18:16.212Z",
       "root": "/",
@@ -3950,11 +3939,11 @@
       "blksize": 4096,
       "ino": 8604905065,
       "blocks": 0,
-      "atimeMs": 1559188282925.6428,
+      "atimeMs": 1559189973995.8286,
       "mtimeMs": 1549772302389.4385,
       "ctimeMs": 1549772302389.4385,
       "birthtimeMs": 1549772296211.6716,
-      "atime": "2019-05-30T03:51:22.926Z",
+      "atime": "2019-05-30T04:19:33.996Z",
       "mtime": "2019-02-10T04:18:22.389Z",
       "ctime": "2019-02-10T04:18:22.389Z",
       "birthtime": "2019-02-10T04:18:16.212Z"
@@ -3964,7 +3953,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "a3858589993ac65ea4e92554d4ccd0c0",
+        "contentDigest": "d7bcab08c7ddc5f8f91448b655b344d2",
         "type": "Directory",
         "description": "Directory \"content/pages/about\"",
         "owner": "gatsby-source-filesystem"
@@ -3976,7 +3965,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2019-02-09T05:57:35.626Z",
-      "accessTime": "2019-05-30T03:51:22.926Z",
+      "accessTime": "2019-05-30T04:19:33.997Z",
       "changeTime": "2019-02-10T04:18:22.389Z",
       "birthTime": "2019-02-09T05:54:27.735Z",
       "root": "/",
@@ -3994,11 +3983,11 @@
       "blksize": 4096,
       "ino": 8604867502,
       "blocks": 0,
-      "atimeMs": 1559188282926.3093,
+      "atimeMs": 1559189973996.7363,
       "mtimeMs": 1549691855625.9097,
       "ctimeMs": 1549772302389.4382,
       "birthtimeMs": 1549691667735.0195,
-      "atime": "2019-05-30T03:51:22.926Z",
+      "atime": "2019-05-30T04:19:33.997Z",
       "mtime": "2019-02-09T05:57:35.626Z",
       "ctime": "2019-02-10T04:18:22.389Z",
       "birthtime": "2019-02-09T05:54:27.735Z"
@@ -4169,7 +4158,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "ca43e80664be885f20ebf62d3baa15dc",
+        "contentDigest": "3379750b0739d658b078fbaf225ea83f",
         "type": "Directory",
         "description": "Directory \"content/assets\"",
         "owner": "gatsby-source-filesystem"
@@ -4181,7 +4170,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2019-02-02T16:33:03.202Z",
-      "accessTime": "2019-05-30T03:51:22.968Z",
+      "accessTime": "2019-05-30T04:19:34.079Z",
       "changeTime": "2019-02-02T16:33:03.202Z",
       "birthTime": "2019-01-28T04:52:41.220Z",
       "root": "/",
@@ -4199,11 +4188,11 @@
       "blksize": 4096,
       "ino": 8604322484,
       "blocks": 0,
-      "atimeMs": 1559188282967.623,
+      "atimeMs": 1559189974078.7095,
       "mtimeMs": 1549125183202.2559,
       "ctimeMs": 1549125183202.2559,
       "birthtimeMs": 1548651161219.81,
-      "atime": "2019-05-30T03:51:22.968Z",
+      "atime": "2019-05-30T04:19:34.079Z",
       "mtime": "2019-02-02T16:33:03.202Z",
       "ctime": "2019-02-02T16:33:03.202Z",
       "birthtime": "2019-01-28T04:52:41.220Z"
@@ -4978,11 +4967,11 @@
       "parent": "__SOURCE__",
       "internal": {
         "type": "InstaNode",
-        "contentDigest": "b340e8d029de17b18be95e6328ace5ca",
+        "contentDigest": "8fac80d95ea17a32a40bd93dce243ed4",
         "owner": "gatsby-source-instagram"
       },
       "children": [],
-      "likes": 1119,
+      "likes": 1120,
       "caption": "Raspberry Rose Macarons 🌹: l I made these for a friend’s girls night a little while back.  She sent me photos of the stands and table runner she had bought for the event and I tried to match the pink and gold theme. The gold specks was so easy and really elevated the macarons.  The subtle flavor combo was a keeper.  #macaronmonday\n. .\nI added ground freeze-dried raspberries to a vanilla shell recipe (replaced about 20g of the powdered sugar) and rose water + raspberry extract to an American buttercream. I didn’t give my self too much time to create/assemble these, so they’re on the simple side. I also solely use silpat mats for these (I usually use parchment), and had a lot of issues getting them off the mats.  I guess I’ll stick with parchment going forward. 🤷‍♀️ Base shell recipe from @cloudykitchen & @foxandcrane\n.\n.\n.\n#macarons #frenchmacarons #frenchdesserts #macaronlove #rosemacarons #rose #raspberry #macaronstagram  #macaronlady #bakersofinstagram @flatlaytoday #flaylaytoday #foodstyling #feedfeed @thefeedfeed #huffposttaste @thefeedfeed.baking #f52grams @food52 #thebakefeed #bakefromscratch #buzzfeedfood @saveurmag #foodphotography #beautifulcuisines @beautifulcuisines #bakestagram #feedfeedbaking @thrillist  #wsbakeclub #foodtographyschool #foodiefeature #bobsredmill #bakefromscratch #nycbaker #imsomartha #f52bright",
       "thumbnails": [
         {
@@ -5407,11 +5396,11 @@
       "parent": "__SOURCE__",
       "internal": {
         "type": "InstaNode",
-        "contentDigest": "56f2d0a29d6fe2e313c5010033cb9efd",
+        "contentDigest": "dabdf7c0a6c0b7c986a6162c3121b74f",
         "owner": "gatsby-source-instagram"
       },
       "children": [],
-      "likes": 273,
+      "likes": 274,
       "caption": "Cheesecake stuffed chocolate bundt cake with blood orange glaze: Blood orange season is coming to a close, but I had to make one more thing with these beautifully colored fruit! The recipe is from @livforcake + a simple sugar glaze for an extra special effect.  The cake was SOOO good and moist, i highly recommend! I made this cake for a Game of Thrones party (trying to make it look like blood inside, geared up for the battle of winterfell), but I ended up with a beautiful shade of pink inside and out.  It happens 🤷‍♀️ .\n.\n.\n#bundtcake #chocolatecake #nordicware #lovetobake #bloodorange #cakedecorating #cake #cakes #creamcheesefilling #cakesofig #foodstyling #feedfeed @thefeedfeed #huffposttaste @thefeedfeed.baking #f52grams @food52 #thebakefeed #bakefromscratch #buzzfeedfood @saveurmag #foodphotography #beautifulcuisines @beautifulcuisines #bakestagram #feedfeedbaking @thrillist  #wsbakeclub #foodtographyschool #foodiefeature #kingarthurflour #bakefromscratch #nycbaker #spoonfed #cheesecake",
       "thumbnails": [
         {
@@ -5751,7 +5740,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "23a87f7884e941fc77840d232b4c906b",
+        "contentDigest": "129abffa1481b3f3fcab812f43f0a113",
         "type": "Directory",
         "description": "Directory \"content/blog/berry-rhubarb-bars\"",
         "owner": "gatsby-source-filesystem"
@@ -5763,7 +5752,7 @@
       "size": 288,
       "prettySize": "288 B",
       "modifiedTime": "2019-05-30T02:36:33.492Z",
-      "accessTime": "2019-05-30T03:51:22.525Z",
+      "accessTime": "2019-05-30T04:19:33.665Z",
       "changeTime": "2019-05-30T02:36:33.492Z",
       "birthTime": "2019-05-30T01:59:08.263Z",
       "root": "/",
@@ -5781,11 +5770,11 @@
       "blksize": 4096,
       "ino": 8608649344,
       "blocks": 0,
-      "atimeMs": 1559188282524.853,
+      "atimeMs": 1559189973664.5095,
       "mtimeMs": 1559183793492.2507,
       "ctimeMs": 1559183793492.2507,
       "birthtimeMs": 1559181548262.995,
-      "atime": "2019-05-30T03:51:22.525Z",
+      "atime": "2019-05-30T04:19:33.665Z",
       "mtime": "2019-05-30T02:36:33.492Z",
       "ctime": "2019-05-30T02:36:33.492Z",
       "birthtime": "2019-05-30T01:59:08.263Z"
@@ -6110,34 +6099,78 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
+    "d3c7cbd6-07e9-5871-9938-cdbc8ac9a7c2": {
+      "id": "d3c7cbd6-07e9-5871-9938-cdbc8ac9a7c2",
+      "children": [],
+      "parent": "db4a7efb-261a-5706-a5d3-3b06a9395653",
+      "internal": {
+        "content": "---\n\n![Side image of bars](./berry_rhubarb_bars.jpg)\n![Berry Rhubarb bars](./berry_rhubarb_bars-4.jpg)\n![Berry Rhubarb Bars](./strawberry_rhubarb_bars-3.jpg)\n![Berry Rhubarb Bars](./strawberry_rhubarb_bars-2.jpg)\n\n\n\nThese bars are super easy to make and a great summer dessert! Feel free to use either fresh or frozen fruit.  If you use fresh strawberries and/or berries, the texture will be a bit more chunky than frozen (seen in photos 3 and 4).  From my experiments, frozen fruit will break down easier and form more of a jam like texture (seen in photos 1 and 2). The recipe says to use 450g of strawberries and 350g of rhubarb.  If you don't have that much rhubarb (it's expensive yo!), replace some of the weight with raspberries, blueberries or more strawberries! Any combo will be delicious.",
+        "type": "MarkdownRemark",
+        "contentDigest": "b165efd2040d7488c8fc9afd6eb2a933",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "slug": "default-site-plugin"
+        }
+      },
+      "frontmatter": {
+        "title": "Berry Rhubarb Crumble Bars",
+        "description": "Strawberry Raspberry Rhubarb Crumble Bars",
+        "date": "2019-05-30T12:00:00.121Z",
+        "image": "./berry_rhubarb_bars.jpg",
+        "category": "bars",
+        "tags": [
+          "bars",
+          "sweets",
+          "berries",
+          "strawberries",
+          "rhubarb",
+          "crumble"
+        ]
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "---\n\n![Side image of bars](./berry_rhubarb_bars.jpg)\n![Berry Rhubarb bars](./berry_rhubarb_bars-4.jpg)\n![Berry Rhubarb Bars](./strawberry_rhubarb_bars-3.jpg)\n![Berry Rhubarb Bars](./strawberry_rhubarb_bars-2.jpg)\n\n\n\nThese bars are super easy to make and a great summer dessert! Feel free to use either fresh or frozen fruit.  If you use fresh strawberries and/or berries, the texture will be a bit more chunky than frozen (seen in photos 3 and 4).  From my experiments, frozen fruit will break down easier and form more of a jam like texture (seen in photos 1 and 2). The recipe says to use 450g of strawberries and 350g of rhubarb.  If you don't have that much rhubarb (it's expensive yo!), replace some of the weight with raspberries, blueberries or more strawberries! Any combo will be delicious.",
+      "fileAbsolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/berry-rhubarb-bars/index.md",
+      "fields": {
+        "slug": "/berry-rhubarb-bars/"
+      }
+    },
+    "SitePage /offline-plugin-app-shell-fallback/": {
+      "jsonName": "offline-plugin-app-shell-fallback-a30",
+      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
+      "path": "/offline-plugin-app-shell-fallback/",
+      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js",
+      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
+      "context": {},
+      "pluginCreator___NODE": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+      "pluginCreatorId": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js",
+      "id": "SitePage /offline-plugin-app-shell-fallback/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c2137cd574232121fb44522c094051bb",
+        "description": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /about/": {
       "jsonName": "about-f34",
       "internalComponentName": "ComponentAbout",
       "path": "/about/",
-      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "/about/",
-        "previous": {
-          "fields": {
-            "slug": "/berry-rhubarb-bars/"
-          },
-          "frontmatter": {
-            "title": "Berry Rhubarb Crumble Bars"
-          }
-        },
-        "next": null
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js",
+      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/about.js",
+      "componentChunkName": "component---src-pages-about-js",
+      "context": {},
+      "pluginCreator___NODE": "086142d7-4c5b-5202-afd4-d6ebd7b2af36",
+      "pluginCreatorId": "086142d7-4c5b-5202-afd4-d6ebd7b2af36",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/about.js",
       "id": "SitePage /about/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f041e4aa1900d8bac53107db3fa72e51",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "contentDigest": "7e149fc1772e891204c33f20271ee415",
+        "description": "086142d7-4c5b-5202-afd4-d6ebd7b2af36",
         "owner": "internal-data-bridge"
       }
     },
@@ -6346,39 +6379,24 @@
         "owner": "internal-data-bridge"
       }
     },
-    "d3c7cbd6-07e9-5871-9938-cdbc8ac9a7c2": {
-      "id": "d3c7cbd6-07e9-5871-9938-cdbc8ac9a7c2",
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": null,
       "children": [],
-      "parent": "db4a7efb-261a-5706-a5d3-3b06a9395653",
       "internal": {
-        "content": "---\n\n![Side image of bars](./berry_rhubarb_bars.jpg)\n![Berry Rhubarb bars](./berry_rhubarb_bars-4.jpg)\n![Berry Rhubarb Bars](./strawberry_rhubarb_bars-3.jpg)\n![Berry Rhubarb Bars](./strawberry_rhubarb_bars-2.jpg)\n\n\n\nThese bars are super easy to make and a great summer dessert! Feel free to use either fresh or frozen fruit.  If you use fresh strawberries and/or berries, the texture will be a bit more chunky than frozen (seen in photos 3 and 4).  From my experiments, frozen fruit will break down easier and form more of a jam like texture (seen in photos 1 and 2). The recipe says to use 450g of strawberries and 350g of rhubarb.  If you don't have that much rhubarb (it's expensive yo!), replace some of the weight with raspberries, blueberries or more strawberries! Any combo will be delicious.",
-        "type": "MarkdownRemark",
-        "contentDigest": "b165efd2040d7488c8fc9afd6eb2a933",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "slug": "default-site-plugin"
-        }
-      },
-      "frontmatter": {
-        "title": "Berry Rhubarb Crumble Bars",
-        "description": "Strawberry Raspberry Rhubarb Crumble Bars",
-        "date": "2019-05-30T12:00:00.121Z",
-        "image": "./berry_rhubarb_bars.jpg",
-        "category": "bars",
-        "tags": [
-          "bars",
-          "sweets",
-          "berries",
-          "strawberries",
-          "rhubarb",
-          "crumble"
-        ]
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "---\n\n![Side image of bars](./berry_rhubarb_bars.jpg)\n![Berry Rhubarb bars](./berry_rhubarb_bars-4.jpg)\n![Berry Rhubarb Bars](./strawberry_rhubarb_bars-3.jpg)\n![Berry Rhubarb Bars](./strawberry_rhubarb_bars-2.jpg)\n\n\n\nThese bars are super easy to make and a great summer dessert! Feel free to use either fresh or frozen fruit.  If you use fresh strawberries and/or berries, the texture will be a bit more chunky than frozen (seen in photos 3 and 4).  From my experiments, frozen fruit will break down easier and form more of a jam like texture (seen in photos 1 and 2). The recipe says to use 450g of strawberries and 350g of rhubarb.  If you don't have that much rhubarb (it's expensive yo!), replace some of the weight with raspberries, blueberries or more strawberries! Any combo will be delicious.",
-      "fileAbsolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/berry-rhubarb-bars/index.md",
-      "fields": {
-        "slug": "/berry-rhubarb-bars/"
+        "type": "SitePage",
+        "contentDigest": "66af1545e00be500bb8610ff962bffe7",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
       }
     }
   },
@@ -6399,7 +6417,8 @@
         "/berry-rhubarb-bars/",
         "sq--src-components-bio-js",
         "sq--src-components-seo-js",
-        "sq--src-components-recipe-seo-js"
+        "sq--src-components-recipe-seo-js",
+        "/404.html"
       ],
       "2a7c202d-14d1-5f52-97fe-cf2dee369d5b": [
         "sq--src-components-bio-js"
@@ -6558,18 +6577,18 @@
     "sq--src-components-recipe-seo-js": 4240880194,
     "sq--src-components-seo-js": 1025518380,
     "sq--src-components-bio-js": 20992707,
-    "about-f34": "741/path---about-f-34-4c2-HAQcbvbuCKendwrDem7FWeIJP7w",
-    "blood-orange-bars-74a": "722/path---blood-orange-bars-74-a-e9e-D1eRo9N4JsQIJxEzfa3WtSeBk",
+    "about-f34": "580/path---about-f-34-4c2-uYG4fb9zBGDNCgBu7oZX5rwAXg",
+    "blood-orange-bars-74a": "302/path---blood-orange-bars-74-a-e9e-7YsHqax55uo9CTzRDbvNM56mheE",
     "404-22d": "625/path---404-22-d-bce-ngiQNVYXUJcUSoCzbpBruBEQtB4",
     "404-html-516": "903/path---404-html-516-62a-ngiQNVYXUJcUSoCzbpBruBEQtB4",
-    "hot-cocoa-macarons-7d6": "778/path---hot-cocoa-macarons-7-d-6-80f-rekgTwkStD11auUoBJlZ39GLc",
+    "hot-cocoa-macarons-7d6": "195/path---hot-cocoa-macarons-7-d-6-80f-nuEzHUnMEtoDGLifKEOGQYNCoGM",
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
-    "index": "433/path---index-6a9-rHLXsjRbOOOJYAZHt379CELijnI",
-    "recipes-3c6": "694/path---recipes-3-c-6-4cc-rHLXsjRbOOOJYAZHt379CELijnI",
-    "tomato-mole-jam-527": "218/path---tomato-mole-jam-527-668-y4hQYRhVdXorCr8ISwJvia508",
+    "index": "764/path---index-6a9-6jxLaP6VOWw3zlUexh7NMQzVWM",
+    "recipes-3c6": "784/path---recipes-3-c-6-4cc-6jxLaP6VOWw3zlUexh7NMQzVWM",
+    "tomato-mole-jam-527": "189/path---tomato-mole-jam-527-668-BgkUPmVX7m0WwHLNZMay5koRyIc",
     "sq--src-components-instagram-posts-js": 1047821533,
     "offline-plugin-app-shell-fallback-a30": "520/path---offline-plugin-app-shell-fallback-a-30-c5a-NZuapzHg3X9TaN1iIixfv1W23E",
-    "berry-rhubarb-bars-035": "466/path---berry-rhubarb-bars-035-fcf-gMTKqGBi17Wlp5YoTKLJq9dGXI8"
+    "berry-rhubarb-bars-035": "616/path---berry-rhubarb-bars-035-fcf-tNfszv3cyiYM9mGZ9YxZ8VHMpdo"
   },
   "components": {
     "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/templates/blog-post.js": {
@@ -6592,9 +6611,9 @@
       "query": "query usersTarasiegelDocumentsCodeProjectsFullstackkitchenSrcPagesRecipesJs878401524 {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}, filter: {fileAbsolutePath: {regex: \"//blog//\"}}) {\n    edges {\n      node {\n        excerpt\n        fields {\n          slug\n        }\n        frontmatter {\n          date(formatString: \"MMMM DD YYYY\")\n          title\n          tags\n          image {\n            childImageSharp {\n              resize(width: 650, height: 650) {\n                src\n              }\n              fluid(maxWidth: 786) {\n                ...GatsbyImageSharpFluid\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/recipes.js"
     },
-    "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/.cache/dev-404-page.js": {
+    "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js": {
       "query": "",
-      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/.cache/dev-404-page.js"
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js"
     }
   },
   "staticQueryComponents": {

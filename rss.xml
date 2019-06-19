@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Full Stack Kitchen]]></title><description><![CDATA[Full Stack Kitchen: Unique Dessert Recipes from an Engineer's Mind]]></description><link>https://fullstackkitchen.com/</link><generator>RSS for Node</generator><lastBuildDate>Wed, 19 Jun 2019 03:19:23 GMT</lastBuildDate><item><title><![CDATA[About]]></title><description><![CDATA[hi, Welcome to my little corner of the internet.  my name is tara. I have been a resident of New York City for the past four years…]]></description><link>https://fullstackkitchen.com//about/</link><guid isPermaLink="false">https://fullstackkitchen.com//about/</guid><content:encoded>&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;hi, Welcome to my little corner of the internet.  my name is tara.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I have been a resident of New York City for the past four years, currently living in Williamsburg.  Before that, I spent the first eighteen years of my life in South Florida dealing with that humid hair life.  Then I spent four in Philadelphia for college, where I discovered and honed my love of baking while procrastinating problem sets.  Many times I would be making muffins at midnight to break up the &lt;em&gt;all too frequent&lt;/em&gt; all-nighters I pulled.&lt;/p&gt;
+&lt;p&gt;I studied Computer Science/Computer Graphics in school (+ a fine arts minor) and am currently a full time, full stack Software Engineer for a media company. Having an office to bring sweets to is key to maintaining a healthy lifestyle. To counteract what doesn’t make it into the office, I am constantly trying to find ways to be exercising.  I am an avid runner, biker (I try to CitiBike to work every day if its above freezing), and walker (and will walk places to avoid the subway at all costs).  Right now I’ve completed 5 half marathons and 1 century ride!&lt;/p&gt;
+&lt;p&gt;If we can get nerdy for a second, I am very proud of this website you see here. The “tech stack”, as one would say, is pretty cool.  I am using &lt;a href=&quot;https://reactjs.org/&quot;&gt;React&lt;/a&gt;, which is a component based Javascript library for building UI’s. That is wrapped in an instance of &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;GatsbyJs&lt;/a&gt;, which is a React-based, &lt;a href=&quot;https://graphql.org/&quot;&gt;GraphQL&lt;/a&gt; powered, static site generator (makes for better SEO and file hosting!).  All the posts are written in &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;markdown&lt;/a&gt;, which is a lightweight markup language for text syntax.  Once I make updates and build it, it hooks into &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; and automatically updates the site! &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Berry Rhubarb Crumble Bars]]></title><description><![CDATA[
+ 
+ 
+ These bars are super easy to make and a great summer dessert! Feel free to use either fresh or frozen fruit.  If you use fresh…]]></description><link>https://fullstackkitchen.com//berry-rhubarb-bars/</link><guid isPermaLink="false">https://fullstackkitchen.com//berry-rhubarb-bars/</guid><pubDate>Thu, 30 May 2019 12:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/fullstackkitchen/static/11c1bb1c51c77290c4d6edffd6fa813f/2bd0c/berry_rhubarb_bars.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 124.9904761904762%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQC/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAABfQtyY6PhUFk87Exl5L//xAAaEAACAwEBAAAAAAAAAAAAAAAAAQIDEBMS/9oACAEBAAEFAtssclFtP3MVBxicIFA8/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAESE//aAAgBAwEBPwHNmtK0v//EABgRAAMBAQAAAAAAAAAAAAAAAAABEhAR/9oACAECAQE/AbLRxZ//xAAcEAACAgIDAAAAAAAAAAAAAAAAEQECIUEQICL/2gAIAQEABj8C5tDHmZ1k2e7Mbnr/AP/EAB0QAAMAAgIDAAAAAAAAAAAAAAABESExQXEQYYH/2gAIAQEAAT8hZU+fCMwu4TX1FCcrU+mZulqYWhWWhqDpybPs0Gf/2gAMAwEAAgADAAAAELTOfv/EABgRAQEBAQEAAAAAAAAAAAAAAAERAFFh/9oACAEDAQE/EBpV1dzeXe+//8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBEGH/2gAIAQIBAT8QSrIUH//EAB0QAQEBAAICAwAAAAAAAAAAAAERACExEHFRwdH/2gAIAQEAAT8QgK4ZAPp0xmQEeHMjB+8VVVOWnrEqr2V+5Y+AIHphMFS0kyUql+QfDdG7b//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Side image of bars&quot;
+        title=&quot;&quot;
+        src=&quot;/fullstackkitchen/static/11c1bb1c51c77290c4d6edffd6fa813f/71e08/berry_rhubarb_bars.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/11c1bb1c51c77290c4d6edffd6fa813f/996a7/berry_rhubarb_bars.jpg 320w,
+/fullstackkitchen/static/11c1bb1c51c77290c4d6edffd6fa813f/06faf/berry_rhubarb_bars.jpg 640w,
+/fullstackkitchen/static/11c1bb1c51c77290c4d6edffd6fa813f/71e08/berry_rhubarb_bars.jpg 1280w,
+/fullstackkitchen/static/11c1bb1c51c77290c4d6edffd6fa813f/2ed49/berry_rhubarb_bars.jpg 1920w,
+/fullstackkitchen/static/11c1bb1c51c77290c4d6edffd6fa813f/ad50a/berry_rhubarb_bars.jpg 2560w,
+/fullstackkitchen/static/11c1bb1c51c77290c4d6edffd6fa813f/2bd0c/berry_rhubarb_bars.jpg 2625w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/fullstackkitchen/static/3853108822abbcb629e737d5b20f487a/2bd0c/berry_rhubarb_bars-4.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 124.9904761904762%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgT/2gAMAwEAAhADEAAAARMaMnUMLLEtyP/EAB4QAQABBAIDAAAAAAAAAAAAAAECAAMRIhIxITIz/9oACAEBAAEFAuWbibS7dbiNBU3xPKHT8rntGv/EABcRAQADAAAAAAAAAAAAAAAAAAAQERL/2gAIAQMBAT8Bai3/xAAWEQEBAQAAAAAAAAAAAAAAAAAAERD/2gAIAQIBAT8BXI//xAAiEAABAgMJAAAAAAAAAAAAAAAAARECMZEQEiEyQWFxgaH/2gAIAQEABj8CVkHkYpQdtiGV01HhSR6ZlqRcKJ1Z/8QAHRAAAgMBAAMBAAAAAAAAAAAAAREAMUEhEFFhof/aAAgBAQABPyEdQ4QfsSgU3sDTWlDShHcbopCAX+IAMTa6hM+hTYZIE9A8eYZSf//aAAwDAQACAAMAAAAQ0xI+/8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEhETH/2gAIAQMBAT8Q5UbUFXg6P//EABURAQEAAAAAAAAAAAAAAAAAACAx/9oACAECAQE/EID/xAAhEAEBAAIBBAIDAAAAAAAAAAABEQAhMUFhgbFRcZGh8P/aAAgBAQABPxAEKoTlpFTwfjEIWzV0jTh8fWcWkEiJNafeBANrgDbWYQiLaLw6b5jm2WdpFO2zEtUbRsNYfBvC6QgqtdOnSYvwhsuReDP7HbP0PXOXx6M//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Berry Rhubarb bars&quot;
+        title=&quot;&quot;
+        src=&quot;/fullstackkitchen/static/3853108822abbcb629e737d5b20f487a/71e08/berry_rhubarb_bars-4.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/3853108822abbcb629e737d5b20f487a/996a7/berry_rhubarb_bars-4.jpg 320w,
+/fullstackkitchen/static/3853108822abbcb629e737d5b20f487a/06faf/berry_rhubarb_bars-4.jpg 640w,
+/fullstackkitchen/static/3853108822abbcb629e737d5b20f487a/71e08/berry_rhubarb_bars-4.jpg 1280w,
+/fullstackkitchen/static/3853108822abbcb629e737d5b20f487a/2ed49/berry_rhubarb_bars-4.jpg 1920w,
+/fullstackkitchen/static/3853108822abbcb629e737d5b20f487a/ad50a/berry_rhubarb_bars-4.jpg 2560w,
+/fullstackkitchen/static/3853108822abbcb629e737d5b20f487a/2bd0c/berry_rhubarb_bars-4.jpg 2625w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/fullstackkitchen/static/c8d2b7c6caf129d4a33229e3fd869740/5442e/strawberry_rhubarb_bars-3.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 150%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAIBAwUE/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/9oADAMBAAIQAxAAAAGxqpjUcj5m0meWWagb/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIAAxIRIf/aAAgBAQABBQIN2Vnxi3a9KB2A2AbZiQWjqythZkTIM//EABgRAQEAAwAAAAAAAAAAAAAAAAATASFh/9oACAEDAQE/AW1OKYf/xAAYEQACAwAAAAAAAAAAAAAAAAAAARAREv/aAAgBAgEBPwGKMs//xAAfEAACAQQCAwAAAAAAAAAAAAAAARECIjFhEJEhUYH/2gAIAQEABj8CbljR4okwuy1TpHr4aLW1sil9sxz/AP/EABwQAQACAgMBAAAAAAAAAAAAAAEAESExQWFx0f/aAAgBAQABPyHWBFAr5Nuzn2cZOuIiNYmNLlFqpcppgArxGNccuiVBQ4NMRqhIG6soKCoqtJ//2gAMAwEAAgADAAAAEPcwD//EABkRAQEBAAMAAAAAAAAAAAAAAAEAETFRYf/aAAgBAwEBPxA6j1ITCGfF/8QAGBEBAAMBAAAAAAAAAAAAAAAAAAERMXH/2gAIAQIBAT8Q1UO02P/EAB8QAQEAAgMAAgMAAAAAAAAAAAERACExQWFRgZGx0f/aAAgBAQABPxBkHQRAd/L84lbA6T9OBcTqRlNF2cnGIYwm0Ha7J9+5vzNCpLFf5kmU1Q2K+Gbo30FQDg7j8eYMQIUUBgL9vODjILa3zZrNtbToycMcwJlkr5n/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Berry Rhubarb Bars&quot;
+        title=&quot;&quot;
+        src=&quot;/fullstackkitchen/static/c8d2b7c6caf129d4a33229e3fd869740/71e08/strawberry_rhubarb_bars-3.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/c8d2b7c6caf129d4a33229e3fd869740/996a7/strawberry_rhubarb_bars-3.jpg 320w,
+/fullstackkitchen/static/c8d2b7c6caf129d4a33229e3fd869740/06faf/strawberry_rhubarb_bars-3.jpg 640w,
+/fullstackkitchen/static/c8d2b7c6caf129d4a33229e3fd869740/71e08/strawberry_rhubarb_bars-3.jpg 1280w,
+/fullstackkitchen/static/c8d2b7c6caf129d4a33229e3fd869740/2ed49/strawberry_rhubarb_bars-3.jpg 1920w,
+/fullstackkitchen/static/c8d2b7c6caf129d4a33229e3fd869740/ad50a/strawberry_rhubarb_bars-3.jpg 2560w,
+/fullstackkitchen/static/c8d2b7c6caf129d4a33229e3fd869740/5442e/strawberry_rhubarb_bars-3.jpg 2848w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/fullstackkitchen/static/ef8b5c6151313e25b6382525f1d0bc8c/5442e/strawberry_rhubarb_bars-2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 125%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAECAwT/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQMC/9oADAMBAAIQAxAAAAGpildEDRdFJPQZhn//xAAbEAEAAgMBAQAAAAAAAAAAAAABAhEAITEyQf/aAAgBAQABBQK4X6g93Z5SOcR0RKM+uf/EABcRAQEBAQAAAAAAAAAAAAAAAAARASH/2gAIAQMBAT8BTU6j/8QAFREBAQAAAAAAAAAAAAAAAAAAEAH/2gAIAQIBAT8BIf/EAB4QAAICAQUBAAAAAAAAAAAAAAABEYEyAiFBUWFx/9oACAEBAAY/Anvwe/TKLHKZ3Ri6HIjODUKxH//EACAQAAICAQMFAAAAAAAAAAAAAAERACExQVGBYXGhscH/2gAIAQEAAT8hTcaawAWslK0IJ1zH4BERBkcuKQJ0BBZS4uUIFDe1xBhYlsp7B9h80Ydk/9oADAMBAAIAAwAAABBM/LP/xAAYEQADAQEAAAAAAAAAAAAAAAAAARFBUf/aAAgBAwEBPxCsbcHAvp//xAAXEQADAQAAAAAAAAAAAAAAAAAAARFR/9oACAECAQE/EJgpBBH/xAAfEAEAAgICAwEBAAAAAAAAAAABESEAMVFhQXHwEIH/2gAIAQEAAT8QtQRC+7dzrWEBIMmgvns3iSQUgI/lZOmUJca0k9YqlREDigfPvHTUbhrFORAyULEipyYEJCiyfG024ORO4pPfL3+I+Zxnw9uf/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Berry Rhubarb Bars&quot;
+        title=&quot;&quot;
+        src=&quot;/fullstackkitchen/static/ef8b5c6151313e25b6382525f1d0bc8c/71e08/strawberry_rhubarb_bars-2.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/ef8b5c6151313e25b6382525f1d0bc8c/996a7/strawberry_rhubarb_bars-2.jpg 320w,
+/fullstackkitchen/static/ef8b5c6151313e25b6382525f1d0bc8c/06faf/strawberry_rhubarb_bars-2.jpg 640w,
+/fullstackkitchen/static/ef8b5c6151313e25b6382525f1d0bc8c/71e08/strawberry_rhubarb_bars-2.jpg 1280w,
+/fullstackkitchen/static/ef8b5c6151313e25b6382525f1d0bc8c/2ed49/strawberry_rhubarb_bars-2.jpg 1920w,
+/fullstackkitchen/static/ef8b5c6151313e25b6382525f1d0bc8c/ad50a/strawberry_rhubarb_bars-2.jpg 2560w,
+/fullstackkitchen/static/ef8b5c6151313e25b6382525f1d0bc8c/5442e/strawberry_rhubarb_bars-2.jpg 2848w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;These bars are super easy to make and a great summer dessert! Feel free to use either fresh or frozen fruit.  If you use fresh strawberries and/or berries, the texture will be a bit more chunky than frozen (seen in photos 3 and 4).  From my experiments, frozen fruit will break down easier and form more of a jam like texture (seen in photos 1 and 2). The recipe says to use 450g of strawberries and 350g of rhubarb.  If you don’t have that much rhubarb (it’s expensive yo!), replace some of the weight with raspberries, blueberries or more strawberries! Any combo will be delicious.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dirty Chai Almond Brownies]]></title><description><![CDATA[
+ 
+ Brownies!]]></description><link>https://fullstackkitchen.com//dirty-chai-almond-brownies/</link><guid isPermaLink="false">https://fullstackkitchen.com//dirty-chai-almond-brownies/</guid><pubDate>Wed, 24 Apr 2019 12:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/fullstackkitchen/static/cc98998f2fd95c3624d43b974e37953d/49294/chai_brownies-1.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 125.03799392097264%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQA/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAb5KxRDQaVE1KgFy2P/EABwQAAICAwEBAAAAAAAAAAAAAAECAAMREjETNP/aAAgBAQABBQIpoKvRnZmBucQsZu8dq1vZTkV5ln02dHP/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAbEAACAwADAAAAAAAAAAAAAAAAAREhMRAScf/aAAgBAQAGPwIsghO0aUx0+zMMF7z/AP/EAB4QAAIBBQADAAAAAAAAAAAAAAABIRExQVFhEKGx/9oACAEBAAE/IXKd24rouGHsYUpEWHG6nBo21H0VHB1ipTIOEBiMSWR6U+Pi/9oADAMBAAIAAwAAABBn0YL/xAAZEQACAwEAAAAAAAAAAAAAAAAAEQEQMSH/2gAIAQMBAT8QiNZwb2v/xAAYEQADAQEAAAAAAAAAAAAAAAAAARExEP/aAAgBAgEBPxB5ERkmc//EACAQAQACAQQCAwAAAAAAAAAAAAEAESExQVFhEMGBofD/2gAIAQEAAT8QBjujZFUpdyCniviYbTyyv6hThUndrfqHoK6wwhst6FnUdLqjYuLlergTRz3pL6sYoK9T97h8HQn/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Side image of bars&quot;
+        title=&quot;&quot;
+        src=&quot;/fullstackkitchen/static/cc98998f2fd95c3624d43b974e37953d/71e08/chai_brownies-1.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/cc98998f2fd95c3624d43b974e37953d/996a7/chai_brownies-1.jpg 320w,
+/fullstackkitchen/static/cc98998f2fd95c3624d43b974e37953d/06faf/chai_brownies-1.jpg 640w,
+/fullstackkitchen/static/cc98998f2fd95c3624d43b974e37953d/71e08/chai_brownies-1.jpg 1280w,
+/fullstackkitchen/static/cc98998f2fd95c3624d43b974e37953d/2ed49/chai_brownies-1.jpg 1920w,
+/fullstackkitchen/static/cc98998f2fd95c3624d43b974e37953d/ad50a/chai_brownies-1.jpg 2560w,
+/fullstackkitchen/static/cc98998f2fd95c3624d43b974e37953d/49294/chai_brownies-1.jpg 2632w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+&lt;img src=&quot;./chai_brownies-9.jpg&quot; alt=&quot;Side image of bars&quot;&gt;
+&lt;img src=&quot;./chai_brownies-6.jpg&quot; alt=&quot;Side image of bars&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Brownies!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Blood Orange Bars]]></title><description><![CDATA[Its Valentine’s week, which means my feed (and probably yours) is over run with heart shaped this and chocolate that and pink this. Well…]]></description><link>https://fullstackkitchen.com//blood-orange-bars/</link><guid isPermaLink="false">https://fullstackkitchen.com//blood-orange-bars/</guid><pubDate>Sun, 10 Feb 2019 23:46:37 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/fullstackkitchen/static/3184ae5937b685cbcc4c991ce4d3e0fc/60bf7/blood_orange_bars.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 141.8803418803419%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQCAwUB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIQAxAAAAGVLaU665wcoo7i2KJcaf/EAB0QAAICAgMBAAAAAAAAAAAAAAEDAAISIgQjMjP/2gAIAQEAAQUCZe1mP3KfnyfUSetyze5oYsaETAZYgT//xAAYEQACAwAAAAAAAAAAAAAAAAAAARASMf/aAAgBAwEBPwFD0tH/xAAXEQEBAQEAAAAAAAAAAAAAAAAAARIx/9oACAECAQE/AU4yj//EAB8QAAIABQUAAAAAAAAAAAAAAAABAhESMWEQICEicf/aAAgBAQAGPwJc00ijh8FMwYmLS/XZY//EAB4QAQACAgEFAAAAAAAAAAAAAAEAESExUUFxgZGh/9oACAEBAAE/IVwoXOGG1e0tUrTrMKvfOMv2hYtQaiUQLXgqECA7IrVug1AVEf/aAAwDAQACAAMAAAAQ3DAO/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAwEBPxDkGfUMMl12/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARITH/2gAIAQIBAT8QVV7eGzAhl//EAB0QAQEAAgIDAQAAAAAAAAAAAAERACExQVFhcbH/2gAIAQEAAT8QOHvoq4ZgqC1h7HzkomR5XAaU1kgzua+cYK7GRo7Xc7tcTyemEHEUTn1xmnSFaMGftwLoTo1iy0fuK7LCtbyYAZ//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Blood Orange Bar&quot;
+        title=&quot;&quot;
+        src=&quot;/fullstackkitchen/static/3184ae5937b685cbcc4c991ce4d3e0fc/71e08/blood_orange_bars.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/3184ae5937b685cbcc4c991ce4d3e0fc/996a7/blood_orange_bars.jpg 320w,
+/fullstackkitchen/static/3184ae5937b685cbcc4c991ce4d3e0fc/06faf/blood_orange_bars.jpg 640w,
+/fullstackkitchen/static/3184ae5937b685cbcc4c991ce4d3e0fc/71e08/blood_orange_bars.jpg 1280w,
+/fullstackkitchen/static/3184ae5937b685cbcc4c991ce4d3e0fc/2ed49/blood_orange_bars.jpg 1920w,
+/fullstackkitchen/static/3184ae5937b685cbcc4c991ce4d3e0fc/ad50a/blood_orange_bars.jpg 2560w,
+/fullstackkitchen/static/3184ae5937b685cbcc4c991ce4d3e0fc/60bf7/blood_orange_bars.jpg 2808w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/fullstackkitchen/static/9cba1ef7b2c52c220cc79c1712fe95cd/5442e/blood_orange_bars-4.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 119.69803370786518%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAYABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAHowwxjTSqMtEqItf/EABsQAQADAAMBAAAAAAAAAAAAAAEAAhEDBBMU/9oACAEBAAEFAnlCW5sj2MXbWlbKeWPms+dn/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEREv/aAAgBAwEBPwHKIim2f//EABYRAQEBAAAAAAAAAAAAAAAAAAAREv/aAAgBAgEBPwGqjL//xAAbEAACAgMBAAAAAAAAAAAAAAAAEQEhAhIxYf/aAAgBAQAGPwIuDhqh1XhWDKE5Oyf/xAAbEAADAAMBAQAAAAAAAAAAAAAAAREhQXFRgf/aAAgBAQABPyHW3MNE+MuqZ0dGCdbYnGq1aFNJwmmA8lLp4K4z/9oADAMBAAIAAwAAABDM8ED/xAAaEQACAgMAAAAAAAAAAAAAAAAAARARITGh/9oACAEDAQE/ECqxXRvuH//EABgRAQEAAwAAAAAAAAAAAAAAAAARASFR/9oACAECAQE/ELV1jaIf/8QAHRABAAMAAgMBAAAAAAAAAAAAAQARITGBQVFh0f/aAAgBAQABPxBx4MPG3F6LF38+xgG8GjnTPXp4XjjIzKCyvX32xBdV271zAVlg0i7D7LCjYgV0C3wT/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Blood Orange Bar&quot;
+        title=&quot;&quot;
+        src=&quot;/fullstackkitchen/static/9cba1ef7b2c52c220cc79c1712fe95cd/71e08/blood_orange_bars-4.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/9cba1ef7b2c52c220cc79c1712fe95cd/996a7/blood_orange_bars-4.jpg 320w,
+/fullstackkitchen/static/9cba1ef7b2c52c220cc79c1712fe95cd/06faf/blood_orange_bars-4.jpg 640w,
+/fullstackkitchen/static/9cba1ef7b2c52c220cc79c1712fe95cd/71e08/blood_orange_bars-4.jpg 1280w,
+/fullstackkitchen/static/9cba1ef7b2c52c220cc79c1712fe95cd/2ed49/blood_orange_bars-4.jpg 1920w,
+/fullstackkitchen/static/9cba1ef7b2c52c220cc79c1712fe95cd/ad50a/blood_orange_bars-4.jpg 2560w,
+/fullstackkitchen/static/9cba1ef7b2c52c220cc79c1712fe95cd/5442e/blood_orange_bars-4.jpg 2848w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/fullstackkitchen/static/cf7112a7399a497fb42243c86b3f3e9e/5442e/blood_orange_bars-7.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 120.85674157303372%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAYABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIDAQT/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgMB/9oADAMBAAIQAxAAAAGavsrwzaa4inuDT//EAB0QAAIBBAMAAAAAAAAAAAAAAAESAwACESETIkH/2gAIAQEAAQUCkDXd+QzZMepvUuolqXSZH//EABgRAAIDAAAAAAAAAAAAAAAAAAARAhBh/9oACAEDAQE/AcFEar//xAAYEQEAAwEAAAAAAAAAAAAAAAAAAREhMf/aAAgBAgEBPwFqerf/xAAfEAACAgIBBQAAAAAAAAAAAAAAAQIREiEjMTJBYZH/2gAIAQEABj8C4zOUaHpfC8aRLfcOmhar0RqDvyzq0f/EABoQAQEBAQEBAQAAAAAAAAAAAAERACExQZH/2gAIAQEAAT8h8JwCbx5X5jV9NlSviZQnVEr5g3jXWQqEaxRCLgBVpyDv/9oADAMBAAIAAwAAABCP/wB//8QAGhEAAgIDAAAAAAAAAAAAAAAAAAERITFRYf/aAAgBAwEBPxB1gdBQEvZ//8QAGREAAwADAAAAAAAAAAAAAAAAAAERIUFh/9oACAECAQE/EFt0oxYXJ//EAB8QAQACAgICAwAAAAAAAAAAAAEAESFBMWFxgaHB0f/aAAgBAQABPxAqVRNlTct0iwMVY/cyiuuVJ65ubpmgtHuES9Yt2nzDwSbi36jNycRfMytXW6TXMcxCwwe5/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Blood Orange Bar&quot;
+        title=&quot;&quot;
+        src=&quot;/fullstackkitchen/static/cf7112a7399a497fb42243c86b3f3e9e/71e08/blood_orange_bars-7.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/cf7112a7399a497fb42243c86b3f3e9e/996a7/blood_orange_bars-7.jpg 320w,
+/fullstackkitchen/static/cf7112a7399a497fb42243c86b3f3e9e/06faf/blood_orange_bars-7.jpg 640w,
+/fullstackkitchen/static/cf7112a7399a497fb42243c86b3f3e9e/71e08/blood_orange_bars-7.jpg 1280w,
+/fullstackkitchen/static/cf7112a7399a497fb42243c86b3f3e9e/2ed49/blood_orange_bars-7.jpg 1920w,
+/fullstackkitchen/static/cf7112a7399a497fb42243c86b3f3e9e/ad50a/blood_orange_bars-7.jpg 2560w,
+/fullstackkitchen/static/cf7112a7399a497fb42243c86b3f3e9e/5442e/blood_orange_bars-7.jpg 2848w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Its Valentine’s week, which means my feed (and probably yours) is over run with heart shaped this and chocolate that and pink this. Well — this is me adding 1 more in. If you plan on baking this Valentines day, or at least want to bake something cute to bring into the office like what I’m doing, these blood orange bars are great choice! Blood oranges are in season right now and have that beautiful pinkish-red hue that makes my heart flutter. Its essentially a shortbread cookies + a baked curd, so what can go wrong! If you’ve had lemon bars before, its a very similar taste and feel, but slightly less tart!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Mexican Ricotta Cheesecake with Tomato Mole Jam]]></title><description><![CDATA[The first month of the New Year has already flown by and it’s bitter cold here in Brooklyn.  Even though winter is always fun (ie. skiing…]]></description><link>https://fullstackkitchen.com//tomato-mole-jam/</link><guid isPermaLink="false">https://fullstackkitchen.com//tomato-mole-jam/</guid><pubDate>Thu, 24 Jan 2019 00:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/fullstackkitchen/static/5a84f5b522a205b32d57bee65508f38e/5442e/mole_cheesecake-13.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 150%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFBgID/8QAFQEBAQAAAAAAAAAAAAAAAAAAAgD/2gAMAwEAAhADEAAAAaPmrPD0YqI9x9MrSJQDf//EABwQAAIBBQEAAAAAAAAAAAAAAAECAAMEERITIv/aAAgBAQABBQI1gIK6ky6RQ+0Sr5u02Tk5iYZTOYyFxP/EABcRAQEBAQAAAAAAAAAAAAAAAAARARL/2gAIAQMBAT8BmJqun//EABcRAQADAAAAAAAAAAAAAAAAAAABERL/2gAIAQIBAT8BuWoUw//EAB0QAAICAQUAAAAAAAAAAAAAAAABESEQEiAiMXH/2gAIAQEABj8CsjGoVUKTwh9I4Wtn/8QAHRABAQEAAgIDAAAAAAAAAAAAAREAITFBURBhgf/aAAgBAQABPyGaRX1hqpfhk+541HKF04nzNy2Dz9DcgvsxHs0k1b70EGG//9oADAMBAAIAAwAAABA7wEP/xAAXEQEBAQEAAAAAAAAAAAAAAAARAAEQ/9oACAEDAQE/EG5YcJX/xAAYEQEBAAMAAAAAAAAAAAAAAAAAAREhYf/aAAgBAgEBPxCDsyWLt//EAB8QAQADAAICAwEAAAAAAAAAAAEAETEhQVFxYYGhsf/aAAgBAQABPxBpi5q1XmosHSU/s3IBCDhar+P2BlfHavHfUQDVea5goVEW172GKh2FgD7whBQuHHPewVARKRI6uG7oevUoXhhP/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Social View&quot;
+        title=&quot;&quot;
+        src=&quot;/fullstackkitchen/static/5a84f5b522a205b32d57bee65508f38e/71e08/mole_cheesecake-13.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/5a84f5b522a205b32d57bee65508f38e/996a7/mole_cheesecake-13.jpg 320w,
+/fullstackkitchen/static/5a84f5b522a205b32d57bee65508f38e/06faf/mole_cheesecake-13.jpg 640w,
+/fullstackkitchen/static/5a84f5b522a205b32d57bee65508f38e/71e08/mole_cheesecake-13.jpg 1280w,
+/fullstackkitchen/static/5a84f5b522a205b32d57bee65508f38e/2ed49/mole_cheesecake-13.jpg 1920w,
+/fullstackkitchen/static/5a84f5b522a205b32d57bee65508f38e/ad50a/mole_cheesecake-13.jpg 2560w,
+/fullstackkitchen/static/5a84f5b522a205b32d57bee65508f38e/5442e/mole_cheesecake-13.jpg 2848w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/fullstackkitchen/static/c6eb2abfac9121b6c6fefb10fe07cab5/18ea0/mole_cheesecake-34.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 64.03990024937656%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAgP/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABbhhaa3Kif//EABoQAAICAwAAAAAAAAAAAAAAAAIDABMREiL/2gAIAQEAAQUCY0sE6wV8LMJpKhOf/8QAFREBAQAAAAAAAAAAAAAAAAAAECH/2gAIAQMBAT8Bh//EABURAQEAAAAAAAAAAAAAAAAAABAh/9oACAECAQE/Aaf/xAAZEAADAQEBAAAAAAAAAAAAAAAAAQIRIUH/2gAIAQEABj8CTmub0cqHO+smaa1GS8Ots1n/xAAcEAACAgIDAAAAAAAAAAAAAAABEQAhMUFhcaH/2gAIAQEAAT8hVfoKz1CryJEQzAaigEPAlz60OfvFGf/aAAwDAQACAAMAAAAQUA//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8QHFhf/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEhEf/aAAgBAgEBPxB3DWf/xAAdEAEBAAIDAAMAAAAAAAAAAAABEQAhQVFhcYGR/9oACAEBAAE/EBFRilHXTfOHokGhPfrBEIalE4yl04AMDq/OBA8xg/DIIEEaNGf/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Slice View&quot;
+        title=&quot;&quot;
+        src=&quot;/fullstackkitchen/static/c6eb2abfac9121b6c6fefb10fe07cab5/71e08/mole_cheesecake-34.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/c6eb2abfac9121b6c6fefb10fe07cab5/996a7/mole_cheesecake-34.jpg 320w,
+/fullstackkitchen/static/c6eb2abfac9121b6c6fefb10fe07cab5/06faf/mole_cheesecake-34.jpg 640w,
+/fullstackkitchen/static/c6eb2abfac9121b6c6fefb10fe07cab5/71e08/mole_cheesecake-34.jpg 1280w,
+/fullstackkitchen/static/c6eb2abfac9121b6c6fefb10fe07cab5/2ed49/mole_cheesecake-34.jpg 1920w,
+/fullstackkitchen/static/c6eb2abfac9121b6c6fefb10fe07cab5/ad50a/mole_cheesecake-34.jpg 2560w,
+/fullstackkitchen/static/c6eb2abfac9121b6c6fefb10fe07cab5/12898/mole_cheesecake-34.jpg 3840w,
+/fullstackkitchen/static/c6eb2abfac9121b6c6fefb10fe07cab5/18ea0/mole_cheesecake-34.jpg 4010w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;div class=&quot;body-text&quot;&gt;
+&lt;p&gt;The first month of the New Year has already flown by and it’s bitter cold here in Brooklyn.  Even though winter is always fun (ie. skiing), I get that yearning to be on a beach in Mexico or basking in the Mediterranean sun whenever I am trudging to work through the snowy dirty streets of New York.  Making and eating this Mexican Ricotta Cheesecake with a Tomato Mole Jam is possibly the next best thing to hopping on a flight to warmer weather.  It has loads of spicy, complex flavors that will keep you warm and preoccupied until the sun comes out in a few months. &lt;/p&gt;
+&lt;p&gt;When i was approached by Muir Glen and The Feedfeed to develop a recipe for them using their organic canned tomatoes, I wanted to think outside the box. Wanting to stay true to my &lt;em&gt;mostly&lt;/em&gt; dessert feed, a tomato jam immediately came to mind. Tomato jams are usually made with onions, cumin and other savory spices. They show up on cheese plates, as condiments for sandwiches, on top of eggs and in vinaigrettes.  I wanted to make a more complex, sweeter jam that could do double duty as a perfect addition to a cheese plate but not feel weird on top of a dessert. Mole is a traditional sauce used in Mexican cuisines. According to Wikipedia - the source of all knowledge - a mole sauce contains a fruit, chili pepper, nut, and such spices as black pepper, cinnamon, cumin, and chocolate.  I could work with that. As you can see in the final recipe below, my mole jam has a lot of that - cinnamon, dried fruit, almonds and cocoa. The results? A sweet, (but not too sweet!) dynamic, interesting jam with a slightly spicy aftertaste.  It tastes like a tomato jam, but it also doesn’t really taste a whole lot like what you would think tomatoes taste like.  But what do I put it on? &lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;image-halfsize-container&quot;&gt;
+    &lt;div class=&quot;image-halfsize&quot;&gt;
+        
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/fullstackkitchen/static/bd314c98b5b42609f694cb8e91e0dfa2/319c0/mole_cheesecake-27.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 131.7545748116254%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAgP/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAbmEE8tcWEU4WVR4Gyv/xAAdEAACAQQDAAAAAAAAAAAAAAABAgMAECExERIj/9oACAEBAAEFAq5FmnHct7phWjLkxgMDgVLsa//EABYRAQEBAAAAAAAAAAAAAAAAABEAEP/aAAgBAwEBPwExm//EABYRAQEBAAAAAAAAAAAAAAAAABEAEP/aAAgBAgEBPwFwi//EAB8QAAECBgMAAAAAAAAAAAAAAAABMQIQEiAhIkJhkf/aAAgBAQAGPwKdKisw5tDjo5eW/wD/xAAcEAADAAIDAQAAAAAAAAAAAAAAAREhQTFxgbH/2gAIAQEAAT8hcGDeS6hRblNknTBPAd8Hv4lKZNJpDcx2IuZkxCrQ/9oADAMBAAIAAwAAABB3OrL/xAAXEQADAQAAAAAAAAAAAAAAAAAAARFB/9oACAEDAQE/EL0gnRR//8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARUf/aAAgBAgEBPxB5hnZZv//EABwQAQADAAMBAQAAAAAAAAAAAAEAESExUXGBYf/aAAgBAQABPxBA2C6huKqALuJ0XARCIa2vl8zKbS7CktxAKqVrCla+kU8OCc/NlAA9BA1AKRZ1rWNwa8jgoXyf/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;mole cheesecake 27&quot; title=&quot;&quot; src=&quot;/fullstackkitchen/static/bd314c98b5b42609f694cb8e91e0dfa2/71e08/mole_cheesecake-27.jpg&quot; srcset=&quot;/fullstackkitchen/static/bd314c98b5b42609f694cb8e91e0dfa2/996a7/mole_cheesecake-27.jpg 320w,
+/fullstackkitchen/static/bd314c98b5b42609f694cb8e91e0dfa2/06faf/mole_cheesecake-27.jpg 640w,
+/fullstackkitchen/static/bd314c98b5b42609f694cb8e91e0dfa2/71e08/mole_cheesecake-27.jpg 1280w,
+/fullstackkitchen/static/bd314c98b5b42609f694cb8e91e0dfa2/2ed49/mole_cheesecake-27.jpg 1920w,
+/fullstackkitchen/static/bd314c98b5b42609f694cb8e91e0dfa2/ad50a/mole_cheesecake-27.jpg 2560w,
+/fullstackkitchen/static/bd314c98b5b42609f694cb8e91e0dfa2/319c0/mole_cheesecake-27.jpg 2787w&quot; sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+    &lt;/div&gt;
+    &lt;div class=&quot;image-halfsize&quot;&gt;
+        
+  &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/fullstackkitchen/static/fdab715a5f325047e076df5df6e7a87c/319c0/mole_cheesecake-16.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+  
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 131.7545748116254%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQADBP/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABYH3FzvaoUGdOTnsZf//EABwQAAIDAAMBAAAAAAAAAAAAAAECAAMREhMzIf/aAAgBAQABBQJmCiy+F9l1mk/T15LeLKRh7Wi+9nlP/8QAFREBAQAAAAAAAAAAAAAAAAAAIDH/2gAIAQMBAT8Bg//EABURAQEAAAAAAAAAAAAAAAAAACAx/9oACAECAQE/AaP/xAAfEAABAwMFAAAAAAAAAAAAAAABAAIQESExQVFhscH/2gAIAQEABj8CqqdLAVsCLuaEHVG0vGiB49j/xAAdEAEAAwACAwEAAAAAAAAAAAABABEhMUEQUYHR/9oACAEBAAE/IWKlWr9h+pi6j2zhmV3XMSi8rHO8S6XYckJKVOVGkLMK0ufOcfCAXG9/D//aAAwDAQACAAMAAAAQgBrP/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/EJDUrH//xAAXEQADAQAAAAAAAAAAAAAAAAABESAh/9oACAECAQE/EDpx/8QAHRABAQADAAMBAQAAAAAAAAAAAREAITFBYXGBUf/aAAgBAQABPxBUeCw7iUvQlRKJfYonjIpDQ2jt95rtoNLHnohfJlWmpXdX3msLlcF/phJFjiAXdqMD1vH10uOv2fubCtRFP1e41Y3yufDDoO+jdvdx7n//2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;
+      &lt;img class=&quot;gatsby-resp-image-image&quot; style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot; alt=&quot;mole cheesecake 16&quot; title=&quot;&quot; src=&quot;/fullstackkitchen/static/fdab715a5f325047e076df5df6e7a87c/71e08/mole_cheesecake-16.jpg&quot; srcset=&quot;/fullstackkitchen/static/fdab715a5f325047e076df5df6e7a87c/996a7/mole_cheesecake-16.jpg 320w,
+/fullstackkitchen/static/fdab715a5f325047e076df5df6e7a87c/06faf/mole_cheesecake-16.jpg 640w,
+/fullstackkitchen/static/fdab715a5f325047e076df5df6e7a87c/71e08/mole_cheesecake-16.jpg 1280w,
+/fullstackkitchen/static/fdab715a5f325047e076df5df6e7a87c/2ed49/mole_cheesecake-16.jpg 1920w,
+/fullstackkitchen/static/fdab715a5f325047e076df5df6e7a87c/ad50a/mole_cheesecake-16.jpg 2560w,
+/fullstackkitchen/static/fdab715a5f325047e076df5df6e7a87c/319c0/mole_cheesecake-16.jpg 2787w&quot; sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;body-text&quot;&gt;
+&lt;p&gt;Enter the ricotta cheesecake. Using ricotta in place of some of the cream cheese makes the cake a lot lighter (in a calorie and fluffier way). This creates a good balance with the graham cracker crust and thick dense mole jam.  By using the tried and true water bath method (outlined in the instructions), my cheesecake came out perfect with no cracks, no overcooked edges and a flat top!  I also left it in the oven after I turned off the heat for a few hours, which I’ve read helps prevent cracking.&lt;/p&gt;
+&lt;p&gt;I ventured to my local co-op to buy the tomatoes, spices and other ingredients for this recipe.  Flatbush Food Coop is the closest one to me, but you can find your closest one here! The tomatoes are currently on sale for 10/$10 - which is very exciting because that’s almost half their regular price. Speaking of deals (which I’m a huge fan of), the entire co-op was extremely reasonably priced and they had an extensive bulk food and spice section where you can get just what you need (like for this recipe!). &lt;/p&gt;
+&lt;p&gt;This cake is perfect when you want to try making something different.  The jam itself is a showstopper and I can imagine it works very well with all sorts of cheese, on top of your morning bagel and cream cheese, inside a pastry or mixed into yogurt.   The jam makes a little more than you actually need to cover the cake, so let me know if you make this recipe and what you did with the extra!&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/fullstackkitchen/static/ed9251c527cc06faa39f3ce1cb540f0a/36a8f/mole_cheesecake-18.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 76.80690399137%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQX/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAABkyTFOwaKf//EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMRIkP/2gAIAQEAAQUCL7EsyIXC2jv0QsF//8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAIAQMBAT8BV//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABwQAAICAgMAAAAAAAAAAAAAAAAhARECECIxQf/aAAgBAQAGPwK8hSvTq9cYGz//xAAdEAACAgEFAAAAAAAAAAAAAAABEQAhQTFRcYGR/9oACAEBAAE/ISYD31hxTPSDI7Yq9iUWQBiCYBuZ/9oADAMBAAIAAwAAABBoH//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAwEBPxDYKrf/xAAWEQEBAQAAAAAAAAAAAAAAAAABAEH/2gAIAQIBAT8QDYb/xAAdEAEBAAIDAAMAAAAAAAAAAAABEQAhMUFhUeHw/9oACAEBAAE/EITogRNfJr8ZSVYA1HF+zCSxyDRPLhmGHV5LvIeTb8d4l8DmNeZ//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Top View with can&quot;
+        title=&quot;&quot;
+        src=&quot;/fullstackkitchen/static/ed9251c527cc06faa39f3ce1cb540f0a/71e08/mole_cheesecake-18.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/ed9251c527cc06faa39f3ce1cb540f0a/996a7/mole_cheesecake-18.jpg 320w,
+/fullstackkitchen/static/ed9251c527cc06faa39f3ce1cb540f0a/06faf/mole_cheesecake-18.jpg 640w,
+/fullstackkitchen/static/ed9251c527cc06faa39f3ce1cb540f0a/71e08/mole_cheesecake-18.jpg 1280w,
+/fullstackkitchen/static/ed9251c527cc06faa39f3ce1cb540f0a/2ed49/mole_cheesecake-18.jpg 1920w,
+/fullstackkitchen/static/ed9251c527cc06faa39f3ce1cb540f0a/ad50a/mole_cheesecake-18.jpg 2560w,
+/fullstackkitchen/static/ed9251c527cc06faa39f3ce1cb540f0a/36a8f/mole_cheesecake-18.jpg 3708w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/fullstackkitchen/static/cdf05965e46b79c210d3ce72eb97b907/5d12e/mole_cheesecake-36.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 69.68275862068965%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAFmr1jEVBf/xAAbEAABBAMAAAAAAAAAAAAAAAABAgMTIQASIv/aAAgBAQABBQIJlU493qnCCTHZav8A/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8Bqv/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AUf/xAAbEAACAQUAAAAAAAAAAAAAAAAAAQIQEiExM//aAAgBAQAGPwJXvMUKKOZuv//EAB4QAAEEAgMBAAAAAAAAAAAAAAEAESExQWFRcYHR/9oACAEBAAE/IZHXtogBzZ+LJN/FxhoIg0vWEAwLdh1//9oADAMBAAIAAwAAABA3P//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/EIH/xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8QhT//xAAcEAEBAAMAAwEAAAAAAAAAAAABEQAhMUFRcdH/2gAIAQEAAT8QftIRq7dfOUxwzHkiP4xppGxHTxzBVJ3AE9bx9OGEGseJh3Bj3n//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Slice with bite View&quot;
+        title=&quot;&quot;
+        src=&quot;/fullstackkitchen/static/cdf05965e46b79c210d3ce72eb97b907/71e08/mole_cheesecake-36.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/cdf05965e46b79c210d3ce72eb97b907/996a7/mole_cheesecake-36.jpg 320w,
+/fullstackkitchen/static/cdf05965e46b79c210d3ce72eb97b907/06faf/mole_cheesecake-36.jpg 640w,
+/fullstackkitchen/static/cdf05965e46b79c210d3ce72eb97b907/71e08/mole_cheesecake-36.jpg 1280w,
+/fullstackkitchen/static/cdf05965e46b79c210d3ce72eb97b907/2ed49/mole_cheesecake-36.jpg 1920w,
+/fullstackkitchen/static/cdf05965e46b79c210d3ce72eb97b907/ad50a/mole_cheesecake-36.jpg 2560w,
+/fullstackkitchen/static/cdf05965e46b79c210d3ce72eb97b907/5d12e/mole_cheesecake-36.jpg 3625w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;This post is sponsored by &lt;a href=&quot;https://www.muirglen.com/&quot;&gt;Muir Glen&lt;/a&gt; and &lt;a href=&quot;https://thefeedfeed.com/&quot;&gt;The Feedfeed&lt;/a&gt;, but all opinions are my own.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hot Cocoa Macarons with Chocolate & Marshmallow Filling]]></title><description><![CDATA[Hot Cocoa Macarons w/chocolate & marshmallow filling: Its absurdly cold today in NYC (feels like -10˚F absurdly cold), which makes me feel…]]></description><link>https://fullstackkitchen.com//hot-cocoa-macarons/</link><guid isPermaLink="false">https://fullstackkitchen.com//hot-cocoa-macarons/</guid><pubDate>Fri, 11 Jan 2019 23:46:37 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/fullstackkitchen/static/41d4fa50af27c50b49919ce356f35527/49c7f/hot_cocoa_macarons-7.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 140.27679205110007%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAEEAgP/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgD/2gAMAwEAAhADEAAAAbHDylqNDsF8RrRFT//EAB0QAAICAQUAAAAAAAAAAAAAAAECABMRAxIiMUL/2gAIAQEAAQUCYAGxYUOTxT0BqNNoeVPMCFQotasdf//EABURAQEAAAAAAAAAAAAAAAAAABEg/9oACAEDAQE/ASP/xAAVEQEBAAAAAAAAAAAAAAAAAAARIP/aAAgBAgEBPwFj/8QAHRAAAgIBBQAAAAAAAAAAAAAAAAECEBESITEyQf/aAAgBAQAGPwJPKxGuWSPTaSRLT2dtq//EABwQAQADAQEAAwAAAAAAAAAAAAEAESExUUFxkf/aAAgBAQABPyGoQVYR4DsHj84NOLwm/Lt79QCxfGUEU6XCy19uBFUEGTUlqcu/IsT/2gAMAwEAAgADAAAAEJzq8//EABgRAQEAAwAAAAAAAAAAAAAAAAEAEBEx/9oACAEDAQE/ENIWFeY//8QAGBEBAQADAAAAAAAAAAAAAAAAAQAQETH/2gAIAQIBAT8QmiQO4//EAB4QAQEBAQEAAQUAAAAAAAAAAAERIQAxQVFhcaHR/9oACAEBAAE/ELSsBZ8+3x2IZ4Ddm8wxO3Vfqw6eaph7I7OUNMRfwB0l5D5HDf3y4tYdQiTeeFAuk2h/HhigACXov7LfOGJhF+RyqX0Hv//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Social View&quot;
+        title=&quot;&quot;
+        src=&quot;/fullstackkitchen/static/41d4fa50af27c50b49919ce356f35527/71e08/hot_cocoa_macarons-7.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/41d4fa50af27c50b49919ce356f35527/996a7/hot_cocoa_macarons-7.jpg 320w,
+/fullstackkitchen/static/41d4fa50af27c50b49919ce356f35527/06faf/hot_cocoa_macarons-7.jpg 640w,
+/fullstackkitchen/static/41d4fa50af27c50b49919ce356f35527/71e08/hot_cocoa_macarons-7.jpg 1280w,
+/fullstackkitchen/static/41d4fa50af27c50b49919ce356f35527/2ed49/hot_cocoa_macarons-7.jpg 1920w,
+/fullstackkitchen/static/41d4fa50af27c50b49919ce356f35527/ad50a/hot_cocoa_macarons-7.jpg 2560w,
+/fullstackkitchen/static/41d4fa50af27c50b49919ce356f35527/49c7f/hot_cocoa_macarons-7.jpg 2818w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/fullstackkitchen/static/ee18d273081ddd9dee9ded6d20574be7/5442e/hot_cocoa_macarons-14.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 132.47893258426967%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAwQG/8QAFAEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABoYqthTkgY51jntCYiMY//8QAHBAAAgIDAQEAAAAAAAAAAAAAAQIAAxESIRMx/9oACAEBAAEFAmyZQmDiKSXrdtl+dNnmVmwlko6LSd//xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8BdP/EABYRAAMAAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPwFw/8QAHxABAAIBAwUAAAAAAAAAAAAAAQARMQIQQSEiMlGR/9oACAEBAAY/AlvLO5vbF1xG1+TrB0+UyC8+pmEV2//EABwQAQEBAQACAwAAAAAAAAAAAAERACExQVFhgf/aAAgBAQABPyEFKdJM/KUoBiPGDexkYNX0O/upPV+8fNCa6gKAKrQAesA5J13sxvl1jrv/2gAMAwEAAgADAAAAEGAWQ//EABgRAQEAAwAAAAAAAAAAAAAAAAEAECFR/9oACAEDAQE/EHhhna//xAAYEQACAwAAAAAAAAAAAAAAAAAAARAhYf/aAAgBAgEBPxBbCFQ//8QAHhABAQACAgMBAQAAAAAAAAAAAREAITFBUWGRcYH/2gAIAQEAAT8QtB2Dgr19wauQoIPn3kqVLcaaOxkWF+Ye3Mbj/TxmhhG6r/XEjRCuFrjPq9gKoHhwCNACvfvKIvCJ3nXnrsfuCIInT7c//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Slice View&quot;
+        title=&quot;&quot;
+        src=&quot;/fullstackkitchen/static/ee18d273081ddd9dee9ded6d20574be7/71e08/hot_cocoa_macarons-14.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/ee18d273081ddd9dee9ded6d20574be7/996a7/hot_cocoa_macarons-14.jpg 320w,
+/fullstackkitchen/static/ee18d273081ddd9dee9ded6d20574be7/06faf/hot_cocoa_macarons-14.jpg 640w,
+/fullstackkitchen/static/ee18d273081ddd9dee9ded6d20574be7/71e08/hot_cocoa_macarons-14.jpg 1280w,
+/fullstackkitchen/static/ee18d273081ddd9dee9ded6d20574be7/2ed49/hot_cocoa_macarons-14.jpg 1920w,
+/fullstackkitchen/static/ee18d273081ddd9dee9ded6d20574be7/ad50a/hot_cocoa_macarons-14.jpg 2560w,
+/fullstackkitchen/static/ee18d273081ddd9dee9ded6d20574be7/5442e/hot_cocoa_macarons-14.jpg 2848w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/fullstackkitchen/static/6e7072a45c970cfb434d54be130c7484/f8d32/hot_cocoa_macarons-11.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 142.67924528301887%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAdABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQACA//EABQBAQAAAAAAAAAAAAAAAAAAAAL/2gAMAwEAAhADEAAAAUSkxymLUjzORNKWsSH/xAAdEAACAQQDAAAAAAAAAAAAAAABAgMAERIiBCEy/9oACAEBAAEFApTYO+6CyzJkpXZfPIYYx2VxUoVSnZr/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPwEhP//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/AWM//8QAHRAAAQQCAwAAAAAAAAAAAAAAMQABECEREgIigf/aAAgBAQAGPwIUurayRB8VtG78cusi4//EABwQAAIDAQADAAAAAAAAAAAAAAERACExQWFxkf/aAAgBAQABPyFO26LlEXh7cGERwXgnIa68zLYKpR/UMUDrHheQgnAwAVXKYhjOkz//2gAMAwEAAgADAAAAEHsgs//EABcRAQADAAAAAAAAAAAAAAAAAAABEDH/2gAIAQMBAT8QZYr/xAAXEQADAQAAAAAAAAAAAAAAAAAAATEQ/9oACAECAQE/EKEVn//EAB4QAQACAgIDAQAAAAAAAAAAAAERIQAxQXFRYYHB/9oACAEBAAE/ECjSLUAAk9stVgILTBlJuZ25G6Hb25VgIESfuwMeiYiLsePWTBVIbd5ZI7qfmW+5s6Dy47im4cqCy4XziLsRhkiddYsyIuKz/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Slice View&quot;
+        title=&quot;&quot;
+        src=&quot;/fullstackkitchen/static/6e7072a45c970cfb434d54be130c7484/71e08/hot_cocoa_macarons-11.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/6e7072a45c970cfb434d54be130c7484/996a7/hot_cocoa_macarons-11.jpg 320w,
+/fullstackkitchen/static/6e7072a45c970cfb434d54be130c7484/06faf/hot_cocoa_macarons-11.jpg 640w,
+/fullstackkitchen/static/6e7072a45c970cfb434d54be130c7484/71e08/hot_cocoa_macarons-11.jpg 1280w,
+/fullstackkitchen/static/6e7072a45c970cfb434d54be130c7484/2ed49/hot_cocoa_macarons-11.jpg 1920w,
+/fullstackkitchen/static/6e7072a45c970cfb434d54be130c7484/ad50a/hot_cocoa_macarons-11.jpg 2560w,
+/fullstackkitchen/static/6e7072a45c970cfb434d54be130c7484/f8d32/hot_cocoa_macarons-11.jpg 2650w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/fullstackkitchen/static/ab9c24c49ad0fa02e9fc950846c91b25/5442e/hot_cocoa_macarons-2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 132.79494382022472%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABvSbMeoYiK9MYqYEv/8QAHRAAAgICAwEAAAAAAAAAAAAAAQIAAxESEyIxMv/aAAgBAQABBQLl2iMRA2ZeSKqNnRWXFjaBe9Q40jeWfbe//8QAFhEAAwAAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AXD/xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8BdP/EABsQAAICAwEAAAAAAAAAAAAAAAARASECECJh/9oACAEBAAY/Aki9PCFdnRRzFEOmJ6x91//EABoQAAMAAwEAAAAAAAAAAAAAAAABESExUUH/2gAIAQEAAT8hi1hiZq946yKrRtCJS4M1nFiv0T5bT6NpocwN6kQbBI8GxeI6bT//2gAMAwEAAgADAAAAEEjAA//EABgRAAIDAAAAAAAAAAAAAAAAAAABEBEh/9oACAEDAQE/EMhFWf/EABkRAAIDAQAAAAAAAAAAAAAAAAARARAhQf/aAAgBAgEBPxDjGTlf/8QAHhABAQACAgMBAQAAAAAAAAAAAREAITFBUWGxgZH/2gAIAQEAAT8QKUTt3Hrjnv8AmADAt/hhm23GJIe4qRfzcMek2Q3CW315w1YvQ2V3m2uLvVWRbzjuBdAPmbDU5Z36wpAbnGKDlHTlAm+sIGeXP//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Slice View&quot;
+        title=&quot;&quot;
+        src=&quot;/fullstackkitchen/static/ab9c24c49ad0fa02e9fc950846c91b25/71e08/hot_cocoa_macarons-2.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/ab9c24c49ad0fa02e9fc950846c91b25/996a7/hot_cocoa_macarons-2.jpg 320w,
+/fullstackkitchen/static/ab9c24c49ad0fa02e9fc950846c91b25/06faf/hot_cocoa_macarons-2.jpg 640w,
+/fullstackkitchen/static/ab9c24c49ad0fa02e9fc950846c91b25/71e08/hot_cocoa_macarons-2.jpg 1280w,
+/fullstackkitchen/static/ab9c24c49ad0fa02e9fc950846c91b25/2ed49/hot_cocoa_macarons-2.jpg 1920w,
+/fullstackkitchen/static/ab9c24c49ad0fa02e9fc950846c91b25/ad50a/hot_cocoa_macarons-2.jpg 2560w,
+/fullstackkitchen/static/ab9c24c49ad0fa02e9fc950846c91b25/5442e/hot_cocoa_macarons-2.jpg 2848w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;div class=&quot;body-text&quot;&gt;
+&lt;p&gt;Hot Cocoa Macarons w/chocolate &amp;#x26; marshmallow filling: Its absurdly cold today in NYC (feels like -10˚F absurdly cold), which makes me feel way less guilty about spending the majority of today curled up inside, drinking hot cocoa with my best friend Netflix (that Frye Festival documentary was ridiculous). Also eating way too many of these 💁🏼‍♀️ These macarons have spicy chocolate shells (think cocoa, cinnamon, with a hint of cayenne), fluffy marshmallow buttercream, and a creamy dark chocolate ganache center. &lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/fullstackkitchen/static/e1a87f4d503adc6873fcb868f934e5eb/27e97/hot_cocoa_macarons-9.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 127.08034433285509%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDAv/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAFQrKauZAxtDEH/xAAdEAEAAQQDAQAAAAAAAAAAAAABEQACAxITIjFD/9oACAEBAAEFApeabtO6CuSVxKlbRfMYm6n34vn/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAcEAABBAMBAAAAAAAAAAAAAAAAAQIRIQNBcTH/2gAIAQEABj8CbWh1CRBMaHUINpfBa2JwxjuicP/EABwQAAIDAAMBAAAAAAAAAAAAAAERACExEEFx8P/aAAgBAQABPyHFAle4cAgXstAVLYC6DOTE72/YsJU4BK0SXLooY4VIj5ew8Mv/2gAMAwEAAgADAAAAECMqgf/EABcRAAMBAAAAAAAAAAAAAAAAAAABECH/2gAIAQMBAT8QNiR//8QAFhEAAwAAAAAAAAAAAAAAAAAAABAh/9oACAECAQE/ECP/xAAhEAEAAgEDBAMAAAAAAAAAAAABABEhMUFRYYGx8HGh4f/aAAgBAQABPxBrSAPDTL2it/h25ZR5DccsE5LDwFvgiNCtSNFsUobHB1vP52linJoC6a35gy64FlmVh3KgC6yZZ9Z8Z7XzPY6s/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Top View with can&quot;
+        title=&quot;&quot;
+        src=&quot;/fullstackkitchen/static/e1a87f4d503adc6873fcb868f934e5eb/71e08/hot_cocoa_macarons-9.jpg&quot;
+        srcset=&quot;/fullstackkitchen/static/e1a87f4d503adc6873fcb868f934e5eb/996a7/hot_cocoa_macarons-9.jpg 320w,
+/fullstackkitchen/static/e1a87f4d503adc6873fcb868f934e5eb/06faf/hot_cocoa_macarons-9.jpg 640w,
+/fullstackkitchen/static/e1a87f4d503adc6873fcb868f934e5eb/71e08/hot_cocoa_macarons-9.jpg 1280w,
+/fullstackkitchen/static/e1a87f4d503adc6873fcb868f934e5eb/2ed49/hot_cocoa_macarons-9.jpg 1920w,
+/fullstackkitchen/static/e1a87f4d503adc6873fcb868f934e5eb/ad50a/hot_cocoa_macarons-9.jpg 2560w,
+/fullstackkitchen/static/e1a87f4d503adc6873fcb868f934e5eb/27e97/hot_cocoa_macarons-9.jpg 2788w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item></channel></rss>

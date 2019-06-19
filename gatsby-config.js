@@ -8,7 +8,6 @@ module.exports = {
       instagram: `taras.kitchen`,
     },
   },
-  pathPrefix: "/fullstackkitchen",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,

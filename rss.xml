@@ -1,8 +1,229 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Full Stack Kitchen]]></title><description><![CDATA[Full Stack Kitchen: Unique Dessert Recipes from an Engineer's Mind]]></description><link>https://fullstackkitchen.com/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 21 Jun 2019 02:54:24 GMT</lastBuildDate><item><title><![CDATA[About]]></title><description><![CDATA[hi, Welcome to my little corner of the internet.  my name is tara. I have been a resident of New York City for the past four years…]]></description><link>https://fullstackkitchen.com//about/</link><guid isPermaLink="false">https://fullstackkitchen.com//about/</guid><content:encoded>&lt;hr&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Full Stack Kitchen]]></title><description><![CDATA[Full Stack Kitchen: Unique Dessert Recipes from an Engineer's Mind]]></description><link>https://fullstackkitchen.com/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 25 Jun 2019 21:37:03 GMT</lastBuildDate><item><title><![CDATA[About]]></title><description><![CDATA[hi, Welcome to my little corner of the internet.  my name is tara. I have been a resident of New York City for the past four years…]]></description><link>https://fullstackkitchen.com//about/</link><guid isPermaLink="false">https://fullstackkitchen.com//about/</guid><content:encoded>&lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;hi, Welcome to my little corner of the internet.  my name is tara.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;I have been a resident of New York City for the past four years, currently living in Williamsburg.  Before that, I spent the first eighteen years of my life in South Florida dealing with that humid hair life.  Then I spent four in Philadelphia for college, where I discovered and honed my love of baking while procrastinating problem sets.  Many times I would be making muffins at midnight to break up the &lt;em&gt;all too frequent&lt;/em&gt; all-nighters I pulled.&lt;/p&gt;
 &lt;p&gt;I studied Computer Science/Computer Graphics in school (+ a fine arts minor) and am currently a full time, full stack Software Engineer for a media company. Having an office to bring sweets to is key to maintaining a healthy lifestyle. To counteract what doesn’t make it into the office, I am constantly trying to find ways to be exercising.  I am an avid runner, biker (I try to CitiBike to work every day if its above freezing), and walker (and will walk places to avoid the subway at all costs).  Right now I’ve completed 5 half marathons and 1 century ride!&lt;/p&gt;
-&lt;p&gt;If we can get nerdy for a second, I am very proud of this website you see here. The “tech stack”, as one would say, is pretty cool.  I am using &lt;a href=&quot;https://reactjs.org/&quot;&gt;React&lt;/a&gt;, which is a component based Javascript library for building UI’s. That is wrapped in an instance of &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;GatsbyJs&lt;/a&gt;, which is a React-based, &lt;a href=&quot;https://graphql.org/&quot;&gt;GraphQL&lt;/a&gt; powered, static site generator (makes for better SEO and file hosting!).  All the posts are written in &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;markdown&lt;/a&gt;, which is a lightweight markup language for text syntax.  Once I make updates and build it, it hooks into &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; and automatically updates the site! &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Berry Rhubarb Crumble Bars]]></title><description><![CDATA[
+&lt;p&gt;If we can get nerdy for a second, I am very proud of this website you see here. The “tech stack”, as one would say, is pretty cool.  I am using &lt;a href=&quot;https://reactjs.org/&quot;&gt;React&lt;/a&gt;, which is a component based Javascript library for building UI’s. That is wrapped in an instance of &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;GatsbyJs&lt;/a&gt;, which is a React-based, &lt;a href=&quot;https://graphql.org/&quot;&gt;GraphQL&lt;/a&gt; powered, static site generator (makes for better SEO and file hosting!).  All the posts are written in &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;markdown&lt;/a&gt;, which is a lightweight markup language for text syntax.  Once I make updates and build it, it hooks into &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; and automatically updates the site! &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dulce de Leche stuffed Chocolate Chunk Cookies]]></title><link>https://fullstackkitchen.com//dulce-de-leche-chocolate-chunk-cookies/</link><guid isPermaLink="false">https://fullstackkitchen.com//dulce-de-leche-chocolate-chunk-cookies/</guid><pubDate>Tue, 18 Jun 2019 23:46:37 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b71e9da71355842cdd08b97f9161a8e2/5442e/dulce_de_leche_ccc-7.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 150%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQDAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAAB2ioTfqMzETNOnSsj/8QAHBAAAgIDAQEAAAAAAAAAAAAAAQIAAxESIgQk/9oACAEBAAEFAvoMIdp5ztQVyxOHrYVztItmJaSzKTsg2PCz/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAQ/9oACAECAQE/AXS//8QAHxAAAgIBBAMAAAAAAAAAAAAAAAECIREDEDFRIjJh/9oACAEBAAY/ArnCJ5akmQb5wPCy+z1VMlH6Oi7fZnjbDLR//8QAHRABAAICAgMAAAAAAAAAAAAAAQARITFBUWGBkf/aAAgBAQABPyFtpF4CMNMdNR2C4G46rpsGodkMxOGnvM3incpqMlEeAGZWZy7uVOrcAKRfs//aAAwDAQACAAMAAAAQp/AN/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAQEf/aAAgBAwEBPxAJM6X/xAAWEQEBAQAAAAAAAAAAAAAAAAABACH/2gAIAQIBAT8QVDkQr//EAB8QAQACAQQDAQAAAAAAAAAAAAEAESExQVFxgZHBof/aAAgBAQABPxBUZlg1/YctVLjY4g0BZ1KYb9Tf3uXa9oE2g2XbcYei0cA+oiKHROaHqUAkUBZ5gEAk0vfn1UxdWJqD2bwNfVAYpzmEdaFfqf/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Social View&quot;
+        title=&quot;&quot;
+        src=&quot;/static/b71e9da71355842cdd08b97f9161a8e2/71e08/dulce_de_leche_ccc-7.jpg&quot;
+        srcset=&quot;/static/b71e9da71355842cdd08b97f9161a8e2/996a7/dulce_de_leche_ccc-7.jpg 320w,
+/static/b71e9da71355842cdd08b97f9161a8e2/06faf/dulce_de_leche_ccc-7.jpg 640w,
+/static/b71e9da71355842cdd08b97f9161a8e2/71e08/dulce_de_leche_ccc-7.jpg 1280w,
+/static/b71e9da71355842cdd08b97f9161a8e2/2ed49/dulce_de_leche_ccc-7.jpg 1920w,
+/static/b71e9da71355842cdd08b97f9161a8e2/ad50a/dulce_de_leche_ccc-7.jpg 2560w,
+/static/b71e9da71355842cdd08b97f9161a8e2/5442e/dulce_de_leche_ccc-7.jpg 2848w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4a11833ac8dd848f6868d77c4a1bfa73/95747/dulce_de_leche_ccc-2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 150.01763668430337%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgME/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAF7CghsLQwjtrnWJcj/xAAdEAABBAIDAAAAAAAAAAAAAAAAAQISEwMQETJC/9oACAEBAAEFAtzeqzfxZkQb28FZUUn/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwGIqv/EABcRAQEBAQAAAAAAAAAAAAAAAAAREgH/2gAIAQIBAT8BvFZZf//EAB4QAAIBAwUAAAAAAAAAAAAAAAABAhARMhIhMUFx/9oACAEBAAY/Aq2c2X1s2d/SXIzsyZnIzkf/xAAbEAEAAwEAAwAAAAAAAAAAAAABABEhMRBB8P/aAAgBAQABPyGpUqOrdWyvSH04zlAwlbishbs9ayWILuvHVD4M/9oADAMBAAIAAwAAABAn9HP/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQMBAT8QzSkpf//EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAgEBPxCqQ00//8QAIBABAAIBAwUBAAAAAAAAAAAAAQARITFBYRBxgdHhwf/aAAgBAQABPxCHoZTwEABnTGY5xerKG9nSpz4LVpxe/wBjNaGJOdmUptu3PpDMkFlOHxF3+56iNC7J6jnP/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Social View&quot;
+        title=&quot;&quot;
+        src=&quot;/static/4a11833ac8dd848f6868d77c4a1bfa73/71e08/dulce_de_leche_ccc-2.jpg&quot;
+        srcset=&quot;/static/4a11833ac8dd848f6868d77c4a1bfa73/996a7/dulce_de_leche_ccc-2.jpg 320w,
+/static/4a11833ac8dd848f6868d77c4a1bfa73/06faf/dulce_de_leche_ccc-2.jpg 640w,
+/static/4a11833ac8dd848f6868d77c4a1bfa73/71e08/dulce_de_leche_ccc-2.jpg 1280w,
+/static/4a11833ac8dd848f6868d77c4a1bfa73/2ed49/dulce_de_leche_ccc-2.jpg 1920w,
+/static/4a11833ac8dd848f6868d77c4a1bfa73/ad50a/dulce_de_leche_ccc-2.jpg 2560w,
+/static/4a11833ac8dd848f6868d77c4a1bfa73/95747/dulce_de_leche_ccc-2.jpg 2835w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8b1b71b3f2275aa1fb047ebfa454b5b6/f38c3/dulce_de_leche_ccc-4.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 150%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgME/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAFyJjNcCQNI6ozalxf/xAAbEAACAgMBAAAAAAAAAAAAAAAAAgEDERIhEP/aAAgBAQABBQJnVCXWDdDbc6/lnFldK6uVw2TESYP/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwGIqv/EABYRAQEBAAAAAAAAAAAAAAAAAAASEf/aAAgBAgEBPwGlJY//xAAdEAACAQQDAAAAAAAAAAAAAAAAASEQETEyIlGh/9oACAEBAAY/ApZLNkQ7Lsd9cHH0SSLIU0xT/8QAHBABAQEAAwADAAAAAAAAAAAAAREAITFRQWHx/9oACAEBAAE/IZXFWYKiH3v0MtSYl9aozfDDKBQexd4UJA1NmPzcPSStcA6z2Bjj2m//2gAMAwEAAgADAAAAEJQt8P/EABgRAAIDAAAAAAAAAAAAAAAAAAABEBEx/9oACAEDAQE/EMxRof/EABgRAAIDAAAAAAAAAAAAAAAAAAABEBEx/9oACAECAQE/ENQbFz//xAAeEAEAAgICAwEAAAAAAAAAAAABABEhMVFhQXGB8P/aAAgBAQABPxBQ3iAC5+aiEi24ES2fnNIBuIZy+DuNgLkqrd317h2XAoa+3MLgHjR/eYVFQ1NqXbM6tYKLWWq32HWi+oCKBwM//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Slice View&quot;
+        title=&quot;&quot;
+        src=&quot;/static/8b1b71b3f2275aa1fb047ebfa454b5b6/71e08/dulce_de_leche_ccc-4.jpg&quot;
+        srcset=&quot;/static/8b1b71b3f2275aa1fb047ebfa454b5b6/996a7/dulce_de_leche_ccc-4.jpg 320w,
+/static/8b1b71b3f2275aa1fb047ebfa454b5b6/06faf/dulce_de_leche_ccc-4.jpg 640w,
+/static/8b1b71b3f2275aa1fb047ebfa454b5b6/71e08/dulce_de_leche_ccc-4.jpg 1280w,
+/static/8b1b71b3f2275aa1fb047ebfa454b5b6/2ed49/dulce_de_leche_ccc-4.jpg 1920w,
+/static/8b1b71b3f2275aa1fb047ebfa454b5b6/ad50a/dulce_de_leche_ccc-4.jpg 2560w,
+/static/8b1b71b3f2275aa1fb047ebfa454b5b6/f38c3/dulce_de_leche_ccc-4.jpg 2752w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;div class=&quot;body-text&quot;&gt;
+    These cookies are a creation of my attempt to use up the multiple jars of dulce de leche my brother graciously brought back for me from his trip to Argentina.  He had some time off while switching jobs.  He is now is at his new fancy hedge fund job and I’m such a proud older sis! It was also conveniently his birthday, so most of these cookies went to him since he is a CCC fiend. 
+&lt;/div&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/16b8b539f75a06d027b899b6c0848fbf/5442e/dulce_de_leche_ccc-5.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 150%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAY626zuUaJmHVBILIf8A/8QAHBAAAgICAwAAAAAAAAAAAAAAAQIAERIyAyEi/9oACAEBAAEFAgLieYxe2wAVgylOQFtheRPYp4oFLr//xAAWEQADAAAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8BdP/EABgRAAIDAAAAAAAAAAAAAAAAAAABEBFB/9oACAECAQE/AY0pH//EAB4QAAIBBAMBAAAAAAAAAAAAAAABAhESITEQIlFh/9oACAEBAAY/Ahy8MZEpQTkWUtNH2pHB10Ou1z//xAAcEAEAAgMBAQEAAAAAAAAAAAABABEhMUFRgbH/2gAIAQEAAT8h317qVR5poj7qkH5wEX1h85MUXyC1ei+yyrqoakHiyWch0ILAylXG0PJ//9oADAMBAAIAAwAAABD3DQP/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEQ/9oACAEDAQE/EMeLhDv/xAAYEQADAQEAAAAAAAAAAAAAAAAAAREQIf/aAAgBAgEBPxCrF2B2P//EAB8QAQADAAEFAQEAAAAAAAAAAAEAESFxMUFhgaFRkf/aAAgBAQABPxABXE2+3PiGueMC9D2xMhC7V/kLQzTp+qzvC0fo7VxzFA8dsiPuIWmt7Z8lT2dx+8TTl6uvzxLtjy7Uj8qZY2wSkxWE/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Slice View&quot;
+        title=&quot;&quot;
+        src=&quot;/static/16b8b539f75a06d027b899b6c0848fbf/71e08/dulce_de_leche_ccc-5.jpg&quot;
+        srcset=&quot;/static/16b8b539f75a06d027b899b6c0848fbf/996a7/dulce_de_leche_ccc-5.jpg 320w,
+/static/16b8b539f75a06d027b899b6c0848fbf/06faf/dulce_de_leche_ccc-5.jpg 640w,
+/static/16b8b539f75a06d027b899b6c0848fbf/71e08/dulce_de_leche_ccc-5.jpg 1280w,
+/static/16b8b539f75a06d027b899b6c0848fbf/2ed49/dulce_de_leche_ccc-5.jpg 1920w,
+/static/16b8b539f75a06d027b899b6c0848fbf/ad50a/dulce_de_leche_ccc-5.jpg 2560w,
+/static/16b8b539f75a06d027b899b6c0848fbf/5442e/dulce_de_leche_ccc-5.jpg 2848w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;div class=&quot;body-text&quot;&gt;
+These cookies have a mix of milk and dark chocolate Gittard discs, flaky salt on top and a healthy dollop of dulce inside, which spreads along with the cookie to create a thin layer of dulce throughout.
+&lt;/div&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3a51d4dc77c779af090106334a1f987d/5442e/dulce_de_leche_ccc-11.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 150%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgP/2gAMAwEAAhADEAAAAdslTLoCRJci/jPR5wVP/8QAHhAAAgIBBQEAAAAAAAAAAAAAAQIAAxMEEBESFDH/2gAIAQEAAQUC39CxtWoiWdltABb7U/FeWZBMxn//xAAWEQEBAQAAAAAAAAAAAAAAAAAQEQH/2gAIAQMBAT8BmlP/xAAYEQACAwAAAAAAAAAAAAAAAAAAEQEQEv/aAAgBAgEBPwHUDFX/xAAbEAACAgMBAAAAAAAAAAAAAAAAARAxERKhQf/aAAgBAQAGPwKahPVxbFg9K4Xw/8QAHRAAAwABBQEAAAAAAAAAAAAAAAERITFBUXGxgf/aAAgBAQABPyEhBo3Ls4l9DWq7xkmlcme0+jvQRKd1FXdXQS8eB//aAAwDAQACAAMAAAAQPDuA/8QAFxEBAQEBAAAAAAAAAAAAAAAAEQABEP/aAAgBAwEBPxCjYhz/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQH/2gAIAQIBAT8QEKzar//EACAQAQACAgIBBQAAAAAAAAAAAAEAESFhMVFBcYGRscH/2gAIAQEAAT8QDUYvLiwnO/WLiNFvqc9RzcbxBWm4FAgvm/iF5/wLX2w/FjlbMz3EXQ3FAm2VWuCUYGr9n//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Slice View&quot;
+        title=&quot;&quot;
+        src=&quot;/static/3a51d4dc77c779af090106334a1f987d/71e08/dulce_de_leche_ccc-11.jpg&quot;
+        srcset=&quot;/static/3a51d4dc77c779af090106334a1f987d/996a7/dulce_de_leche_ccc-11.jpg 320w,
+/static/3a51d4dc77c779af090106334a1f987d/06faf/dulce_de_leche_ccc-11.jpg 640w,
+/static/3a51d4dc77c779af090106334a1f987d/71e08/dulce_de_leche_ccc-11.jpg 1280w,
+/static/3a51d4dc77c779af090106334a1f987d/2ed49/dulce_de_leche_ccc-11.jpg 1920w,
+/static/3a51d4dc77c779af090106334a1f987d/ad50a/dulce_de_leche_ccc-11.jpg 2560w,
+/static/3a51d4dc77c779af090106334a1f987d/5442e/dulce_de_leche_ccc-11.jpg 2848w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a8de3814c639dcaf72687bb7b438c089/65099/dulce_de_leche_ccc-10.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 124.98974148543292%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQL/xAAXAQEBAQEAAAAAAAAAAAAAAAABAAID/9oADAMBAAIQAxAAAAEcK5btIBresXUKIUD/AP/EABoQAQADAQEBAAAAAAAAAAAAAAIAAQMhECL/2gAIAQEAAQUCsnC62VSzm5vkkyGj81DubvZcV9c28//EABcRAQADAAAAAAAAAAAAAAAAAAAQEUH/2gAIAQMBAT8BU2P/xAAVEQEBAAAAAAAAAAAAAAAAAAAQQf/aAAgBAgEBPwEh/8QAHBAAAgIDAQEAAAAAAAAAAAAAAAECESExcRKB/9oACAEBAAY/AkquTMpMstHrXTMn8K0yjYiPBn//xAAeEAACAgICAwAAAAAAAAAAAAAAARExIXFBYVGBkf/aAAgBAQABPyHwyiRnGgG82p2cLozknJpJqRMqm9cCO+auyBfYZxfCm5QFex//2gAMAwEAAgADAAAAEF/cw//EABcRAAMBAAAAAAAAAAAAAAAAAAABESH/2gAIAQMBAT8QUaKIlgp//8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARIXH/2gAIAQIBAT8QdHlvkq92F//EACAQAQACAQQCAwAAAAAAAAAAAAEAESExQWGhcbGBkcH/2gAIAQEAAT8QqiZjoOWakVwXxDTiKUpGmc0pl4CZlkAAgb+4KFh0/VLUU5OT5bRiNyxu1DKwvSrX9zv533oncT//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Slice View&quot;
+        title=&quot;&quot;
+        src=&quot;/static/a8de3814c639dcaf72687bb7b438c089/71e08/dulce_de_leche_ccc-10.jpg&quot;
+        srcset=&quot;/static/a8de3814c639dcaf72687bb7b438c089/996a7/dulce_de_leche_ccc-10.jpg 320w,
+/static/a8de3814c639dcaf72687bb7b438c089/06faf/dulce_de_leche_ccc-10.jpg 640w,
+/static/a8de3814c639dcaf72687bb7b438c089/71e08/dulce_de_leche_ccc-10.jpg 1280w,
+/static/a8de3814c639dcaf72687bb7b438c089/2ed49/dulce_de_leche_ccc-10.jpg 1920w,
+/static/a8de3814c639dcaf72687bb7b438c089/65099/dulce_de_leche_ccc-10.jpg 2437w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Berry Rhubarb Crumble Bars]]></title><description><![CDATA[
  
  
  These bars are super easy to make and a great summer dessert! Feel free to use either fresh or frozen fruit.  If you use fresh…]]></description><link>https://fullstackkitchen.com//berry-rhubarb-bars/</link><guid isPermaLink="false">https://fullstackkitchen.com//berry-rhubarb-bars/</guid><pubDate>Thu, 30 May 2019 12:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;

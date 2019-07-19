@@ -46,7 +46,7 @@ export default() => (
                <div className="blog-post__instagram">
                     {edges.map(post => {
                         console.log(post);
-                        return <a className="instagram-post__item" href={`https://www.instagram.com/p/${post.node.id}/`}><img src={post.node.thumbnails[1].src} /></a>
+                        return <a className="instagram-post__item" href={`https://www.instagram.com/p/${post.node.id}/`} target="_blank"><img src={post.node.thumbnails[1].src} /></a>
                     })}
                 </div>
             )

@@ -345,7 +345,7 @@ footer {
 
     .home-item__image {
         max-height: 500px;
-        height: 30vw;
+        height: 26vw;
     }
     
     .home-item__image img {
@@ -356,7 +356,7 @@ footer {
 
 
     .home-item__category {
-        margin-top: 0px;
+        margin-top: 5px;
     }
 
     .blog-post__title {

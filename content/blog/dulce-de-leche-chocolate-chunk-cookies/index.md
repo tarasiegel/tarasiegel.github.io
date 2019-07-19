@@ -1,6 +1,6 @@
 ---
-title: Dulce de Leche stuffed Chocolate Chunk Cookies
-description: Dulce de Leche stuffed Chocolate Chunk Cookies
+title: Dulce de Leche Stuffed Chocolate Chunk Cookies
+description: Dulce de Leche Stuffed Chocolate Chunk Cookies
 date: '2019-06-18T23:46:37.121Z'
 image: ./dulce_de_leche_ccc-7.jpg
 category: cookies

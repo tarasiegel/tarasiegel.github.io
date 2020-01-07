@@ -1,8 +1,155 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Full Stack Kitchen]]></title><description><![CDATA[Full Stack Kitchen: Unique Dessert Recipes from an Engineer's Mind]]></description><link>https://fullstackkitchen.com/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 25 Jun 2019 21:44:18 GMT</lastBuildDate><item><title><![CDATA[About]]></title><description><![CDATA[hi, Welcome to my little corner of the internet.  my name is tara. I have been a resident of New York City for the past four years…]]></description><link>https://fullstackkitchen.com//about/</link><guid isPermaLink="false">https://fullstackkitchen.com//about/</guid><content:encoded>&lt;hr&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Full Stack Kitchen]]></title><description><![CDATA[Full Stack Kitchen: Unique Dessert Recipes from an Engineer's Mind]]></description><link>https://fullstackkitchen.com/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 07 Jan 2020 04:39:12 GMT</lastBuildDate><item><title><![CDATA[About]]></title><description><![CDATA[hi, Welcome to my little corner of the internet.  my name is tara. I have been a resident of New York City for the past four years…]]></description><link>https://fullstackkitchen.com//about/</link><guid isPermaLink="false">https://fullstackkitchen.com//about/</guid><content:encoded>&lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;hi, Welcome to my little corner of the internet.  my name is tara.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;I have been a resident of New York City for the past four years, currently living in Williamsburg.  Before that, I spent the first eighteen years of my life in South Florida dealing with that humid hair life.  Then I spent four in Philadelphia for college, where I discovered and honed my love of baking while procrastinating problem sets.  Many times I would be making muffins at midnight to break up the &lt;em&gt;all too frequent&lt;/em&gt; all-nighters I pulled.&lt;/p&gt;
 &lt;p&gt;I studied Computer Science/Computer Graphics in school (+ a fine arts minor) and am currently a full time, full stack Software Engineer for a media company. Having an office to bring sweets to is key to maintaining a healthy lifestyle. To counteract what doesn’t make it into the office, I am constantly trying to find ways to be exercising.  I am an avid runner, biker (I try to CitiBike to work every day if its above freezing), and walker (and will walk places to avoid the subway at all costs).  Right now I’ve completed 5 half marathons and 1 century ride!&lt;/p&gt;
-&lt;p&gt;If we can get nerdy for a second, I am very proud of this website you see here. The “tech stack”, as one would say, is pretty cool.  I am using &lt;a href=&quot;https://reactjs.org/&quot;&gt;React&lt;/a&gt;, which is a component based Javascript library for building UI’s. That is wrapped in an instance of &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;GatsbyJs&lt;/a&gt;, which is a React-based, &lt;a href=&quot;https://graphql.org/&quot;&gt;GraphQL&lt;/a&gt; powered, static site generator (makes for better SEO and file hosting!).  All the posts are written in &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;markdown&lt;/a&gt;, which is a lightweight markup language for text syntax.  Once I make updates and build it, it hooks into &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; and automatically updates the site! &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dulce de Leche Stuffed Chocolate Chunk Cookies]]></title><link>https://fullstackkitchen.com//dulce-de-leche-chocolate-chunk-cookies/</link><guid isPermaLink="false">https://fullstackkitchen.com//dulce-de-leche-chocolate-chunk-cookies/</guid><pubDate>Tue, 18 Jun 2019 23:46:37 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;p&gt;If we can get nerdy for a second, I am very proud of this website you see here. The “tech stack”, as one would say, is pretty cool.  I am using &lt;a href=&quot;https://reactjs.org/&quot;&gt;React&lt;/a&gt;, which is a component based Javascript library for building UI’s. That is wrapped in an instance of &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;GatsbyJs&lt;/a&gt;, which is a React-based, &lt;a href=&quot;https://graphql.org/&quot;&gt;GraphQL&lt;/a&gt; powered, static site generator (makes for better SEO and file hosting!).  All the posts are written in &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;markdown&lt;/a&gt;, which is a lightweight markup language for text syntax.  Once I make updates and build it, it hooks into &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; and automatically updates the site! &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Rolled Rug Raspberry Peach Cake]]></title><description><![CDATA[
+ 
+ 
+]]></description><link>https://fullstackkitchen.com//raspberry-peach-rolled-cake/</link><guid isPermaLink="false">https://fullstackkitchen.com//raspberry-peach-rolled-cake/</guid><pubDate>Mon, 06 Jan 2020 12:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/dff452365650976d844ab80120916a75/5442e/rug_rolled_cake-edit-3.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 125.49157303370787%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAG1DUxdIsR+ViQFQz//xAAcEAEAAQQDAAAAAAAAAAAAAAACAQADBBESIjH/2gAIAQEAAQUCZJOxNCNnJXGMcde9XLHOUdEwohe0vf/EABYRAQEBAAAAAAAAAAAAAAAAAAARIf/aAAgBAwEBPwGYiq//xAAWEQEBAQAAAAAAAAAAAAAAAAAQEUH/2gAIAQIBAT8B0h//xAAdEAABBAIDAAAAAAAAAAAAAAABAAIQIRESIDGB/9oACAEBAAY/ArVOJXR9MbThvH//xAAdEAADAAICAwAAAAAAAAAAAAAAARExQRAhUWGh/9oACAEBAAE/IbxbfhREUvR2SgLoXOizMo3kjtytCqvfuDpzj8aJB0wcn//aAAwDAQACAAMAAAAQmCJz/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARIXH/2gAIAQMBAT8QwT2S+Tpv/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARUWH/2gAIAQIBAT8QVerfIJsGF//EACAQAQACAgEEAwAAAAAAAAAAAAERIQAxQVFhcaGBkbH/2gAIAQEAAT8QGIKmbAdWL1haD0uR+Y2dMEJxqhxYC1SGo1L3cJC2VS8X7xjEDArE+sXw3tsDqRz5wVJFi0iI7Y7trMS0feem48eM/DP/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Top view of cake&quot;
+        title=&quot;&quot;
+        src=&quot;/static/dff452365650976d844ab80120916a75/71e08/rug_rolled_cake-edit-3.jpg&quot;
+        srcset=&quot;/static/dff452365650976d844ab80120916a75/996a7/rug_rolled_cake-edit-3.jpg 320w,
+/static/dff452365650976d844ab80120916a75/06faf/rug_rolled_cake-edit-3.jpg 640w,
+/static/dff452365650976d844ab80120916a75/71e08/rug_rolled_cake-edit-3.jpg 1280w,
+/static/dff452365650976d844ab80120916a75/2ed49/rug_rolled_cake-edit-3.jpg 1920w,
+/static/dff452365650976d844ab80120916a75/ad50a/rug_rolled_cake-edit-3.jpg 2560w,
+/static/dff452365650976d844ab80120916a75/5442e/rug_rolled_cake-edit-3.jpg 2848w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/70a993b1b6aafed4109c80229ff06837/03a65/rug_rolled_cake-edit-7.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 116.26724763979665%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Top view of cake&quot;
+        title=&quot;&quot;
+        src=&quot;/static/70a993b1b6aafed4109c80229ff06837/1482d/rug_rolled_cake-edit-7.png&quot;
+        srcset=&quot;/static/70a993b1b6aafed4109c80229ff06837/95747/rug_rolled_cake-edit-7.png 320w,
+/static/70a993b1b6aafed4109c80229ff06837/74650/rug_rolled_cake-edit-7.png 640w,
+/static/70a993b1b6aafed4109c80229ff06837/1482d/rug_rolled_cake-edit-7.png 1280w,
+/static/70a993b1b6aafed4109c80229ff06837/7ee53/rug_rolled_cake-edit-7.png 1920w,
+/static/70a993b1b6aafed4109c80229ff06837/e94e1/rug_rolled_cake-edit-7.png 2560w,
+/static/70a993b1b6aafed4109c80229ff06837/03a65/rug_rolled_cake-edit-7.png 2754w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/97a85f4eb19dd735de9b5bb22ca921a9/c43b0/rug_rolled_cake-edit-2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 127.27272727272727%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAZABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAQFAwL/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAABfWclBvGohpOsKBciYr//xAAcEAACAgIDAAAAAAAAAAAAAAABAwIRADITIzH/2gAIAQEAAQUClQwTgWGYt2qj2G7ZZgtNS5Dgw+t3/8QAGBEBAQADAAAAAAAAAAAAAAAAAQAQETH/2gAIAQMBAT8BAwctF//EABgRAAMBAQAAAAAAAAAAAAAAAAABIRAx/9oACAECAQE/Abj6in//xAAdEAABBAIDAAAAAAAAAAAAAAABABARQQIxISIz/9oACAEBAAY/Au2kAIheYWqRY8KTlVOW/8QAHhAAAgICAgMAAAAAAAAAAAAAAAERITFRQYGRobH/2gAIAQEAAT8hWLu0S8octpknGS6M1na9DGrM8liJ6ETISaCyay8kWjBHvHzR/9oADAMBAAIAAwAAABDH9vH/xAAYEQEAAwEAAAAAAAAAAAAAAAAAARFhIf/aAAgBAwEBPxChCk+sYP/EABkRAQACAwAAAAAAAAAAAAAAAAEAEBFRcf/aAAgBAgEBPxBcmmhbnU//xAAiEAEAAgIABQUAAAAAAAAAAAABABEhMRBBUWFxgaGx0fD/2gAIAQEAAT8QrSFC3ugeMxMxhUY+NJqGFyLKzfpFhu2AMLu8ooLFgTZVdNzdSdGB7kKJaZsuznXeLb4sCF+UaQKAxk+uIfd+MT//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Top view of cake&quot;
+        title=&quot;&quot;
+        src=&quot;/static/97a85f4eb19dd735de9b5bb22ca921a9/71e08/rug_rolled_cake-edit-2.jpg&quot;
+        srcset=&quot;/static/97a85f4eb19dd735de9b5bb22ca921a9/996a7/rug_rolled_cake-edit-2.jpg 320w,
+/static/97a85f4eb19dd735de9b5bb22ca921a9/06faf/rug_rolled_cake-edit-2.jpg 640w,
+/static/97a85f4eb19dd735de9b5bb22ca921a9/71e08/rug_rolled_cake-edit-2.jpg 1280w,
+/static/97a85f4eb19dd735de9b5bb22ca921a9/2ed49/rug_rolled_cake-edit-2.jpg 1920w,
+/static/97a85f4eb19dd735de9b5bb22ca921a9/ad50a/rug_rolled_cake-edit-2.jpg 2560w,
+/static/97a85f4eb19dd735de9b5bb22ca921a9/c43b0/rug_rolled_cake-edit-2.jpg 2739w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d8916ccce7054cbfb225afb25d3d3e4e/5442e/rug_rolled_cake-4.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 150%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFBAL/xAAWAQEBAQAAAAAAAAAAAAAAAAADAQL/2gAMAwEAAhADEAAAAanas8tADWcDErJaggQ//8QAHBAAAgIDAQEAAAAAAAAAAAAAAREAAgMSMSEi/9oACAEBAAEFAlUnUVgjQrmMHKpfII4cesPsxvT/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwGEP//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/AaU//8QAGxAAAgMAAwAAAAAAAAAAAAAAACEBEBECQYH/2gAIAQEABj8CzBRS8HFLo1COOSYM/8QAHBABAAMBAAMBAAAAAAAAAAAAAQARITFBUWFx/9oACAEBAAE/IRd6N0hwE4n2E2GVde8jhMmfQgVgPsYi2QqGzF9zm6v8gAKX5qf/2gAMAwEAAgADAAAAELfZ/v/EABgRAQADAQAAAAAAAAAAAAAAAAEAEBFB/9oACAEDAQE/EBu5MiHtf//EABgRAQADAQAAAAAAAAAAAAAAAAEQEUEh/9oACAECAQE/EEbAq6bH/8QAHRABAQACAgMBAAAAAAAAAAAAAREAITFRYXGR4f/aAAgBAQABPxA2yB2DswrgLKNb1vLd8h4gU5X8xMXXR7N/LhpePeJeBBCQSPvea8Am3nrFii3e8QrGP55b+4rAgyvLWPJEm2UJrP/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Close up of cake&quot;
+        title=&quot;&quot;
+        src=&quot;/static/d8916ccce7054cbfb225afb25d3d3e4e/71e08/rug_rolled_cake-4.jpg&quot;
+        srcset=&quot;/static/d8916ccce7054cbfb225afb25d3d3e4e/996a7/rug_rolled_cake-4.jpg 320w,
+/static/d8916ccce7054cbfb225afb25d3d3e4e/06faf/rug_rolled_cake-4.jpg 640w,
+/static/d8916ccce7054cbfb225afb25d3d3e4e/71e08/rug_rolled_cake-4.jpg 1280w,
+/static/d8916ccce7054cbfb225afb25d3d3e4e/2ed49/rug_rolled_cake-4.jpg 1920w,
+/static/d8916ccce7054cbfb225afb25d3d3e4e/ad50a/rug_rolled_cake-4.jpg 2560w,
+/static/d8916ccce7054cbfb225afb25d3d3e4e/5442e/rug_rolled_cake-4.jpg 2848w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dulce de Leche Stuffed Chocolate Chunk Cookies]]></title><link>https://fullstackkitchen.com//dulce-de-leche-chocolate-chunk-cookies/</link><guid isPermaLink="false">https://fullstackkitchen.com//dulce-de-leche-chocolate-chunk-cookies/</guid><pubDate>Tue, 18 Jun 2019 23:46:37 GMT</pubDate><content:encoded>&lt;hr&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -371,7 +518,7 @@ These cookies have a mix of milk and dark chocolate Gittard discs, flaky salt on
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;These bars are super easy to make and a great summer dessert! Feel free to use either fresh or frozen fruit.  If you use fresh strawberries and/or berries, the texture will be a bit more chunky than frozen (seen in photos 3 and 4).  From my experiments, frozen fruit will break down easier and form more of a jam like texture (seen in photos 1 and 2). The recipe says to use 450g of strawberries and 350g of rhubarb.  If you don’t have that much rhubarb (it’s expensive yo!), replace some of the weight with raspberries, blueberries or more strawberries! Any combo will be delicious.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dirty Chai Almond Brownies]]></title><description><![CDATA[
+&lt;p&gt;These bars are super easy to make and a great summer dessert! Feel free to use either fresh or frozen fruit.  If you use fresh strawberries and/or berries, the texture will be a bit more chunky than frozen (seen in photos 3 and 4).  From my experiments, frozen fruit will break down easier and form more of a jam like texture (seen in photos 1 and 2). The recipe says to use 450g of strawberries and 350g of rhubarb.  If you don’t have that much rhubarb (it’s expensive yo!), replace some of the weight with raspberries, blueberries or more strawberries! Any combo will be delicious. &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dirty Chai Almond Brownies]]></title><description><![CDATA[
  
  Brownies!]]></description><link>https://fullstackkitchen.com//dirty-chai-almond-brownies/</link><guid isPermaLink="false">https://fullstackkitchen.com//dirty-chai-almond-brownies/</guid><pubDate>Wed, 24 Apr 2019 12:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
 &lt;p&gt;

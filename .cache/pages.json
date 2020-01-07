@@ -50,6 +50,11 @@
         "path": "/hot-cocoa-macarons/"
     },
     {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "raspberry-peach-rolled-cake-97d",
+        "path": "/raspberry-peach-rolled-cake/"
+    },
+    {
         "componentChunkName": "component---src-pages-recipes-js",
         "jsonName": "recipes-3c6",
         "path": "/recipes/"

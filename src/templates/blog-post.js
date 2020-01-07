@@ -5,7 +5,7 @@ import Bio from '../components/Bio'
 import Layout from '../components/Layout'
 import SEO from '../components/seo';
 import Recipe from '../components/Recipe';
-import InstagramPosts from '../components/InstagramPosts';
+// import InstagramPosts from '../components/InstagramPosts';
 import { rhythm, scale } from '../utils/typography';
 import './blog-post.css';
 
@@ -112,7 +112,7 @@ class BlogPostTemplate extends React.Component {
                   <a className="is-icon" href="https://www.facebook.com/tarasiegelskitchen/" target="_blank"><Icon size={25} icon={facebook}/></a>
                   <a className="is-icon" href="mailto:tarafsiegel@gmail.com" target="_blank"><Icon size={25} icon={envelope}/></a>
                 </div>
-                <InstagramPosts />  
+                
                 <div className="blog-post__share-tools mobile">
                   <a className="is-icon" href="https://www.instagram.com/taras.kitchen" target="_blank"><Icon size={30} icon={instagram}/></a>
                   <a className="is-icon" href="https://www.facebook.com/tarasiegelskitchen/" target="_blank"><Icon size={30} icon={facebook}/></a>

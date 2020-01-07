@@ -7,7 +7,7 @@ import {instagram} from 'react-icons-kit/fa/instagram';
 import {facebook} from 'react-icons-kit/fa/facebook';
 import {facebookSquare} from 'react-icons-kit/fa/facebookSquare';
 import {pinterest} from 'react-icons-kit/fa/pinterest';
-import InstagramPosts from '../components/InstagramPosts';
+// import InstagramPosts from '../components/InstagramPosts';
 
 import Layout from '../components/Layout';
 import SEO from '../components/seo';
@@ -37,13 +37,11 @@ class About extends React.Component {
                     <a className="about-container__icon" href="https://www.pinterest.com/0nfiiuo5uh7y1wqmo900o9c6p2ic40/" target="_blank"><Icon icon={pinterest} size={30} /></a>                  
                   </div>
                 </div>
-                <div class="about-container__instagram desktop"><InstagramPosts /></div>
-              </div>
+                </div>
               <div className="about-container__text-container">
                 <div className="blog-html" dangerouslySetInnerHTML={{ __html: node.html }} />
               </div>
-              <div class="about-container__instagram mobile"><InstagramPosts /></div>
-            </div>
+              </div>
           );
       })}
       </Layout>

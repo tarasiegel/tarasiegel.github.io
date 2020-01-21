@@ -27,7 +27,7 @@ class About extends React.Component {
                     <div className="about-container" key={node.fields.slug}>
                         <SEO 
                             title="About"
-                            image={node.frontmatter.image.childImageSharp.fluid}
+                            image={node.frontmatter.image.childImageSharp.fluid.src}
                         />
                         <div className="about-container__image">
                             <Img fluid={node.frontmatter.image.childImageSharp.fluid} />

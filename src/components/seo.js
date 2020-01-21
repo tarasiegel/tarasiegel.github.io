@@ -4,7 +4,7 @@ import Helmet from 'react-helmet';
 import { StaticQuery, graphql } from 'gatsby';
 
 function SEO({ description, lang, meta, keywords, title, image }) {
-  const imageUrl = `https://www.fullstackkitchen.com${image.src}`;
+  const imageUrl = `https://www.fullstackkitchen.com${image}`;
   
   console.log(imageUrl);
   return (

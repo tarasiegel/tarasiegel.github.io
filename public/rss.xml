@@ -1,11 +1,120 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Full Stack Kitchen]]></title><description><![CDATA[Full Stack Kitchen: Unique Dessert Recipes from an Engineer's Mind]]></description><link>https://fullstackkitchen.com/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 07 Jan 2020 04:39:12 GMT</lastBuildDate><item><title><![CDATA[About]]></title><description><![CDATA[hi, Welcome to my little corner of the internet.  my name is tara. I have been a resident of New York City for the past four years…]]></description><link>https://fullstackkitchen.com//about/</link><guid isPermaLink="false">https://fullstackkitchen.com//about/</guid><content:encoded>&lt;hr&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Full Stack Kitchen]]></title><description><![CDATA[Full Stack Kitchen: Unique Dessert Recipes from an Engineer's Mind]]></description><link>https://fullstackkitchen.com/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 21 Jan 2020 06:25:09 GMT</lastBuildDate><item><title><![CDATA[About]]></title><description><![CDATA[hi, Welcome to my little corner of the internet.  my name is tara. I have been a resident of New York City for the past five years…]]></description><link>https://fullstackkitchen.com//about/</link><guid isPermaLink="false">https://fullstackkitchen.com//about/</guid><content:encoded>&lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;hi, Welcome to my little corner of the internet.  my name is tara.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;I have been a resident of New York City for the past four years, currently living in Williamsburg.  Before that, I spent the first eighteen years of my life in South Florida dealing with that humid hair life.  Then I spent four in Philadelphia for college, where I discovered and honed my love of baking while procrastinating problem sets.  Many times I would be making muffins at midnight to break up the &lt;em&gt;all too frequent&lt;/em&gt; all-nighters I pulled.&lt;/p&gt;
-&lt;p&gt;I studied Computer Science/Computer Graphics in school (+ a fine arts minor) and am currently a full time, full stack Software Engineer for a media company. Having an office to bring sweets to is key to maintaining a healthy lifestyle. To counteract what doesn’t make it into the office, I am constantly trying to find ways to be exercising.  I am an avid runner, biker (I try to CitiBike to work every day if its above freezing), and walker (and will walk places to avoid the subway at all costs).  Right now I’ve completed 5 half marathons and 1 century ride!&lt;/p&gt;
-&lt;p&gt;If we can get nerdy for a second, I am very proud of this website you see here. The “tech stack”, as one would say, is pretty cool.  I am using &lt;a href=&quot;https://reactjs.org/&quot;&gt;React&lt;/a&gt;, which is a component based Javascript library for building UI’s. That is wrapped in an instance of &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;GatsbyJs&lt;/a&gt;, which is a React-based, &lt;a href=&quot;https://graphql.org/&quot;&gt;GraphQL&lt;/a&gt; powered, static site generator (makes for better SEO and file hosting!).  All the posts are written in &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;markdown&lt;/a&gt;, which is a lightweight markup language for text syntax.  Once I make updates and build it, it hooks into &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; and automatically updates the site! &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Rolled Rug Raspberry Peach Cake]]></title><description><![CDATA[
+&lt;p&gt;I have been a resident of New York City for the past five years, currently living in Williamsburg, Brooklyn.  Before that, I spent the first eighteen years of my life in South Florida dealing with humidity.  Then I spent four in Philadelphia for college, where I discovered and honed my love of baking while procrastinating problem sets.  Many times I would be making muffins at midnight to break up the &lt;em&gt;all too frequent&lt;/em&gt; all-nighters I pulled.&lt;/p&gt;
+&lt;p&gt;I studied Computer Science/Computer Graphics in school (+ a fine arts minor) and am currently a full time, full stack Software Engineer for a media company. Having an office to bring sweets to is key to maintaining a healthy lifestyle. To counteract what doesn’t make it into the office, I am constantly trying to find ways to be exercising.  I am an avid runner, biker (I stubbornly CitiBike to work most days), and walk everywhere.  Right now I’ve completed 6 half marathons and 1 century ride!&lt;/p&gt;
+&lt;p&gt;If we can get nerdy for a second, I am very proud of this website you see here. The “tech stack”, as one would say, is pretty cool.  I am using &lt;a href=&quot;https://reactjs.org/&quot;&gt;React&lt;/a&gt;, which is a component based Javascript library for building UI’s. That is wrapped in an instance of &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;GatsbyJs&lt;/a&gt;, which is a React-based, &lt;a href=&quot;https://graphql.org/&quot;&gt;GraphQL&lt;/a&gt; powered, static site generator (makes for better SEO and file hosting!).  All the posts are written in &lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;markdown&lt;/a&gt;, which is a lightweight markup language for text syntax.  Once I make updates and build it, it hooks into &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; and automatically updates the site! &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Low Fat Banana Oat Muffins]]></title><description><![CDATA[
  
+]]></description><link>https://fullstackkitchen.com//low-fat-banana-oat-muffins/</link><guid isPermaLink="false">https://fullstackkitchen.com//low-fat-banana-oat-muffins/</guid><pubDate>Tue, 21 Jan 2020 12:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/ac0a09925d2db625646b24030dd0bc4a/a9d81/banana_bread_muffins-2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 132.51466275659826%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEBQH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQP/2gAMAwEAAhADEAAAAb53JzeiSDDZNSYoOin/xAAcEAACAgIDAAAAAAAAAAAAAAABAhESAzEhMkH/2gAIAQEAAQUCyRfm6tIz9/VtGVWkGzqkA6AClt//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPwEIM//EABcRAQEBAQAAAAAAAAAAAAAAAAEQAiH/2gAIAQIBAT8BXscz/8QAHBAAAgIDAQEAAAAAAAAAAAAAAAERIRASIkEx/9oACAEBAAY/Al1ZtslH2CRVY+DxCacL0fbLvFLH/8QAHRABAAICAgMAAAAAAAAAAAAAAQARITFBYVGx4f/aAAgBAQABPyE5Q5UwdIaE5gGNMJhvwYZp+ohgdLGVYgSHREyreYLQxRUXPVP/2gAMAwEAAgADAAAAENPwjP/EABgRAQADAQAAAAAAAAAAAAAAAAABETEh/9oACAEDAQE/EIKTri1//8QAGBEAAwEBAAAAAAAAAAAAAAAAAAEhETH/2gAIAQIBAT8QYE9RQ5D/xAAeEAEAAwACAgMAAAAAAAAAAAABABEhQWFxkTGB0f/aAAgBAQABPxAXAIejOpgiCKPlZjEMsLJs1TVw+oENFeX9epW+XTX1CSA114lZJTjRyEhU2xd5AOWI4x7QpeQUQsAUDP/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Top view of cake&quot;
+        title=&quot;&quot;
+        src=&quot;/static/ac0a09925d2db625646b24030dd0bc4a/71e08/banana_bread_muffins-2.jpg&quot;
+        srcset=&quot;/static/ac0a09925d2db625646b24030dd0bc4a/996a7/banana_bread_muffins-2.jpg 320w,
+/static/ac0a09925d2db625646b24030dd0bc4a/06faf/banana_bread_muffins-2.jpg 640w,
+/static/ac0a09925d2db625646b24030dd0bc4a/71e08/banana_bread_muffins-2.jpg 1280w,
+/static/ac0a09925d2db625646b24030dd0bc4a/2ed49/banana_bread_muffins-2.jpg 1920w,
+/static/ac0a09925d2db625646b24030dd0bc4a/ad50a/banana_bread_muffins-2.jpg 2560w,
+/static/ac0a09925d2db625646b24030dd0bc4a/a9d81/banana_bread_muffins-2.jpg 2728w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/531b8f4762dd76ee2fce3b8b34e24f56/b32db/banana_bread_muffins-4.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 146.93799923925445%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAdABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIEA//EABcBAQEBAQAAAAAAAAAAAAAAAAACAQP/2gAMAwEAAhADEAAAAdFRHO7ArrezkaB//8QAGxABAQACAwEAAAAAAAAAAAAAAgEDEQASEyL/2gAIAQEAAQUCDnmFOzekB8YjdvHul24cdtTt7wzXlDzyl5//xAAWEQEBAQAAAAAAAAAAAAAAAAAAEiH/2gAIAQMBAT8Bxilv/8QAFxEBAQEBAAAAAAAAAAAAAAAAABIhQf/aAAgBAgEBPwHWp6h//8QAGxAAAwACAwAAAAAAAAAAAAAAAAERECECMXH/2gAIAQEABj8CIQenx2OqY8wzoqx//8QAHBAAAgMBAAMAAAAAAAAAAAAAAAERITFBYYGR/9oACAEBAAE/IcPE4saoiRTUSokSthHLbGIncyTTW0ejOV07j4INSiS2c6Sm/J//2gAMAwEAAgADAAAAEHAAw//EABcRAQEBAQAAAAAAAAAAAAAAAAERACH/2gAIAQMBAT8QsOGMcJiOTf/EABcRAQEBAQAAAAAAAAAAAAAAAAERACH/2gAIAQIBAT8QlmSs9lZtt3//xAAcEAEBAQEBAAMBAAAAAAAAAAABESEAMVFhcfH/2gAIAQEAAT8QEB1A9Yf3gwljDLzYfhX546yxLvnXqKzKfvReoBfL0JWyZuMvG1+xxAQlyUToVihCc7BugU53gaHXY9//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Top view of cake&quot;
+        title=&quot;&quot;
+        src=&quot;/static/531b8f4762dd76ee2fce3b8b34e24f56/71e08/banana_bread_muffins-4.jpg&quot;
+        srcset=&quot;/static/531b8f4762dd76ee2fce3b8b34e24f56/996a7/banana_bread_muffins-4.jpg 320w,
+/static/531b8f4762dd76ee2fce3b8b34e24f56/06faf/banana_bread_muffins-4.jpg 640w,
+/static/531b8f4762dd76ee2fce3b8b34e24f56/71e08/banana_bread_muffins-4.jpg 1280w,
+/static/531b8f4762dd76ee2fce3b8b34e24f56/2ed49/banana_bread_muffins-4.jpg 1920w,
+/static/531b8f4762dd76ee2fce3b8b34e24f56/ad50a/banana_bread_muffins-4.jpg 2560w,
+/static/531b8f4762dd76ee2fce3b8b34e24f56/b32db/banana_bread_muffins-4.jpg 2629w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    
+
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/09c889fd4e7c11476efe91e48abbd503/4a572/banana_bread_muffins-6.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block;  max-width: 1280px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 137.60593220338984%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAcABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUBAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAABfSqAmgsJSuuStJgKf//EABwQAAIBBQEAAAAAAAAAAAAAAAECAAMQERIiMv/aAAgBAQABBQK2RFLFgesQsiBdDBo0XxTUb1D3/8QAFxEBAQEBAAAAAAAAAAAAAAAAABIhMf/aAAgBAwEBPwGUONf/xAAYEQEBAAMAAAAAAAAAAAAAAAAAEgEhMf/aAAgBAgEBPwG1u5af/8QAHBAAAQUAAwAAAAAAAAAAAAAAAAEQERIxAkGx/9oACAEBAAY/AnuaaQTGmKW7U5eN/8QAHhAAAwABBAMAAAAAAAAAAAAAAAERURAhMWFBcZH/2gAIAQEAAT8h07ENtbLzkdd5nePQ2q/oq7qMipqlwYnYPMe6W+Ayj//aAAwDAQACAAMAAAAQpB+D/8QAFxEBAQEBAAAAAAAAAAAAAAAAAHEBEf/aAAgBAwEBPxC1N5hT/8QAGBEBAAMBAAAAAAAAAAAAAAAAAAERcVH/2gAIAQIBAT8QwyixfD//xAAdEAEBAAMAAgMAAAAAAAAAAAABEQAhMUGBUWGR/9oACAEBAAE/EAMJz4zp4vszVnQE68OYLglG6uWrNjIh1jdrOYqZR3WWesibGjYIeTfMBuCyKL+ZRkBR2V6mKq325//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Top view of cake&quot;
+        title=&quot;&quot;
+        src=&quot;/static/09c889fd4e7c11476efe91e48abbd503/71e08/banana_bread_muffins-6.jpg&quot;
+        srcset=&quot;/static/09c889fd4e7c11476efe91e48abbd503/996a7/banana_bread_muffins-6.jpg 320w,
+/static/09c889fd4e7c11476efe91e48abbd503/06faf/banana_bread_muffins-6.jpg 640w,
+/static/09c889fd4e7c11476efe91e48abbd503/71e08/banana_bread_muffins-6.jpg 1280w,
+/static/09c889fd4e7c11476efe91e48abbd503/2ed49/banana_bread_muffins-6.jpg 1920w,
+/static/09c889fd4e7c11476efe91e48abbd503/ad50a/banana_bread_muffins-6.jpg 2560w,
+/static/09c889fd4e7c11476efe91e48abbd503/4a572/banana_bread_muffins-6.jpg 2832w&quot;
+        sizes=&quot;(max-width: 1280px) 100vw, 1280px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Rolled Rug Raspberry Peach Cake]]></title><description><![CDATA[
  
-]]></description><link>https://fullstackkitchen.com//raspberry-peach-rolled-cake/</link><guid isPermaLink="false">https://fullstackkitchen.com//raspberry-peach-rolled-cake/</guid><pubDate>Mon, 06 Jan 2020 12:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
+ I’m a big fan of the show You on Netflix when it originally came out. When Netflix reached out to me to make a cake inspired by the show…]]></description><link>https://fullstackkitchen.com//raspberry-peach-rolled-cake/</link><guid isPermaLink="false">https://fullstackkitchen.com//raspberry-peach-rolled-cake/</guid><pubDate>Mon, 06 Jan 2020 12:00:00 GMT</pubDate><content:encoded>&lt;hr&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -113,8 +222,9 @@
   &lt;/span&gt;
   
   &lt;/a&gt;
-    
-
+    &lt;/p&gt;
+&lt;p&gt;I’m a big fan of the show You on Netflix when it originally came out. When Netflix reached out to me to make a cake inspired by the show for the premiere of Season 2, I jumped on the chance! &lt;/p&gt;
+&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/d8916ccce7054cbfb225afb25d3d3e4e/5442e/rug_rolled_cake-4.jpg&quot;

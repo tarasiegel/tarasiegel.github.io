@@ -1,22 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "jsonName": "dev-404-page-5f9",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "51e1f1965ac63c4a94f2862d54718688",
-        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -2488,16 +2479,14 @@
           "instagram": "taras.kitchen"
         }
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2020-01-21T06:07:50.232Z",
+      "buildTime": "2020-01-21T06:24:56.714Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "5d8f07f8feeb692b453c2489ec5cef30",
+        "contentDigest": "5580cf1bc337854272e242abca979b80",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2507,7 +2496,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "bcf16519bc89d542871dbae3b13295c5",
+        "contentDigest": "eeab7dcbdce11fd31534b627c8d48765",
         "type": "Directory",
         "description": "Directory \"content/blog\"",
         "owner": "gatsby-source-filesystem"
@@ -2519,7 +2508,7 @@
       "size": 352,
       "prettySize": "352 B",
       "modifiedTime": "2020-01-21T05:13:21.604Z",
-      "accessTime": "2020-01-21T06:07:57.010Z",
+      "accessTime": "2020-01-21T06:25:00.671Z",
       "changeTime": "2020-01-21T05:13:21.604Z",
       "birthTime": "2019-01-19T04:51:26.577Z",
       "root": "/",
@@ -2537,11 +2526,11 @@
       "blksize": 4096,
       "ino": 8604269393,
       "blocks": 0,
-      "atimeMs": 1579586877009.5576,
+      "atimeMs": 1579587900671.496,
       "mtimeMs": 1579583601604.2478,
       "ctimeMs": 1579583601604.2478,
       "birthtimeMs": 1547873486577.1038,
-      "atime": "2020-01-21T06:07:57.010Z",
+      "atime": "2020-01-21T06:25:00.671Z",
       "mtime": "2020-01-21T05:13:21.604Z",
       "ctime": "2020-01-21T05:13:21.604Z",
       "birthtime": "2019-01-19T04:51:26.577Z"
@@ -2551,7 +2540,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "5bd256aea9ba7a5ae159399ce81abc1f",
+        "contentDigest": "43fdfd027b627a3edde8fea449ddc025",
         "type": "Directory",
         "description": "Directory \"content/blog/berry-rhubarb-bars\"",
         "owner": "gatsby-source-filesystem"
@@ -2563,7 +2552,7 @@
       "size": 288,
       "prettySize": "288 B",
       "modifiedTime": "2019-05-30T02:36:33.492Z",
-      "accessTime": "2020-01-21T06:07:57.013Z",
+      "accessTime": "2020-01-21T06:25:00.675Z",
       "changeTime": "2019-05-30T02:36:33.492Z",
       "birthTime": "2019-05-30T01:59:08.263Z",
       "root": "/",
@@ -2581,11 +2570,11 @@
       "blksize": 4096,
       "ino": 8608649344,
       "blocks": 0,
-      "atimeMs": 1579586877012.6255,
+      "atimeMs": 1579587900675.0088,
       "mtimeMs": 1559183793492.2507,
       "ctimeMs": 1559183793492.2507,
       "birthtimeMs": 1559181548262.995,
-      "atime": "2020-01-21T06:07:57.013Z",
+      "atime": "2020-01-21T06:25:00.675Z",
       "mtime": "2019-05-30T02:36:33.492Z",
       "ctime": "2019-05-30T02:36:33.492Z",
       "birthtime": "2019-05-30T01:59:08.263Z"
@@ -2595,7 +2584,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "3d95084c028af3844624f974baa3c9b8",
+        "contentDigest": "80ad1f0874197910108d3c74583c5056",
         "type": "Directory",
         "description": "Directory \"content/blog/blood-orange-bars\"",
         "owner": "gatsby-source-filesystem"
@@ -2607,7 +2596,7 @@
       "size": 256,
       "prettySize": "256 B",
       "modifiedTime": "2019-02-16T04:22:11.034Z",
-      "accessTime": "2020-01-21T06:07:57.013Z",
+      "accessTime": "2020-01-21T06:25:00.675Z",
       "changeTime": "2019-02-16T04:22:11.034Z",
       "birthTime": "2019-02-10T22:29:40.545Z",
       "root": "/",
@@ -2625,11 +2614,11 @@
       "blksize": 4096,
       "ino": 8604949502,
       "blocks": 0,
-      "atimeMs": 1579586877012.5564,
+      "atimeMs": 1579587900674.9622,
       "mtimeMs": 1550290931034.1497,
       "ctimeMs": 1550290931034.1497,
       "birthtimeMs": 1549837780544.8103,
-      "atime": "2020-01-21T06:07:57.013Z",
+      "atime": "2020-01-21T06:25:00.675Z",
       "mtime": "2019-02-16T04:22:11.034Z",
       "ctime": "2019-02-16T04:22:11.034Z",
       "birthtime": "2019-02-10T22:29:40.545Z"
@@ -2639,7 +2628,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "6d5a31b5689af250b5f8474bff036c1e",
+        "contentDigest": "8ef5a218dc785dab795cde91044e2913",
         "type": "Directory",
         "description": "Directory \"content/blog/dirty-chai-almond-brownies\"",
         "owner": "gatsby-source-filesystem"
@@ -2651,7 +2640,7 @@
       "size": 288,
       "prettySize": "288 B",
       "modifiedTime": "2019-06-08T22:24:05.137Z",
-      "accessTime": "2020-01-21T06:07:57.013Z",
+      "accessTime": "2020-01-21T06:25:00.675Z",
       "changeTime": "2019-06-19T03:07:58.971Z",
       "birthTime": "2019-06-08T22:12:24.733Z",
       "root": "/",
@@ -2669,11 +2658,11 @@
       "blksize": 4096,
       "ino": 8609185958,
       "blocks": 0,
-      "atimeMs": 1579586877013.1116,
+      "atimeMs": 1579587900674.8262,
       "mtimeMs": 1560032645136.7424,
       "ctimeMs": 1560913678970.8823,
       "birthtimeMs": 1560031944733.0942,
-      "atime": "2020-01-21T06:07:57.013Z",
+      "atime": "2020-01-21T06:25:00.675Z",
       "mtime": "2019-06-08T22:24:05.137Z",
       "ctime": "2019-06-19T03:07:58.971Z",
       "birthtime": "2019-06-08T22:12:24.733Z"
@@ -2683,7 +2672,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "faa8d42a9f4fad2c5ab8d75733d0c8f4",
+        "contentDigest": "c37f43819bda3c7d8d6a9914299746ef",
         "type": "Directory",
         "description": "Directory \"content/blog/dulce-de-leche-chocolate-chunk-cookies\"",
         "owner": "gatsby-source-filesystem"
@@ -2695,7 +2684,7 @@
       "size": 352,
       "prettySize": "352 B",
       "modifiedTime": "2019-06-25T21:35:12.710Z",
-      "accessTime": "2020-01-21T06:07:57.013Z",
+      "accessTime": "2020-01-21T06:25:00.675Z",
       "changeTime": "2019-06-25T21:35:12.710Z",
       "birthTime": "2019-06-19T03:49:44.709Z",
       "root": "/",
@@ -2713,11 +2702,11 @@
       "blksize": 4096,
       "ino": 8609408680,
       "blocks": 0,
-      "atimeMs": 1579586877012.5852,
+      "atimeMs": 1579587900674.9316,
       "mtimeMs": 1561498512710.139,
       "ctimeMs": 1561498512710.139,
       "birthtimeMs": 1560916184708.7922,
-      "atime": "2020-01-21T06:07:57.013Z",
+      "atime": "2020-01-21T06:25:00.675Z",
       "mtime": "2019-06-25T21:35:12.710Z",
       "ctime": "2019-06-25T21:35:12.710Z",
       "birthtime": "2019-06-19T03:49:44.709Z"
@@ -2727,7 +2716,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "b0a5ff1090cfbce97c8a3f816f912a8c",
+        "contentDigest": "6c28995b599ade4bdb98774f9ce438d7",
         "type": "Directory",
         "description": "Directory \"content/blog/raspberry-peach-rolled-cake\"",
         "owner": "gatsby-source-filesystem"
@@ -2739,7 +2728,7 @@
       "size": 384,
       "prettySize": "384 B",
       "modifiedTime": "2020-01-09T03:58:03.005Z",
-      "accessTime": "2020-01-21T06:07:57.013Z",
+      "accessTime": "2020-01-21T06:25:00.676Z",
       "changeTime": "2020-01-09T03:58:03.005Z",
       "birthTime": "2020-01-07T03:11:24.355Z",
       "root": "/",
@@ -2757,11 +2746,11 @@
       "blksize": 4096,
       "ino": 8613897337,
       "blocks": 0,
-      "atimeMs": 1579586877012.633,
+      "atimeMs": 1579587900675.585,
       "mtimeMs": 1578542283005.018,
       "ctimeMs": 1578542283005.018,
       "birthtimeMs": 1578366684355.018,
-      "atime": "2020-01-21T06:07:57.013Z",
+      "atime": "2020-01-21T06:25:00.676Z",
       "mtime": "2020-01-09T03:58:03.005Z",
       "ctime": "2020-01-09T03:58:03.005Z",
       "birthtime": "2020-01-07T03:11:24.355Z"
@@ -2771,7 +2760,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "9d14354e94cf4c45da1a96228bbceb60",
+        "contentDigest": "5cf09a60953d0fd8a0c83f3c828d419d",
         "type": "Directory",
         "description": "Directory \"content/blog/hot-cocoa-macarons\"",
         "owner": "gatsby-source-filesystem"
@@ -2783,7 +2772,7 @@
       "size": 288,
       "prettySize": "288 B",
       "modifiedTime": "2019-02-16T04:52:47.116Z",
-      "accessTime": "2020-01-21T06:07:57.013Z",
+      "accessTime": "2020-01-21T06:25:00.675Z",
       "changeTime": "2019-02-16T04:52:47.116Z",
       "birthTime": "2019-01-28T04:52:41.232Z",
       "root": "/",
@@ -2801,11 +2790,11 @@
       "blksize": 4096,
       "ino": 8604322489,
       "blocks": 0,
-      "atimeMs": 1579586877012.6267,
+      "atimeMs": 1579587900675.3289,
       "mtimeMs": 1550292767115.8914,
       "ctimeMs": 1550292767115.8914,
       "birthtimeMs": 1548651161231.7734,
-      "atime": "2020-01-21T06:07:57.013Z",
+      "atime": "2020-01-21T06:25:00.675Z",
       "mtime": "2019-02-16T04:52:47.116Z",
       "ctime": "2019-02-16T04:52:47.116Z",
       "birthtime": "2019-01-28T04:52:41.232Z"
@@ -2815,7 +2804,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "edcbd7a2688018bf3c20faf4e1082bbd",
+        "contentDigest": "5180fee13bc25664868b421fd16730f1",
         "type": "Directory",
         "description": "Directory \"content/blog/tomato-mole-jam\"",
         "owner": "gatsby-source-filesystem"
@@ -2827,7 +2816,7 @@
       "size": 352,
       "prettySize": "352 B",
       "modifiedTime": "2019-02-16T04:52:53.065Z",
-      "accessTime": "2020-01-21T06:07:57.013Z",
+      "accessTime": "2020-01-21T06:25:00.676Z",
       "changeTime": "2019-02-16T04:52:53.065Z",
       "birthTime": "2019-01-28T04:52:41.376Z",
       "root": "/",
@@ -2845,11 +2834,11 @@
       "blksize": 4096,
       "ino": 8604322500,
       "blocks": 0,
-      "atimeMs": 1579586877012.727,
+      "atimeMs": 1579587900675.569,
       "mtimeMs": 1550292773065.3662,
       "ctimeMs": 1550292773065.3662,
       "birthtimeMs": 1548651161375.8928,
-      "atime": "2020-01-21T06:07:57.013Z",
+      "atime": "2020-01-21T06:25:00.676Z",
       "mtime": "2019-02-16T04:52:53.065Z",
       "ctime": "2019-02-16T04:52:53.065Z",
       "birthtime": "2019-01-28T04:52:41.376Z"
@@ -5755,7 +5744,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "448603c49b4253fb6d30fedf63396bfc",
+        "contentDigest": "4ff1524a2123d57409e0fdf2c0064428",
         "type": "Directory",
         "description": "Directory \"content/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -5767,7 +5756,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-02-10T04:18:22.389Z",
-      "accessTime": "2020-01-21T06:07:58.152Z",
+      "accessTime": "2020-01-21T06:25:01.707Z",
       "changeTime": "2019-02-10T04:18:22.389Z",
       "birthTime": "2019-02-10T04:18:16.212Z",
       "root": "/",
@@ -5785,11 +5774,11 @@
       "blksize": 4096,
       "ino": 8604905065,
       "blocks": 0,
-      "atimeMs": 1579586878152.32,
+      "atimeMs": 1579587901706.874,
       "mtimeMs": 1549772302389.4385,
       "ctimeMs": 1549772302389.4385,
       "birthtimeMs": 1549772296211.6716,
-      "atime": "2020-01-21T06:07:58.152Z",
+      "atime": "2020-01-21T06:25:01.707Z",
       "mtime": "2019-02-10T04:18:22.389Z",
       "ctime": "2019-02-10T04:18:22.389Z",
       "birthtime": "2019-02-10T04:18:16.212Z"
@@ -5799,7 +5788,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "94f5bbc5cd82480f8a908fddd595621c",
+        "contentDigest": "d9b38641bb8e2299bf011b971ab8d62c",
         "type": "Directory",
         "description": "Directory \"content/pages/about\"",
         "owner": "gatsby-source-filesystem"
@@ -5811,7 +5800,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2019-02-09T05:57:35.626Z",
-      "accessTime": "2020-01-21T06:07:58.153Z",
+      "accessTime": "2020-01-21T06:25:01.707Z",
       "changeTime": "2019-02-10T04:18:22.389Z",
       "birthTime": "2019-02-09T05:54:27.735Z",
       "root": "/",
@@ -5829,11 +5818,11 @@
       "blksize": 4096,
       "ino": 8604867502,
       "blocks": 0,
-      "atimeMs": 1579586878153.2737,
+      "atimeMs": 1579587901707.2966,
       "mtimeMs": 1549691855625.9097,
       "ctimeMs": 1549772302389.4382,
       "birthtimeMs": 1549691667735.0195,
-      "atime": "2020-01-21T06:07:58.153Z",
+      "atime": "2020-01-21T06:25:01.707Z",
       "mtime": "2019-02-09T05:57:35.626Z",
       "ctime": "2019-02-10T04:18:22.389Z",
       "birthtime": "2019-02-09T05:54:27.735Z"
@@ -6004,7 +5993,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "ebe1d54c7f0910969a47ff236882e150",
+        "contentDigest": "2f5c1af253279403b4254f30f63489ac",
         "type": "Directory",
         "description": "Directory \"content/assets\"",
         "owner": "gatsby-source-filesystem"
@@ -6016,7 +6005,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2019-02-02T16:33:03.202Z",
-      "accessTime": "2020-01-21T06:07:58.187Z",
+      "accessTime": "2020-01-21T06:25:01.731Z",
       "changeTime": "2019-02-02T16:33:03.202Z",
       "birthTime": "2019-01-28T04:52:41.220Z",
       "root": "/",
@@ -6034,11 +6023,11 @@
       "blksize": 4096,
       "ino": 8604322484,
       "blocks": 0,
-      "atimeMs": 1579586878186.826,
+      "atimeMs": 1579587901730.5732,
       "mtimeMs": 1549125183202.2559,
       "ctimeMs": 1549125183202.2559,
       "birthtimeMs": 1548651161219.81,
-      "atime": "2020-01-21T06:07:58.187Z",
+      "atime": "2020-01-21T06:25:01.731Z",
       "mtime": "2019-02-02T16:33:03.202Z",
       "ctime": "2019-02-02T16:33:03.202Z",
       "birthtime": "2019-01-28T04:52:41.220Z"
@@ -6311,7 +6300,7 @@
       "parent": "__SOURCE__",
       "internal": {
         "type": "InstaNode",
-        "contentDigest": "7fca145d4d5077754d1f29718593430f",
+        "contentDigest": "cb10df604c26295261f3f35288d9214d",
         "owner": "gatsby-source-instagram"
       },
       "children": [],
@@ -6319,34 +6308,34 @@
       "caption": "Carrot Coconut Cake w/ Honey Cream Cheese Frosting: I made this cake a few weeks ago for one of my closest friends and overall awesome person @iamdopico ’s birthday.  She always tells me she doesn’t eat sweets (its a shock we’re still friends) except for my baked goods. I guess I should be flattered 😏 So therefore for her birthday I decided on a carrot cake, cutting the sugar a bit and used a cream cheese frosting that is solely sweetened with honey. The sunflowers were fun to make and I tried to go for those Van Gough vibes.\n.\nCarrot cake is a combo of @testkitchen and @livforcake ’s recipes for carrot cake (with some added coconut 🥥🤟🏻) Honey cream cheese frosting is from America’s test kitchen as well. The flowers are made with plain ol’ american buttercream in order to keep their shape.\n.\n.\n.\n#birthdaycake #sunflowercake #sunflowers #floralcake #carrotcake #cakedecorating #cake #cakes #creamcheesefrosting #buttercream #cakesofinstagram #cakestagram #cakeinspo  #foodstyling #feedfeed @thefeedfeed #huffposttaste @thefeedfeed.baking #f52grams @food52 #tastingtable #foooodieee #infatuation @foodandwine #thebakefeed #bakefromscratch @saveurmag #foodphotography #beautifulcuisines @beautifulcuisines #bakestagram #feedfeedbaking @thrillist  #wsbakeclub #foodtographyschool #kingarthurflour #bakefromscratch",
       "thumbnails": [
         {
-          "src": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/e35/c0.108.1311.1311a/s150x150/70637635_753042718460278_7152732900540881316_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=T3EYJYQD6LEAX9rYey6&oh=bc472ffe265ce87e7c9c41a2b9253c1a&oe=5ED88671",
+          "src": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/c0.108.1311.1311a/s150x150/70637635_753042718460278_7152732900540881316_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=T3EYJYQD6LEAX9rYey6&oh=a3fff7c4f160b85aed533c3522e7f620&oe=5ED88671",
           "config_width": 150,
           "config_height": 150
         },
         {
-          "src": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/e35/c0.108.1311.1311a/s240x240/70637635_753042718460278_7152732900540881316_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=T3EYJYQD6LEAX9rYey6&oh=ec7922d331a653392ab98a21866c1c09&oe=5EB8F53B",
+          "src": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/c0.108.1311.1311a/s240x240/70637635_753042718460278_7152732900540881316_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=T3EYJYQD6LEAX9rYey6&oh=f16e0a1a8cd1b059f63eb3a06280f170&oe=5EB8F53B",
           "config_width": 240,
           "config_height": 240
         },
         {
-          "src": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/e35/c0.108.1311.1311a/s320x320/70637635_753042718460278_7152732900540881316_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=T3EYJYQD6LEAX9rYey6&oh=5f0c382afa6d693d1c6630ac30335596&oe=5ECDD981",
+          "src": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/c0.108.1311.1311a/s320x320/70637635_753042718460278_7152732900540881316_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=T3EYJYQD6LEAX9rYey6&oh=e69d5662fa899fe21675f2bbadf91f2b&oe=5ECDD981",
           "config_width": 320,
           "config_height": 320
         },
         {
-          "src": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/e35/c0.108.1311.1311a/s480x480/70637635_753042718460278_7152732900540881316_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=T3EYJYQD6LEAX9rYey6&oh=934de95278b6e933d98c8e3a81a76880&oe=5EBA9FDB",
+          "src": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/c0.108.1311.1311a/s480x480/70637635_753042718460278_7152732900540881316_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=T3EYJYQD6LEAX9rYey6&oh=2fe80370094341a06e9c5bd247510d87&oe=5EBA9FDB",
           "config_width": 480,
           "config_height": 480
         },
         {
-          "src": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.108.1311.1311a/s640x640/70637635_753042718460278_7152732900540881316_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=T3EYJYQD6LEAX9rYey6&oh=0acd1239a95070041f14c33c25aa9dbc&oe=5ED90CBA",
+          "src": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.108.1311.1311a/s640x640/70637635_753042718460278_7152732900540881316_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=T3EYJYQD6LEAX9rYey6&oh=1c67d1537a64925cecc42484e9b0ebad&oe=5ED90CBA",
           "config_width": 640,
           "config_height": 640
         }
       ],
       "mediaType": "GraphSidecar",
-      "preview": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/70637635_753042718460278_7152732900540881316_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=T3EYJYQD6LEAX9rYey6&oh=1bdfcf0b9273cc31c72de5ef48830879&oe=5EBC5FCA",
-      "original": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/70637635_753042718460278_7152732900540881316_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=T3EYJYQD6LEAX9rYey6&oh=1bdfcf0b9273cc31c72de5ef48830879&oe=5EBC5FCA",
+      "preview": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/70637635_753042718460278_7152732900540881316_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=T3EYJYQD6LEAX9rYey6&oh=1eb5e8803866b4e3a3a52b590d5e2f7a&oe=5EBC5FCA",
+      "original": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/70637635_753042718460278_7152732900540881316_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=T3EYJYQD6LEAX9rYey6&oh=1eb5e8803866b4e3a3a52b590d5e2f7a&oe=5EBC5FCA",
       "timestamp": 1568069438,
       "dimensions": {
         "height": 1258,
@@ -6908,7 +6897,7 @@
       "parent": "__SOURCE__",
       "internal": {
         "type": "InstaNode",
-        "contentDigest": "e64c1253b639ecba730701f9e6da99a1",
+        "contentDigest": "5925d5cf539dce57d4b74552f18323a8",
         "owner": "gatsby-source-instagram"
       },
       "children": [],
@@ -6916,34 +6905,34 @@
       "caption": "Raspberry Apricot Scones: Happy LDW! I’m taking it easy this holiday weekend, catching up on sleep, friends and books I got to finish for bookclub 😬 These scones are a perfect way to start a lazy Sunday morning.  The recipe is @kingarthurflour ’s master scone recipe with 1 cup of Raspberry jammy bits (also from KAF!) and 1 cup of chopped dried apricots mixed in.  I am a big fan of their jammy bits (and I love saying it outloud), since they are basically fruit puree + sugar and melt a bit during baking, giving the scones a little bit of jam in every bite! .\nI also made some fig jam to accompany these scones, and they were **chefs kiss** together\n.\n.\n#raspberryscones #scones #scone #jammybits #kingarthurflour #kingarthurflourrecipe #homemadescones #baking #bakersofinstagram #flatlaytoday @flatlaytoday #foodstyling #feedfeed @thefeedfeed #huffposttaste @thefeedfeed.baking #f52grams @food52 #thebakefeed #bakefromscratch #buzzfeedfood @saveurmag #foodphotography #beautifulcuisines @beautifulcuisines #bakestagram #feedfeedbaking @thrillist  #wsbakeclub #foodtographyschool #foodiefeature #bakefromscratch #nycbaker #inmykitchen #sconesandjam #homebaking",
       "thumbnails": [
         {
-          "src": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/e35/c0.176.1407.1407a/s150x150/67913966_1152170968314598_4521514528541798396_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=3Fo2miiLme8AX_HxVNC&oh=f700e08b16c4e651166fabac7286e981&oe=5ECD11A4",
+          "src": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/c0.176.1407.1407a/s150x150/67913966_1152170968314598_4521514528541798396_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=3Fo2miiLme8AX_HxVNC&oh=34b8816b5a5a8109ef1757a1ce2aa4d6&oe=5ECD11A4",
           "config_width": 150,
           "config_height": 150
         },
         {
-          "src": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/e35/c0.176.1407.1407a/s240x240/67913966_1152170968314598_4521514528541798396_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=3Fo2miiLme8AX_HxVNC&oh=db1b5aa13e5dda4e8a396259a62c524e&oe=5E9E21A2",
+          "src": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/c0.176.1407.1407a/s240x240/67913966_1152170968314598_4521514528541798396_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=3Fo2miiLme8AX_HxVNC&oh=8ada0f8f503590a375b675f546e136c6&oe=5E9E21A2",
           "config_width": 240,
           "config_height": 240
         },
         {
-          "src": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/e35/c0.176.1407.1407a/s320x320/67913966_1152170968314598_4521514528541798396_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=3Fo2miiLme8AX_HxVNC&oh=8a138d6b3a08c1d2693065ad50c39108&oe=5EBCA6DC",
+          "src": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/c0.176.1407.1407a/s320x320/67913966_1152170968314598_4521514528541798396_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=3Fo2miiLme8AX_HxVNC&oh=521aeeb554492f77175e426c1fff5805&oe=5EBCA6DC",
           "config_width": 320,
           "config_height": 320
         },
         {
-          "src": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/e35/c0.176.1407.1407a/s480x480/67913966_1152170968314598_4521514528541798396_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=3Fo2miiLme8AX_HxVNC&oh=8eecd23537ac12b776adf1fec98d0bb0&oe=5EA15C9B",
+          "src": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/c0.176.1407.1407a/s480x480/67913966_1152170968314598_4521514528541798396_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=3Fo2miiLme8AX_HxVNC&oh=ab1203a2ceb158d6739646e82863f350&oe=5EA15C9B",
           "config_width": 480,
           "config_height": 480
         },
         {
-          "src": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.176.1407.1407a/s640x640/67913966_1152170968314598_4521514528541798396_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=3Fo2miiLme8AX_HxVNC&oh=1c10436ffdefacc736bd2412f9887e59&oe=5EB81594",
+          "src": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.176.1407.1407a/s640x640/67913966_1152170968314598_4521514528541798396_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=3Fo2miiLme8AX_HxVNC&oh=319b2c3513dedaa50722bf32e29f31b2&oe=5EB81594",
           "config_width": 640,
           "config_height": 640
         }
       ],
       "mediaType": "GraphSidecar",
-      "preview": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/67913966_1152170968314598_4521514528541798396_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=3Fo2miiLme8AX_HxVNC&oh=96e114edd990ba64c7b7260fc48ccf51&oe=5EA22756",
-      "original": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/67913966_1152170968314598_4521514528541798396_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=3Fo2miiLme8AX_HxVNC&oh=96e114edd990ba64c7b7260fc48ccf51&oe=5EA22756",
+      "preview": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/67913966_1152170968314598_4521514528541798396_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=3Fo2miiLme8AX_HxVNC&oh=abe0d279b04286466b92a2e24296719b&oe=5EA22756",
+      "original": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/67913966_1152170968314598_4521514528541798396_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=3Fo2miiLme8AX_HxVNC&oh=abe0d279b04286466b92a2e24296719b&oe=5EA22756",
       "timestamp": 1567345861,
       "dimensions": {
         "height": 1350,
@@ -6959,7 +6948,7 @@
       "parent": "__SOURCE__",
       "internal": {
         "type": "InstaNode",
-        "contentDigest": "d7586d4000d678835c18efb08207c12c",
+        "contentDigest": "79d06e323b2ee166eeb7be16cfc58cef",
         "owner": "gatsby-source-instagram"
       },
       "children": [],
@@ -6967,34 +6956,34 @@
       "caption": "Fig and Cherry Plum Galette: I cant believe it’s only just Tuesday 😒 I spent most of the day trying to remember how Java works (the programming language) since I’ve been mostly writing in JavaScript (and Python) the past few years at my job. It was a real struggle trying to remember how types work and it gave me not so great flashbacks to my college Computer Science classes. At least I have some of this galette left at home to try and block any further trips down memory of all the all-nighters I had to pull. This galette is not too sweet, super easy to make and is perfect for any time of day 🤙🏼\n.\nTo make it, slice figs and @traderjoes cherry plums and toss with ½ tsp vanilla, 1 tsp lemon juice, 3 tbsp sugar, 1 tsp cornstarch and let sit for 10 min. I pulled out some pie dough from the freezer, recipe from @birdsblack - rolled out to a circle 1/8th of an inch. Arrange fruit on dough and fold in the dough on all sides. Refrigerate for 30 min.  Brush sides with egg wash and sprinkle sparkling sugar. bake at 375 for 35-40 or until golden. .\n.\n#galette #plumgalette #fruitgalette #figgalette #plumpie #pie #pieart #piepiepie #bakersofinstagram #flatlaytoday #piesofinstagram @flatlaytoday #foodstyling #feedfeed @thefeedfeed #huffposttaste @thefeedfeed.baking #f52grams @food52 #thebakefeed #bakefromscratch #buzzfeedfood @saveurmag #foodphotography #beautifulcuisines @beautifulcuisines #bakestagram #feedfeedbaking @thrillist  #wsbakeclub #foodtographyschool #foodiefeature #kingarthurflour #bakefromscratch #nycbaker #inmykitchen",
       "thumbnails": [
         {
-          "src": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/e35/c0.129.1440.1440a/s150x150/67648109_2562353837154574_6741852956860724620_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=sWbetrlQ-lsAX-8kz2n&oh=7deb0b5627a6086f2e937c2658d49f30&oe=5E9DD161",
+          "src": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/c0.129.1440.1440a/s150x150/67648109_2562353837154574_6741852956860724620_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=sWbetrlQ-lsAX-8kz2n&oh=de136100cafc73f99ffdb1e5e2e529b0&oe=5E9DD161",
           "config_width": 150,
           "config_height": 150
         },
         {
-          "src": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/e35/c0.129.1440.1440a/s240x240/67648109_2562353837154574_6741852956860724620_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=sWbetrlQ-lsAX-8kz2n&oh=c895648882db855fed3fff2d746663bd&oe=5ED0B567",
+          "src": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/c0.129.1440.1440a/s240x240/67648109_2562353837154574_6741852956860724620_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=sWbetrlQ-lsAX-8kz2n&oh=0cc09ff76b8b92d45470cfffd22b1857&oe=5ED0B567",
           "config_width": 240,
           "config_height": 240
         },
         {
-          "src": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/e35/c0.129.1440.1440a/s320x320/67648109_2562353837154574_6741852956860724620_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=sWbetrlQ-lsAX-8kz2n&oh=52ea44b24501b211c78c625ae2562736&oe=5EDB2819",
+          "src": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/c0.129.1440.1440a/s320x320/67648109_2562353837154574_6741852956860724620_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=sWbetrlQ-lsAX-8kz2n&oh=238d681c2f52e5f0eb6fd6e3fc5e9466&oe=5EDB2819",
           "config_width": 320,
           "config_height": 320
         },
         {
-          "src": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/e35/c0.129.1440.1440a/s480x480/67648109_2562353837154574_6741852956860724620_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=sWbetrlQ-lsAX-8kz2n&oh=aae32cb0e09b181be2348bdab176b662&oe=5EBB0B5E",
+          "src": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/c0.129.1440.1440a/s480x480/67648109_2562353837154574_6741852956860724620_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=sWbetrlQ-lsAX-8kz2n&oh=32d3105aa555f20a190aa8b5a21e0a3e&oe=5EBB0B5E",
           "config_width": 480,
           "config_height": 480
         },
         {
-          "src": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.129.1440.1440a/s640x640/67648109_2562353837154574_6741852956860724620_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=sWbetrlQ-lsAX-8kz2n&oh=aee49d7f29e852ac6165d25522587f8b&oe=5EA19A51",
+          "src": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.129.1440.1440a/s640x640/67648109_2562353837154574_6741852956860724620_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=sWbetrlQ-lsAX-8kz2n&oh=163f4a3829cdf63938e5870ecb37b8fe&oe=5EA19A51",
           "config_width": 640,
           "config_height": 640
         }
       ],
       "mediaType": "GraphImage",
-      "preview": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/67648109_2562353837154574_6741852956860724620_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=sWbetrlQ-lsAX-8kz2n&oh=17c5d3d56c91ca55d48ecf9f88deb1b7&oe=5ED802A4",
-      "original": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/67648109_2562353837154574_6741852956860724620_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=sWbetrlQ-lsAX-8kz2n&oh=17c5d3d56c91ca55d48ecf9f88deb1b7&oe=5ED802A4",
+      "preview": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/67648109_2562353837154574_6741852956860724620_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=sWbetrlQ-lsAX-8kz2n&oh=d9343874987e378b2e793624b5b974f4&oe=5ED802A4",
+      "original": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/p1080x1080/67648109_2562353837154574_6741852956860724620_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=sWbetrlQ-lsAX-8kz2n&oh=d9343874987e378b2e793624b5b974f4&oe=5ED802A4",
       "timestamp": 1566948427,
       "dimensions": {
         "height": 1274,
@@ -7171,7 +7160,7 @@
       "parent": "__SOURCE__",
       "internal": {
         "type": "InstaNode",
-        "contentDigest": "21cdb82272dd566a392bc620c07742ab",
+        "contentDigest": "c5bd6647b5f98cbc79f7505161d69cf3",
         "owner": "gatsby-source-instagram"
       },
       "children": [],
@@ -7179,34 +7168,34 @@
       "caption": "Buckeye Balls ✨: I recently joined a group of friends who were doing a monthly bookclub and it was finally my turn to host last week! I chose the book ‘Little Fires Everywhere’ by @pronounced_ing which I tremendously enjoyed.  It was overall an easy and enjoyable read with a bunch of interesting themes for us to talk about 💁🏼‍♀️ I think its gonna make a great TV adaptation, coming to @hulu soon. Well the story takes place in Shaker Heights Ohio, and these sugary indulgent balls are a true Ohio staple. I glitzed them up with some sprinkles and @wiltoncakes gold spray ! I served alongside a ton of cheese, crackers and beet goat cheese hummus 🤙🏼\n.\n If you’ve read Little Fires Everywhere what did you think of it?!\n.\nBuckeye Balls - makes ~ 30\n1 container (1.5 cups) of peanut butter\n4 cups of powdered sugar\n1 1/2 tsp vanilla extract\n1 tsp cinnamon\n1/2 cup of butter\n8 oz dark chocolate\n1 Tbsp shortening or coconut oil\nSprinkles\n.\nCombine first 5 ingredients in a bowl. Using a 2 tsp cookie scoop, create balls and place on a sheet pan lined with wax/parchment paper. Refrigerate for 30 min. Using a double broiler or microwave, melt chocolate and shortening until smooth.  Using a toothpick, dip each ball into the chocolate and return to pan. Add sprinkles. Refrigerate another 30 min and enjoy!\n.\n#buckeyeballs #ohio #buckeyes #buckeye #peanutbutter #peanutbuttercookies #chocolatedipped #nobakedcookies #f52nocook #chocolatepeanutbutter #peanutbutterballs #foodstyling #feedfeed @thefeedfeed #huffposttaste @thefeedfeed.baking #f52grams @food52 #thebakefeed #bakefromscratch #buzzfeedfood @saveurmag #foodphotography #beautifulcuisines @beautifulcuisines #bakestagram #feedfeedbaking @thrillist  #wsbakeclub #foodtographyschool #foodiefeature #bakefromscratch #nycbaker",
       "thumbnails": [
         {
-          "src": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/e35/c0.132.1080.1080a/s150x150/66817649_153234282431290_9040903363827460473_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2YO5NVrEpJQAX8vndnY&oh=a69efe0d69268f853540e242117c0dc2&oe=5EBF6055",
+          "src": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/c0.132.1080.1080a/s150x150/66817649_153234282431290_9040903363827460473_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2YO5NVrEpJQAX8vndnY&oh=5b98328dfc5615e4e7696c1ea9dc338b&oe=5EBF6055",
           "config_width": 150,
           "config_height": 150
         },
         {
-          "src": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/e35/c0.132.1080.1080a/s240x240/66817649_153234282431290_9040903363827460473_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2YO5NVrEpJQAX8vndnY&oh=1dc36e41192faf0f219032caf60e6ef8&oe=5ED98F1F",
+          "src": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/c0.132.1080.1080a/s240x240/66817649_153234282431290_9040903363827460473_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2YO5NVrEpJQAX8vndnY&oh=4ee305b2ea7d4ebfb399d272232ea10e&oe=5ED98F1F",
           "config_width": 240,
           "config_height": 240
         },
         {
-          "src": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/e35/c0.132.1080.1080a/s320x320/66817649_153234282431290_9040903363827460473_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2YO5NVrEpJQAX8vndnY&oh=71a4f1c7365b8a7b833b438078c7b6cf&oe=5E9FAAA5",
+          "src": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/c0.132.1080.1080a/s320x320/66817649_153234282431290_9040903363827460473_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2YO5NVrEpJQAX8vndnY&oh=a1c164c0bc78bdc2a647bd30d2723ae6&oe=5E9FAAA5",
           "config_width": 320,
           "config_height": 320
         },
         {
-          "src": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/e35/c0.132.1080.1080a/s480x480/66817649_153234282431290_9040903363827460473_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2YO5NVrEpJQAX8vndnY&oh=1b0ac6790525c5646dfda0ef7b17eea9&oe=5ED6A7FF",
+          "src": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/c0.132.1080.1080a/s480x480/66817649_153234282431290_9040903363827460473_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2YO5NVrEpJQAX8vndnY&oh=83c49a7996b6a891f0def6baf973380a&oe=5ED6A7FF",
           "config_width": 480,
           "config_height": 480
         },
         {
-          "src": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.132.1080.1080a/s640x640/66817649_153234282431290_9040903363827460473_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2YO5NVrEpJQAX8vndnY&oh=bb162e44c9c65d55b2718b782d7d1efe&oe=5ECDC09E",
+          "src": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.132.1080.1080a/s640x640/66817649_153234282431290_9040903363827460473_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2YO5NVrEpJQAX8vndnY&oh=0dbd5ebcba63bca6a7adeb3cb8d65a72&oe=5ECDC09E",
           "config_width": 640,
           "config_height": 640
         }
       ],
       "mediaType": "GraphSidecar",
-      "preview": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/e35/66817649_153234282431290_9040903363827460473_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2YO5NVrEpJQAX8vndnY&oh=6f42da12856c3737c47a461f9d2e2738&oe=5E9F87FC",
-      "original": "https://instagram.fewr1-5.fna.fbcdn.net/v/t51.2885-15/e35/66817649_153234282431290_9040903363827460473_n.jpg?_nc_ht=instagram.fewr1-5.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2YO5NVrEpJQAX8vndnY&oh=6f42da12856c3737c47a461f9d2e2738&oe=5E9F87FC",
+      "preview": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/66817649_153234282431290_9040903363827460473_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2YO5NVrEpJQAX8vndnY&oh=3cd3beb06acd621b7e8a49c6dca4e066&oe=5E9F87FC",
+      "original": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/66817649_153234282431290_9040903363827460473_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=110&_nc_ohc=2YO5NVrEpJQAX8vndnY&oh=3cd3beb06acd621b7e8a49c6dca4e066&oe=5E9F87FC",
       "timestamp": 1565825069,
       "dimensions": {
         "height": 1345,
@@ -7232,7 +7221,7 @@
       "parent": "__SOURCE__",
       "internal": {
         "type": "InstaNode",
-        "contentDigest": "f114bc2040b6fe01135498de35e027d3",
+        "contentDigest": "c3e0a8f13a84c3c47963e8370ba5607a",
         "owner": "gatsby-source-instagram"
       },
       "children": [],
@@ -7240,34 +7229,34 @@
       "caption": "Apple Galette w/ Vermont Maple Syrup 🍎 🥐: My mom and I are currently on our third and last day of a “Laminating Pastry Intensive Workshop” at @kingarthurflour ‘s baking school in Norwich, VT. I’ve done a few classes here before, but I’m constantly impressed every time. Their cafe, school and shop (which is a great exercise in practicing self control) are all awesome. I’ve been posting snippets from the class on my stories and they will be in the highlights 🤙🏼\n.\nThe first day we learned how to make a blitz (rough) puff and prepped all the dough for various pastries. A blitz puff uses flattened cubes of butter folded in instead of a sheet of butter, then a few folds all at once to mimic a puff pastry. This Apple galette uses said blitz pastry and was brushed with maple syrup 🍁 right out of the oven 🤤 Second photo were turnovers using the blitz that we stuffed with tomato sauce, caramelized onions and spinach. \n#kingarthurflour #kingarthurbakingschool #galette #puffpastry #applegalette #applepie #blitzpuff #roughpuff #bakersofinstagram  #apples #summerbaking #kingarthurflourrecipe @flatlaytoday #flaylaytoday #foodstyling #feedfeed @thefeedfeed #huffposttaste @thefeedfeed.baking #f52grams @food52 #thebakefeed #bakefromscratch #buzzfeedfood @saveurmag #foodphotography #beautifulcuisines @beautifulcuisines #bakestagram #feedfeedbaking  #wsbakeclub #foodiefeature #bakefromscratch #nycbaker",
       "thumbnails": [
         {
-          "src": "https://instagram.fewr1-6.fna.fbcdn.net/v/t51.2885-15/e35/c0.135.1080.1080a/s150x150/66172891_1220916578087759_462696491719109868_n.jpg?_nc_ht=instagram.fewr1-6.fna.fbcdn.net&_nc_cat=111&_nc_ohc=huXPimKV7PUAX-SASFQ&oh=71eb984c3950bea5acd70cc97e870502&oe=5ECE4978",
+          "src": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/c0.135.1080.1080a/s150x150/66172891_1220916578087759_462696491719109868_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=111&_nc_ohc=huXPimKV7PUAX-SASFQ&oh=21b4e1b9ba93bf9361a9fcf19015738d&oe=5ECE4978",
           "config_width": 150,
           "config_height": 150
         },
         {
-          "src": "https://instagram.fewr1-6.fna.fbcdn.net/v/t51.2885-15/e35/c0.135.1080.1080a/s240x240/66172891_1220916578087759_462696491719109868_n.jpg?_nc_ht=instagram.fewr1-6.fna.fbcdn.net&_nc_cat=111&_nc_ohc=huXPimKV7PUAX-SASFQ&oh=395d2765bc1492f4e8c42ea842fb1bc0&oe=5EBAD032",
+          "src": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/c0.135.1080.1080a/s240x240/66172891_1220916578087759_462696491719109868_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=111&_nc_ohc=huXPimKV7PUAX-SASFQ&oh=ee27a1942f6ab4aa04d38d0897c40d3c&oe=5EBAD032",
           "config_width": 240,
           "config_height": 240
         },
         {
-          "src": "https://instagram.fewr1-6.fna.fbcdn.net/v/t51.2885-15/e35/c0.135.1080.1080a/s320x320/66172891_1220916578087759_462696491719109868_n.jpg?_nc_ht=instagram.fewr1-6.fna.fbcdn.net&_nc_cat=111&_nc_ohc=huXPimKV7PUAX-SASFQ&oh=ce79fcf06975467c258e07cca7a15111&oe=5ED5EF88",
+          "src": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/c0.135.1080.1080a/s320x320/66172891_1220916578087759_462696491719109868_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=111&_nc_ohc=huXPimKV7PUAX-SASFQ&oh=3fee697dfe7a8dfa1a0f9d7450569c55&oe=5ED5EF88",
           "config_width": 320,
           "config_height": 320
         },
         {
-          "src": "https://instagram.fewr1-6.fna.fbcdn.net/v/t51.2885-15/e35/c0.135.1080.1080a/s480x480/66172891_1220916578087759_462696491719109868_n.jpg?_nc_ht=instagram.fewr1-6.fna.fbcdn.net&_nc_cat=111&_nc_ohc=huXPimKV7PUAX-SASFQ&oh=e9fa8f4cca9bdac6b77ab0b2e0b73392&oe=5EA2C3D2",
+          "src": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/c0.135.1080.1080a/s480x480/66172891_1220916578087759_462696491719109868_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=111&_nc_ohc=huXPimKV7PUAX-SASFQ&oh=9102d93c8fd17aa239126aaf9d322254&oe=5EA2C3D2",
           "config_width": 480,
           "config_height": 480
         },
         {
-          "src": "https://instagram.fewr1-6.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/66172891_1220916578087759_462696491719109868_n.jpg?_nc_ht=instagram.fewr1-6.fna.fbcdn.net&_nc_cat=111&_nc_ohc=huXPimKV7PUAX-SASFQ&oh=bdfddc189a633e8addc1c8026f98e4f4&oe=5ED043B3",
+          "src": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/c0.135.1080.1080a/s640x640/66172891_1220916578087759_462696491719109868_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=111&_nc_ohc=huXPimKV7PUAX-SASFQ&oh=22c8d3756eada18fff3014734ac1a5a4&oe=5ED043B3",
           "config_width": 640,
           "config_height": 640
         }
       ],
       "mediaType": "GraphSidecar",
-      "preview": "https://instagram.fewr1-6.fna.fbcdn.net/v/t51.2885-15/e35/66172891_1220916578087759_462696491719109868_n.jpg?_nc_ht=instagram.fewr1-6.fna.fbcdn.net&_nc_cat=111&_nc_ohc=huXPimKV7PUAX-SASFQ&oh=fdf70a070f80f8718124e40122b50990&oe=5EC0F6BF",
-      "original": "https://instagram.fewr1-6.fna.fbcdn.net/v/t51.2885-15/e35/66172891_1220916578087759_462696491719109868_n.jpg?_nc_ht=instagram.fewr1-6.fna.fbcdn.net&_nc_cat=111&_nc_ohc=huXPimKV7PUAX-SASFQ&oh=fdf70a070f80f8718124e40122b50990&oe=5EC0F6BF",
+      "preview": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/66172891_1220916578087759_462696491719109868_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=111&_nc_ohc=huXPimKV7PUAX-SASFQ&oh=64670e5ddbd256ed3741eb33ef97847c&oe=5EC0F6BF",
+      "original": "https://instagram.fphl2-4.fna.fbcdn.net/v/t51.2885-15/e35/66172891_1220916578087759_462696491719109868_n.jpg?_nc_ht=instagram.fphl2-4.fna.fbcdn.net&_nc_cat=111&_nc_ohc=huXPimKV7PUAX-SASFQ&oh=64670e5ddbd256ed3741eb33ef97847c&oe=5EC0F6BF",
       "timestamp": 1562192561,
       "dimensions": {
         "height": 1350,
@@ -7574,7 +7563,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "54cf79134130f7cf7ad083f95ed83b8a",
+        "contentDigest": "51ce39889d17f1f812d37067a95f46e5",
         "type": "Directory",
         "description": "Directory \"content/blog/low-fat-banana-oat-muffins\"",
         "owner": "gatsby-source-filesystem"
@@ -7586,7 +7575,7 @@
       "size": 256,
       "prettySize": "256 B",
       "modifiedTime": "2020-01-21T05:17:57.701Z",
-      "accessTime": "2020-01-21T06:07:57.014Z",
+      "accessTime": "2020-01-21T06:25:00.675Z",
       "changeTime": "2020-01-21T05:17:57.701Z",
       "birthTime": "2020-01-21T05:12:44.123Z",
       "root": "/",
@@ -7604,11 +7593,11 @@
       "blksize": 4096,
       "ino": 8614219160,
       "blocks": 0,
-      "atimeMs": 1579586877013.68,
+      "atimeMs": 1579587900675.1929,
       "mtimeMs": 1579583877700.622,
       "ctimeMs": 1579583877700.622,
       "birthtimeMs": 1579583564123.04,
-      "atime": "2020-01-21T06:07:57.014Z",
+      "atime": "2020-01-21T06:25:00.675Z",
       "mtime": "2020-01-21T05:17:57.701Z",
       "ctime": "2020-01-21T05:17:57.701Z",
       "birthtime": "2020-01-21T05:12:44.123Z"
@@ -7939,6 +7928,26 @@
       "fileAbsolutePath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/content/blog/low-fat-banana-oat-muffins/index.md",
       "fields": {
         "slug": "/low-fat-banana-oat-muffins/"
+      }
+    },
+    "SitePage /offline-plugin-app-shell-fallback/": {
+      "jsonName": "offline-plugin-app-shell-fallback-a30",
+      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
+      "path": "/offline-plugin-app-shell-fallback/",
+      "component": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js",
+      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
+      "context": {},
+      "pluginCreator___NODE": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+      "pluginCreatorId": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js",
+      "id": "SitePage /offline-plugin-app-shell-fallback/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c2137cd574232121fb44522c094051bb",
+        "description": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+        "owner": "internal-data-bridge"
       }
     },
     "SitePage /about/": {
@@ -8349,6 +8358,9 @@
         "/about/",
         "/404/",
         "/",
+        "/recipes/",
+        "/404.html",
+        "/low-fat-banana-oat-muffins/",
         "/raspberry-peach-rolled-cake/",
         "/dulce-de-leche-chocolate-chunk-cookies/",
         "/berry-rhubarb-bars/",
@@ -8356,12 +8368,9 @@
         "/blood-orange-bars/",
         "/tomato-mole-jam/",
         "/hot-cocoa-macarons/",
-        "/recipes/",
-        "/low-fat-banana-oat-muffins/",
-        "/404.html",
         "sq--src-components-bio-js",
-        "sq--src-components-recipe-seo-js",
-        "sq--src-components-seo-js"
+        "sq--src-components-seo-js",
+        "sq--src-components-recipe-seo-js"
       ],
       "2a7c202d-14d1-5f52-97fe-cf2dee369d5b": [
         "sq--src-components-bio-js"
@@ -8449,73 +8458,73 @@
       ],
       "adcfd7e4-12fb-5b58-95de-f933ada03a56": [
         "/",
-        "/raspberry-peach-rolled-cake/",
-        "/recipes/"
+        "/recipes/",
+        "/raspberry-peach-rolled-cake/"
       ],
       "b69e2f5e-a11b-5e3c-b6bf-ca268aa0c113": [
         "/",
-        "/dulce-de-leche-chocolate-chunk-cookies/",
-        "/recipes/"
+        "/recipes/",
+        "/dulce-de-leche-chocolate-chunk-cookies/"
       ],
       "25db69b2-c751-5940-94d9-b7b824e5bf8f": [
         "/",
-        "/berry-rhubarb-bars/",
-        "/recipes/"
+        "/recipes/",
+        "/berry-rhubarb-bars/"
       ],
       "10e1f58d-d067-5c84-ab25-3e3e0a1ccc42": [
         "/",
-        "/dirty-chai-almond-brownies/",
-        "/recipes/"
+        "/recipes/",
+        "/dirty-chai-almond-brownies/"
       ],
       "6dabc158-a3ba-5d8c-a68d-98e844a3a7a0": [
         "/",
-        "/blood-orange-bars/",
-        "/recipes/"
+        "/recipes/",
+        "/blood-orange-bars/"
       ],
       "bea38287-942b-5376-8162-446c17361442": [
         "/",
-        "/tomato-mole-jam/",
-        "/recipes/"
+        "/recipes/",
+        "/tomato-mole-jam/"
       ],
       "76d2b583-d148-565b-9864-ba92712eda90": [
         "/",
-        "/hot-cocoa-macarons/",
-        "/recipes/"
+        "/recipes/",
+        "/hot-cocoa-macarons/"
       ],
       "8b10f079-ed3e-50cb-9e63-6e6644313cb9": [
         "/",
-        "/raspberry-peach-rolled-cake/",
-        "/recipes/"
+        "/recipes/",
+        "/raspberry-peach-rolled-cake/"
       ],
       "ce9cd319-75fd-51c2-b18a-8fcee770a97c": [
         "/",
-        "/dulce-de-leche-chocolate-chunk-cookies/",
-        "/recipes/"
+        "/recipes/",
+        "/dulce-de-leche-chocolate-chunk-cookies/"
       ],
       "ee8efdb3-1341-559c-a8cf-87cfc486894a": [
         "/",
-        "/berry-rhubarb-bars/",
-        "/recipes/"
+        "/recipes/",
+        "/berry-rhubarb-bars/"
       ],
       "ad3aef13-3310-5025-ad7d-e3efcd63d03b": [
         "/",
-        "/dirty-chai-almond-brownies/",
-        "/recipes/"
+        "/recipes/",
+        "/dirty-chai-almond-brownies/"
       ],
       "65061127-8470-5a48-9467-f0c49c787014": [
         "/",
-        "/blood-orange-bars/",
-        "/recipes/"
+        "/recipes/",
+        "/blood-orange-bars/"
       ],
       "338c0182-88bf-580b-a7e2-40f9790160ba": [
         "/",
-        "/tomato-mole-jam/",
-        "/recipes/"
+        "/recipes/",
+        "/tomato-mole-jam/"
       ],
       "da1ff49a-fe64-5a3e-931c-3ce6a28794b8": [
         "/",
-        "/hot-cocoa-macarons/",
-        "/recipes/"
+        "/recipes/",
+        "/hot-cocoa-macarons/"
       ],
       "3d751d60-f12e-5c33-9b59-778d96cd5815": [
         "/raspberry-peach-rolled-cake/"
@@ -8546,13 +8555,11 @@
       ],
       "cbaa7f6b-bd7d-5746-b9fb-fd8490e64758": [
         "/",
-        "/recipes/",
-        "/low-fat-banana-oat-muffins/"
+        "/recipes/"
       ],
       "c2487c17-16ba-5685-be7c-c8ff4dc3453b": [
         "/",
-        "/recipes/",
-        "/low-fat-banana-oat-muffins/"
+        "/recipes/"
       ],
       "db196b5f-2737-5201-92f9-9b1f770301c9": [
         "/",
@@ -8620,9 +8627,9 @@
       "query": "query usersTarasiegelDocumentsCodeProjectsFullstackkitchenSrcPagesRecipesJs878401524 {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}, filter: {fileAbsolutePath: {regex: \"//blog//\"}}) {\n    edges {\n      node {\n        excerpt\n        fields {\n          slug\n        }\n        frontmatter {\n          date(formatString: \"MMMM DD YYYY\")\n          title\n          tags\n          image {\n            childImageSharp {\n              resize(width: 650, height: 650) {\n                src\n              }\n              fluid(maxWidth: 786) {\n                ...GatsbyImageSharpFluid\n              }\n            }\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/src/pages/recipes.js"
     },
-    "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/.cache/dev-404-page.js": {
+    "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js": {
       "query": "",
-      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/.cache/dev-404-page.js"
+      "componentPath": "/Users/tarasiegel/Documents/Code Projects/fullstackkitchen/node_modules/gatsby-plugin-offline/app-shell.js"
     }
   },
   "staticQueryComponents": {

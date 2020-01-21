@@ -23,7 +23,7 @@ class BlogIndex extends React.Component {
                         <SEO
                         title="Full Stack Kitchen"
                         keywords={[`baking`]}
-                        image={node.frontmatter.image.childImageSharp.fluid}
+                        image={node.frontmatter.image.childImageSharp.fluid.src}
                         />
                         <div className="home-item__image">
                             <Link style={{ boxShadow: `none` }} to={node.fields.slug}>

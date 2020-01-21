@@ -30,11 +30,6 @@
         "path": "/blood-orange-bars/"
     },
     {
-        "componentChunkName": "component---cache-dev-404-page-js",
-        "jsonName": "dev-404-page-5f9",
-        "path": "/dev-404-page/"
-    },
-    {
         "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "dirty-chai-almond-brownies-f31",
         "path": "/dirty-chai-almond-brownies/"
@@ -53,6 +48,11 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "low-fat-banana-oat-muffins-d11",
         "path": "/low-fat-banana-oat-muffins/"
+    },
+    {
+        "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
+        "jsonName": "offline-plugin-app-shell-fallback-a30",
+        "path": "/offline-plugin-app-shell-fallback/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",

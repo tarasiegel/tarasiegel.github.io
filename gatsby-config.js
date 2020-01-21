@@ -87,6 +87,6 @@ module.exports = {
         username: `taras.kitchen`,
         access_token: '6885349594.1677ed0.35b20b688003427ba82a56b9f09e15a5'
       },
-    },
+    }
   ],
 }

@@ -8,43 +8,43 @@ import { rhythm } from '../utils/typography';
 import Img from 'gatsby-image';
 
 class BlogIndex extends React.Component {
-  render() {
-    const { data } = this.props;
-    const siteTitle = data.site.siteMetadata.title;
-    const posts = data.allMarkdownRemark.edges;
-    console.log(posts);
+    render() {
+        const { data } = this.props;
+        const siteTitle = data.site.siteMetadata.title;
+        const posts = data.allMarkdownRemark.edges;
 
-    return (
-      <Layout location={this.props.location} title={siteTitle}>
-        <SEO
-          title="Full Stack Kitchen"
-          keywords={[`baking`]}
-        />
-        <div className="home-item__container">
-            {posts.map(({ node }) => {
-                const title = node.frontmatter.title || node.fields.slug
-                return (
-                <div className="home-item" key={node.fields.slug}>
-                    <div className="home-item__image">
-                        <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
-                            <Img fluid={node.frontmatter.image.childImageSharp.fluid} />
-                        </Link>
+        return (
+        <Layout location={this.props.location} title={siteTitle}>
+            <div className="home-item__container">
+                {posts.map(({ node }) => {
+                    const title = node.frontmatter.title || node.fields.slug
+                    return (
+                    <div className="home-item" key={node.fields.slug}>
+                        <SEO
+                        title="Full Stack Kitchen"
+                        keywords={[`baking`]}
+                        image={node.frontmatter.image.childImageSharp.fluid}
+                        />
+                        <div className="home-item__image">
+                            <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
+                                <Img fluid={node.frontmatter.image.childImageSharp.fluid} />
+                            </Link>
+                        </div>
+                        <div className="home-item__category" >{node.frontmatter.tags[0]}</div>                    
+                        <div className="home-item__date" >{node.frontmatter.date}</div>
+                        <div className="home-item__title">
+                            <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
+                                {title}
+                            </Link>
+                        </div>
+                        
                     </div>
-                    <div className="home-item__category" >{node.frontmatter.tags[0]}</div>                    
-                    <div className="home-item__date" >{node.frontmatter.date}</div>
-                    <div className="home-item__title">
-                        <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
-                            {title}
-                        </Link>
-                    </div>
-                    
-                </div>
-                )
-            })}
-        </div>
-      </Layout>
-    )
-  }
+                    )
+                })}
+            </div>
+        </Layout>
+        )
+    }
 }
 
 export default BlogIndex

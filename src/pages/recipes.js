@@ -14,7 +14,10 @@ class Recipes extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO title="Recipes" />
+        <SEO 
+          title="Recipes"
+          image=""
+         />
         
         <div className="recipe-page__container">
             {posts.map(({ node }) => {

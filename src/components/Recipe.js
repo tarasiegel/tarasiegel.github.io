@@ -9,12 +9,10 @@ import $ from 'jquery';
 class Recipe extends React.Component {
 
     getRecipeSection = (recipe) => {
-        console.log(recipe);
         let recipeHtml = [];
         recipe.forEach((rec, sec) => {
             recipeHtml.push(<RecipeSection recipe={rec} sectionKey={sec} key={sec} />);
         })
-        console.log(recipeHtml);
         return recipeHtml;
     }
 
@@ -25,7 +23,7 @@ class Recipe extends React.Component {
 
         return (
             <div className="recipe">
-                <RecipeSEO data={recipe[0]} {...this.props} />
+                <RecipeSEO data={recipe[0]} image={image} {...this.props}  />
                 <div className="recipe__image"><Img fluid={image} /></div>
                 <h3 className="recipe__title">{name}</h3>
                 {recipeSections}
@@ -87,9 +85,6 @@ class RecipeSection extends React.Component {
         let inputDiv = e.target,
             ref = inputDiv.dataset.ref, 
             $refDiv = $(`#ingredient--${ref} input`);
-        console.log('click');
-
-        console.log($(`#ingredient--${ref} input`));
 
         $refDiv.prop('checked', !$refDiv.prop('checked'));
         this.strikeOutIngredient($(inputDiv), $refDiv);
@@ -100,7 +95,6 @@ class RecipeSection extends React.Component {
             ref = inputDiv.dataset.ref;
 
         $(`#ingredient--${ref}`).addClass('hover');
-        console.log($(`#ingredient--${ref}`));
     }
 
     instructionLeft = (e) => {
@@ -111,11 +105,8 @@ class RecipeSection extends React.Component {
     }
 
     strikeOutIngredient = (refDiv, inputDiv) => {
-        console.log(refDiv);
-        console.log(inputDiv);
         if (refDiv !== null) {
             const decoration = (inputDiv.prop('checked')) ? 'line-through' : 'underline';
-            console.log(decoration);
             refDiv.attr('style', `text-decoration: ${decoration};`);
         }
     }
@@ -127,7 +118,7 @@ class RecipeSection extends React.Component {
             sec.forEach((ref, refKey) => {
                 if (updatedInstruction.indexOf(ref) !== -1) {
                     const fullRefKey = `${recipeSectionKey}-${secKey}-${refKey}`;
-                    updatedInstruction = updatedInstruction.replace(ref, `<span id="ref-${fullRefKey}" class="instruction-item" data-ref="${fullRefKey}" data-ingredient=${ref} >${ref}</span>`);
+                    updatedInstruction = updatedInstruction.replace(ref, `<span id="ref-${fullRefKey}" class="instruction-item" data-ref="${fullRefKey}" data-ingredient=${ref} key="${refKey}" >${ref}</span>`);
                 }
             });
         });
@@ -136,20 +127,17 @@ class RecipeSection extends React.Component {
 
 
     render() {
-        const {recipe, sectionKey} = this.props;
-        const refData = this.getRefData(recipe.ingredients);
-        console.log(refData);
-        const ingredientHTML = recipe.ingredients.map((ing, key) => {
-            return <RecipeIngredients key={key} ingredientData={ing} sectionKey={sectionKey} ingredientKey={key} strikeOutIngredient={this.strikeOutIngredient} />
-        });
-
-        const directionsHTML = recipe.instructions.map((ins, key) => {
-            return <div className="recipe__instruction recipe__paragraph" index={key} key={key} dangerouslySetInnerHTML={{ __html: this.updateInstruction(ins, refData, sectionKey)}} />
-        });
-
-        const assemblyHTML = (recipe.assembly) ? recipe.assembly.map((ass, key) => {
-            return <div className="recipe__assembly recipe__paragraph" index={key} key={key} dangerouslySetInnerHTML={{ __html: ass}} />
-        }) : [];
+        const {recipe, sectionKey} = this.props,
+            refData = this.getRefData(recipe.ingredients),
+            ingredientHTML = recipe.ingredients.map((ing, key) => {
+                return <RecipeIngredients key={key} ingredientData={ing} sectionKey={sectionKey} ingredientKey={key} strikeOutIngredient={this.strikeOutIngredient} />
+            }),
+            directionsHTML = recipe.instructions.map((ins, key) => {
+                return <div className="recipe__instruction recipe__paragraph" index={key} key={key} dangerouslySetInnerHTML={{ __html: this.updateInstruction(ins, refData, sectionKey)}} />
+            }),
+            assemblyHTML = (recipe.assembly) ? recipe.assembly.map((ass, key) => {
+                return <div className="recipe__assembly recipe__paragraph" index={key} key={key} dangerouslySetInnerHTML={{ __html: ass}} />
+            }) : [];
 
         return (
             <div className={`recipe__section recipe__section--${sectionKey}`}>

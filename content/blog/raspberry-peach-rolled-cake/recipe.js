@@ -6,7 +6,7 @@ const recipe = [{
     totalTime: "65",
     ingredients: [
         {
-            title: 'Batter',
+            title: "Batter",
             data: [
                 {
                     text: "3 Tbsp butter, cut into cubes, at room temperature",
@@ -26,7 +26,7 @@ const recipe = [{
                 }
             ],
         }, {
-            title: 'Cake',
+            title: "Cake",
             data: [
                 {
                     text: "2/3 cup (3 ounces) all-purpose flour",
@@ -52,7 +52,7 @@ const recipe = [{
                 }
             ]
         }, {
-            title: 'Filling',
+            title: "Filling",
             data: [
                 {
                     text: "3.5 cups (450 grams) diced strawberries",
@@ -82,7 +82,7 @@ const recipe = [{
                 }
             ]
         }, {
-            title: 'Assembly',
+            title: "Assembly",
             data: [
                 {
                     text: "8oz of Raspberry Jam",
@@ -110,8 +110,8 @@ const recipe = [{
     instructions: [
         "Decorating Batter: Combine room temp butter, powdered sugar, egg whites, and all purpose flour with either a hand electric whisk or in a stand mixer with the whisk attachment until smooth and no butter bits remain. We want three different colors for the rug pattern, a dark red (red + brown + orange), dark green/teal (teal + green + brown) and black.  Put ¼ of batter into one bowl to create the red color, add food gel/coloring and stir, and ¼ of batter into another to make green.  Add black food coloring to the rest. Place the batter into different piping bags fitted with a small round tip. I used #2 tip.",
         "Put the printed out design in a 10x15 inch jelly roll pan, aligning the pattern to about an inch from one short side of the pan.  Place a piece of parchment over it. Spray the parchment with cooking spray and wipe down any excess.",
-        "Starting with the black, trace the lines of the rug/pattern onto the parchment with the batter.  Once the outlines are done, put the pan in the freezer for 10 minutes to harden up the design.  Take it out and continue with the red and green, piping in the rest of the design.  Freeze for at least 15-20 minutes while you make the cake batter.  Don't feel the need to decorate the entire pan, only ½ is necessary.  The roll is going to cover most of it.",
-        "Cake: Preheat oven to 350F degrees. Mix together flour, baking powder and salt together in a medium bowl.  Using a stand mixer with a whisk attachment, add the eggs and whisk at medium high until light and foamy.  Add in the peach and vanilla extract . Gradually add in the sugar and whip until it's almost doubled in volume and a fairly thick consistency, 6-8 minutes. Take the bowl off of the mixer.  Sift the flour mixture into the egg mixture and fold batter gently until just mixed.",
+        "Starting with the black, trace the lines of the rug/pattern onto the parchment with the batter.  Once the outlines are done, put the pan in the freezer for 10 minutes to harden up the design.  Take it out and continue with the red and green, piping in the rest of the design.  Freeze for at least 15-20 minutes while you make the cake batter.  Dont feel the need to decorate the entire pan, only ½ is necessary.  The roll is going to cover most of it.",
+        "Cake: Preheat oven to 350F degrees. Mix together flour, baking powder and salt together in a medium bowl.  Using a stand mixer with a whisk attachment, add the eggs and whisk at medium high until light and foamy.  Add in the peach and vanilla extract . Gradually add in the sugar and whip until it is almost doubled in volume and a fairly thick consistency, 6-8 minutes. Take the bowl off of the mixer.  Sift the flour mixture into the egg mixture and fold batter gently until just mixed.",
         "Remove the pan from the freezer and pour the batter over the pattern.  Use an offset or rubber spatula to spread it evenly.",
         "Bake until the cake is firm and the edges are just turning golden, about 16-18 minutes, rotating the cake pan ½ way through. Grab 2 cutting boards (or sheet pans), a piece of parchment paper, a dish towel, and some powdered sugar.",
         "1st Roll: Once the cake is out of the oven, immediately run a knife around the edge of the sheet to loosen the cake. Place the piece of parchment on top of the cake, put a board on top and flip the cake over and out of the pan.  Remove the piece of parchment on the top.  The design should be visible now.  Sprinkle the cake with a good dusting of powdered sugar.  Put the dish towel on top, the other board, and flip the cake again.  It should now have the plain side on top.  Sprinkle powdered sugar on this side. Starting from the side which is not decorated, roll the cake and towel into a log.  If you have a poster or other tube, place it in there and refrigerate until completely cool.  Make the filling while it cools",

@@ -10,7 +10,7 @@ function RecipeSEO({ data, image, name, keywords, date, description }) {
         instructions.forEach((inst) => {
             allInstructions.push([`{
                 "@type": "HowToStep",
-                "text": '${inst}'
+                "text": "${inst}"
             }`]);
         });
         return allInstructions;

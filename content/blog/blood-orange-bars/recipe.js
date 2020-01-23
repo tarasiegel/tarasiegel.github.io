@@ -6,7 +6,7 @@ const recipe = [{
     totalTime: "60",
     ingredients: [
         {
-            title: 'crust',
+            title: "crust",
             data: [
                 {
                     text: "1.5 c (180g) all-purpose flour",
@@ -23,7 +23,7 @@ const recipe = [{
                 },
             ],
         }, {
-            title: 'filling',
+            title: "filling",
             data: [
                 {
                     text: "4 eggs",

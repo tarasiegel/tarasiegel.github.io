@@ -6,7 +6,7 @@ const recipe = [{
     totalTime: "55",
     ingredients: [
         {
-            title: '',
+            title: "",
             data: [
                 {
                     text: "2/3 cup sugar",

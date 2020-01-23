@@ -5,7 +5,7 @@ const recipe = [{
     totalTime: "60",
     ingredients: [
         {
-            title: '',
+            title: "",
             data: [
                 {
                     text: "2 cups (284g) all-purpose flour",

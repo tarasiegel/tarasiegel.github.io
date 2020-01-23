@@ -6,7 +6,7 @@ const recipe = [{
     totalTime: "65",
     ingredients: [
         {
-            title: 'Crust / Crumble',
+            title: "Crust / Crumble",
             data: [
                 {
                     text: "2 cup (160 grams) rolled oats",
@@ -32,7 +32,7 @@ const recipe = [{
                 },
             ],
         }, {
-            title: 'Filling',
+            title: "Filling",
             data: [
                 {
                     text: "3.5 cups (450 grams) diced strawberries",

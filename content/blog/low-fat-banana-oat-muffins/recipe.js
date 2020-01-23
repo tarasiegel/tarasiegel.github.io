@@ -6,7 +6,7 @@ const recipe = [{
     totalTime: "30",
     ingredients: [
         {
-            title: '',
+            title: "",
             data: [
                 {
                     text: "1 egg, beaten",

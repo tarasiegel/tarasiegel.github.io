@@ -17,6 +17,10 @@
     font: 17px/14px "Arvo";
 }
 
+.about-container__text-container a {
+    text-decoration: underline;
+}
+
 .about-container__icons {
     display: inline;
 }

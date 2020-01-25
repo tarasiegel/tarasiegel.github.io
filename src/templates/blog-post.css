@@ -26,6 +26,11 @@
     margin: 0 5px;
 }
 
+.recipe-tag:hover {
+    background-color: #a09097;
+    color: #fff;
+}
+
 .blog-post__bottom {
     position: relative;
     border: 2px solid #d9d9d9;

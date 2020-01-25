@@ -38,13 +38,17 @@ const recipe = [{
                 },{
                     text: "1/4 tsp salt",
                     reference: "salt"
+                },
+                {
+                    text: '1/2 cup of walnuts, chopped finely (optional)',
+                    reference: 'walnuts'
                 }
             ],
         }
     ],
     instructions: [
         "Preheat oven to 400 degrees.  Spray muffin tin cups or line with paper liners and set aside.",
-        "Combine egg, milk, honey, applesauce, mashed bananas and oats; let stand five minutes.  Stir together the flour, sugar, baking powder and salt in a separate bowl.  Add egg mixture to dry ingredients all at once, and stir just until moistened.  Spoon into muffin cups.  Bake 18 to 20 minutes or until a toothpick inserted near center comes out clean.",
+        "Combine egg, milk, honey, applesauce, mashed bananas and oats; let stand five minutes.  Stir together the flour, sugar, baking powder and salt in a separate bowl.  Add egg mixture to dry ingredients all at once, and stir just until moistened.  Add walnuts if using. Spoon into muffin cups.  Bake 18 to 20 minutes or until a toothpick inserted near center comes out clean.",
         "If you want to make this as banana bread in a loaf pan, follow all the above steps and bake the loaf at 375 degrees for 1 hour and 15 minutes or until you get a clean toothpick."
     ],
     assembly: []

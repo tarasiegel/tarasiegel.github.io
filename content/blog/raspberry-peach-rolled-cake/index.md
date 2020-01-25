@@ -4,7 +4,7 @@ description: Rolled Persian Rug Raspberry Peach Cake
 date: '2020-01-06T12:00:00.121Z'
 image: ./rug_rolled_cake-edit-3.jpg
 category: cake
-tags: [cake, raspberry, peach, rolled cake]
+tags: [cake, fruity, berry]
 ------
 
 ![Top view of cake](./rug_rolled_cake-edit-3.jpg)

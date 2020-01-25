@@ -4,7 +4,7 @@ description: Hot Cocoa Macarons
 date: '2019-01-11T23:46:37.121Z'
 image: ./hot_cocoa_macarons-7.jpg
 category: macarons
-tags: [macarons, sweets, chocolate, buttercream, ganache]
+tags: [macarons, chocolate, gluten free]
 ------
 
 ![Social View](./hot_cocoa_macarons-7.jpg)

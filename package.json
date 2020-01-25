@@ -41,6 +41,7 @@
     "typography-theme-doelger": "^0.16.18",
     "typography-theme-fairy-gates": "^0.16.18",
     "typography-theme-wordpress-2016": "^0.15.10",
+    "underscore": "^1.9.2",
     "vivus": "^0.4.4"
   },
   "devDependencies": {

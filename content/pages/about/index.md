@@ -3,6 +3,7 @@ title: About
 path: /about
 category: about
 image: ./about-image.jpg
+tags: [about]
 ------
 
 **hi, Welcome to my little corner of the internet.  my name is tara.**

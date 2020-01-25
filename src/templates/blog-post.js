@@ -16,12 +16,12 @@ import {envelope} from 'react-icons-kit/fa/envelope';
 
 class BlogPostTemplate extends React.Component {
 
-  constructor(props) {
-    super(props);
-    this.state = {
-      recipeData: []
-    };
-  }
+    constructor(props) {
+        super(props);
+        this.state = {
+        recipeData: []
+        };
+    }
 
     componentDidMount() {
         const { slug } = this.props.pageContext;
@@ -35,7 +35,6 @@ class BlogPostTemplate extends React.Component {
             });
         });
     }
-
 
     async getRecipeData(slug) {
         return import(`../../content/blog${slug}recipe.js`);

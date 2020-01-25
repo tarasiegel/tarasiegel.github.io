@@ -4,7 +4,7 @@ description: Strawberry Raspberry Rhubarb Crumble Bars
 date: '2019-05-30T12:00:00.121Z'
 image: ./berry_rhubarb_bars.jpg
 category: bars
-tags: [bars, sweets, berries, strawberries, rhubarb, crumble]
+tags: [bars, berry, fruity]
 ------
 
 ![Side image of bars](./berry_rhubarb_bars.jpg)

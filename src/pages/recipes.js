@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link, graphql } from 'gatsby';
+import _ from 'underscore';
 
 import Layout from '../components/Layout';
 import SEO from '../components/seo';
@@ -7,33 +8,62 @@ import Img from 'gatsby-image';
 import './recipePage.css';
 
 class Recipes extends React.Component {
-  render() {
-    const { data } = this.props;
-    const siteTitle = data.site.siteMetadata.title;
-    const posts = data.allMarkdownRemark.edges;
+    getPosts = (posts) => {
+        let postHtml = [];
+        posts.forEach(post => {
+            postHtml.push(<div className="recipe-page__title">
+                <Link style={{ boxShadow: `none` }} to={post.slug} key={post.slug} >
+                    {post.title}
+                </Link>
+            </div>);
+        });
 
-    return (
-      <Layout location={this.props.location} title={siteTitle}>
-        <SEO 
-          title="Recipes"
-          image=""
-         />
+        console.log(postHtml);
+        return postHtml;
+    }
+
+    getCategories = (orderedPostMap) => {
+       let catsHtml = [];
+        _.each(orderedPostMap, (posts, cat) => {
+            catsHtml.push(<div className="recipe-page" key={cat}>
+                <div className="recipe-page__category" >{cat}</div>
+                {this.getPosts(posts)}
+            </div>);
+        });
+        return catsHtml;
+    }
+
+    render() {
+        const { data } = this.props,
+            siteTitle = data.site.siteMetadata.title,
+            posts = data.allMarkdownRemark.edges;
+
+        let postMap = {}, orderedPostMap = {};
+
+        posts.forEach(({node}) => {
+            let post = {
+                slug: node.fields.slug,
+                title: node.frontmatter.title || node.fields.slug
+            };
+
+            node.frontmatter.tags.forEach(tag => {
+                if (postMap[tag]) {
+                    postMap[tag].push(post);
+                } else {
+                    postMap[tag] = [post];
+                }
+            });
+        });
         
-        <div className="recipe-page__container">
-            {posts.map(({ node }) => {
-                const title = node.frontmatter.title || node.fields.slug
-                return (
-                <div className="recipe-page" key={node.fields.slug}>
-                    <div className="recipe-page__category" >{node.frontmatter.tags[0]}</div>                    
-                     <div className="recipe-page__title">
-                        <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
-                            {title}
-                        </Link>
-                    </div>
-                    
-                </div>
-                )
-            })}
+        Object.keys(postMap).sort().forEach(key => {
+            orderedPostMap[key] = postMap[key];
+        });
+
+        return (
+        <Layout location={this.props.location} title={siteTitle}>
+            <SEO  title="Recipes" image="" />
+            <div className="recipe-page__container">
+                {this.getCategories(orderedPostMap)}
         </div>
         
       </Layout>

@@ -5,8 +5,6 @@ import { StaticQuery, graphql } from 'gatsby';
 
 function SEO({ description, lang, meta, keywords, title, image }) {
   const imageUrl = `https://www.fullstackkitchen.com${image}`;
-  
-  console.log(imageUrl);
   return (
     <StaticQuery
       query={detailsQuery}

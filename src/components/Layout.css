@@ -278,6 +278,11 @@ footer {
 
 .footer__link {
     display: inline-block;
+    margin-right: 10px;
+}
+
+.footer__link:last-of-type {
+    margin-right: 0;
 }
 
 @media (min-width: 1280px) {
